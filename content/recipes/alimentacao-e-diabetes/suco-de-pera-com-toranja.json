@@ -1,0 +1,77 @@
+{
+  "id": "p2-p32",
+  "slug": "suco-de-pera-com-toranja",
+  "title": "Suco de Pera com Toranja",
+  "description": "Refrescante, levemente adocicado e cheio de sabor, este suco combina a doçura da pera com o frescor cítrico da toranja.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 pera média madura picada (com casca)",
+        "1 xícara de gomos de toranja sem pele e sem sementes",
+        "200 ml de água gelada ou água de coco",
+        "Suco de 1/2 limão",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador até obter um suco homogêneo.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 10,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de saudável, a pera e a toranja contêm frutose; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "suco-de-pera-com-toranja.jpg",
+    "alt": "Foto de Suco de Pera com Toranja",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 32,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

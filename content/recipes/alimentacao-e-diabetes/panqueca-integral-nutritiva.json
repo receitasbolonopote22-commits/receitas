@@ -1,0 +1,79 @@
+{
+  "id": "card-p10",
+  "slug": "panqueca-integral-nutritiva",
+  "title": "Panqueca Integral Nutritiva",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200 ml de leite desnatado",
+        "1/2 xícara de chá (60g) de farinha de amêndoas",
+        "1/2 xícara de chá de farinha de quinoa (60g) ou quinoa em flocos",
+        "1 ovo"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque tudo no pote do mixer e bata.",
+        "Você também pode usar liquidificador.",
+        "Bater até que vire uma massa homogênea, vai ser líquida mesmo.",
+        "Pré-aqueça a frigideira antiaderente e unte-a com um pouquinho de óleo de coco ou manteiga e tire o excesso com papel toalha.",
+        "Espalhe a massa girando a frigideira até completá-la.",
+        "Em menos de 1 minuto ela já pode ser virada.",
+        "Com o auxílio de uma espátula, desgrude as bordas da massa e veja se ela já soltou.",
+        "Vire a panqueca para cozinhar do outro lado."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 68,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": null,
+      "text": "Você pode rechear com o que quiser. Carne moída, ricota com tomate, queijo cottage, legumes. Enrole as panquecas e cubra com o restante do recheio ou um molho leve da sua preferência. Em seguida, é só esquentar no forno ou no microondas mesmo."
+    }
+  ],
+  "image": {
+    "file": "panqueca-integral-nutritiva.jpg",
+    "alt": "Foto de Panqueca Integral Nutritiva",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 10,
+    "originalTitle": "PANQUECA INTEGRAL NUTRITIVA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

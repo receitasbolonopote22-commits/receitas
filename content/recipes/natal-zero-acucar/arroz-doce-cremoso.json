@@ -1,0 +1,58 @@
+{
+  "id": "e3-n76",
+  "slug": "arroz-doce-cremoso",
+  "title": "Arroz Doce Cremoso",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara arroz arbóreo",
+        "3 xícaras leite de coco",
+        "1/2 xícara xilitol",
+        "Canela em pau",
+        "Raspas de limão",
+        "Canela em pó para polvilhar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe arroz com leite de coco, xilitol, canela em pau e raspas em fogo baixo por 30- 35min mexendo sempre até cremoso.",
+        "Sirva polvilhado com canela."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

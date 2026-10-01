@@ -1,0 +1,72 @@
+{
+  "id": "b2-p50",
+  "slug": "smoothie-de-kefir",
+  "title": "Smoothie de Kefir",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "Suco de 1 limão (aprox. 120ml)",
+        "1 xic. de leite de coco",
+        "½ xic. de kefir",
+        "1 xic. de gelo",
+        "3 colh. (sopa) de creme de leite light",
+        "Adoçante, essência de baunilha e canela a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misturar todos os ingredientes no liquidificador.",
+        "Bater até que o gelo fique picado e a textura fique homogênea.",
+        "Prontinho."
+      ]
+    }
+  ],
+  "prepTime": 5,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porção",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 110,
+    "carbs": 5,
+    "protein": 2,
+    "fat": 11,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "smoothie-de-kefir.jpg",
+    "alt": "Foto de Smoothie de Kefir",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 50,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "b3-p11",
+  "slug": "almondegas-de-frango",
+  "title": "Almondegas de frango",
+  "description": null,
+  "collections": [
+    "low-carb"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g. peito de frango moído",
+        "2 colh. (sopa) temperos secos",
+        "Raspas de 1 limão",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aquecer o forno a 200°C.",
+        "Misturar todos os ingredientes.",
+        "Fazer bolinhas e distribuir em um tabuleiro com papel alumínio.",
+        "Assar por 15 minutos.",
+        "Finalizar com salsinha."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "almondegas-de-frango.jpg",
+    "alt": "Foto de Almondegas de frango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 3 - Receitas Low Carb.pdf",
+    "page": 11,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

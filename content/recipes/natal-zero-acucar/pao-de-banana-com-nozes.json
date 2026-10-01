@@ -1,0 +1,63 @@
+{
+  "id": "e3-n48",
+  "slug": "pao-de-banana-com-nozes",
+  "title": "Pão de Banana com Nozes",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "doces-e-sobremesas",
+    "cafe-da-manha"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 bananas maduras amassadas",
+        "3 ovos",
+        "2 xícaras farinha amêndoas",
+        "1/2 xícara xilitol",
+        "1/2 xícara nozes picadas",
+        "1/4 xícara óleo coco",
+        "1 colher fermento",
+        "Canela"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture bananas, ovos, xilitol e óleo.",
+        "Adicione farinha, fermento, canela e nozes.",
+        "Asse em forma alta a 180°C por 40-45min."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

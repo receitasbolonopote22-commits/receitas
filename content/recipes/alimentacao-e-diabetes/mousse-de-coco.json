@@ -1,0 +1,77 @@
+{
+  "id": "card-p41",
+  "slug": "mousse-de-coco",
+  "title": "Mousse de Coco",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 pacote: Gelatina incolor",
+        "2 colheres de sopa: Amido de milho",
+        "1 xícara: Leite desnatado",
+        "200 gramas: Leite de coco light",
+        "4 unidades: Clara de ovo",
+        "2 colheres de sopa: Adoçante p/ forno e fogão",
+        "2 colheres de sopa: Coco ralado fresco",
+        "6 colheres de sopa: Água quente"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata as claras em neve com uma pitada de sal, reserve.",
+        "Coloque a gelatina num recipiente junto com 6 colheres de sopa de água para hidratar.",
+        "Reserve.",
+        "Numa panela misture o adoçante, o amido de milho, o leite, o leite de coco e leve ao fogo, continue a mexer até engrossar.",
+        "Tire do fogo e adicione a gelatina. Incorpore delicadamente as claras em neve com um batedor manual (fouet).",
+        "Coloque numa forma e leve à geladeira por 3 horas.",
+        "Desenforme e decore a mousse de coco com coco ralado.",
+        "Sirva a mousse de coco gelada."
+      ]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "40 g (medida caseira)",
+  "nutrition": {
+    "calories": 99,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "mousse-de-coco.jpg",
+    "alt": "Foto de Mousse de Coco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 41,
+    "originalTitle": "MOUSSE DE coco"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

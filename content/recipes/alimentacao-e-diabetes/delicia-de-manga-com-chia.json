@@ -1,0 +1,70 @@
+{
+  "id": "card-p29",
+  "slug": "delicia-de-manga-com-chia",
+  "title": "Delicia de Manga com Chia",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 mangas picadas",
+        "Suco de 1 limão",
+        "2 xíc. (chá) água filtrada",
+        "½ xic. (chá) adoçante de sua preferência",
+        "2 claras em neve",
+        "1 colher de sopa rasa de chia",
+        "Folhas de hortelã finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "No liquidificador, bata os pedaços de manga com o suco de limão e a água.",
+        "Junte o suco concentrado, a chia, o adoçante e as claras em neve mexendo delicadamente, de baixo para cima.",
+        "Distribua a preparação em forminhas de gelo e leve ao congelador por 2 horas.",
+        "Retire e bata na batedeira até obter uma mistura cremosa.",
+        "Divida em 5 taças e leve novamente ao congelador ou freezer.",
+        "Sirva decorando com de hortelã."
+      ]
+    }
+  ],
+  "prepTime": 120,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "5 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Consumir moderamente"
+    }
+  ],
+  "image": {
+    "file": "delicia-de-manga-com-chia.jpg",
+    "alt": "Foto de Delicia de Manga com Chia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 29,
+    "originalTitle": "DELICIA DE MANGA COM CHIA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "e1-p7",
+  "slug": "ganache-de-chocolate-branco-zero",
+  "title": "Ganache de Chocolate Branco Zero",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "caldas-e-coberturas",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Base",
+      "items": [
+        "150g de chocolate branco zero açúcar picado",
+        "100ml de creme de leite fresco",
+        "2 colheres de sopa de eritritol em pó"
+      ]
+    },
+    {
+      "title": "Aromatização",
+      "items": [
+        "1 colher de chá de essência de baunilha",
+        "Raspas de limão ou laranja (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça o creme de leite em banho-maria até ficar bem quente, mas sem ferver.",
+        "Coloque o chocolate picado em uma tigela e despeje o creme quente por cima.",
+        "Deixe descansar por 2 minutos, depois mexa em movimentos circulares até ficar homogêneo.",
+        "Adicione o eritritol, a baunilha e as raspas cítricas.",
+        "Para cobertura firme, leve à geladeira por 1 hora e bata."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Esta ganache versátil pode ser usada morna como calda, em temperatura ambiente como recheio, ou gelada e batida como cobertura cremosa. Combina perfeitamente com bolos de limão, coco e frutas vermelhas."
+    }
+  ],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 1.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

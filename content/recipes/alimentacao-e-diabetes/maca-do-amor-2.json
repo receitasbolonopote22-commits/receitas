@@ -1,0 +1,78 @@
+{
+  "id": "card-p33",
+  "slug": "maca-do-amor-2",
+  "title": "Maçã do Amor",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "Maçã (2 unidades - 340g) ou uva (10 unidades - 100g)",
+        "½ copo de requeijão (150ml) de Água",
+        "1 xícara de chá (150g) de xilitol",
+        "Palitinhos - 2 unidades/ 10 unidades"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lavar e secar bem as frutas.",
+        "Colocar em uma panela a água, a xilitol e o corante.",
+        "Levar ao fogo baixo e quando ferver, contar 15 minutos.",
+        "Para verificar o ponto da calda, mexer com uma colher de pau e levantar: a calda deve cair formando um fio grosso.",
+        "Retirar do fogo.",
+        "Espetar um palito em cada base das maçãs/ uvas.",
+        "Mergulhar na calda, levantar e girar a maçã/ uva para que toda a superfície fique coberta.",
+        "Fazer isso três vezes em cada maçã/ uva.",
+        "Se a calda endurecer, esquentar um pouco até derreter novamente.",
+        "Colocar cada maçã/ uva numa bandeja forrada com papel manteiga untado com manteiga.",
+        "Esperar esfriar e servir a seguir."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 413,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "maca-do-amor-2.jpg",
+    "alt": "Foto de Maçã do Amor",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 33,
+    "originalTitle": "MAÇÃ DO AMOR"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O modo de preparo cita corante, que não consta na lista de ingredientes do material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

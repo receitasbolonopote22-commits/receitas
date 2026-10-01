@@ -1,0 +1,78 @@
+{
+  "id": "p1-p67",
+  "slug": "cha-de-carqueja",
+  "title": "Chá de Carqueja",
+  "description": "Tradicional e herbal, uma opção simples para incluir ocasionalmente na rotina.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [
+    "cha"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "10 g de carqueja",
+        "500 ml de água fervente"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque a carqueja em uma xícara, bule ou recipiente.",
+        "Despeje a água fervente por cima.",
+        "Tampe e deixe em infusão por 10 minutos.",
+        "Coe e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 a 3 xícaras",
+  "servingSize": "1 xícara (200 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 0,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não é necessário adoçar; se desejar, use adoçante culinário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Chás herbais devem ser consumidos com moderação e com orientação profissional em casos especiais."
+    }
+  ],
+  "image": {
+    "file": "cha-de-carqueja.jpg",
+    "alt": "Foto de Chá de Carqueja",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 67,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

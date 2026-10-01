@@ -1,0 +1,73 @@
+{
+  "id": "e2-n7",
+  "slug": "bolo-de-amendoas-e-frutas-vermelhas",
+  "title": "Bolo de Amêndoas e Frutas Vermelhas",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Base de amêndoas",
+      "items": [
+        "2 xícaras de farinha de amêndoas",
+        "4 ovos",
+        "1/2 xícara de óleo de coco"
+      ]
+    },
+    {
+      "title": "Frutas vermelhas",
+      "items": [
+        "1 xícara de morangos picados",
+        "1/2 xícara de mirtilos",
+        "1/2 xícara de framboesas"
+      ]
+    },
+    {
+      "title": "Finalização",
+      "items": [
+        "1/3 xícara de mel",
+        "1 colher de sopa de fermento",
+        "Essência de baunilha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ovos com mel, óleo e baunilha.",
+        "Adicione a farinha de amêndoas e o fermento.",
+        "Por último, incorpore delicadamente as frutas vermelhas.",
+        "Asse a 180°C por 35-40 minutos.",
+        "As frutas vão criar um visual lindo e sabor incrível!"
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

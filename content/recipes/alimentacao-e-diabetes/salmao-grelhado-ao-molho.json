@@ -1,0 +1,86 @@
+{
+  "id": "p1-p17",
+  "slug": "salmao-grelhado-ao-molho",
+  "title": "Salmão Grelhado ao Molho",
+  "description": "Prato proteico e elegante, com sabor marcante e baixo teor de carboidratos.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 filés de salmão",
+        "2 dentes de alho amassados",
+        "Sal a gosto",
+        "Pimenta-do-reino branca a gosto",
+        "Azeite de oliva"
+      ]
+    },
+    {
+      "title": "Molho",
+      "items": [
+        "1 colher de café de salsinha picada",
+        "2 colheres de sopa de manteiga ghee",
+        "2 colheres de sopa de suco de limão"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere os filés com azeite, sal, pimenta e alho. Deixe descansar por cerca de 1 hora.",
+        "Grelhe em frigideira até dourar dos dois lados.",
+        "Misture os ingredientes do molho e despeje sobre o salmão ainda quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1 filé",
+  "nutrition": {
+    "calories": null,
+    "carbs": 2,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de ser uma ótima opção, atenção ao uso do molho e aos acompanhamentos para manter o equilíbrio da refeição."
+    }
+  ],
+  "image": {
+    "file": "salmao-grelhado-ao-molho.jpg",
+    "alt": "Foto de Salmão Grelhado ao Molho",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": true,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 17,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

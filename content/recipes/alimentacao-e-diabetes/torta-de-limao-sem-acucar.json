@@ -1,0 +1,87 @@
+{
+  "id": "p1-p58",
+  "slug": "torta-de-limao-sem-acucar",
+  "title": "Torta de Limão sem Açúcar",
+  "description": "Refrescante e cremosa, com base de amêndoas e coco e recheio delicado de limão.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "100 g de farinha de amêndoas",
+        "100 g de coco ralado",
+        "2 ovos",
+        "5 colheres de sopa de óleo de coco",
+        "Suco de 3 limões",
+        "1 envelope de gelatina sem sabor",
+        "100 ml de leite de coco",
+        "300 g de creme de ricota",
+        "4 colheres de sopa de xilitol"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Massa: misture a farinha de amêndoas, o coco ralado, os ovos e o óleo de coco e modele em uma forma de fundo falso.",
+        "Recheio: prepare a gelatina conforme as instruções da embalagem, substituindo a água indicada pelo leite de coco.",
+        "Bata a gelatina dissolvida com o suco de limão, o creme de ricota e o xilitol até ficar homogêneo.",
+        "Despeje sobre a base.",
+        "Leve à geladeira até firmar.",
+        "Se desejar, decore com raspas de limão."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 fatias",
+  "servingSize": "1 fatia pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 6,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por fatia",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "A receita utiliza xilitol."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de sem açúcar, o coco e a farinha de amêndoas tornam a receita mais calórica."
+    }
+  ],
+  "image": {
+    "file": "torta-de-limao-sem-acucar.jpg",
+    "alt": "Foto de Torta de Limão sem Açúcar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 58,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O preparo da massa não informa se ela deve ser assada antes de receber o recheio (conforme material original)."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

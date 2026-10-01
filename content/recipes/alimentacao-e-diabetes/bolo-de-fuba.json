@@ -1,0 +1,88 @@
+{
+  "id": "p2-p63",
+  "slug": "bolo-de-fuba",
+  "title": "Bolo de Fubá",
+  "description": "Clássico da cozinha brasileira, este bolo de fubá é leve, fofinho e cheio de sabor. Perfeito para o café da tarde ou para momentos especiais!",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara (chá) de fubá mimoso",
+        "1/2 xícara (chá) de farinha de aveia",
+        "1/2 xícara (chá) de farinha de amêndoas",
+        "1/2 xícara (chá) de leite desnatado ou bebida vegetal sem açúcar",
+        "3 ovos",
+        "1/4 xícara (chá) de óleo de coco ou canola",
+        "1/2 xícara (chá) de adoçante culinário (siga a medida do fabricante)",
+        "1 colher (sopa) de coco ralado sem açúcar (opcional)",
+        "1 colher (sopa) de sementes de erva-doce (opcional)",
+        "1 colher (sopa) de fermento em pó",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "No liquidificador, bata os ovos, o leite, o óleo de coco e o adoçante até obter um creme homogêneo.",
+        "Em uma tigela, misture o fubá, as farinhas, o coco ralado, as sementes de erva-doce e o sal.",
+        "Despeje a mistura líquida sobre os ingredientes secos e mexa bem com um fouet até incorporar.",
+        "Acrescente o fermento em pó e misture delicadamente.",
+        "Despeje a massa em uma forma média untada com óleo de coco e polvilhada com fubá.",
+        "Leve ao forno preaquecido a 180 °C por cerca de 35 a 40 minutos, ou até dourar e passar no teste do palito."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "bolo-de-fuba.jpg",
+    "alt": "Foto de Bolo de Fubá",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 63,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

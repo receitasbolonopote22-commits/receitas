@@ -1,0 +1,64 @@
+{
+  "id": "card-p19",
+  "slug": "omelete-com-rucula-e-tomate-seco",
+  "title": "Omelete com Rúcula e Tomate Seco",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "5 ovos",
+        "6 colheres (sopa) de leite desnatado",
+        "1/2 xícara de rúcula",
+        "1/3 xícara de queijo cottage",
+        "1/2 colher (chá) de pimenta do reino",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ovos com o leite e o sal até ficar bem leve.",
+        "Esquente um pouco de óleo em uma frigideira e despeje o ovo batido.",
+        "Doure o omelete de um lado e depois vire.",
+        "Coloque a rúcula e o queijo no meio, e tempere com sal e pimenta.",
+        "Deixe o queijo derreter."
+      ]
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "omelete-com-rucula-e-tomate-seco.jpg",
+    "alt": "Foto de Omelete com Rúcula e Tomate Seco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 19,
+    "originalTitle": "OMELETE COM RÚCULA E TOMATE SECO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

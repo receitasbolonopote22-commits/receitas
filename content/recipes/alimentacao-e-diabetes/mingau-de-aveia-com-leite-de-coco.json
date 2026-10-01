@@ -1,0 +1,78 @@
+{
+  "id": "p1-p11",
+  "slug": "mingau-de-aveia-com-leite-de-coco",
+  "title": "Mingau de Aveia com Leite de Coco",
+  "description": "Confortante, simples e ideal para um café da manhã acolhedor.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 colheres de sopa de aveia em flocos (20 g)",
+        "200 ml de água",
+        "100 ml de leite de coco light",
+        "Adoçante a gosto (opcional)",
+        "Canela em pó para polvilhar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela, misture a aveia, a água e o leite de coco.",
+        "Leve ao fogo baixo, mexendo sempre até engrossar.",
+        "Sirva quente, polvilhando canela por cima."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 tigela pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Se desejar adoçar, prefira estévia, eritritol ou xilitol em pequena quantidade."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de sem açúcar, a aveia contém carboidratos e deve entrar no planejamento alimentar."
+    }
+  ],
+  "image": {
+    "file": "mingau-de-aveia-com-leite-de-coco.jpg",
+    "alt": "Foto de Mingau de Aveia com Leite de Coco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 11,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

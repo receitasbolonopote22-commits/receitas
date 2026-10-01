@@ -1,0 +1,78 @@
+{
+  "id": "card-p102",
+  "slug": "estrogonofe-de-frango-com-berinjela-2",
+  "title": "Estrogonofe de Frango com Berinjela",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "300 g de filé de frango cortado em tiras",
+        "3 tomates sem pele e sem sementes picados",
+        "1 colher (sopa) de mostarda",
+        "2 colheres (sopa) de catchup sem açúcar",
+        "1/2 colher (sopa) de sal*",
+        "1 pitada de pimenta-do-reino",
+        "1 colher (chá) de azeite de oliva",
+        "1 cebola picada",
+        "1 berinjela média cortada em cubinho",
+        "1 caixinha de creme de leite light (200 g)",
+        "Salsa picada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere o frango com o sal e a pimenta.",
+        "Aqueça o azeite e doure o frango.",
+        "Junte a cebola e a berinjela e refogue para amaciar.",
+        "Misture restante dos ingredientes, com exceção do creme de leite e da salsa, e deixe por cerca de 5 minutos.",
+        "Retire, acrescente o creme de leite e a salsa e sirva na hora."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "7 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 118.5,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "estrogonofe-de-frango-com-berinjela-2.jpg",
+    "alt": "Foto de Estrogonofe de Frango com Berinjela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 102,
+    "originalTitle": "ESTROGONOFE DE FRANGO COM BERINJELA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

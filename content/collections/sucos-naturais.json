@@ -1,0 +1,14 @@
+{
+  "id": "sucos-naturais",
+  "slug": "sucos-naturais",
+  "name": "Sucos naturais",
+  "shortDescription": "Sucos verdes, cítricos e refrescantes para o dia a dia.",
+  "description": "Combinações simples de frutas, folhas e especiarias para bater no liquidificador e beber na hora — de preferência sem açúcar.",
+  "coverRecipe": "suco-detox-de-beterraba",
+  "coverImage": null,
+  "heroImage": null,
+  "disclaimer": null,
+  "featured": false,
+  "order": 6,
+  "accent": "#7FA24A"
+}

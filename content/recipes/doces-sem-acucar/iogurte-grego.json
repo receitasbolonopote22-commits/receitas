@@ -1,0 +1,79 @@
+{
+  "id": "b2-p28",
+  "slug": "iogurte-grego",
+  "title": "Iogurte Grego",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bases-e-preparos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 pote iogurte natural desnatado",
+        "2 L de leite desnatado",
+        "1 colh. (sobremesa) de essência de baunilha",
+        "1 xic. (chá) adoçante forno e fogão",
+        "Canela e semente de chia a gosto (OPCIONAL PARA POLVILHAR NA HORA DE SERVIR)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça o leite até o ponto de fervura.",
+        "Deixe esfriar por cerca de 5 minutos.",
+        "Acrescente o iogurte natural desnatado e misture bem.",
+        "Cubra a panela com um pano de prato grosso e coloque uma tampa por cima. para abafar.",
+        "Deixe 24h sem mexer.",
+        "No dia seguinte, utilize uma tigela grande e um coador forrada com um pano fino limpo.",
+        "Coe o leite com iogurte, sem mexer e nem misturar.",
+        "Deixe coando na geladeira por cerca de 3 horas.",
+        "Transfira o iogurte que ficou no pano/peneira para outra travessa, coloque a essência de baunilha, o adoçante e mexa bem, até ficar uma mistura homogênea, bata bem.",
+        "Sirva."
+      ]
+    }
+  ],
+  "prepTime": 1440,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "7 taças",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 54,
+    "carbs": 5.5,
+    "protein": 7.8,
+    "fat": 0,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "iogurte-grego.jpg",
+    "alt": "Foto de Iogurte Grego",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 28,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

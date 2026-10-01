@@ -1,0 +1,94 @@
+{
+  "id": "p2-p81",
+  "slug": "quibe-de-legumes",
+  "title": "Quibe de Legumes",
+  "description": "Uma versão leve e cheia de sabor do clássico quibe. Feito com trigo para quibe, legumes frescos e temperos naturais, este quibe é assado e perfeito para refeições do dia a dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara (chá) de trigo para quibe fino",
+        "1 1/2 xícara (chá) de água quente",
+        "1 abobrinha média ralada",
+        "1 cenoura média ralada",
+        "1/2 pimentão vermelho picado",
+        "1/2 cebola picada",
+        "2 dentes de alho picados",
+        "2 colheres (sopa) de cheiro-verde picado",
+        "1 colher (sopa) de hortelã picada (ou seca)",
+        "2 colheres (sopa) de azeite de oliva extravirgem",
+        "Suco de 1/2 limão",
+        "Sal com moderação",
+        "Pimenta-do-reino a gosto",
+        "Cominho em pó a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque o trigo para quibe em uma tigela e despeje a água quente. Cubra e deixe hidratar por 20 minutos.",
+        "Enquanto isso, aqueça o azeite em uma panela e refogue a cebola e o alho até ficarem levemente dourados.",
+        "Acrescente os legumes (abobrinha, cenoura e pimentão) e refogue por cerca de 5 minutos, até que fiquem macios. Tempere com sal, pimenta-do-reino e cominho. Desligue o fogo e deixe esfriar.",
+        "Após 20 minutos, solte o trigo com um garfo para ficar bem soltinho.",
+        "Em uma tigela grande, misture o trigo hidratado com os legumes refogados, o cheiro-verde, a hortelã e o suco de limão. Ajuste o sal e os temperos.",
+        "Transfira para um refratário levemente untado e pressione bem para nivelar. Regue com um fio de azeite.",
+        "Leve ao forno preaquecido a 200 °C por cerca de 30 a 35 minutos, ou até ficar dourado e firme."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 pedaço médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; esta receita não contém adoçantes."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "quibe-de-legumes.jpg",
+    "alt": "Foto de Quibe de Legumes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 81,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"rico em fibras, com baixo índice glicêmico e perfeito para refeições equilibradas\"."
+    ]
+  },
+  "relatedRecipes": []
+}

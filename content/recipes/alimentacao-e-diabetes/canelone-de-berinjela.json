@@ -1,0 +1,65 @@
+{
+  "id": "card-p100",
+  "slug": "canelone-de-berinjela",
+  "title": "Canelone de Berinjela",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 berinjela grande fatiada em bifes",
+        "50g de espinafre cozido e picado",
+        "1 xícara (chá) de extrato de tomate",
+        "100g de ricota light picada",
+        "½ xícara (chá) de queijo branco ralado",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Grelhe as fatias (bifes) de berinjela em uma frigideira e reserve.",
+        "Em uma tigela, misture o espinafre, a ricota e tempere com o sal e pimenta-do-reino a gosto.",
+        "Preencha as fatias de berinjela com o recheio de espinafre e ricota.",
+        "Enrole os canelones de berinjela.",
+        "Em um refratário, coloque os canelones um ao lado do outro e cubra com o extrato de tomate.",
+        "Polvilhe com o queijo branco por cima e leve ao forno preaquecido a 160°C por aproximadamente 15 minutos."
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "canelone-de-berinjela.jpg",
+    "alt": "Foto de Canelone de Berinjela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 100,
+    "originalTitle": "CANELONE DE BERINJELA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

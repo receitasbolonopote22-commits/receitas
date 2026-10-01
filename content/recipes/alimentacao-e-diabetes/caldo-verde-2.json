@@ -1,0 +1,86 @@
+{
+  "id": "card-p95",
+  "slug": "caldo-verde-2",
+  "title": "Caldo Verde",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sopas-e-cremes",
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 colheres de sopa (13ml) de Óleo de coco ou azeite de oliva",
+        "1 xícara de chá (84g) de Cebola picada",
+        "2 dentes (10g) de Alho picado",
+        "2 tabletes de Caldo de carne",
+        "½ xícara de chá (18g) de Tomate picado",
+        "2 folhas de Louro",
+        "10 xícaras de chá (1600ml) de Água",
+        "2 colheres de chá (10,16g) Sal",
+        "½ xícara de chá (44g) Fubá",
+        "1 ½ xícara de chá (37,5g) Folhas de couve",
+        "3 colheres de sopa (18g) Coentro e cebolinha picada"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Dourar a cebola e o alho.",
+        "Juntar o tomate, o louro, o tempero verde, os tabletes de caldo de carne e a couve picada.",
+        "Acrescentar 7 ½ xícaras de chá de água.",
+        "A parte, dissolver o fubá e 2 ½ xícaras de chá de água.",
+        "Levar ao fogo para cozinhar o fubá por 5 minutos."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "7 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 113.45,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": null,
+      "text": "Opções para adicionar ao caldo: flocos de trigo ou flocos de aveia."
+    }
+  ],
+  "image": {
+    "file": "caldo-verde-2.jpg",
+    "alt": "Foto de Caldo Verde",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 95,
+    "originalTitle": "CALDO VERDE"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O modo de preparo parece incompleto no material original (não explica quando juntar o fubá ao caldo)."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

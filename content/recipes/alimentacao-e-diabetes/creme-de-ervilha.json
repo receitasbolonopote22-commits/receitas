@@ -1,0 +1,82 @@
+{
+  "id": "p1-p31",
+  "slug": "creme-de-ervilha",
+  "title": "Creme de Ervilha",
+  "description": "Sopa cremosa e saborosa, perfeita para uma refeição simples e reconfortante.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sopas-e-cremes",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "300 g de ervilhas congeladas",
+        "1 batata média",
+        "1 cebola",
+        "2 dentes de alho",
+        "Sal a gosto",
+        "2 colheres de sopa de azeite",
+        "Hortelã a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Descasque e corte a cebola, o alho e a batata em cubos.",
+        "Leve a uma panela com as ervilhas e cubra com água.",
+        "Cozinhe até tudo ficar bem macio, tempere com sal e azeite e bata até obter um creme homogêneo.",
+        "Se desejar, ajuste a cremosidade com água e finalize com hortelã."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 tigela média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Ervilha e batata elevam o teor de carboidratos; mantenha a porção planejada."
+    }
+  ],
+  "image": {
+    "file": "creme-de-ervilha.jpg",
+    "alt": "Foto de Creme de Ervilha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 31,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

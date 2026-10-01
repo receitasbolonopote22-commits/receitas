@@ -1,0 +1,71 @@
+{
+  "id": "card-p16",
+  "slug": "tortinhas-integrais-de-legumes",
+  "title": "Tortinhas Integrais de Legumes",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 abobrinha em cubos",
+        "1 cenoura em cubos",
+        "1 cebola picada",
+        "170g de creme de leite light",
+        "2 xícaras (chá) de farinha de trigo 100% integral",
+        "1/3 xícaras (chá)de água fria",
+        "1/3 xícara (chá)de azeite de oliva ou óleo de coco",
+        "1/2 maço de brócolis picado",
+        "3 dentes de alho picados",
+        "3 colheres (sopa) de queijo muçarela",
+        "Sal e pimenta do reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "MASSA: Misture a água fria, a farinha de trigo integral e o azeite de oliva até obter uma consistência de massa de empada.",
+        "Abra a massa com a ajuda de um rolo, e coloque em forminhas individuais.",
+        "Leve a massa para assar por cerca de 10 minutos em forno pré-aquecido a 200°C.",
+        "RECHEIO: Em uma frigideira aquecida com um pouco de azeite de oliva, refogue a cebola e os alhos até que fiquem dourados.",
+        "Acrescente os brócolis cozidos, a cenoura e a abobrinha e tempere com o sal e a pimenta do reino a gosto, refogue por mais 5 minutos.",
+        "Adicione o creme de leite light, misture bem e recheie a massa pré-assada com esta mistura.",
+        "Polvilhe o queijo muçarela por cima e leve para o forno pré-aquecido até dourar."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "Vai variar de tamanho de forma ou opção pessoal de tamanho.",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "tortinhas-integrais-de-legumes.jpg",
+    "alt": "Foto de Tortinhas Integrais de Legumes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 16,
+    "originalTitle": "TORTINHAS INTEGRAIS DE LEGUMES"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

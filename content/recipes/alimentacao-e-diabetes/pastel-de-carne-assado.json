@@ -1,0 +1,86 @@
+{
+  "id": "card-p18",
+  "slug": "pastel-de-carne-assado",
+  "title": "Pastel de Carne Assado",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "3 e 1/2 xícaras de farinha 100% integral",
+        "1 colher (sopa) rasa de fermento em pó",
+        "1/2 xícara de água morna",
+        "1/2 cebola média ralada",
+        "1 ovo batido para pincelar",
+        "2 ovos inteiros",
+        "3 colheres (sopa) de manteiga sem sal",
+        "1 pitada de sal"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "1/2 lata de milho batido no liquidificador com 1/2 xícara de água",
+        "1/2 lata de milho verde inteiro escorrido",
+        "2 tomates picados sem sementes",
+        "1/2 lata de ervilha escorrida",
+        "2 colheres de cheiro verde",
+        "1 colher (sopa) de azeite de oliva",
+        "1 dente de alho amassado",
+        "1/2 cebola média ralada",
+        "2 colheres de azeitonas picadas",
+        "300 g de carne magra moída",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "MASSA: Em um recipiente, coloque a farinha, o fermento, a manteiga, o sal, os ovos inteiros e misture.",
+        "Aos poucos vá acrescentando a água morna até dar o ponto de massa firme macia que não grude nas mãos.",
+        "Abra a massa com rolo, recorte como desejar, recheie, umedeça levemente as extremidades com água.",
+        "Pressione para fechar, pincele com o ovo batido, leve a assar em forno preaquecido a 180° C por 30 minutos em assadeira untada ou forrada com papel manteiga.",
+        "RECHEIO: Em uma panela, adicione o azeite, o alho e a cebola para dourar.",
+        "Adicione a carne moída, o sal e deixe cozinhar por 4 minutos.",
+        "Em seguida, acrescente o milho inteiro e o milho batido no liquidificador, a ervilha e cozinhe por mais dois minutos.",
+        "Por fim, acrescente os tomates e o cheiro verde, desligue o fogo e deixe esfriar.",
+        "Você pode variar o recheio conforme sua preferência."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "Sugerimos 12 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "pastel-de-carne-assado.jpg",
+    "alt": "Foto de Pastel de Carne Assado",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 18,
+    "originalTitle": "PASTEL DE CARNE ASSADO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

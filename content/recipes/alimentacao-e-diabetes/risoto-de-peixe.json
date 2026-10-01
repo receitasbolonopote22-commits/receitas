@@ -1,0 +1,86 @@
+{
+  "id": "p1-p20",
+  "slug": "risoto-de-peixe",
+  "title": "Risoto de Peixe",
+  "description": "Prato cremoso e reconfortante, pensado para uma refeição especial com moderação.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 colher de sopa de azeite de oliva",
+        "200 g de filé de badejo cortado em tiras",
+        "1 cebola pequena ralada",
+        "1/2 xícara de chá de arroz integral",
+        "1/2 xícara de chá de vinho branco",
+        "2 xícaras de chá de caldo de galinha light",
+        "1/2 xícara de chá de creme de leite light",
+        "1 xícara de chá de brócolis cozido e picado",
+        "1 colher de chá de açafrão em pó",
+        "1 colher de sopa de parmesão ralado light"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça o azeite e doure o peixe.",
+        "Retire e reserve.",
+        "Na mesma panela, refogue a cebola.",
+        "Acrescente o arroz integral, o vinho, metade do caldo e deixe ferver.",
+        "Reduza o fogo e cozinhe, regando aos poucos com o restante do caldo, até o arroz ficar macio.",
+        "Adicione o creme de leite, o peixe, o brócolis e o açafrão. Misture bem, desligue o fogo, junte o parmesão e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1 prato raso",
+  "nutrition": {
+    "calories": null,
+    "carbs": 24,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Por conter arroz integral, o controle da porção é importante para um melhor planejamento glicêmico."
+    }
+  ],
+  "image": {
+    "file": "risoto-de-peixe.jpg",
+    "alt": "Foto de Risoto de Peixe",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 20,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

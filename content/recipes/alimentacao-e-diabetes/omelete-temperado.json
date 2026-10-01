@@ -1,0 +1,78 @@
+{
+  "id": "p2-p16",
+  "slug": "omelete-temperado",
+  "title": "Omelete Temperado",
+  "description": "Leve, saboroso e repleto de frescor. Uma opção prática e nutritiva para começar o dia com energia e saúde.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 ovos",
+        "Tempero a gosto",
+        "1/2 tomate",
+        "2 colheres de sopa de cebola",
+        "1/2 xícara de salsa",
+        "1/3 de xícara de escarola"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture todos os ingredientes, despeje na frigideira.",
+        "Deixe em fogo baixo e cozinhe até dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 omelete média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 5,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Acompanhe com vegetais e ajuste a refeição conforme sua rotina alimentar."
+    }
+  ],
+  "image": {
+    "file": "omelete-temperado.jpg",
+    "alt": "Foto de Omelete Temperado",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 16,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

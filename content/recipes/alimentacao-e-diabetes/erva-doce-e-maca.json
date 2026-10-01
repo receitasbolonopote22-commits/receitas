@@ -1,0 +1,77 @@
+{
+  "id": "p2-p40",
+  "slug": "erva-doce-e-maca",
+  "title": "Erva-doce e Maçã",
+  "description": "Refrescante, leve e naturalmente doce, esta bebida combina o aroma da erva-doce com a doçura da maçã.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 maçã média com casca",
+        "1/2 bulbo pequeno de erva-doce",
+        "200 ml de água gelada",
+        "Suco de 1/2 limão (opcional)",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador até ficar homogêneo.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Normalmente dispensa adoçante, mas pode ser usado opcionalmente."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo saudável, consumir com moderação devido aos açúcares naturais da fruta."
+    }
+  ],
+  "image": {
+    "file": "erva-doce-e-maca.jpg",
+    "alt": "Foto de Erva-doce e Maçã",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 40,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

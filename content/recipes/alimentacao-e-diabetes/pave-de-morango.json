@@ -1,0 +1,78 @@
+{
+  "id": "card-p38",
+  "slug": "pave-de-morango",
+  "title": "Pavê de Morango",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 caixas de gelatina diet sabor morango",
+        "2 copos de água",
+        "12 morangos",
+        "2 sachês de gelatina sem sabor",
+        "1,5 xícaras de leite desnatado",
+        "8 colheres de sopa de leite em pó desnatado",
+        "Adoçante de sua preferência a gosto",
+        "2,5 fatias de ricota"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Dissolva a gelatina diet de morango (2 embalagens) em 1 copo de água quente e reserve.",
+        "Em uma forma, coloque os morangos limpos e sem cabinhos e por cima a gelatina.",
+        "Leve à geladeira para endurecer.",
+        "À parte, dissolva a gelatina sem sabor em 1 copo de água fria.",
+        "Leve ao fogo sem deixar ferver até dissolver.",
+        "Deixe esfriar e coloque no liquidificador juntamente com o leite desnatado, o leite em pó, a ricota e o adoçante.",
+        "Bata até ficar homogêneo.",
+        "Coloque essa massa por cima da gelatina já endurecida e leve para gelar por 4 horas.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "60 g (medida caseira)",
+  "nutrition": {
+    "calories": 125,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "pave-de-morango.jpg",
+    "alt": "Foto de Pavê de Morango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 38,
+    "originalTitle": "PAVÊ DE MORANGO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

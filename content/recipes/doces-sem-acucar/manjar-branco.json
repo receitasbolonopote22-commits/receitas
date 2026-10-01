@@ -1,0 +1,84 @@
+{
+  "id": "b2-p39",
+  "slug": "manjar-branco",
+  "title": "Manjar Branco",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 litro de leite desnatado",
+        "1 vidro pequeno de leite de coco light",
+        "5 colh. (sopa) de amido de milho (maisena)",
+        "4 colh. (sopa) de adoçante liquido"
+      ]
+    },
+    {
+      "title": "Calda",
+      "items": [
+        "100g de ameixas secas sem sementes",
+        "½ litro de água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata no liquidificador o leite desnatado, o amido de milho, o leite de coco e o adoçante.",
+        "Despeje em uma panela e leve ao fogo médio, mexendo sempre até que a mistura engrosse.",
+        "Coloque o manjar em uma fôrma de furo central, molhada.",
+        "Leve à geladeira por duas horas.",
+        "Calda: Lave bem as ameixas e despeje a água.",
+        "Coloque-as em uma panela com água.",
+        "Leve ao fogo e deixe ferver até reduzir a calda.",
+        "Bata no liquidificador.",
+        "Deixe esfriar e derrame sobre o manjar gelado.",
+        "Decore com ameixas inteiras."
+      ]
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 148,
+    "carbs": 22.63,
+    "protein": 2.13,
+    "fat": 5.7,
+    "fiber": null,
+    "basis": "por 1 porção (90g)",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "manjar-branco.jpg",
+    "alt": "Foto de Manjar Branco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 39,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

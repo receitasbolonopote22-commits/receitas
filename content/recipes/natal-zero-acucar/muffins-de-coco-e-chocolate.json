@@ -1,0 +1,61 @@
+{
+  "id": "e3-n69",
+  "slug": "muffins-de-coco-e-chocolate",
+  "title": "Muffins de Coco e Chocolate",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 1/2 xícara farinha amêndoas",
+        "1/2 xícara coco ralado",
+        "1/2 xícara gotas chocolate zero açúcar",
+        "3 ovos",
+        "1/2 xícara xilitol",
+        "1/4 xícara leite coco",
+        "1 colher fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture secos.",
+        "Adicione ovos batidos com xilitol e leite.",
+        "Incorpore gotas de chocolate.",
+        "Asse 180°C por 20min."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 8,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

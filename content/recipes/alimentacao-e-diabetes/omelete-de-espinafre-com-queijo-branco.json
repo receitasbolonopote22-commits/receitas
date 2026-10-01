@@ -1,0 +1,80 @@
+{
+  "id": "p2-p5",
+  "slug": "omelete-de-espinafre-com-queijo-branco",
+  "title": "Omelete de Espinafre com Queijo Branco",
+  "description": "Prático e nutritivo, combina ovos, espinafre e queijo branco em uma refeição leve e saborosa.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 ovos",
+        "1/2 xícara de chá de espinafre cozido e picado",
+        "1/4 de xícara de chá de queijo branco em cubos pequenos",
+        "1 colher de chá de azeite",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ovos e tempere com sal e pimenta.",
+        "Aqueça o azeite em uma frigideira, adicione o espinafre e refogue rapidamente.",
+        "Acrescente os ovos batidos e o queijo branco.",
+        "Cozinhe em fogo baixo até firmar dos dois lados.",
+        "Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1/2 omelete grande",
+  "nutrition": {
+    "calories": null,
+    "carbs": 4,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo leve, observe os acompanhamentos escolhidos."
+    }
+  ],
+  "image": {
+    "file": "omelete-de-espinafre-com-queijo-branco.jpg",
+    "alt": "Foto de Omelete de Espinafre com Queijo Branco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 5,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

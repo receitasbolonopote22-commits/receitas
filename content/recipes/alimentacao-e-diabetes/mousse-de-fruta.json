@@ -1,0 +1,69 @@
+{
+  "id": "card-p45",
+  "slug": "mousse-de-fruta",
+  "title": "Mousse de Fruta",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 lata de leite condensado dietético",
+        "1 lata de creme de leite light",
+        "1 xícara (chá) de suco concentrado de sua preferência (maracujá, pêssego, manga, laranja)",
+        "1 envelope de gelatina em pó sem sabor e incolor"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater no liquidificador o leite condensado, o creme de leite e acrescentar aos poucos, o suco concentrado.",
+        "Juntar a gelatina dissolvida conforme as instruções da embalagem e bater bem.",
+        "Colocar em taças e levar a geladeira por aproximadamente 3 horas.",
+        "Enfeitar com a própria fruta."
+      ]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "120 g (medida caseira)",
+  "nutrition": {
+    "calories": 108.08,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "mousse-de-fruta.jpg",
+    "alt": "Foto de Mousse de Fruta",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 45,
+    "originalTitle": "MOUSSE DE FRUTA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

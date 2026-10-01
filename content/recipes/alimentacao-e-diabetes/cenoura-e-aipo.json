@@ -1,0 +1,80 @@
+{
+  "id": "p2-p43",
+  "slug": "cenoura-e-aipo",
+  "title": "Cenoura e Aipo",
+  "description": "Refrescante e leve, uma combinação simples de cenoura e aipo.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 cenouras médias picadas",
+        "1 talo de aipo",
+        "200 ml de água gelada",
+        "Suco de 1/2 limão",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador até ficar homogêneo.",
+        "Se preferir uma bebida mais leve, coe antes de servir.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 7,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Normalmente dispensa adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Respeite a porção, pois a cenoura também contém carboidratos naturais."
+    }
+  ],
+  "image": {
+    "file": "cenoura-e-aipo.jpg",
+    "alt": "Foto de Cenoura e Aipo",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 43,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"Esta combinação de cenoura e aipo oferece fibras, vitaminas e antioxidantes que auxiliam na digestão, na hidratação e no bem-estar do corpo\"."
+    ]
+  },
+  "relatedRecipes": []
+}

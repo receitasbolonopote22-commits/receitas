@@ -1,0 +1,75 @@
+{
+  "id": "b2-p21",
+  "slug": "creme-de-limao-com-amoras",
+  "title": "Creme de Limão com Amoras",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 colh. (sopa) de raspas de limão",
+        "3 colh. (sopa) de suco de limão",
+        "8 tâmaras picadas",
+        "1 colh. (chá) de essência de baunilha",
+        "1 pitada de cardamomo em pó",
+        "250 g de tofu",
+        "2 xic. (chá) de amoras frescas"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "No liquidificador, colocar o suco de limão, as tâmaras, a essência de baunilha, o cardamomo, o tofu e l colher de sopa das raspas de limão.",
+        "Bater tudo até ficar um creme homogêneo.",
+        "Dividir o creme de limão igualmente em 4 taças.",
+        "Enfeitar cada porção com amoras e o restante das raspas de limão.",
+        "Levar à geladeira até a hora de servir."
+      ]
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 217,
+    "carbs": 30,
+    "protein": 15,
+    "fat": 7,
+    "fiber": null,
+    "basis": "por porção (200g)",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "creme-de-limao-com-amoras.jpg",
+    "alt": "Foto de Creme de Limão com Amoras",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 21,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "p2-p48",
+  "slug": "strudel-de-maca",
+  "title": "Strudel de Maçã",
+  "description": "Crocante por fora e macio por dentro, este strudel de maçã é uma sobremesa leve e aromática. Feito com ingredientes integrais e adoçante culinário.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 maçãs médias picadas em cubinhos",
+        "1 colher de sopa de suco de limão",
+        "1 colher de chá de canela em pó",
+        "2 colheres de sopa de uvas-passas (opcional)",
+        "1 colher de sopa de adoçante culinário",
+        "1/2 xícara de aveia em flocos finos",
+        "2 colheres de sopa de farinha integral",
+        "1 colher de chá de óleo de coco",
+        "1 ovo (para pincelar)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture as maçãs com o limão, a canela, o adoçante e as uvas-passas. Reserve.",
+        "Em uma tigela, misture a aveia e a farinha. Adicione o óleo de coco e água aos poucos até formar uma massa maleável.",
+        "Abra a massa entre duas folhas de papel-manteiga formando um retângulo.",
+        "Distribua o recheio sobre a massa, enrole como um rocambole e feche bem as pontas.",
+        "Transfira para uma assadeira, pincele com o ovo e asse em forno preaquecido a 180 °C por 30 a 35 minutos, até dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 fatias",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 17,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "strudel-de-maca.jpg",
+    "alt": "Foto de Strudel de Maçã",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 48,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

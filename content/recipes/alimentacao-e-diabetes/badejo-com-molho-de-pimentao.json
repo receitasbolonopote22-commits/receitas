@@ -1,0 +1,79 @@
+{
+  "id": "card-p88",
+  "slug": "badejo-com-molho-de-pimentao",
+  "title": "Badejo com Molho de Pimentão",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "½ pimentão em tirinhas",
+        "1 xícara (chá) de caldo de galinha",
+        "1 xícara (chá) de purê de tomate",
+        "30 g de cebolinha picada",
+        "½ folha de louro",
+        "1/8 de colher (chá) de orégano",
+        "Sal de alho a gosto",
+        "Páprica a gosto",
+        "6 filés de badejo",
+        "Sal e pimenta do reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Numa panela, coloque o pimentão e o caldo de galinha.",
+        "Deixe cozinhar até que o pimentão esteja tenro.",
+        "Adicione o purê de tomate, a cebolinha, o louro, o orégano, o sal de alho e a páprica.",
+        "Cozinhe por 10 minutos e retire o louro.",
+        "Enquanto isso, tempere os filés de peixe com sal e pimenta.",
+        "Arrume-os em um pirex e despeje o molho por cima.",
+        "Leve ao forno a 190°C e asse por 15 minutos."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 107.9,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "badejo-com-molho-de-pimentao.jpg",
+    "alt": "Foto de Badejo com Molho de Pimentão",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 88,
+    "originalTitle": "BADEJO COM MOLHO DE PIMENTÃO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

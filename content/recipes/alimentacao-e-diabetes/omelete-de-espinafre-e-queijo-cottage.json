@@ -1,0 +1,81 @@
+{
+  "id": "p1-p4",
+  "slug": "omelete-de-espinafre-e-queijo-cottage",
+  "title": "Omelete de Espinafre e Queijo Cottage",
+  "description": "Leve, proteica e prática para começar o dia com saciedade.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 ovos",
+        "1/4 de xícara (60 g) de queijo cottage",
+        "1/2 xícara de espinafre cru picado",
+        "1 colher de chá de azeite",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ovos em uma tigela e tempere com sal e pimenta.",
+        "Aqueça o azeite em uma frigideira antiaderente.",
+        "Refogue o espinafre por 2 minutos.",
+        "Adicione os ovos batidos e espalhe o queijo cottage por cima.",
+        "Cozinhe em fogo baixo até a omelete firmar.",
+        "Dobre ao meio e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 omelete média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 2,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mantenha o controle das porções e evite acompanhamentos ricos em carboidratos refinados."
+    }
+  ],
+  "image": {
+    "file": "omelete-de-espinafre-e-queijo-cottage.jpg",
+    "alt": "Foto de Omelete de Espinafre e Queijo Cottage",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 4,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

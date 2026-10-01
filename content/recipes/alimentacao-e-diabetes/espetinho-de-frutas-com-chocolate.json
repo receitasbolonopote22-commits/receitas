@@ -1,0 +1,79 @@
+{
+  "id": "p1-p62",
+  "slug": "espetinho-de-frutas-com-chocolate",
+  "title": "Espetinho de Frutas com Chocolate",
+  "description": "Divertido e saboroso, reúne frutas variadas com um toque de chocolate amargo.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "lanches",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "400 g de frutas variadas e coloridas (banana, morango, kiwi e abacaxi)",
+        "50 g de chocolate amargo 70% cacau",
+        "Palitos para espeto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte as frutas em pedaços médios.",
+        "Monte os espetos, intercalando os tipos de fruta.",
+        "Leve ao congelador por cerca de 1 hora.",
+        "Derreta o chocolate em banho-maria.",
+        "Derrame um pouco de chocolate sobre os espetos e leve ao congelador por mais 1 hora."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 espetinhos",
+  "servingSize": "1 espetinho",
+  "nutrition": {
+    "calories": null,
+    "carbs": 12,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por espetinho",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante; o dulçor vem das frutas e do chocolate amargo."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de equilibrado, ainda contém frutas e chocolate; consuma com moderação."
+    }
+  ],
+  "image": {
+    "file": "espetinho-de-frutas-com-chocolate.jpg",
+    "alt": "Foto de Espetinho de Frutas com Chocolate",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 62,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

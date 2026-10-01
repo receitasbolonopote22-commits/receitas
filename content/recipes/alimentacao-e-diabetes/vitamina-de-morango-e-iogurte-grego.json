@@ -1,0 +1,79 @@
+{
+  "id": "p2-p25",
+  "slug": "vitamina-de-morango-e-iogurte-grego",
+  "title": "Vitamina de Morango e Iogurte Grego",
+  "description": "Cremosa, refrescante e nutritiva, ideal para um café da manhã leve ou um lanche saudável.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de morangos",
+        "1 pote de iogurte grego natural sem açúcar",
+        "150 ml de água gelada ou leite desnatado",
+        "1 colher de sopa de linhaça moída",
+        "1 colher de sopa de adoçante culinário ou a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador até obter uma mistura cremosa.",
+        "Sirva imediatamente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 12,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Ajustar conforme o paladar e a orientação alimentar."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo saudável, deve ser consumida em porção moderada por conter lactose e carboidratos naturais da fruta."
+    }
+  ],
+  "image": {
+    "file": "vitamina-de-morango-e-iogurte-grego.jpg",
+    "alt": "Foto de Vitamina de Morango e Iogurte Grego",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 25,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"essa vitamina é rica em proteínas e antioxidantes\"."
+    ]
+  },
+  "relatedRecipes": []
+}

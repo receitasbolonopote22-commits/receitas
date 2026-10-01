@@ -1,0 +1,81 @@
+{
+  "id": "card-p109",
+  "slug": "rocambole-de-peito-de-peru",
+  "title": "Rocambole de Peito de Peru",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 peito de peru grande desossado e sem pele",
+        "Sal e pimenta do reino a gosto",
+        "2 dentes de alho amassados",
+        "2 xícaras (chá) de suco de laranja",
+        "1 cebola ralada",
+        "2 cenouras raladas",
+        "3 talos de salsão picado",
+        "1 xícara (chá) de champignon em lâminas",
+        "1 xícara (chá) de caldo de galinha",
+        "1 colher (sopa) de farinha de trigo 100% integral"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Abra o peito de peru, formando um grande bife, bata ligeiramente com um martelo e tempere com sal, pimenta, alho e suco de laranja.",
+        "Deixe marinar por 1 hora.",
+        "Coloque o peito sobre uma superfície de trabalho e disponha de maneira uniforme a cebola, a cenoura, o salsão e o champignon; tempere com sal e enrole como um rocambole.",
+        "Amarre-o bem com um barbante, dando formato arredondado.",
+        "Coloque-o em uma assadeira untada, despeje por cima a marinada, cubra com papel alumínio e leve para assar em forno preaquecido a 175°C, por 25 minutos, regando algumas vezes com o caldo que se formar na assadeira.",
+        "Retire o papel alumínio e deixe no forno até dourar e estar cozido.",
+        "Coe o molho que se formou na assadeira em uma panela.",
+        "Junte o caldo de galinha e a farinha de trigo, misture bem e leve ao fogo para ferver e engrossar ligeiramente.",
+        "Corte o rocambole em fatias e despeje o molho por cima."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 145.7,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "rocambole-de-peito-de-peru.jpg",
+    "alt": "Foto de Rocambole de Peito de Peru",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 109,
+    "originalTitle": "ROCAMBOLE DE PEITO DE PERU"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

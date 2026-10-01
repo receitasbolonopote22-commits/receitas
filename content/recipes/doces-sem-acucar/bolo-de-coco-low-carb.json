@@ -1,0 +1,76 @@
+{
+  "id": "b2-p7",
+  "slug": "bolo-de-coco-low-carb",
+  "title": "Bolo de Coco Low Carb",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar",
+    "low-carb"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 ovos grandes",
+        "2 colh. (sopa) manteiga ghee",
+        "150 g coco ralado",
+        "1 xic. leite de coco",
+        "3 colh. (sopa) adoçante",
+        "1 colh. de sopa fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater no liquidificador os ovos, a manteiga e o leite de coco.Adicionar o coco aos pouquinhos e ir batendo.",
+        "Depois de bem misturado, adicionar o fermento e o adoçante.",
+        "Por em forma untada com manteiga.Assar em forno pre aquecido em 180 graus por 30 minutos ou até passar no teste do palito."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "5 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 240,
+    "carbs": 6.39,
+    "protein": 6.46,
+    "fat": 21.92,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "bolo-de-coco-low-carb.jpg",
+    "alt": "Foto de Bolo de Coco Low Carb",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

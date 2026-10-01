@@ -1,0 +1,85 @@
+{
+  "id": "p1-p43",
+  "slug": "salada-de-abacate",
+  "title": "Salada de Abacate",
+  "description": "Fresca, nutritiva e equilibrada, combina frango, alface, tomate-cereja, mussarela fresca e abacate em uma refeição leve.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de chá de vinagre balsâmico",
+        "1 colher de sopa de azeite",
+        "2 peitos de frango desossados e sem pele",
+        "Sal e pimenta-do-reino moída a gosto",
+        "6 xícaras de chá de alface picada",
+        "Mussarela fresca em cubos a gosto",
+        "1 xícara de chá de tomate-cereja cortado ao meio",
+        "1 abacate descascado e cortado em cubos",
+        "1/4 de xícara de chá de folhas de manjericão"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça o azeite em uma frigideira média, em fogo médio-alto.",
+        "Tempere os peitos de frango com sal e pimenta e grelhe por cerca de 3 a 4 minutos de cada lado, até cozinharem por igual.",
+        "Deixe esfriar levemente e corte o frango em pedaços pequenos.",
+        "Em uma tigela grande, coloque a alface e cubra com o frango, a mussarela fresca, o tomate-cereja, o abacate e o manjericão.",
+        "Tempere com o vinagre balsâmico e misture delicadamente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato de sobremesa",
+  "nutrition": {
+    "calories": null,
+    "carbs": 7,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O abacate e a mussarela aumentam o valor calórico da refeição; mantenha a porção equilibrada."
+    }
+  ],
+  "image": {
+    "file": "salada-de-abacate.jpg",
+    "alt": "Foto de Salada de Abacate",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 43,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

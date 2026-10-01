@@ -1,0 +1,90 @@
+{
+  "id": "p2-p71",
+  "slug": "bacalhau-de-natal",
+  "title": "Bacalhau de Natal",
+  "description": "Tradicional e cheio de sabor, o Bacalhau de Natal é uma receita clássica das celebrações de fim de ano. Combinando bacalhau macio, batatas, pimentões e azeite de oliva, este prato é leve, colorido e perfeito para reunir a família.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "600 g de bacalhau dessalgado",
+        "5 batatas médias",
+        "1 cebola grande em rodelas",
+        "1 pimentão vermelho em tiras",
+        "1 pimentão amarelo em tiras",
+        "2 dentes de alho picados",
+        "1/2 xícara (chá) de azeite de oliva",
+        "2 ovos cozidos em rodelas",
+        "1/2 xícara (chá) de azeitonas pretas",
+        "Salsinha picada",
+        "Pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Dessalgue o bacalhau por 24 a 48 horas na geladeira, trocando a água várias vezes. Escorra e desfie em lascas grandes.",
+        "Cozinhe as batatas com casca em água com sal até ficarem macias. Escorra, deixe amornar, descasque e corte em rodelas.",
+        "Em uma panela, aqueça 2 colheres (sopa) do azeite e refogue a cebola e o alho até ficarem transparentes.",
+        "Acrescente os pimentões e refogue por 3 minutos, até ficarem levemente macios. Tempere com pimenta-do-reino.",
+        "Em um refratário grande, faça uma camada de batatas. Cubra com metade do refogado.",
+        "Distribua o bacalhau sobre o refogado e cubra com o restante dos pimentões e da cebola.",
+        "Regue com o restante do azeite de oliva. Cubra com papel-alumínio e leve ao forno preaquecido a 180 °C por 25 minutos.",
+        "Retire o papel-alumínio e asse por mais 10 minutos para dourar levemente. Finalize com rodelas de ovos, azeitonas pretas e salsinha picada. Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 prato raso",
+  "nutrition": {
+    "calories": null,
+    "carbs": 20,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "bacalhau-de-natal.jpg",
+    "alt": "Foto de Bacalhau de Natal",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 71,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

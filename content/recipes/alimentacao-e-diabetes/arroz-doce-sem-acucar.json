@@ -1,0 +1,87 @@
+{
+  "id": "p1-p59",
+  "slug": "arroz-doce-sem-acucar",
+  "title": "Arroz Doce sem Açúcar",
+  "description": "Uma versão adaptada e cremosa, com arroz integral, maçã e especiarias.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1/2 xícara de arroz integral",
+        "2 xícaras de água",
+        "1 pedaço de canela",
+        "2 cravos-da-índia",
+        "2 colheres de sopa de leite em pó desnatado",
+        "1 maçã pequena ralada",
+        "3 colheres de chá de água de flor de laranjeira",
+        "Canela em pó a gosto",
+        "6 envelopes de aspartame",
+        "2 gemas"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe o arroz com a água, a canela, os cravos e a maçã.",
+        "Acrescente o leite em pó e cozinhe por mais 5 minutos.",
+        "Retire do fogo, descarte a canela e os cravos e deixe amornar.",
+        "Junte as gemas desfeitas em um pouco da mistura, passando por peneira fina.",
+        "Volte ao fogo brando, mexendo sempre, até obter um creme espesso.",
+        "Fora do fogo, adicione a água de flor de laranjeira e o aspartame.",
+        "Sirva em taças e polvilhe com canela em pó."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 taça pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 16,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "A receita utiliza aspartame."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Por conter arroz integral e maçã, possui mais carboidratos; controle a porção."
+    }
+  ],
+  "image": {
+    "file": "arroz-doce-sem-acucar.jpg",
+    "alt": "Foto de Arroz Doce sem Açúcar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 59,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

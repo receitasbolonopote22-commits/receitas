@@ -1,0 +1,87 @@
+{
+  "id": "p2-p68",
+  "slug": "arroz-doce",
+  "title": "Arroz Doce",
+  "description": "O arroz doce é uma sobremesa clássica que traz lembranças afetivas e muito sabor. Nesta versão mais leve, um toque de canela cria um doce cremoso, aromático e equilibrado para o dia a dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1/2 xícara de arroz integral ou arroz branco polido",
+        "2 xícaras de água",
+        "2 xícaras de leite desnatado ou bebida vegetal sem açúcar",
+        "1/2 xícara de leite de coco light",
+        "1/4 xícara de adoçante culinário (siga a medida do fabricante)",
+        "1 pau de canela",
+        "1 folha de louro",
+        "1/2 colher (chá) de essência de baunilha (opcional)",
+        "Canela em pó para polvilhar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave o arroz e deixe escorrer.",
+        "Em uma panela, coloque o arroz, a água, o pau de canela e a folha de louro. Cozinhe em fogo médio até a água secar quase completamente e o arroz ficar macio.",
+        "Acrescente o leite desnatado e cozinhe em fogo baixo, mexendo sempre, até o arroz ficar bem macio.",
+        "Adicione o leite de coco e continue mexendo delicadamente.",
+        "Acrescente o adoçante e a essência de baunilha, misture bem e cozinhe por mais 5 a 8 minutos, até obter uma textura cremosa.",
+        "Desligue o fogo, retire o pau de canela e a folha de louro.",
+        "Transfira para tigelas individuais ou para uma travessa.",
+        "Polvilhe canela em pó por cima e sirva morno ou gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 taça pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 22,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "arroz-doce.jpg",
+    "alt": "Foto de Arroz Doce",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 68,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

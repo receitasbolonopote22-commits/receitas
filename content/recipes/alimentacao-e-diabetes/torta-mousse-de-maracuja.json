@@ -1,0 +1,88 @@
+{
+  "id": "p2-p47",
+  "slug": "torta-mousse-de-maracuja",
+  "title": "Torta Mousse de Maracujá",
+  "description": "Leve, cremosa e refrescante, esta torta mousse combina o sabor marcante do maracujá com uma base nutritiva e crocante.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de aveia em flocos finos",
+        "1/2 xícara de farinha de amêndoas",
+        "2 colheres de sopa de óleo de coco",
+        "2 colheres de sopa de adoçante culinário",
+        "300 g de iogurte natural desnatado",
+        "200 g de creme de ricota light ou cream cheese light",
+        "1/2 xícara de polpa de maracujá (natural)",
+        "1 envelope de gelatina incolor sem sabor",
+        "5 colheres de sopa de água para hidratar a gelatina",
+        "2 colheres de sopa de adoçante culinário",
+        "Polpa de maracujá para cobertura (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Triture a aveia em flocos até virar uma farinha fina. Misture com a farinha de amêndoas, o óleo de coco e o adoçante até obter uma farofa úmida.",
+        "Forre o fundo de uma forma de aro removível (20 cm) e leve à geladeira enquanto prepara o recheio.",
+        "Hidrate a gelatina incolor na água e dissolva em banho-maria. Reserve.",
+        "Bata no liquidificador o iogurte, o creme de ricota, a polpa de maracujá e o adoçante até ficar liso.",
+        "Com o liquidificador ligado, adicione a gelatina dissolvida e bata por mais 30 segundos.",
+        "Despeje o creme sobre a base e leve à geladeira por no mínimo 4 horas ou até firmar.",
+        "Finalize com polpa de maracujá por cima e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 14,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de natural, a polpa de maracujá contém açúcares; consuma com moderação."
+    }
+  ],
+  "image": {
+    "file": "torta-mousse-de-maracuja.jpg",
+    "alt": "Foto de Torta Mousse de Maracujá",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": true,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 47,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

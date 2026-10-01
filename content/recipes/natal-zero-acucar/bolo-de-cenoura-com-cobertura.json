@@ -1,0 +1,70 @@
+{
+  "id": "e3-n4",
+  "slug": "bolo-de-cenoura-com-cobertura",
+  "title": "Bolo de Cenoura com Cobertura",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 cenouras médias",
+        "3 ovos",
+        "1 xícara de farinha de castanhas",
+        "1/2 xícara de óleo de coco",
+        "1/2 xícara de xilitol",
+        "1 colher de sopa de fermento"
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "items": [
+        "3 colheres de cacau",
+        "2 colheres de xilitol",
+        "2 colheres de leite de coco"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata cenouras, ovos, óleo e xilitol no liquidificador.",
+        "Transfira para tigela, adicione farinha e fermento.",
+        "Asse a 180°C por 35 minutos.",
+        "Para cobertura, misture ingredientes e leve ao fogo até engrossar.",
+        "Cubra o bolo frio."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 2,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

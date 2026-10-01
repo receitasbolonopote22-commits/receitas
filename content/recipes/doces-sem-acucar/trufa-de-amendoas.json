@@ -1,0 +1,79 @@
+{
+  "id": "b2-p55",
+  "slug": "trufa-de-amendoas",
+  "title": "Trufa de Amêndoas",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1/2 xíc. de amêndoas cruas",
+        "1/4 xic. de castanhas de caju cruas",
+        "1/4 xíc. de nozes cruas",
+        "2 colh. (sopa) sementes de chia",
+        "Adoçante a gosto",
+        "4 colh. (sopa) creme de leite fresco",
+        "100 g de chocolate amargo >70% de cacau"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todas as oleaginosas e sementes no liquidificador até obter uma espécie de farinha.",
+        "Adicione o adoçante.",
+        "Misture tudo com creme de leite fresco até obter um creme.",
+        "Se quiser mais macia adicione mais creme de leite.",
+        "Deixe a massa descansar no refrigerador por 30 minutos e depois modele bolinhas.",
+        "Coloque no freezer por 30 minutos Derrete o chocolate amargo no micro-ondas ou em banho-maria.",
+        "Mergulhe as bolinhas no chocolate.",
+        "Coloque em cima de uma forma coberta com filme plástico.",
+        "Volte ao refrigerado e quando estiver duro, pronto."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 unidades média",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 491,
+    "carbs": 31,
+    "protein": 12,
+    "fat": 41,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "trufa-de-amendoas.jpg",
+    "alt": "Foto de Trufa de Amêndoas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 55,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

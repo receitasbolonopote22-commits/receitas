@@ -1,0 +1,77 @@
+{
+  "id": "p1-p71",
+  "slug": "suco-de-batata-yacon",
+  "title": "Suco de Batata Yacon",
+  "description": "Simples e refrescante, com poucos ingredientes e preparo rápido.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 copo de água mineral ou água de coco",
+        "5 a 6 cm de batata yacon crua fatiada",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave, descasque e fatie a batata yacon.",
+        "Bata com a água no liquidificador.",
+        "Coe, se desejar.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 copo grande",
+  "servingSize": "200 ml",
+  "nutrition": {
+    "calories": null,
+    "carbs": 11,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de simples, contém carboidratos naturais; mantenha a porção equilibrada."
+    }
+  ],
+  "image": {
+    "file": "suco-de-batata-yacon.jpg",
+    "alt": "Foto de Suco de Batata Yacon",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 71,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

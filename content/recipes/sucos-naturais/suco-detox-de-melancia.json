@@ -1,0 +1,59 @@
+{
+  "id": "sucos-p3b",
+  "slug": "suco-detox-de-melancia",
+  "title": "Suco Detox de Melancia",
+  "description": null,
+  "collections": [
+    "sucos-naturais"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 fatias médias de melancia",
+        "½ limão espremido",
+        "Hortelã",
+        "1 talo de aipo com as folhas",
+        "1 copo de água",
+        "1 colher de chá de gengibre ralado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes no liquidificador. Beber a seguir, de preferência sem açúcar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "suco-detox-de-melancia.jpg",
+    "alt": "Foto de Suco Detox de Melancia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Sucos.pdf",
+    "page": 3,
+    "originalTitle": "SUCO DETOX DE DE MELANCIA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

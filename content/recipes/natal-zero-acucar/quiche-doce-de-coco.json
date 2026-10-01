@@ -1,0 +1,65 @@
+{
+  "id": "e3-n59",
+  "slug": "quiche-doce-de-coco",
+  "title": "Quiche Doce de Coco",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "Receita 51 com coco ralado"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "2 xícaras coco ralado",
+        "3 ovos",
+        "1 lata leite coco",
+        "1/2 xícara xilitol",
+        "Essência baunilha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Forre forma, asse massa 10min.",
+        "Misture recheio, despeje.",
+        "Asse 180°C por 30-35min até firmar e dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

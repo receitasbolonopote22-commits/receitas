@@ -1,0 +1,71 @@
+{
+  "id": "e2-n46",
+  "slug": "bolo-de-morango-com-baunilha",
+  "title": "Bolo de Morango com Baunilha",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 1/2 xícara de morangos frescos",
+        "3 ovos",
+        "1/2 xícara de óleo",
+        "1/3 xícara de mel",
+        "2 colheres de chá de essência de baunilha",
+        "2 xícaras de farinha de amêndoas",
+        "Fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Morangos frescos",
+      "steps": [
+        "Pique 1 1/2 xícara de morangos frescos. Reserve alguns para decorar."
+      ]
+    },
+    {
+      "title": "Base de baunilha",
+      "steps": [
+        "Bata 3 ovos com 1/2 xícara de óleo, 1/3 xícara de mel e 2 colheres de chá de essência de baunilha."
+      ]
+    },
+    {
+      "title": "Montar e assar",
+      "steps": [
+        "Adicione 2 xícaras de farinha de amêndoas e fermento. Incorpore morangos. Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O material original não traz lista de ingredientes separada; a lista foi montada a partir do texto do preparo."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

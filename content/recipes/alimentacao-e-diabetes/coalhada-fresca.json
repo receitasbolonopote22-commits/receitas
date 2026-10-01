@@ -1,0 +1,81 @@
+{
+  "id": "card-p35",
+  "slug": "coalhada-fresca",
+  "title": "Coalhada Fresca",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bases-e-preparos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 litro de leite vaca magro",
+        "2 colheres (sopa) de coalho"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque o leite numa panela. Leve ao fogo até ferver.",
+        "Retire do fogo e deixe amornar até atingir temperatura de, aproximadamente 45° C.",
+        "Não dispondo de um termômetro, proceda da seguinte maneira:.",
+        "Coloque o dedo no leite e conte até dez; suportando a temperatura, este será o ponto ideal para fazer a coalhada.",
+        "A parte, dilua o coalho em um pouco do próprio leite morno e junte ao restante.",
+        "Mexa bem, airando com uma concha da seguinte forma: mergulhe a concha no leite.",
+        "Levante do alto, verta o leite de modo a fazer espuma e oxigene.",
+        "Repetir o procedimento algumas vezes.",
+        "Coloque em um ou mais recipientes (de preferência de cerâmica ou louça).",
+        "Tampe e envolva com um pano grosso, para manter o calor.",
+        "Deixe repousar por 2 horas, no verão, e por 3 horas, no inverno, sem mexer.",
+        "Após coalhar, leve à geladeira por, no mínimo, 2 horas antes de consumir."
+      ]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "200 g (medida caseira)",
+  "nutrition": {
+    "calories": 52,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": null,
+      "text": "Dica: Coalho (em árabe Raubi) é uma porção de coalhada extraída de outra, feita anteriormente. Outra opção é usar, como coalho, iogurte natural. Neste caso, porém, nas primeiras vezes a coalhada ficará mais ácida."
+    }
+  ],
+  "image": {
+    "file": "coalhada-fresca.jpg",
+    "alt": "Foto de Coalhada Fresca",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 35,
+    "originalTitle": "COALHADA FRESCA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "e3-n42",
+  "slug": "panetone-de-chocolate-com-gotas",
+  "title": "Panetone de Chocolate com Gotas",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas",
+    "paes-e-salgados"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 1/2 xícaras farinha amêndoas",
+        "1/2 xícara cacau pó",
+        "4 ovos",
+        "1/2 xícara xilitol",
+        "1/3 xícara óleo coco",
+        "3/4 xícara gotas chocolate zero açúcar",
+        "1 colher fermento",
+        "Essência baunilha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Peneire farinha e cacau com fermento.",
+        "Bata ovos, xilitol, óleo e essência.",
+        "Combine as misturas, adicione gotas de chocolate.",
+        "Asse em forma de panetone a 170°C por 45 minutos até firmar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "card-p110",
+  "slug": "torta-vegetal-em-camadas",
+  "title": "Torta Vegetal em Camadas",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 beringela grande cortada em fatias",
+        "4 abobrinhas cortadas em fatias",
+        "Sal e pimenta do reino a gosto",
+        "2 tomates grandes em fatias",
+        "2 colheres (sopa) de alho moido",
+        "1/4 de xícara (chá) de folhas de manjericão picadas",
+        "1/2 xícara (chá) de pão integral light esmigalhado",
+        "1/4 de xícara (chá) de parmesão light ralado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma frigideira antiaderente bem quente, grelhe a berinjela, a abobrinha e o cogumelo temperados com sal e pimenta do reino.",
+        "Reserve.",
+        "Em uma assadeira de fundo removível, faça uma camada com 1/3 da beringela.",
+        "Por cima, coloque metade da abobrinha, do cogumelo e do tomate, polvilhando o alho, o manjericão, sal e pimenta.",
+        "Para a segunda camada, repita o procedimento usando os Ingredientes restantes terminando com a beringela.",
+        "Por último, distribua o pão e o parmesão.",
+        "Leve ao forno pré aquecido e asse por cerca de 30 minutos.",
+        "Retire do forno e espere 5 minutos para remover o aro da fôrma e servir."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "120 g (medida caseira)",
+  "nutrition": {
+    "calories": 63.85,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "torta-vegetal-em-camadas.jpg",
+    "alt": "Foto de Torta Vegetal em Camadas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 110,
+    "originalTitle": "TORTA VEGETAL EM CAMADAS"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O modo de preparo cita cogumelo, que não consta na lista de ingredientes do material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "e1-p4",
+  "slug": "calda-de-chocolate-amargo-intenso",
+  "title": "Calda de Chocolate Amargo Intenso",
+  "description": "Uma calda sedutora e aveludada que transforma qualquer sobremesa em uma experiência gourmet. Perfeita para bolos simples, brownies e sorvetes.",
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "caldas-e-coberturas",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200g de chocolate amargo 70% cacau picado",
+        "150ml de creme de leite fresco",
+        "3 colheres de sopa de eritritol",
+        "1 colher de chá de essência de baunilha",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça o creme de leite em uma panela até começar a ferver.",
+        "Retire do fogo e adicione o chocolate picado, mexendo até derreter completamente.",
+        "Acrescente o eritritol, a baunilha e o sal, misturando bem.",
+        "Deixe esfriar por 5 minutos antes de usar.",
+        "Aplique ainda morna sobre o bolo com uma colher ou despeje por cima."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Dica especial: Para uma versão ainda mais cremosa, adicione 1 colher de sopa de manteiga ghee ao final. Combina perfeitamente com bolos de chocolate, red velvet e cheesecakes."
+    }
+  ],
+  "image": {
+    "file": "calda-de-chocolate-amargo-intenso.jpg",
+    "alt": "Foto de Calda de Chocolate Amargo Intenso",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 1.pdf",
+    "page": 4,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

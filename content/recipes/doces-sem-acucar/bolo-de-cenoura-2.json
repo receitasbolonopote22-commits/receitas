@@ -1,0 +1,76 @@
+{
+  "id": "b2-p10",
+  "slug": "bolo-de-cenoura-2",
+  "title": "Bolo de Cenoura",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 ovos grandes",
+        "1 cenoura média ralada",
+        "4 colh. (sopa) leite em pó desnatado",
+        "30 g adoçante culinário",
+        "4 colh. (sopa) farelo de aveia",
+        "1 colh. (sopa) fermento em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "No liquidificador, bata bem os ovos com a cenoura ralada e o aroma de laranja, até ficar bem homogêneo.",
+        "Em seguida, acrescente o farelo de aveia, o leite em pó desnatado e o adoçante.",
+        "Por último, acrescente o fermento.",
+        "Coloque a massa em uma forma de silicone ou antiaderente e leve ao forno a 210 graus por aproximadamente 20 minutos."
+      ]
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "15 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 94,
+    "carbs": 6.7,
+    "protein": 3.7,
+    "fat": 5.3,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "bolo-de-cenoura-2.jpg",
+    "alt": "Foto de Bolo de Cenoura",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 10,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O modo de preparo cita \"aroma de laranja\", que não consta na lista de ingredientes do material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

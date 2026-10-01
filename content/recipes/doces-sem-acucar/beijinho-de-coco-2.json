@@ -1,0 +1,78 @@
+{
+  "id": "b2-p19",
+  "slug": "beijinho-de-coco-2",
+  "title": "Beijinho de Coco",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 envelopes de pudim diet sabor coco",
+        "½ litro de leite desnatado",
+        "1 gema",
+        "8 colheres (sopa) de coco ralado seco",
+        "Cravo para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Desmanche a gema em um pouco do leite e reserve.",
+        "Dissolva os três envelopes de pudim no leite e acrescente a gema previamente desmanchada.",
+        "Leve ao fogo até engrossar e deixe esfriar.",
+        "Enquanto isso, coloque o coco ralado em um prato.",
+        "Quando o creme estiver completamente frio, amasse-o como se fosse massa de pão.",
+        "Molhe as mãos com água e enrole os beijinhos.",
+        "Passe-os no coco ralado e enfeite cada um com um cravo."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "30 unidades",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 48,
+    "carbs": 2.6,
+    "protein": 3.9,
+    "fat": 2.4,
+    "fiber": null,
+    "basis": "por 20 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "beijinho-de-coco-2.jpg",
+    "alt": "Foto de Beijinho de Coco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 19,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Cópia idêntica de \"Beijinho de Coco\" (beijinho-de-coco); oculta das listagens."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": [],
+  "duplicateOf": "beijinho-de-coco"
+}

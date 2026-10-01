@@ -1,0 +1,70 @@
+{
+  "id": "b2-p43",
+  "slug": "pudim-de-chocolate-com-abacate-e-banana",
+  "title": "Pudim de Chocolate com Abacate e Banana",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 abacates médios picados",
+        "1 banana média",
+        "½ xícara de chá de cacau em pó",
+        "½ xícara de chá de tâmaras sem caroço",
+        "1 colher de chá de essência de baunilha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes no liquidificador até ficar um creme homogêneo.",
+        "Transferir para uma tigela grande ou potes individuais e levar à geladeira."
+      ]
+    }
+  ],
+  "prepTime": 240,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 156,
+    "carbs": 15,
+    "protein": 2,
+    "fat": 12,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "pudim-de-chocolate-com-abacate-e-banana.jpg",
+    "alt": "Foto de Pudim de Chocolate com Abacate e Banana",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 43,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

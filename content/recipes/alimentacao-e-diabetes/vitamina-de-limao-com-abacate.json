@@ -1,0 +1,76 @@
+{
+  "id": "p2-p26",
+  "slug": "vitamina-de-limao-com-abacate",
+  "title": "Vitamina de Limão com Abacate",
+  "description": "Cremosa, refrescante e nutritiva, essa vitamina combina o frescor do limão com a cremosidade do abacate para um lanche leve e equilibrado.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1/2 abacate maduro",
+        "Suco de 1 limão",
+        "200 ml de água gelada ou leite desnatado",
+        "1 colher de sopa de adoçante culinário",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador até obter uma mistura cremosa e homogênea. Sirva gelada."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Ajuste a quantidade conforme o paladar."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de saudável, o abacate é calórico; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "vitamina-de-limao-com-abacate.jpg",
+    "alt": "Foto de Vitamina de Limão com Abacate",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 26,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": "p1-p80",
+  "slug": "frango-grelhado-com-abobora-refogada",
+  "title": "Frango Grelhado com Abóbora Refogada",
+  "description": "Uma refeição equilibrada e saborosa, com frango grelhado e abóbora macia refogada com temperos simples.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 filés de peito de frango (400 g)",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite de oliva",
+        "500 g de abóbora cortada em cubos",
+        "1 cebola pequena picada",
+        "Sal e pimenta a gosto",
+        "Cheiro-verde a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere os filés de frango com alho, sal e pimenta.",
+        "Grelhe os filés em uma frigideira com azeite até dourarem.",
+        "Em uma panela, refogue a cebola com um pouco de azeite.",
+        "Acrescente a abóbora e cozinhe até amolecer.",
+        "Sirva o frango com a abóbora refogada e finalize com cheiro-verde."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 filé médio com 1 porção de abóbora",
+  "nutrition": {
+    "calories": null,
+    "carbs": 14,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A abóbora contém carboidratos naturais; mantenha a porção equilibrada."
+    }
+  ],
+  "image": {
+    "file": "frango-grelhado-com-abobora-refogada.jpg",
+    "alt": "Foto de Frango Grelhado com Abóbora Refogada",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 80,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

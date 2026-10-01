@@ -1,0 +1,84 @@
+{
+  "id": "p1-p53",
+  "slug": "panqueca-de-frango-2",
+  "title": "Panqueca de Frango",
+  "description": "Leve e proteica, ótima para um lanche reforçado ou refeição rápida.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 claras de ovo",
+        "1 colher de sopa de farelo de aveia",
+        "Sal e pimenta a gosto",
+        "5 colheres de sopa de frango cozido e desfiado (ou carne moída refogada)",
+        "2 colheres de sopa de molho de tomate",
+        "1 colher de sopa de queijo meia cura ralado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata as claras com o farelo de aveia, o sal e a pimenta.",
+        "Prepare a panqueca em uma frigideira média antiaderente, ou levemente untada com azeite.",
+        "Doure dos dois lados.",
+        "Recheie com o frango desfiado ou a carne moída refogada.",
+        "Sirva com molho de tomate e queijo ralado por cima."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 panqueca",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O farelo de aveia e o molho de tomate aumentam os carboidratos; mantenha a porção planejada."
+    }
+  ],
+  "image": {
+    "file": "panqueca-de-frango-2.jpg",
+    "alt": "Foto de Panqueca de Frango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 53,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Cópia idêntica de \"Panqueca de Frango\" (panqueca-de-frango); oculta das listagens."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": [],
+  "duplicateOf": "panqueca-de-frango"
+}

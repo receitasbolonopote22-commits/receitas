@@ -1,0 +1,69 @@
+{
+  "id": "e2-n40",
+  "slug": "bolo-de-figo-com-mel",
+  "title": "Bolo de Figo com Mel",
+  "description": "Uma combinação mediterrânea sofisticada e naturalmente doce!",
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Figos frescos",
+      "items": [
+        "1 xícara de figos frescos picados"
+      ]
+    },
+    {
+      "title": "Mel puro",
+      "items": [
+        "1/2 xícara de mel de boa qualidade"
+      ]
+    },
+    {
+      "title": "Base integral",
+      "items": [
+        "2 xícaras de farinha de arroz integral",
+        "3 ovos",
+        "Óleo de coco",
+        "Fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata ovos com mel e óleo.",
+        "Adicione farinha e fermento.",
+        "Incorpore delicadamente os figos picados.",
+        "Asse a 180°C por 45 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

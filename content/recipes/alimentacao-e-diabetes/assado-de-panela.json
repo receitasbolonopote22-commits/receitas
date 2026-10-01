@@ -1,0 +1,82 @@
+{
+  "id": "card-p70",
+  "slug": "assado-de-panela",
+  "title": "Assado de Panela",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 lagarto",
+        "Sal e pimenta do reino a gosto",
+        "3 dentes de alho amassados",
+        "½ xícara (chá) de azeitona preta picada",
+        "½ xícara (chá) de maionese light",
+        "2 xícaras (chá) de vinho branco light",
+        "¼ de xícara (chá) de manteiga",
+        "2 xícaras (chá) de água fervente",
+        "1 lata de creme de leite light"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Retire o excesso de gordura da carne, tempere-a com sal, pimenta e alho, esfregando bem na carne.",
+        "À parte, misture a azeitona e a maionese. Faça um furo central na carne, no comprimento, e introduza a mistura.",
+        "Regue com a metade do vinho e deixe por 15 minutos.",
+        "Unte com a manteiga uma panela e leve ao fogo.",
+        "Quando a manteiga estiver quente, coloque a carne e doure-a de todos os lados.",
+        "Adicione a água, tampe a panela e cozinhe por 1h30, regando a carne algumas vezes com o líquido que se formar.",
+        "Se necessário, junte mais água quente.",
+        "Tire a carne da panela, corte-a em fatias e reserve.",
+        "Junte o restante do vinho ao molho que se formou e cozinhe-o por cerca de 10 minutos para reduzi-lo.",
+        "Desligue o fogo, junte o creme de leite e misture bem.",
+        "Sirva a carne acompanhada do molho."
+      ]
+    }
+  ],
+  "prepTime": 160,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 575.9,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "assado-de-panela.jpg",
+    "alt": "Foto de Assado de Panela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 70,
+    "originalTitle": "ASSADO DE PANELA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

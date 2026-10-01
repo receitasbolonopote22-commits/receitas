@@ -1,0 +1,78 @@
+{
+  "id": "p1-p10",
+  "slug": "panqueca-de-banana-verde",
+  "title": "Panqueca de Banana Verde",
+  "description": "Uma alternativa caseira com boa saciedade e sabor suave.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 banana verde pequena amassada (60 g)",
+        "1 ovo",
+        "2 colheres de sopa de aveia em flocos (20 g)",
+        "Canela a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture a banana amassada, o ovo e a aveia até formar uma massa.",
+        "Aqueça uma frigideira antiaderente e despeje pequenas porções da massa.",
+        "Cozinhe por 2 a 3 minutos de cada lado.",
+        "Polvilhe canela a gosto antes de servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 porção",
+  "nutrition": {
+    "calories": null,
+    "carbs": 20,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "A receita não precisa de adoçante, mas você pode usar estévia se desejar um sabor mais doce."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma versão mais saudável, mantenha o controle da porção por conter banana e aveia."
+    }
+  ],
+  "image": {
+    "file": "panqueca-de-banana-verde.jpg",
+    "alt": "Foto de Panqueca de Banana Verde",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 10,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

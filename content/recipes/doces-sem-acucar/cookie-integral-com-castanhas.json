@@ -1,0 +1,78 @@
+{
+  "id": "b2-p24",
+  "slug": "cookie-integral-com-castanhas",
+  "title": "Cookie Integral com Castanhas",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "100 g de castanhas picadas",
+        "1xic. (chá) farinha de trigo integral",
+        "1/2 xic. (chá) aveia em flocos finos",
+        "1 colh. (chá) canela em pó",
+        "1 colh. (sobremesa) fermento químico em pó",
+        "4 colh. (sopa) adoçante forno e fogão",
+        "3 ovos"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture a farinha, a canela e a aveia.",
+        "Acrescente os ovos e adoçante e misture bem.",
+        "Acrescente o fermento químico, misture e por último. adicione as castanhas picadas.",
+        "Misture tudo devagar.",
+        "Faça pequenas bolinhas achatadas e coloque em uma forma forrada com papel vegetal, deixando um espaço entre elas.",
+        "Leve ao forno pré-aquecido a 180°C por cerca de 10 minutos.",
+        "Retire e deixe esfriar.",
+        "Sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 122,
+    "carbs": 18,
+    "protein": 2.2,
+    "fat": 4.4,
+    "fiber": null,
+    "basis": "por 30 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "cookie-integral-com-castanhas.jpg",
+    "alt": "Foto de Cookie Integral com Castanhas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 24,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

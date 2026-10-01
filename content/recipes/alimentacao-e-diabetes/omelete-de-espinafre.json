@@ -1,0 +1,78 @@
+{
+  "id": "p1-p12",
+  "slug": "omelete-de-espinafre",
+  "title": "Omelete de Espinafre",
+  "description": "Simples, leve e excelente para uma refeição rápida e nutritiva.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 ovos",
+        "1/2 xícara de folhas de espinafre picadas (50 g)",
+        "1 colher de chá de azeite (5 g)",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ovos em uma tigela e misture o espinafre picado.",
+        "Aqueça o azeite em uma frigideira antiaderente e despeje a mistura.",
+        "Cozinhe por 3 a 4 minutos, dobrando ao meio quando firmar.",
+        "Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 omelete média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 2,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Para melhor controle glicêmico, priorize acompanhamentos com fibras e evite pães refinados em excesso."
+    }
+  ],
+  "image": {
+    "file": "omelete-de-espinafre.jpg",
+    "alt": "Foto de Omelete de Espinafre",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 12,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

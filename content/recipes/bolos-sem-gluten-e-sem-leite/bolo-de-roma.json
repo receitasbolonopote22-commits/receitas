@@ -1,0 +1,73 @@
+{
+  "id": "e2-n44",
+  "slug": "bolo-de-roma",
+  "title": "Bolo de Romã",
+  "description": "Um bolo exótico e visualmente deslumbrante!",
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Sementes de romã",
+      "items": [
+        "1 xícara de sementes de romã frescas + 1/2 xícara de suco"
+      ]
+    },
+    {
+      "title": "Base",
+      "items": [
+        "2 xícaras de farinha de amêndoas",
+        "3 ovos",
+        "Óleo",
+        "Mel"
+      ]
+    },
+    {
+      "title": "Finalização",
+      "items": [
+        "Fermento",
+        "Mais sementes para decorar o topo"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata o suco de romã com ovos, óleo e mel.",
+        "Adicione farinha e fermento.",
+        "Incorpore metade das sementes.",
+        "Decore o topo com sementes restantes.",
+        "Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "O texto original diz: \"Um bolo exótico, visualmente deslumbrante e repleto de antioxidantes!\"."
+    ]
+  },
+  "relatedRecipes": []
+}

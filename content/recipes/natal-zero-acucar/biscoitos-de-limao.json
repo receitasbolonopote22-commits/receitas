@@ -1,0 +1,60 @@
+{
+  "id": "e3-n35",
+  "slug": "biscoitos-de-limao",
+  "title": "Biscoitos de Limão",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas",
+    "lanches"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras farinha amêndoas",
+        "1/3 xícara xilitol",
+        "Raspas 2 limões",
+        "1/4 xícara ghee",
+        "1 ovo",
+        "Suco 1 limão"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture tudo formando massa.",
+        "Abra, corte círculos.",
+        "Asse 180°C por 12-15min até bordas douradas."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 5,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

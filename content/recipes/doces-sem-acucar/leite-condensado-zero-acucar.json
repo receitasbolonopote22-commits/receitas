@@ -1,0 +1,71 @@
+{
+  "id": "b2-p30",
+  "slug": "leite-condensado-zero-acucar",
+  "title": "Leite Condensado Zero Açúcar",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bases-e-preparos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "½ xíc. (chá) água quente",
+        "1 xic. (chá) leite em pó desnatado",
+        "½ xic. (chá) adoçante em pó",
+        "1 colher (sopa) manteiga ghee"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata a água, o leite em pó, o adoçante culinário, a manteiga no liquidificador.",
+        "Bata em velocidade média por 5 minutos.",
+        "Coloque em um pote e guarde na geladeira."
+      ]
+    }
+  ],
+  "prepTime": 5,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "310g",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 39,
+    "carbs": 5.2,
+    "protein": 1.6,
+    "fat": 1.8,
+    "fiber": null,
+    "basis": "por 1 colher de sopa (20g)",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "leite-condensado-zero-acucar.jpg",
+    "alt": "Foto de Leite Condensado Zero Açúcar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 30,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "card-p7",
+  "slug": "wrap-de-iscas-de-carne",
+  "title": "Wrap de Iscas de Carne",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 Wraps integrais",
+        "1 Colher (sopa) de Azeite de Oliva ou óleo de coco",
+        "Sal e Pimenta-do-reino a gosto",
+        "200g de Alcatra em Iscas finas ou outra carne magra",
+        "150g de Queijo Cottage",
+        "100g de Champignon em Conserva"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça uma frigideira e coloque o azeite de oliva, refogue as iscas de carne até que fiquem cozidas e douradas.",
+        "Adicione o champignon e deixe refogar por mais 3 minutos.",
+        "Tempere com o sal e a pimenta do reino a gosto e misture com o queijo cottage.",
+        "Abra a massa de Wrap e espalhe a mistura sobre ele, enrole a massa como se fosse uma \"panqueca\".",
+        "Faça o mesmo no restante das massas e sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 35,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Consumir com moderação"
+    }
+  ],
+  "image": {
+    "file": "wrap-de-iscas-de-carne.jpg",
+    "alt": "Foto de Wrap de Iscas de Carne",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 7,
+    "originalTitle": "WRAP DE ISCAS DE CARNE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "card-p94",
+  "slug": "feijoada",
+  "title": "Feijoada",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 colher de (sopa) de manteiga sem sal",
+        "100 gramas de lombo congelado",
+        "100 gramas de carne seca magra",
+        "150 gramas de feijão preto",
+        "Cheiro verde picado à gosto",
+        "Cebola picada à gosto",
+        "Dente de alho picado à gosto",
+        "Louro à gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Deixe o feijão de molho na água de véspera.",
+        "Em separado, deixe as carnes salgadas de molho em água, também de véspera, trocando várias vezes a água durante este período.",
+        "No dia, ferva as carnes salgadas e jogue a água fora.",
+        "Ferva novamente. Se a água ainda estiver engordurada, basta colocá-la, já fria, no freezer ou geladeira.",
+        "A gordura se solidificará na superfície, podendo ser facilmente removida com uma colher.",
+        "Renovar e tornar a ferver.",
+        "Esta água será aproveitada para o cozimento da feijoada.",
+        "Cozinhe o feijão, adicione um refogado feito em frigideira antiaderente, sem óleo, com a cebola, o alho, o cheiro verde, o louro e as carnes em pedaços.",
+        "Verifique o sal e sirva."
+      ]
+    }
+  ],
+  "prepTime": 120,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "120 g (medida caseira)",
+  "nutrition": {
+    "calories": 160.8,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "feijoada.jpg",
+    "alt": "Foto de Feijoada",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 94,
+    "originalTitle": "FEIJOADA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

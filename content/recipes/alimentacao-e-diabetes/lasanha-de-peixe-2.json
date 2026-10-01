@@ -1,0 +1,80 @@
+{
+  "id": "card-p101",
+  "slug": "lasanha-de-peixe-2",
+  "title": "Lasanha de Peixe",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 pacote de massa fresca para lasanha (500g)",
+        "2 col. (sopa) de óleo de coco ou azeite de oliva",
+        "1 cebola ralada",
+        "2 dentes de alho amassados",
+        "500g de tomates batidos no liquidificador",
+        "2 envelopes de tempero em pó para peixe",
+        "500g de filé de pescada em pedaços",
+        "2 col. (sopa) de salsinha picada",
+        "Manteiga para untar",
+        "150g de mussarela light ralada"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela doure a cebola e o alho no óleo.",
+        "Adicione os tomates batidos e o tempero para peixe, deixe cozinhar por 10 minutos com a panela tampada.",
+        "Coloque os filés de pescada no molho e cozinhe por mais 3 minutos, tendo o cuidado para o peixe não desmanchar.",
+        "Salpique a salsinha e retire do fogo.",
+        "Unte um refratário com manteiga, faça uma camada fina com o molho de pescada, uma camada com a massa de lasanha e outra camada com a mussarela.",
+        "Repita as camadas até acabarem os ingredientes.",
+        "Termine com a mussarela.",
+        "Leve ao forno pré-aquecido até derreter a mussarela."
+      ]
+    }
+  ],
+  "prepTime": 120,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 346,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "lasanha-de-peixe-2.jpg",
+    "alt": "Foto de Lasanha de Peixe",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 101,
+    "originalTitle": "LASANHA DE PEIXE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

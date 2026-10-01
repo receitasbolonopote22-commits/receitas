@@ -1,0 +1,87 @@
+{
+  "id": "p2-p62",
+  "slug": "canjica",
+  "title": "Canjica",
+  "description": "A canjica é uma sobremesa tradicional que traz conforto e sabor de infância. Feita com milho branco hidratado, leite e especiarias, esta versão é adaptada para ser mais leve e adequada para quem busca manter o equilíbrio no dia a dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de milho para canjica (branco)",
+        "2 xícaras de água para hidratar",
+        "4 xícaras de água para o cozimento",
+        "1 xícara de leite desnatado ou bebida vegetal sem açúcar",
+        "1/2 xícara de leite de coco light",
+        "1/4 xícara de adoçante culinário (siga a medida do fabricante)",
+        "1 pau de canela",
+        "4 cravos-da-índia",
+        "1 colher (chá) de essência de baunilha (opcional)",
+        "Canela em pó para polvilhar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave o milho para canjica em água corrente e deixe de molho por 8 horas ou de um dia para o outro.",
+        "Escorra e coloque o milho na panela de pressão com 4 xícaras de água, o pau de canela e os cravos.",
+        "Cozinhe por 25 minutos após pegar pressão ou até que os grãos estejam macios. Desligue e deixe a pressão sair naturalmente.",
+        "Abra a panela, acrescente o leite desnatado, o leite de coco light e o adoçante. Misture bem.",
+        "Leve ao fogo baixo, mexendo ocasionalmente, e cozinhe por cerca de 15 minutos ou até obter a cremosidade desejada.",
+        "Desligue o fogo, acrescente a essência de baunilha (opcional) e misture.",
+        "Sirva morna ou fria, polvilhada com canela em pó."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 taça pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 16,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "canjica.jpg",
+    "alt": "Foto de Canjica",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 62,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

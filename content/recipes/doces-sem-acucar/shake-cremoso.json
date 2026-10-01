@@ -1,0 +1,70 @@
+{
+  "id": "b2-p52",
+  "slug": "shake-cremoso",
+  "title": "Shake Cremoso",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200 ml de bebida vegetal de arroz",
+        "30 g de castanhas do Brasil",
+        "50 g de uvas passas brancas",
+        "½ manga (ou de sua preferência)",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes no liquidificador e servir em seguida.",
+        "Opcional, pode adicional sementes de chia ou linhaça depois de pronto."
+      ]
+    }
+  ],
+  "prepTime": 5,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 unidades",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 155,
+    "carbs": 20,
+    "protein": 3,
+    "fat": 9,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "shake-cremoso.jpg",
+    "alt": "Foto de Shake Cremoso",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 52,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "p1-p57",
+  "slug": "flan-de-chocolate-sem-acucar",
+  "title": "Flan de Chocolate sem Açúcar",
+  "description": "Cremoso e intenso, leva cacau e gelatina para uma sobremesa prática e deliciosa.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de chá de água",
+        "10 colheres de sopa de leite em pó",
+        "1 colher de chá de essência de baunilha",
+        "5 colheres de sopa de xilitol",
+        "2 colheres de sopa de cacau em pó",
+        "1 envelope de gelatina sem sabor"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata no liquidificador a água, o leite em pó, a baunilha, o xilitol e o cacau em pó até obter um líquido uniforme.",
+        "Hidrate a gelatina sem sabor conforme as instruções da embalagem.",
+        "Bata a gelatina já hidratada com a mistura do liquidificador.",
+        "Coloque o creme em taças ou em uma forma.",
+        "Leve para gelar até ficar consistente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 taça pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 7,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "A receita utiliza xilitol."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sem açúcar, o leite em pó e o xilitol exigem porção moderada."
+    }
+  ],
+  "image": {
+    "file": "flan-de-chocolate-sem-acucar.jpg",
+    "alt": "Foto de Flan de Chocolate sem Açúcar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 57,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

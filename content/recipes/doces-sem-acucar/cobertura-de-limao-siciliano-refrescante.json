@@ -1,0 +1,78 @@
+{
+  "id": "e1-p9",
+  "slug": "cobertura-de-limao-siciliano-refrescante",
+  "title": "Cobertura de Limão Siciliano Refrescante",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "caldas-e-coberturas",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 ovos inteiros",
+        "⅓ xícara de eritritol",
+        "Suco e raspas de 3 limões sicilianos",
+        "3 colheres de sopa de manteiga",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Prepare os cítricos",
+      "steps": [
+        "Rale a casca de 3 limões sicilianos e esprema para obter ½ xícara de suco fresco. Reserve as raspas e o suco separadamente."
+      ]
+    },
+    {
+      "title": "Misture os ingredientes",
+      "steps": [
+        "Em uma panela, bata 3 ovos inteiros, ⅓ xícara de eritritol, o suco e as raspas de limão. Adicione 3 colheres de sopa de manteiga."
+      ]
+    },
+    {
+      "title": "Cozinhe com cuidado",
+      "steps": [
+        "Leve ao fogo baixo, mexendo CONSTANTEMENTE por 8-12 minutos até engrossar e ficar cremoso. Não deixe ferver para não talhar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "aproximadamente 300ml",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Esta cobertura é perfeita para tortas, cupcakes, bolos simples e como recheio de macarons. Armazene em pote de vidro na geladeira por até 5 dias."
+    }
+  ],
+  "image": {
+    "file": "cobertura-de-limao-siciliano-refrescante.jpg",
+    "alt": "Foto de Cobertura de Limão Siciliano Refrescante",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 1.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "A lista de ingredientes cita 1 pitada de sal, que não aparece no modo de preparo do material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

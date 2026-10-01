@@ -1,0 +1,85 @@
+{
+  "id": "p1-p33",
+  "slug": "bolinho-salgado-de-frango-com-alho-poro",
+  "title": "Bolinho Salgado de Frango com Alho-poró",
+  "description": "Assado, nutritivo e macio por dentro, ideal para um lanche equilibrado.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de chá de inhame (ou cará) cozido",
+        "1 e 1/2 xícara de chá de frango cozido temperado e desfiado",
+        "2 colheres de sopa de sementes de girassol",
+        "1 ovo",
+        "1/2 xícara de chá de farinha de amêndoas",
+        "1 talo de alho-poró fatiado",
+        "1 dente de alho",
+        "4 azeitonas picadas",
+        "3 cebolinhas picadas",
+        "Sal e pimenta a gosto",
+        "Azeite de oliva",
+        "Farinha de linhaça ou aveia para empanar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Massa: processe 1 xícara do frango, o inhame, as sementes de girassol, o ovo, a farinha de amêndoas, o sal e a pimenta até formar uma pasta.",
+        "Recheio: refogue o alho-poró e o alho no azeite, junte o restante do frango, as azeitonas e a cebolinha.",
+        "Montagem: abra um disco da massa na mão, coloque um pouco do recheio no centro e feche formando uma bolinha. Passe na farinha de linhaça ou aveia e asse a 200 °C por cerca de 30 minutos, virando na metade do tempo para dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 bolinhos",
+  "servingSize": "2 bolinhos",
+  "nutrition": {
+    "calories": null,
+    "carbs": 11,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo assado, contém inhame e farinha de amêndoas, então controle a porção."
+    }
+  ],
+  "image": {
+    "file": "bolinho-salgado-de-frango-com-alho-poro.jpg",
+    "alt": "Foto de Bolinho Salgado de Frango com Alho-poró",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 33,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

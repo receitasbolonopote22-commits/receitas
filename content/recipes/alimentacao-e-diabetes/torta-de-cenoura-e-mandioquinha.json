@@ -1,0 +1,95 @@
+{
+  "id": "p2-p86",
+  "slug": "torta-de-cenoura-e-mandioquinha",
+  "title": "Torta de Cenoura e Mandioquinha",
+  "description": "Uma torta salgada cheia de sabor, feita com cenoura e mandioquinha. Leve e muito saborosa, é perfeita para uma refeição no almoço ou no jantar.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 cenouras médias picadas",
+        "2 mandioquinhas médias picadas",
+        "3 ovos",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1/2 xícara (chá) de aveia em flocos finos ou farinha de aveia",
+        "1/2 xícara (chá) de queijo branco picado ou ricota amassada",
+        "1/2 xícara (chá) de leite desnatado ou iogurte natural desnatado",
+        "1 colher (sopa) de azeite de oliva",
+        "1 colher (chá) de fermento químico em pó",
+        "2 colheres (sopa) de cheiro-verde picado",
+        "Sal com moderação",
+        "Pimenta-do-reino a gosto",
+        "Ervas secas (orégano ou tomilho) a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe a cenoura e a mandioquinha em água com sal até ficarem macias. Escorra bem e amasse grosseiramente.",
+        "Em uma frigideira, aqueça o azeite e refogue a cebola e o alho até dourarem levemente. Reserve.",
+        "Em uma tigela, bata os ovos com o leite (ou iogurte).",
+        "Adicione a aveia, o queijo, o refogado, a cenoura e a mandioquinha amassadas, o cheiro-verde, o sal, a pimenta e as ervas. Misture bem.",
+        "Por último, adicione o fermento e mexa delicadamente.",
+        "Despeje a mistura em uma forma pequena untada (aprox. 20 cm de diâmetro).",
+        "Leve ao forno preaquecido a 180 °C por cerca de 35 a 40 minutos, ou até firmar e dourar levemente.",
+        "Deixe amornar antes de cortar e servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 17,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; esta receita não contém adoçantes."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "torta-de-cenoura-e-mandioquinha.jpg",
+    "alt": "Foto de Torta de Cenoura e Mandioquinha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 86,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"legumes ricos em nutrientes e fibras\"."
+    ]
+  },
+  "relatedRecipes": []
+}

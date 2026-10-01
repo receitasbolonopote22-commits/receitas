@@ -1,0 +1,73 @@
+{
+  "id": "b2-p44",
+  "slug": "pudim-de-coco",
+  "title": "Pudim de Coco",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "7 ovos inteiros",
+        "200 ml de creme de leite light",
+        "200 ml de leite de coco",
+        "50 g de coco ralado",
+        "4 colh. (sopa) de xilitol"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture todos os ingredientes com auxílio de um fouet ou bata no liquidificador.",
+        "Caramelize 1 a 2 colheres de xilitol com um pouco de água em uma forma de pudim.",
+        "Despeje a mistura na forma de pudim e leve ao forno em banho maria por cerca de 40 minutos.",
+        "Retire, espere esfriar e leve à geladeira por 4 horas.",
+        "Desenforme e sirva!"
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 forma média",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 209,
+    "carbs": 4,
+    "protein": 7,
+    "fat": 19,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "pudim-de-coco.jpg",
+    "alt": "Foto de Pudim de Coco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 44,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

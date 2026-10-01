@@ -1,0 +1,64 @@
+{
+  "id": "e2-n15",
+  "slug": "bolo-de-manga-com-coco",
+  "title": "Bolo de Manga com Coco",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 1/2 xícara de manga madura picada",
+        "1 xícara de farinha de coco",
+        "1/2 xícara de farinha de arroz",
+        "4 ovos",
+        "1/2 xícara de leite de coco",
+        "1/3 xícara de mel",
+        "1/4 xícara de óleo de coco",
+        "1 colher de sopa de fermento",
+        "Coco ralado para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Triture metade da manga com leite de coco.",
+        "Bata com ovos, mel e óleo.",
+        "Adicione as farinhas e fermento.",
+        "Incorpore a manga picada restante.",
+        "Asse a 180°C por 45 minutos.",
+        "Decore com coco ralado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

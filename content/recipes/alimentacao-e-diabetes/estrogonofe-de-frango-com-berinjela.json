@@ -1,0 +1,87 @@
+{
+  "id": "p1-p22",
+  "slug": "estrogonofe-de-frango-com-berinjela",
+  "title": "Estrogonofe de Frango com Berinjela",
+  "description": "Versão mais leve e saborosa, com berinjela para trazer mais volume e fibras ao prato.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "300 g de filé de frango cortado em tiras",
+        "1 colher de chá de sal",
+        "1 pitada de pimenta-do-reino branca",
+        "1 colher de chá de azeite de oliva",
+        "1 cebola picada",
+        "1 berinjela média cortada em cubos",
+        "3 tomates sem pele e sem sementes picados",
+        "1 colher de sopa de mostarda",
+        "2 colheres de sopa de ketchup light",
+        "1 colher de chá de molho inglês",
+        "1 caixa de creme de leite light (200 g)",
+        "Salsa picada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere o frango com sal e pimenta.",
+        "Aqueça o azeite e doure o frango.",
+        "Junte a cebola e a berinjela e refogue até amaciar.",
+        "Misture os tomates, a mostarda, o ketchup light e o molho inglês, deixando cozinhar por cerca de 5 minutos.",
+        "Retire do fogo, acrescente o creme de leite e a salsa e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": "1 concha média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma versão mais leve, controle a porção e prefira acompanhar com legumes ou salada."
+    }
+  ],
+  "image": {
+    "file": "estrogonofe-de-frango-com-berinjela.jpg",
+    "alt": "Foto de Estrogonofe de Frango com Berinjela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 22,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

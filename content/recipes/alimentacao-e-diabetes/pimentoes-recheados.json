@@ -1,0 +1,85 @@
+{
+  "id": "card-p103",
+  "slug": "pimentoes-recheados",
+  "title": "Pimentões Recheados",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 pimentão verde",
+        "1 pimentão amarelo",
+        "1 pimentão vermelho",
+        "1 colher de sopa de azeite",
+        "250g de carne magra moída",
+        "1 cebola média ralada",
+        "Sal a gosto",
+        "2 colheres de sopa de azeitonas verdes picadas",
+        "2 colheres de sopa de salsinha picada",
+        "2 claras cozidas",
+        "Palitos de dente para prender"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Depois de bem lavados, retire a tampa dos pimentões, de forma a poder tampá-los novamente.",
+        "Retire todas as sementes e reserve.",
+        "Em uma panela antiaderente refogue a carne.",
+        "Assim que estiver bem sequinha, acrescente a cebola, tempere com sal e refogue mexendo sempre.",
+        "Junte as azeitonas e a salsinha.",
+        "Desligue o fogo e reserve.",
+        "Cozinhe os ovos, corte-os em metades e retire as gemas.",
+        "Recheie metade do pimentão com carne, coloque as claras e complete o restante com mais carne.",
+        "Aperte bem para não sobrar espaço.",
+        "Coloque a tampa e prenda com ajuda dos palitos.",
+        "Leve para assar em uma assadeira antiaderente no forno pré aquecido (200C°) por aproximadamente 20 minutos.",
+        "Sirva a seguir."
+      ]
+    }
+  ],
+  "prepTime": 90,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 552,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "pimentoes-recheados.jpg",
+    "alt": "Foto de Pimentões Recheados",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 103,
+    "originalTitle": "PIMENTÕES RECHEADOS"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

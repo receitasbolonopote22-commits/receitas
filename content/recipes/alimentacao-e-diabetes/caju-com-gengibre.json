@@ -1,0 +1,80 @@
+{
+  "id": "p2-p42",
+  "slug": "caju-com-gengibre",
+  "title": "Caju com Gengibre",
+  "description": "Refrescante, levemente picante e naturalmente doce, o suco de caju com gengibre é uma combinação leve e cheia de sabor.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 cajus maduros picados",
+        "1 pequeno pedaço de gengibre fresco",
+        "200 ml de água gelada",
+        "Gelo a gosto",
+        "Adoçante culinário opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador até obter uma bebida homogênea.",
+        "Se desejar, coe.",
+        "Sirva bem gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, conforme o paladar."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Consumir com moderação dentro de uma alimentação equilibrada."
+    }
+  ],
+  "image": {
+    "file": "caju-com-gengibre.jpg",
+    "alt": "Foto de Caju com Gengibre",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 42,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"perfeito para hidratar, energizar e cuidar da saúde com muito sabor. Uma combinação leve e cheia de benefícios!\"."
+    ]
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "e3-n9",
+  "slug": "bolo-de-cafe-especial",
+  "title": "Bolo de Café Especial",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 ovos",
+        "2 xícaras de farinha de amêndoas",
+        "1/2 xícara de café forte frio",
+        "1/2 xícara de eritritol",
+        "1/4 xícara de óleo de coco",
+        "2 colheres de sopa de cacau",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata ovos com eritritol.",
+        "Adicione café e óleo.",
+        "Misture ingredientes secos e incorpore à massa.",
+        "Asse a 180°C por 30 minutos.",
+        "Decore com grãos de café cobertos com chocolate zero açúcar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 2,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

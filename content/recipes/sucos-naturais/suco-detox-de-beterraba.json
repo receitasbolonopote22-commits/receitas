@@ -1,0 +1,59 @@
+{
+  "id": "sucos-p2b",
+  "slug": "suco-detox-de-beterraba",
+  "title": "Suco Detox de Beterraba",
+  "description": null,
+  "collections": [
+    "sucos-naturais"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 folhas de couve",
+        "1 colher de sopa de folhas de hortelã",
+        "1 beterraba",
+        "1/2 pepino",
+        "1 colher de café de gengibre ralado",
+        "1 copo de água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes no liquidificador. Beber a seguir, de preferência sem açúcar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "suco-detox-de-beterraba.jpg",
+    "alt": "Foto de Suco Detox de Beterraba",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Sucos.pdf",
+    "page": 2,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

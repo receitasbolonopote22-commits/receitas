@@ -1,0 +1,83 @@
+{
+  "id": "p1-p40",
+  "slug": "salada-de-rucula-com-cogumelos",
+  "title": "Salada de Rúcula com Cogumelos",
+  "description": "Leve, colorida e prática, combina folhas, cogumelos e sabor marcante.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "7 folhas de alface crespa cortadas",
+        "10 folhas de rúcula",
+        "100 g de champignon picado",
+        "1 rabanete cortado em tirinhas",
+        "100 g de azeitona fatiada sem caroço",
+        "150 g de presunto cortado em cubos",
+        "Cebolinha fresca picada",
+        "Sal a gosto",
+        "Azeite de oliva a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave as folhas de alface e rúcula, escorra e rasgue ou corte. Coloque em um bowl.",
+        "Distribua por cima o rabanete, as azeitonas, o champignon e o presunto.",
+        "Tempere com sal e azeite e finalize com cebolinha picada."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato de sobremesa",
+  "nutrition": {
+    "calories": null,
+    "carbs": 6,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Presunto e azeitonas elevam o teor de sódio; mantenha a porção moderada."
+    }
+  ],
+  "image": {
+    "file": "salada-de-rucula-com-cogumelos.jpg",
+    "alt": "Foto de Salada de Rúcula com Cogumelos",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 40,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "e2-n21",
+  "slug": "bolo-de-maracuja",
+  "title": "Bolo de Maracujá",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "Polpa de 4 maracujás",
+        "2 xícaras de farinha de arroz",
+        "4 ovos",
+        "1/2 xícara de óleo de coco",
+        "1/3 xícara de mel",
+        "1 colher de sopa de fermento",
+        "Sementes de maracujá para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coe a polpa do maracujá, reserve as sementes.",
+        "Bata o suco com ovos, óleo e mel.",
+        "Adicione a farinha e fermento.",
+        "Misture algumas sementes na massa.",
+        "Asse a 180°C por 40 minutos.",
+        "Decore com mais sementes."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

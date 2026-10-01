@@ -1,0 +1,78 @@
+{
+  "id": "b2-p36",
+  "slug": "mousse-de-cafe",
+  "title": "Mousse de Café",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 envelope de gelatina incolor sem sabor",
+        "200 g de creme de leite light",
+        "1 xíc. (chá) leite desnatado",
+        "1 colh. (sopa) café solúvel",
+        "1 xic. (chá) adoçante forno e fogão",
+        "2 gemas",
+        "2 claras;óleo de coco para untar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela, aqueça o leite. dilua o café e misture o creme de leite.",
+        "Bata as gemas, acrescente metade do adoçante e misture bem.",
+        "Misture ao leite e deixe em fogo médio por cerca de 3 minutos. mexendo.",
+        "Deixe amornar e adicione a gelatina hidratada e dissolvida.",
+        "Reserve.",
+        "Bata as claras em neve com o restante do adoçante e acrescente a mistura reservada.",
+        "Em uma forma untada com um pouco de óleo de coco, despeje a mistura e leve para a geladeira até ficar firme.",
+        "Sirva em seguida e boa refeição."
+      ]
+    }
+  ],
+  "prepTime": 35,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 260,
+    "carbs": 40,
+    "protein": 5,
+    "fat": 10,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "mousse-de-cafe.jpg",
+    "alt": "Foto de Mousse de Café",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 36,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

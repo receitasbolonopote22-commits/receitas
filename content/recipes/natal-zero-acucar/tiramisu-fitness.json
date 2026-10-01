@@ -1,0 +1,61 @@
+{
+  "id": "e3-n29",
+  "slug": "tiramisu-fitness",
+  "title": "Tiramisu Fitness",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "300g mascarpone",
+        "1/2 xícara eritritol",
+        "3 ovos",
+        "200g biscoitos sem glúten",
+        "1 xícara café forte frio",
+        "Cacau para polvilhar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata gemas com eritritol e mascarpone.",
+        "Adicione claras em neve.",
+        "Umedeça biscoitos no café.",
+        "Monte camadas alternadas.",
+        "Polvilhe cacau e refrigere 4 horas."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 4,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

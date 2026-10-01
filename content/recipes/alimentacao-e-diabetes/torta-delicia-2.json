@@ -1,0 +1,93 @@
+{
+  "id": "card-p23",
+  "slug": "torta-delicia-2",
+  "title": "Torta Delícia",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "2 xícaras de chá (200g) de Farinha de trigo 100% integral",
+        "2 (30g) Gemas",
+        "1 colher de sopa rasa (8g) de Fermento químico em pó",
+        "1 colher de sopa (4g) de Adoçante p/ forno e fogão",
+        "4 colheres de sopa cheia (100g) Manteiga"
+      ]
+    },
+    {
+      "title": "Creme",
+      "items": [
+        "2 copos de requeijão (500ml) de Leite desnatado",
+        "3 colheres de sopa (63g) de Cremogema",
+        "½ colher de sopa (10g) Gema",
+        "2 colheres de sopa (8g) de Adoçante p/ forno e fogão",
+        "2 gotas de Baunilha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Massa",
+      "steps": [
+        "Em um recipiente, misturar a farinha de trigo integral, as gemas, o fermento, o adoçante e a manteiga até formar uma massa homogênea.",
+        "Abrir a massa obtida com um rolo e depois colocar em uma forma.",
+        "Furar toda a massa para que o ar saia durante a cocção.",
+        "Levar ao forno e deixar até dourar (aproximadamente 30 minutos)."
+      ]
+    },
+    {
+      "title": "Creme",
+      "steps": [
+        "Colocar em uma panela, o leite desnatado, o cremogema, a gema e adoçante.",
+        "Levar ao fogo e mexer até o cremogema adquirir consistência.",
+        "Deixar repousar até adquirir consistência. Após isso, colocar sobre a massa.",
+        "Cobrir a torta com fatias de maçã e por cima com gelatina de abacaxi diet. (O modo de preparo da gelatina é o mesmo da embalagem.",
+        "Depois de preparada, deixar esfriar e levar à geladeira.",
+        "Quando começar a criar consistência, retirar da geladeira e utilizar para cobrir a torta). Levar tudo à geladeira."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "15 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 122,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "torta-delicia-2.jpg",
+    "alt": "Foto de Torta Delícia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 23,
+    "originalTitle": "TORTA DELÍCIA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

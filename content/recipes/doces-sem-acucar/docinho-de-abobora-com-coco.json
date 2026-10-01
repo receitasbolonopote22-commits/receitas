@@ -1,0 +1,74 @@
+{
+  "id": "b2-p25",
+  "slug": "docinho-de-abobora-com-coco",
+  "title": "Docinho de Abóbora com Coco",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g de abóbora moranga descascada",
+        "½ xic. de xilitol",
+        "Cravo e canela a gosto",
+        "200 ml de creme de leite",
+        "100 g Coco ralado sem açúcar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte a abóbora sem casca em pequenos pedaços.",
+        "Coloque em uma panela e adicione o xilitol e os cravos.",
+        "Tampe e deixe ferver em fogo baixo mexendo sempre para que não queime por 20 minutos ou até estar bem cozida.",
+        "Retire do fogo, incorpore o creme de leite e misture bem.",
+        "Se preferir, leve para bater no liquidificador.",
+        "Incorpore coco ralado e canela e sirva!"
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 44,
+    "carbs": 11,
+    "protein": 0,
+    "fat": 0,
+    "fiber": null,
+    "basis": "por 20 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "docinho-de-abobora-com-coco.jpg",
+    "alt": "Foto de Docinho de Abóbora com Coco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 25,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "e2-n20",
+  "slug": "bolo-de-quinoa-com-frutas-secas",
+  "title": "Bolo de Quinoa com Frutas Secas",
+  "description": "Uma explosão de texturas e sabores!",
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Quinoa cozida",
+      "items": [
+        "1 xícara de quinoa cozida e resfriada"
+      ]
+    },
+    {
+      "title": "Frutas secas",
+      "items": [
+        "1/2 xícara de mix: tâmaras, uvas-passas, damascos picados"
+      ]
+    },
+    {
+      "title": "Base",
+      "items": [
+        "1 1/2 xícara de farinha de arroz",
+        "3 ovos",
+        "Óleo",
+        "Mel",
+        "Fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture a quinoa cozida com os ingredientes líquidos batidos.",
+        "Adicione farinha e fermento.",
+        "Por último, incorpore as frutas secas picadas.",
+        "Asse a 180°C por 45 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "O texto original diz: \"Uma explosão de texturas e sabores nutritivos!\" e \"Este bolo é rico em proteínas e fibras!\"."
+    ]
+  },
+  "relatedRecipes": []
+}

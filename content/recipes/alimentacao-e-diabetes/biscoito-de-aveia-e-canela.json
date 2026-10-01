@@ -1,0 +1,85 @@
+{
+  "id": "p2-p67",
+  "slug": "biscoito-de-aveia-e-canela",
+  "title": "Biscoito de Aveia e Canela",
+  "description": "Crocante por fora, levemente macio por dentro e perfumado com canela, este biscoito de aveia é uma opção para os lanches do dia a dia. Fácil de preparar, em uma receita leve e equilibrada.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de aveia em flocos finos",
+        "1/2 xícara de farinha de aveia",
+        "1/4 xícara de adoçante culinário (siga a medida do fabricante)",
+        "1/4 xícara de óleo de coco ou azeite de oliva",
+        "1 ovo",
+        "1 colher (chá) de essência de baunilha (opcional)",
+        "1 colher (chá) de canela em pó",
+        "1/4 colher (chá) de fermento em pó",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Pré-aqueça o forno a 180 °C e forre uma assadeira com papel-manteiga.",
+        "Em uma tigela, misture a aveia, a farinha de aveia, o adoçante, a canela, o fermento e o sal.",
+        "Em outra tigela, bata o ovo com o óleo de coco e a essência de baunilha.",
+        "Despeje os ingredientes líquidos sobre os secos e misture até formar uma massa homogênea.",
+        "Com uma colher, modele os biscoitos e disponha na assadeira, deixando espaço entre eles.",
+        "Asse por cerca de 15 a 20 minutos, ou até dourarem levemente. Deixe esfriar antes de servir e armazenar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "14 unidades",
+  "servingSize": "2 biscoitos",
+  "nutrition": {
+    "calories": null,
+    "carbs": 12,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "biscoito-de-aveia-e-canela.jpg",
+    "alt": "Foto de Biscoito de Aveia e Canela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 67,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

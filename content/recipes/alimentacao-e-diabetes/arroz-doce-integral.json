@@ -1,0 +1,74 @@
+{
+  "id": "card-p30",
+  "slug": "arroz-doce-integral",
+  "title": "Arroz Doce - Integral",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de chá (308g) de Arroz integral",
+        "1 pitada de Sal",
+        "5 xícaras de chá (750ml) de leite desnatado quente",
+        "Pelo menos 3 xícaras de chá, água suficiente para cobrir o arroz",
+        "4 colheres de sopa (100g) de manteiga",
+        "4 colheres de sopa (17,5g) de adoçante p/ forno e fogão",
+        "Canela em pó a gosto",
+        "2 unidades de Cravo"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lavar bem o arroz.",
+        "Levar ao fogo com sal e água suficiente para cobri-lo.",
+        "Deixar cozinhar sem mexer.",
+        "Quando estiver quase cozido, acrescentar o leite, o adoçante.",
+        "Deixar cozinhando e mexer com cuidado para não esmigalhar os grãos até aparecer o fundo da panela."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "11 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 158.8,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "arroz-doce-integral.jpg",
+    "alt": "Foto de Arroz Doce - Integral",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 30,
+    "originalTitle": "ARROZ DOCE - INTEGRAL"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

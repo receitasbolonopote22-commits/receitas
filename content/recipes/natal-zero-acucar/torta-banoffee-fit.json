@@ -1,0 +1,70 @@
+{
+  "id": "e3-n55",
+  "slug": "torta-banoffee-fit",
+  "title": "Torta Banoffee Fit",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": "Base",
+      "items": [
+        "1 1/2 xícara amêndoas trituradas",
+        "3 colheres xilitol",
+        "2 colheres ghee"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "Doce de leite zero açúcar",
+        "3 bananas fatiadas"
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "items": [
+        "Chantilly de coco"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Pressione base em forma.",
+        "Espalhe doce de leite, cubra com bananas.",
+        "Finalize com chantilly.",
+        "Refrigere 4 horas antes de servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

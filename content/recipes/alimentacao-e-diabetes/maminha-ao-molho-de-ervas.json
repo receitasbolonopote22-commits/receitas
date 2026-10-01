@@ -1,0 +1,87 @@
+{
+  "id": "p1-p21",
+  "slug": "maminha-ao-molho-de-ervas",
+  "title": "Maminha ao Molho de Ervas",
+  "description": "Carne macia e aromática, com molho cremoso de ervas para uma refeição especial.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 maminha em peça",
+        "1 colher de chá de sal",
+        "2 dentes de alho amassados",
+        "1 colher de sopa de azeite de oliva",
+        "2 colheres de sopa de manjericão",
+        "2 colheres de sopa de salsa",
+        "2 colheres de sopa de tomilho",
+        "1 xícara de caldo de legumes",
+        "1 colher de sobremesa de amido de milho",
+        "1/2 embalagem de creme de leite light"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere a maminha com sal e alho.",
+        "Aqueça o azeite em uma panela de pressão e doure a carne por todos os lados.",
+        "Acrescente um pouco de água e cozinhe por cerca de 20 minutos.",
+        "Retire e corte em fatias.",
+        "Bata no liquidificador o manjericão, a salsa, o tomilho, o caldo de legumes e o amido de milho.",
+        "Leve ao fogo até engrossar.",
+        "Desligue, acrescente o creme de leite, misture e sirva sobre a carne fatiada."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 fatia média com molho",
+  "nutrition": {
+    "calories": null,
+    "carbs": 5,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Atenção ao molho e ao tamanho da porção para manter o equilíbrio da refeição."
+    }
+  ],
+  "image": {
+    "file": "maminha-ao-molho-de-ervas.jpg",
+    "alt": "Foto de Maminha ao Molho de Ervas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 21,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

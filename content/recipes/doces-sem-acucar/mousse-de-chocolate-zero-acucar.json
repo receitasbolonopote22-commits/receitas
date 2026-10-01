@@ -1,0 +1,74 @@
+{
+  "id": "b2-p38",
+  "slug": "mousse-de-chocolate-zero-acucar",
+  "title": "Mousse de Chocolate Zero Açúcar",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 ovos",
+        "1lata de creme de leite light",
+        "4 colh. (sopa) de adoçante culinário",
+        "200 g de chocolate meio amargo dietético"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça o creme de leite sem deixar ferver e acrescente o chocolate em pedacinhos.",
+        "Aguarde um pouco e mexa até ficar homogêneo.",
+        "Separar os ovos.",
+        "Bater as claras em neve e as gemas com o adoçante.",
+        "Adicione às gemas a mistura de chocolate e misture bem.",
+        "Adicione as claras aos poucos mexendo com cuidado para não perder o ar.",
+        "Coloque para gelar por no mínimo 4 horas."
+      ]
+    }
+  ],
+  "prepTime": 5,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "750 g (média)",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 93,
+    "carbs": 10,
+    "protein": 3.2,
+    "fat": 4.3,
+    "fiber": null,
+    "basis": "por 2 colheres de sopa (21g)",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "mousse-de-chocolate-zero-acucar.jpg",
+    "alt": "Foto de Mousse de Chocolate Zero Açúcar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 38,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

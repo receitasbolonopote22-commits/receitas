@@ -1,0 +1,72 @@
+{
+  "id": "card-p71",
+  "slug": "costeleta-com-ervas",
+  "title": "Costeleta com Ervas",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 folhas de louro",
+        "12 raminhos de tomilho fresco",
+        "12 costeletas de Porco",
+        "Sal e pimenta do reino a gosto",
+        "Molho chutney"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Esmigalhe as folhas de louro e pique o tomilho.",
+        "Misture-os e, com as mãos, esfregue-os por toda a superfície das costeletas.",
+        "Arrume-as numa travessa e deixe-as, em temperatura ambiente, por 1 hora.",
+        "Disponha as costeletas sobre a grelha da churrasqueira e asse-as por cerca de 20 minutos, virando-as com frequência para que dourem por igual.",
+        "Arrume-as numa travessa, salpique-as com sal e pimenta e sirva-as em seguida, ou à temperatura ambiente, acompanhadas de molho chutney."
+      ]
+    }
+  ],
+  "prepTime": 120,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 145.7,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "costeleta-com-ervas.jpg",
+    "alt": "Foto de Costeleta com Ervas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 71,
+    "originalTitle": "COSTELETA COM ERVAS"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

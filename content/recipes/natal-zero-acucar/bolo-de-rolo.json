@@ -1,0 +1,64 @@
+{
+  "id": "e3-n84",
+  "slug": "bolo-de-rolo",
+  "title": "Bolo de Rolo",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "6 ovos separados",
+        "1/2 xícara xilitol",
+        "1 xícara farinha amêndoas"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "Goiabada zero açúcar derretida"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata gemas com xilitol, adicione farinha.",
+        "Incorpore claras em neve.",
+        "Asse fino em assadeira 180°C 10min.",
+        "Espalhe goiabada, enrole ainda quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 10,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

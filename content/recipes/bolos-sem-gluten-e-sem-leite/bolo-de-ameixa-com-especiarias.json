@@ -1,0 +1,62 @@
+{
+  "id": "e2-n17",
+  "slug": "bolo-de-ameixa-com-especiarias",
+  "title": "Bolo de Ameixa com Especiarias",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 1/2 xícara de ameixas secas hidratadas",
+        "2 xícaras de farinha de aveia",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "1/2 xícara de suco de laranja",
+        "1 colher de chá de canela",
+        "1/2 colher de chá de cravo",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Hidrate as ameixas em água quente por 15 minutos.",
+        "Triture com suco de laranja.",
+        "Bata com ovos e óleo.",
+        "Adicione farinha, especiarias e fermento.",
+        "Asse a 180°C por 45 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

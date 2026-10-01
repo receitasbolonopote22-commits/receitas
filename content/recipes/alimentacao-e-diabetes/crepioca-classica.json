@@ -1,0 +1,78 @@
+{
+  "id": "p2-p23",
+  "slug": "crepioca-classica",
+  "title": "Crepioca Clássica",
+  "description": "Simples, leve e cheia de sabor. A crepioca clássica é perfeita para um café da manhã nutritivo ou um lanche prático em qualquer momento do dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 ovo",
+        "2 colheres de sopa de goma de tapioca",
+        "1 colher de sopa de requeijão light ou queijo branco cremoso",
+        "Pitada de sal",
+        "Opcional: orégano ou ervas"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata o ovo com a goma de tapioca e o sal.",
+        "Despeje em frigideira antiaderente aquecida e cozinhe dos dois lados até firmar.",
+        "Recheie com requeijão light ou queijo branco cremoso e dobre ao meio."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 unidade média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A tapioca tem absorção rápida; combine com proteínas e fibras ao longo do dia."
+    }
+  ],
+  "image": {
+    "file": "crepioca-classica.jpg",
+    "alt": "Foto de Crepioca Clássica",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 23,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

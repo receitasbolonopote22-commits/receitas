@@ -1,0 +1,63 @@
+{
+  "id": "b3-p10",
+  "slug": "bolinho-de-frango-low-carb",
+  "title": "Bolinho de Frango Low Carb",
+  "description": null,
+  "collections": [
+    "low-carb"
+  ],
+  "categories": [
+    "almoco",
+    "jantar",
+    "lanches"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "100 g. frango cozido",
+        "100 g. couve-flor cozido",
+        "1 colh. (sopa) temperos secos",
+        "Sal rosa a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Processe os ingredientes juntos até virar uma pasta.",
+        "Faça 3 bolinhos com as mãos.",
+        "Asse em forno pré aquecido a 200°C por cerca de 10 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "bolinho-de-frango-low-carb.jpg",
+    "alt": "Foto de Bolinho de Frango Low Carb",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 3 - Receitas Low Carb.pdf",
+    "page": 10,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

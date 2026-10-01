@@ -1,0 +1,82 @@
+{
+  "id": "p1-p45",
+  "slug": "frango-com-ervas-e-farelo-de-aveia",
+  "title": "Frango com Ervas e Farelo de Aveia",
+  "description": "Frango assado com crosta leve e tempero aromático, ideal para uma refeição prática e equilibrada.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 filé de frango (cerca de 100 g)",
+        "1/2 dente de alho amassado",
+        "Azeite de oliva extravirgem",
+        "1 ovo batido",
+        "1 xícara de chá de farelo de aveia",
+        "Suco de limão a gosto",
+        "Ervas secas a gosto",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere o frango com suco de limão, alho, sal, pimenta e um fio de azeite.",
+        "Passe o filé no ovo batido temperado com ervas.",
+        "Em seguida, empane no farelo de aveia.",
+        "Asse em forno bem quente por cerca de 30 minutos, ou até dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 filé",
+  "nutrition": {
+    "calories": null,
+    "carbs": 11,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O farelo de aveia contribui com carboidratos; encaixe a porção no plano alimentar."
+    }
+  ],
+  "image": {
+    "file": "frango-com-ervas-e-farelo-de-aveia.jpg",
+    "alt": "Foto de Frango com Ervas e Farelo de Aveia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 45,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

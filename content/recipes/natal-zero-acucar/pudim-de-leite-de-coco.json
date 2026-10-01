@@ -1,0 +1,60 @@
+{
+  "id": "e3-n71",
+  "slug": "pudim-de-leite-de-coco",
+  "title": "Pudim de Leite de Coco",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 latas leite de coco",
+        "4 ovos",
+        "1/2 xícara xilitol",
+        "1 colher essência baunilha. Calda: 1/2 xícara xilitol",
+        "1/4 xícara água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Faça calda levando xilitol e água ao fogo até dourar, despeje em forma de pudim.",
+        "Bata leite, ovos, xilitol e baunilha.",
+        "Despeje na forma.",
+        "Asse em banho-maria a 180°C por 50-60min.",
+        "Desenforme frio."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

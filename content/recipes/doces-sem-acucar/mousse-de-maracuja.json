@@ -1,0 +1,82 @@
+{
+  "id": "b2-p32",
+  "slug": "mousse-de-maracuja",
+  "title": "Mousse de Maracujá",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "100 g de uva passa",
+        "100 g de cookie integral",
+        "3 colh. (sopa) de manteiga ghee",
+        "50 g de de castanhas"
+      ]
+    },
+    {
+      "title": "Mousse",
+      "items": [
+        "200 g de biomassa de banana verde",
+        "100 ml de suco de maracujá",
+        "2 colh. (sopa) de stevia",
+        "1 colh. (sopa) de gelatina incolor"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Triture os ingredientes da massa até virar uma farofa.",
+        "Adicione essa base na forma da sua preferência. cobrindo todo o fundo e as bordas.",
+        "Leve na geladeira por alguns minutos.",
+        "Enquanto isso prepare a gelatina conforme instruções da embalagem.",
+        "Processe todos os ingredientes da mousse e despeje por cima da massa na geladeira.",
+        "Deixe por mais três horas, enfeite com sementes de maracujá e sirva."
+      ]
+    }
+  ],
+  "prepTime": 180,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "12 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 217,
+    "carbs": 29.13,
+    "protein": 3.76,
+    "fat": 10.4,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "mousse-de-maracuja.jpg",
+    "alt": "Foto de Mousse de Maracujá",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 32,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

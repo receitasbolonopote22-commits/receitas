@@ -1,0 +1,73 @@
+{
+  "id": "b2-p37",
+  "slug": "mousse-de-abacate-tofu-e-chocolate",
+  "title": "Mousse de Abacate, Tofu e Chocolate",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1/2 abacate",
+        "1/2 xícara de chocolate meio- amargo em barra picado ou em gotas",
+        "1/2 colher (chá) de canela",
+        "1/2 colher (chá) de extrato de baunilha",
+        "1/2 colher (chá) de stevia (ou a gosto)",
+        "1 xícara de tofu extra soft"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes no liquidificador ou processador de alimentos até obter um creme homogêneo e espesso.",
+        "Adicionar o chocolate derretido e misturar até ficar um creme homogêneo.",
+        "Colocar a mistura em um recipiente de vidro e tampar ou cobrir com filme plástico.",
+        "Se desejar, pode ser colocada em taças individuais e também pode servir como recheio ou cobertura de bolos."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 206,
+    "carbs": 21,
+    "protein": 5,
+    "fat": 12,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "mousse-de-abacate-tofu-e-chocolate.jpg",
+    "alt": "Foto de Mousse de Abacate, Tofu e Chocolate",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 37,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

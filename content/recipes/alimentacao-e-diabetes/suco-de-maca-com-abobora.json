@@ -1,0 +1,82 @@
+{
+  "id": "p1-p70",
+  "slug": "suco-de-maca-com-abobora",
+  "title": "Suco de Maçã com Abóbora",
+  "description": "Uma combinação diferente e nutritiva, com maçã, abóbora e toque de gengibre.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 maçãs com casca",
+        "1 xícara de chá de abóbora crua em cubos",
+        "1 xícara de chá de suco de limão",
+        "1 colher de sopa de sementes de girassol",
+        "Folhas de hortelã a gosto",
+        "1 cm de gengibre",
+        "Água, se necessário"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte as maçãs em pedaços e retire apenas as sementes.",
+        "Coloque todos os ingredientes no liquidificador.",
+        "Bata até ficar homogêneo.",
+        "Se necessário, adicione um pouco de água para deixar mais leve.",
+        "Sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos pequenos",
+  "servingSize": "1 copo pequeno (180 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não precisa de adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Maçã e abóbora fornecem carboidratos naturais; mantenha a porção adequada."
+    }
+  ],
+  "image": {
+    "file": "suco-de-maca-com-abobora.jpg",
+    "alt": "Foto de Suco de Maçã com Abóbora",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 70,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

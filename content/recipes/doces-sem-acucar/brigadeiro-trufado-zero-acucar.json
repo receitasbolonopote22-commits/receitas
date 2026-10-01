@@ -1,0 +1,71 @@
+{
+  "id": "b2-p16",
+  "slug": "brigadeiro-trufado-zero-acucar",
+  "title": "Brigadeiro Trufado Zero Açúcar",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 receita de leite condensado DIET",
+        "2 gemas peneiradas",
+        "3 colh. (sopa) de chocolate em pó",
+        "80g de chocolate meio amargo em tablete"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Leve ao fogo uma panela com o leite condensado diet, as gemas e o chocolate em pó e fique mexendo até engrossar (cerca de 10 minutos).",
+        "Quando soltar do fundo da panela, jogue o chocolate meio amargo, misture por mais 2 minutos.",
+        "Despeje num prato untado com óleo vegetal e espere esfriar.",
+        "Enrole como brigadeiros."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "30 unidades",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 84,
+    "carbs": 11,
+    "protein": 2,
+    "fat": 3,
+    "fiber": null,
+    "basis": "por 20 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "brigadeiro-trufado-zero-acucar.jpg",
+    "alt": "Foto de Brigadeiro Trufado Zero Açúcar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 16,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

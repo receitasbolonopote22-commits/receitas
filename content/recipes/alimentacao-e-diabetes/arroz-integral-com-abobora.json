@@ -1,0 +1,82 @@
+{
+  "id": "p1-p85",
+  "slug": "arroz-integral-com-abobora",
+  "title": "Arroz Integral com Abóbora",
+  "description": "Uma combinação simples e acolhedora, com arroz integral e abóbora para um acompanhamento nutritivo.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "acompanhamentos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de chá de arroz integral",
+        "1 xícara de chá de abóbora picada",
+        "1 colher de sopa de azeite",
+        "2 dentes de alho picados",
+        "1 cebola pequena picada",
+        "2 xícaras de chá de água quente",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Refogue a cebola e o alho no azeite até dourarem.",
+        "Adicione a abóbora e refogue por alguns minutos.",
+        "Acrescente o arroz, mexa bem e adicione a água quente e o sal.",
+        "Cozinhe em fogo baixo até o arroz ficar macio e a água secar.",
+        "Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "3/4 de xícara por refeição",
+  "nutrition": {
+    "calories": null,
+    "carbs": 28,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O arroz integral e a abóbora fornecem carboidratos; consuma com equilíbrio."
+    }
+  ],
+  "image": {
+    "file": "arroz-integral-com-abobora.jpg",
+    "alt": "Foto de Arroz Integral com Abóbora",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 85,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": "p2-p33",
+  "slug": "cha-de-quebra-pedra",
+  "title": "Chá de Quebra-Pedra",
+  "description": "Um chá de ervas quente, tradicionalmente apreciado em rotinas saudáveis.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [
+    "cha"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 colher de sopa de quebra-pedra seca (pode ser inteira ou picada)",
+        "2 xícaras de água filtrada",
+        "Suco de 1/2 limão (opcional)",
+        "Canela em pau (opcional)",
+        "Folhas de hortelã (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Ferva a água e desligue o fogo.",
+        "Adicione a quebra-pedra e a canela, se for usar.",
+        "Tampe e deixe em infusão por 10 minutos.",
+        "Coe, adicione o suco de limão e as folhas de hortelã, se desejar.",
+        "Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 xícaras",
+  "servingSize": "1 xícara",
+  "nutrition": {
+    "calories": null,
+    "carbs": 0,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Pessoas com problemas renais devem consultar um profissional de saúde antes do consumo regular."
+    }
+  ],
+  "image": {
+    "file": "cha-de-quebra-pedra.jpg",
+    "alt": "Foto de Chá de Quebra-Pedra",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 33,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

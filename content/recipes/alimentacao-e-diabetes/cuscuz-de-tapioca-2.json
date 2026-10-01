@@ -1,0 +1,71 @@
+{
+  "id": "card-p5",
+  "slug": "cuscuz-de-tapioca-2",
+  "title": "Cuscuz de Tapioca",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 xícaras de chá (592g) de Leite desnatado",
+        "1 vidro (200ml) de Leite de coco diet",
+        "1 pacote (500g) de Tapioca (Grãos)",
+        "6 colheres de sopa cheias (25g) Adoçante p/ forno e fogão",
+        "½ colher de café de Sal",
+        "1 pacote (100g) de Coco ralado desengordurado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aquecer o leite desnatado e o leite de coco diet até o ponto de fervura juntamente com o adoçante e o sal.",
+        "Em uma travessa, colocar a tapioca com coco ralado e misturar (guardar um pouco para colocar em cima do cuscuz).",
+        "Acrescentar os leites, misturar bem, colocar o restante do coco ralado por cima e deixar repousar por no mínimo 1 hora ou até que a tapioca tenha absorvido todo o líquido."
+      ]
+    }
+  ],
+  "prepTime": 35,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "15 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 184,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "cuscuz-de-tapioca-2.jpg",
+    "alt": "Foto de Cuscuz de Tapioca",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 5,
+    "originalTitle": "CUSCUZ DE TAPIOCA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

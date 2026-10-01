@@ -1,0 +1,94 @@
+{
+  "id": "card-p28",
+  "slug": "crepe-com-geleia-de-morango",
+  "title": "Crepe com Geleia de Morango",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "1 xícara de chá (70g) de Farinha de trigo especial",
+        "1 xícara de chá (70ml) de Farinha de trigo integral",
+        "½ colher de café de Sal",
+        "2 Ovos (120g)",
+        "1½ xícara de chá (250ml) de Leite desnatado"
+      ]
+    },
+    {
+      "title": "Geleia diet",
+      "items": [
+        "3 unidades (390g) de Maçãs verdes",
+        "2 unidades (260g) de Maçãs vermelhas",
+        "30 unidades (450g) de Morango",
+        "35g de Suco de limão",
+        "1 colher de café de Agar-agar",
+        "2 colheres de sopa (20g) de Adoçante Stevia",
+        "1 colher de sopa (5g) de Água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Massa",
+      "steps": [
+        "Misturar todos os ingredientes no liquidificador.",
+        "Untar uma frigideira com uma colher de chá de óleo.",
+        "Despejar uma concha pequena da massa na frigideira quente.",
+        "Moldar em forma de círculo e virar a massa quando já estiver corada."
+      ]
+    },
+    {
+      "title": "Geleia diet",
+      "steps": [
+        "Colocar as maçãs numa panela e acrescentar o suco de limão e a água.",
+        "Cozinhar lentamente até começar a ferver.",
+        "Tampar a panela e cozinhar por mais 15 minutos, mexer de vez em quando para a maçã ficar macia.",
+        "Adicionar os morangos e misturar bem.",
+        "Tampar a panela e cozinhar em fogo baixo durante 30 minutos mexendo de vez em quando até a fruta ficar cozida.",
+        "Juntar o agar-agar até se dissolver completamente.",
+        "Desligar o fogo e colocar o adoçante."
+      ]
+    }
+  ],
+  "prepTime": 90,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "15 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 50,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "crepe-com-geleia-de-morango.jpg",
+    "alt": "Foto de Crepe com Geleia de Morango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 28,
+    "originalTitle": "CREPE COM GELEIA DE MORANGO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

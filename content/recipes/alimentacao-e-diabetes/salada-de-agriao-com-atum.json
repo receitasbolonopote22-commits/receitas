@@ -1,0 +1,86 @@
+{
+  "id": "p1-p23",
+  "slug": "salada-de-agriao-com-atum",
+  "title": "Salada de Agrião com Atum",
+  "description": "Salada fresca, saborosa e rica em contraste de texturas, ideal para uma refeição leve.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 maço de agrião",
+        "1 lata de atum escorrido",
+        "1 pimentão amarelo em tiras",
+        "100 g de tomate seco",
+        "1 xícara de chá de croutons integrais",
+        "1 gema pasteurizada",
+        "1 dente de alho picado",
+        "1 gema cozida",
+        "Sal a gosto",
+        "1/2 xícara de chá de azeite de oliva",
+        "2 colheres de sopa de queijo parmesão ralado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma saladeira, coloque o agrião, o atum, o pimentão, o tomate seco e os croutons.",
+        "Misture a gema pasteurizada com o alho até formar uma base cremosa.",
+        "Acrescente a gema cozida amassada, o sal e, aos poucos, o azeite, misturando bem até emulsificar.",
+        "Sirva o molho sobre a salada e finalize com o queijo parmesão."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato de sobremesa",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Os croutons e o tomate seco aumentam o teor de carboidratos e sódio; controle a porção."
+    }
+  ],
+  "image": {
+    "file": "salada-de-agriao-com-atum.jpg",
+    "alt": "Foto de Salada de Agrião com Atum",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 23,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "b3-p13",
+  "slug": "sopa-low-carb",
+  "title": "Sopa Low Carb",
+  "description": null,
+  "collections": [
+    "low-carb"
+  ],
+  "categories": [
+    "sopas-e-cremes",
+    "almoco",
+    "jantar"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 abobrinhas",
+        "1 maço de agrião",
+        "1 buque de couve-flor",
+        "½ cebola",
+        "4 colh. (sopa) temperos secos",
+        "2 litros de água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque todos os ingrediente em uma panela grande com tampa.",
+        "Cozinhe em fogo alto por 15 minutos.",
+        "Espere esfriar e bata tudo no liquidificador."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "sopa-low-carb.jpg",
+    "alt": "Foto de Sopa Low Carb",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 3 - Receitas Low Carb.pdf",
+    "page": 13,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "p2-p35",
+  "slug": "cha-de-insulina-vegetal",
+  "title": "Chá de Insulina Vegetal",
+  "description": "Uma infusão tradicional de ervas, frequentemente incluída em rotinas de bem-estar.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [
+    "cha"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "10 folhas frescas de insulina vegetal",
+        "500 ml de água filtrada",
+        "1 ramo de canela",
+        "2 cravos-da-índia",
+        "1 fatia fina de gengibre (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave bem as folhas de insulina vegetal.",
+        "Em uma panela, ferva a água com a canela, os cravos e o gengibre por 5 minutos.",
+        "Adicione as folhas de insulina vegetal, desligue o fogo e tampe.",
+        "Deixe em infusão por 10 minutos.",
+        "Coe e sirva morno ou frio."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 a 3 xícaras",
+  "servingSize": "1 xícara (200 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": null,
+    "approximate": true,
+    "raw": [
+      "Carboidratos aproximados: 0 a 1 g por porção"
+    ]
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Prefira sem adoçante. Se desejar, use estévia ou eritritol em pequena quantidade."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Consuma com moderação e combine com uma alimentação equilibrada."
+    }
+  ],
+  "image": {
+    "file": "cha-de-insulina-vegetal.jpg",
+    "alt": "Foto de Chá de Insulina Vegetal",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 35,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O nome popular da planta (\"insulina vegetal\") pode sugerir efeito terapêutico; revisar a forma de apresentação antes de destacar esta receita."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

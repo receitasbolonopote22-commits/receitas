@@ -1,0 +1,63 @@
+{
+  "id": "e2-n10",
+  "slug": "bolo-de-limao-siciliano",
+  "title": "Bolo de Limão Siciliano",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Base cítrica",
+      "items": [
+        "2 xícaras de farinha de amêndoas",
+        "Suco e raspas de 2 limões sicilianos",
+        "1/2 xícara de mel"
+      ]
+    },
+    {
+      "title": "Estrutura",
+      "items": [
+        "4 ovos",
+        "1/2 xícara de óleo de coco",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Finalização",
+      "steps": [
+        "Asse a 180°C por 35 minutos. Deixe esfriar e regue com suco de limão fresco."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O material original não descreve como misturar os ingredientes, apenas a finalização (assar e regar com suco de limão)."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

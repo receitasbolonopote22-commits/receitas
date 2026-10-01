@@ -1,0 +1,78 @@
+{
+  "id": "p1-p66",
+  "slug": "suco-de-goiaba-com-limao",
+  "title": "Suco de Goiaba com Limão",
+  "description": "Frutado e cítrico, une goiaba e limão em uma bebida intensa e refrescante.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 goiabas descascadas",
+        "Suco de 2 limões",
+        "150 ml de água gelada, se necessário",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte as goiabas em pedaços.",
+        "Bata as goiabas com o suco de limão no liquidificador.",
+        "Acrescente água apenas se precisar ajustar a textura.",
+        "Sirva em seguida, de preferência sem adoçar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos pequenos",
+  "servingSize": "1 copo pequeno (180 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 16,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Idealmente não adoçar; se desejar, use pequena quantidade de sucralose."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Por conter frutas, possui carboidratos naturais; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "suco-de-goiaba-com-limao.jpg",
+    "alt": "Foto de Suco de Goiaba com Limão",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 66,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

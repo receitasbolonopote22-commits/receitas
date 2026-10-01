@@ -1,0 +1,87 @@
+{
+  "id": "p1-p83",
+  "slug": "picadinho-de-carne-magra-com-chuchu",
+  "title": "Picadinho de Carne Magra com Chuchu",
+  "description": "Um prato caseiro e reconfortante, com carne magra em cubos e chuchu cozido em molho leve.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "400 g de carne magra (patinho ou alcatra) em cubos",
+        "1 chuchu grande em cubos",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite (15 ml)",
+        "1 tomate picado",
+        "Sal e pimenta a gosto",
+        "Salsinha a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Refogue o alho e a cebola no azeite.",
+        "Adicione a carne e deixe dourar.",
+        "Acrescente o tomate, o chuchu e um pouco de água.",
+        "Tampe a panela e cozinhe em fogo baixo até o chuchu amolecer.",
+        "Ajuste o sal e a pimenta.",
+        "Finalize com salsinha e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O ideal é equilibrar a refeição com vegetais e controlar os acompanhamentos."
+    }
+  ],
+  "image": {
+    "file": "picadinho-de-carne-magra-com-chuchu.jpg",
+    "alt": "Foto de Picadinho de Carne Magra com Chuchu",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 83,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "No material original, esta receita está com o selo \"Chá funcional\", que não corresponde ao prato; a categoria foi ajustada para almoço/jantar."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

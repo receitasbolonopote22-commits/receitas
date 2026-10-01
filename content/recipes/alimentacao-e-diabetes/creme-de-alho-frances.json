@@ -1,0 +1,84 @@
+{
+  "id": "p1-p30",
+  "slug": "creme-de-alho-frances",
+  "title": "Creme de Alho-Francês",
+  "description": "Delicado e suave, é uma opção aconchegante para um jantar mais leve.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sopas-e-cremes",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "100 g de abóbora",
+        "200 g de alho-francês",
+        "100 g de abobrinha",
+        "150 g de batata",
+        "1 cebola",
+        "1 pitada de sal",
+        "2 colheres de sopa de azeite extra virgem",
+        "Coentro a gosto",
+        "Água a gosto apenas para dar corpo"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte os legumes em pequenos pedaços e coloque em uma panela.",
+        "Adicione água até cobrir e cozinhe até que tudo fique macio.",
+        "Junte o coentro e bata até formar um creme homogêneo.",
+        "Finalize com o azeite e mexa bem antes de servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 tigela média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 11,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A batata contribui com carboidratos; planeje a porção dentro da refeição."
+    }
+  ],
+  "image": {
+    "file": "creme-de-alho-frances.jpg",
+    "alt": "Foto de Creme de Alho-Francês",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 30,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

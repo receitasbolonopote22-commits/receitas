@@ -1,0 +1,85 @@
+{
+  "id": "card-p62",
+  "slug": "peru-recheado-com-batata",
+  "title": "Peru Recheado com Batata",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 peru temperado",
+        "2 colheres (sopa) de manteiga"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "3 pimentões (verde, amarelo e vermelho)",
+        "1 cebola",
+        "500 g de batata em cubinhos",
+        "200 g de peito de peru defumado picadinho"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Numa assadeira grande, coloque o peru e pincele todo o interior com metade da manteiga.",
+        "Coloque o recheio na cavidade do peru. Unte-o com a manteiga restante e cubra-o com papel alumínio.",
+        "Leve-o ao forno preaquecido a 200°C e asse por cerca de 3h30.",
+        "Retire o papel e, regando de vez em quando com o molho que se formou na assadeira, deixe por mais 30 minutos.",
+        "Retire-o do forno e coloque-o na travessa de servir. Acompanhe-o com o purê de legumes."
+      ]
+    },
+    {
+      "title": "Recheio",
+      "steps": [
+        "Corte os pimentões em pequenos pedaços.",
+        "Acrescente a cebola picadinha, a batata e o peito de peru; misture bem e utilize."
+      ]
+    }
+  ],
+  "prepTime": 240,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 512.6,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "peru-recheado-com-batata.jpg",
+    "alt": "Foto de Peru Recheado com Batata",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 62,
+    "originalTitle": "PERU RECHEADO COM BATATA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

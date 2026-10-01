@@ -1,0 +1,89 @@
+{
+  "id": "card-p85",
+  "slug": "galantina-de-frango",
+  "title": "Galantina de Frango",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "300 g de peito de frango cozido e desfiado",
+        "Óleo de coco ou azeite de oliva a gosto",
+        "Sal e pimenta do reino a gosto",
+        "1 pacotinho de gelatina sem sabor",
+        "½ litro de caldo de galinha",
+        "300 g de cenoura cozida em rodelas",
+        "4 galhos de salsinha",
+        "400 g de vagem cozida em rodelas finas",
+        "10 azeitonas verdes picadas"
+      ]
+    },
+    {
+      "title": "Para decorar",
+      "items": [
+        "½ xícara (chá) de palmito picadinho",
+        "½ xícara (chá) de ervilha",
+        "½ xícara (chá) de milho"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque numa tigela o frango, tempere com óleo, sal e pimenta.",
+        "Deixe repousar por 1 hora.",
+        "Dissolva a gelatina em 1 xícara (chá) de água quente e junte aos poucos o caldo de galinha. Mexa bem e reserve.",
+        "Pegue uma fôrma para pão, molhe com água e despeje um pouco da mistura do caldo.",
+        "Decore com a cenoura e a salsinha, leve ao freezer para endurecer.",
+        "Depois coloque uma camada de frango, a vagem e a azeitona.",
+        "Coloque um pouco mais da mistura do caldo e leve ao freezer.",
+        "Repita a operação até terminar os ingredientes a última camada deverá ser de gelatina.",
+        "Desenforme a galantina, enrolando por alguns instantes a fôrma num pano molhado com água quente ou coloque-a no vapor de uma panela com água quente.",
+        "Vire a fôrma sobre o prato em que irá servir e decore ao redor com o palmito, a ervilha e o milho."
+      ]
+    }
+  ],
+  "prepTime": 90,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 189.1,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "galantina-de-frango.jpg",
+    "alt": "Foto de Galantina de Frango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 85,
+    "originalTitle": "GALANTINA DE FRANGO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

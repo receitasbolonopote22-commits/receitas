@@ -1,0 +1,79 @@
+{
+  "id": "p2-p36",
+  "slug": "tangerina-com-gengibre",
+  "title": "Tangerina com Gengibre",
+  "description": "Leve, cítrica e levemente picante, esta bebida une o frescor da tangerina com o toque do gengibre.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 tangerinas sem sementes",
+        "1 pequeno pedaço de gengibre fresco",
+        "200 ml de água gelada",
+        "Gelo a gosto",
+        "Adoçante culinário opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador até obter uma bebida homogênea.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar de acordo com o paladar."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo bebidas naturais devem ser consumidas com moderação."
+    }
+  ],
+  "image": {
+    "file": "tangerina-com-gengibre.jpg",
+    "alt": "Foto de Tangerina com Gengibre",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 36,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"une o frescor da tangerina com o toque revigorante do gengibre. Perfeita para refrescar e cuidar do seu bem-estar\"."
+    ]
+  },
+  "relatedRecipes": []
+}

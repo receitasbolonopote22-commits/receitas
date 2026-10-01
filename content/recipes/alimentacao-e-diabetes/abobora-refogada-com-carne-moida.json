@@ -1,0 +1,83 @@
+{
+  "id": "p2-p11",
+  "slug": "abobora-refogada-com-carne-moida",
+  "title": "Abóbora Refogada com Carne Moída",
+  "description": "Uma combinação simples e acolhedora, com carne moída magra e cubos macios de abóbora refogada.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "400 g de carne moída magra",
+        "300 g de abóbora em cubos",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "Sal e pimenta a gosto",
+        "Salsa a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Refogue a cebola e o alho no azeite até dourar.",
+        "Adicione a carne moída, tempere com sal e pimenta, e cozinhe até dourar.",
+        "Acrescente a abóbora e refogue até ficar macia.",
+        "Finalize com salsa picada.",
+        "Sirva acompanhado de arroz integral."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato pequeno",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A abóbora contém carboidratos naturais; ajuste a porção."
+    }
+  ],
+  "image": {
+    "file": "abobora-refogada-com-carne-moida.jpg",
+    "alt": "Foto de Abóbora Refogada com Carne Moída",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 11,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

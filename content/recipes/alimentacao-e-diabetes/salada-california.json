@@ -1,0 +1,92 @@
+{
+  "id": "p2-p83",
+  "slug": "salada-california",
+  "title": "Salada Califórnia",
+  "description": "Leve, crocante e colorida, a Salada Califórnia combina frutas frescas, vegetais e oleaginosas. Perfeita para refeições leves, acompanhamentos ou como opção refrescante em dias quentes.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara (chá) de alface americana picada",
+        "1 xícara (chá) de rúcula",
+        "1/2 xícara (chá) de cenoura ralada",
+        "1/2 xícara (chá) de maçã verde em cubos (com casca)",
+        "1/2 xícara (chá) de aipo fatiado",
+        "1/4 xícara (chá) de uvas-passas escuras (sem açúcar)",
+        "1/4 xícara (chá) de nozes picadas",
+        "2 colheres (sopa) de queijo cottage ou ricota fresca esfarelada",
+        "2 colheres (sopa) de sementes de girassol ou abóbora",
+        "Suco de 1/2 limão",
+        "1 colher (sopa) de azeite de oliva extravirgem",
+        "Sal com moderação",
+        "Pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave bem todas as folhas e os vegetais e escorra.",
+        "Em uma tigela grande, misture a alface, a rúcula, a cenoura, a maçã e o aipo.",
+        "Acrescente as uvas-passas, as nozes, o queijo cottage e as sementes de girassol ou abóbora.",
+        "Em um potinho, misture o suco de limão, o azeite, o sal e a pimenta-do-reino para fazer o molho.",
+        "Regue a salada com o molho e misture delicadamente para envolver todos os ingredientes.",
+        "Sirva imediatamente para manter a crocância e o frescor."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato de sobremesa",
+  "nutrition": {
+    "calories": null,
+    "carbs": 16,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; esta receita não contém adoçantes."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "salada-california.jpg",
+    "alt": "Foto de Salada Califórnia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 83,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"em um prato rico em fibras, vitaminas e gorduras boas\"."
+    ]
+  },
+  "relatedRecipes": []
+}

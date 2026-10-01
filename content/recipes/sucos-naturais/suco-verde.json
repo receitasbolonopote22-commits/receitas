@@ -1,0 +1,62 @@
+{
+  "id": "sucos-p2",
+  "slug": "suco-verde",
+  "title": "Suco Verde",
+  "description": null,
+  "collections": [
+    "sucos-naturais"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 folha de couve",
+        "½ limão espremido",
+        "3 fatias de abacaxi",
+        "150 ml de água de coco (ou água, se preferir)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes no liquidificador. Beber a seguir, de preferência sem açúcar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Obs: não coar, pois elimina fontes de fibras."
+    }
+  ],
+  "image": {
+    "file": "suco-verde.jpg",
+    "alt": "Foto de Suco Verde",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Sucos.pdf",
+    "page": 2,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

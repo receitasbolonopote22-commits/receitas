@@ -1,0 +1,79 @@
+{
+  "id": "p1-p75",
+  "slug": "suco-de-maca-com-canela-limao-e-hortela",
+  "title": "Suco de Maçã com Canela, Limão e Hortelã",
+  "description": "Frutado e aromático, mistura maçã, canela, limão e hortelã em uma bebida leve e refrescante.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 maçã com casca",
+        "Suco de 1 limão",
+        "1 colher (chá) de canela em pó",
+        "Folhas de hortelã",
+        "200 ml de água filtrada"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata tudo no liquidificador.",
+        "Se quiser, coe levemente.",
+        "Sirva gelado.",
+        "O ideal é consumir sem adoçar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 a 2 copos",
+  "servingSize": "1 copo pequeno (180 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 14,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Prefira não adoçar; se necessário, use pequena quantidade de adoçante culinário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A maçã fornece carboidratos naturais; consuma com moderação."
+    }
+  ],
+  "image": {
+    "file": "suco-de-maca-com-canela-limao-e-hortela.jpg",
+    "alt": "Foto de Suco de Maçã com Canela, Limão e Hortelã",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 75,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

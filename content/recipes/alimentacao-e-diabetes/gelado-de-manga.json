@@ -1,0 +1,80 @@
+{
+  "id": "p2-p54",
+  "slug": "gelado-de-manga",
+  "title": "Gelado de Manga",
+  "description": "Refrescante, cremoso e naturalmente doce! Um gelado de manga feito com poucos ingredientes e perfeito para os dias quentes.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g de manga madura congelada (em cubos)",
+        "1/2 xícara de iogurte natural desnatado ou creme de leite light",
+        "Adoçante culinário a gosto (opcional)",
+        "1 colher de sopa de suco de limão",
+        "Folhas de hortelã para decorar (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque a manga congelada no liquidificador.",
+        "Adicione o iogurte (ou creme de leite light), o suco de limão e o adoçante, se for usar.",
+        "Bata até obter uma mistura cremosa e homogênea.",
+        "Transfira para taças ou um recipiente com tampa e leve ao freezer por 30 a 60 minutos para firmar um pouco mais, se desejar.",
+        "Sirva gelado, decorado com folhas de hortelã."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 taça pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 12,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Geralmente não é necessário, pois a manga já é naturalmente doce."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Contém açúcares naturais da fruta. Consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "gelado-de-manga.jpg",
+    "alt": "Foto de Gelado de Manga",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 54,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

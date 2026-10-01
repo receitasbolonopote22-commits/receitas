@@ -1,0 +1,79 @@
+{
+  "id": "p2-p29",
+  "slug": "quibe-vegetariano",
+  "title": "Quibe Vegetariano",
+  "description": "Saboroso, leve e bem temperado, esse quibe vegetariano é uma opção nutritiva para variar o cardápio com muito sabor.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de trigo para quibe",
+        "1 abobrinha média ralada",
+        "1 cenoura ralada",
+        "1/2 cebola picada",
+        "2 colheres de sopa de hortelã picada",
+        "1 colher de sopa de azeite de oliva",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Hidrate o trigo para quibe conforme a embalagem e escorra bem. Misture com os demais ingredientes, tempere e distribua em refratário untado. Leve ao forno até firmar e dourar levemente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Por conter trigo, ajuste a porção conforme sua rotina alimentar."
+    }
+  ],
+  "image": {
+    "file": "quibe-vegetariano.jpg",
+    "alt": "Foto de Quibe Vegetariano",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 29,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

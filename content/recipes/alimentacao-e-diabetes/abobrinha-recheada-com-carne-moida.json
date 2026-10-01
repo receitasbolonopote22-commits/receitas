@@ -1,0 +1,85 @@
+{
+  "id": "p2-p4",
+  "slug": "abobrinha-recheada-com-carne-moida",
+  "title": "Abobrinha Recheada com Carne Moída",
+  "description": "Uma opção leve e saborosa, com abobrinhas assadas e recheio de carne moída bem temperada.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 abobrinhas médias",
+        "300 g de carne moída magra (patinho ou músculo)",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 tomate picado",
+        "1 colher de sopa de azeite",
+        "Sal e pimenta a gosto",
+        "Salsa picada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte as abobrinhas ao meio, retire o miolo e reserve.",
+        "Refogue a cebola, alho e tomate no azeite até dourarem.",
+        "Adicione a carne moída, tempere com sal e pimenta, e cozinhe até dourar.",
+        "Acrescente o miolo da abobrinha picado e refogue junto com a carne.",
+        "Recheie as abobrinhas com a carne moída, leve ao forno por 20 minutos ou até a abobrinha amolecer.",
+        "Finalize com salsa."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 metade grande de abobrinha recheada",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Acompanhe com vegetais leves e planeje os acompanhamentos."
+    }
+  ],
+  "image": {
+    "file": "abobrinha-recheada-com-carne-moida.jpg",
+    "alt": "Foto de Abobrinha Recheada com Carne Moída",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 4,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

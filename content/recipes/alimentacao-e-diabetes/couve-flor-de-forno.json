@@ -1,0 +1,82 @@
+{
+  "id": "card-p84",
+  "slug": "couve-flor-de-forno",
+  "title": "Couve Flor de Forno",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar",
+    "acompanhamentos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500g de couve-flor lavada e separada em buques",
+        "500ml de água",
+        "1 envelope de caldo de carne em pó",
+        "1 tomate sem sementes e sem pele cortado em fatias finas",
+        "2 ovos",
+        "2 colheres (sopa) de leite desnatado",
+        "2 colheres (sopa) de queijo parmesão light ralado",
+        "Sal a gosto",
+        "2 colheres (sopa) salsinha",
+        "1 colher (sopa) de ervas finas",
+        "200g de cogumelos em conserva cortado em fatias",
+        "1 colher (sopa) de farinha de amêndoas ou floco de trigo"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe a couve-flor na água temperada com caldo de carne.",
+        "Escorra e coloque em um refratário.",
+        "Distribua as tiras de tomate por cima da couve-flor.",
+        "Bata os ovos na batedeira até espumar.",
+        "Retire da batedeira e acrescente o leite, o queijo, o sal, a salsinha, as ervas e os cogumelos.",
+        "Coloque esta mistura sobre a couve-flor.",
+        "Polvilhe a farinha e leve ao forno pré-aquecido (200°C) por aproximadamente 20 minutos."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "120 g (medida caseira)",
+  "nutrition": {
+    "calories": 41.13,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "couve-flor-de-forno.jpg",
+    "alt": "Foto de Couve Flor de Forno",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 84,
+    "originalTitle": "COUVE FLOR DE FORNO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

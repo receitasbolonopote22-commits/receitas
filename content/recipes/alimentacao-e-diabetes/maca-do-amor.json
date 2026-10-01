@@ -1,0 +1,84 @@
+{
+  "id": "p2-p53",
+  "slug": "maca-do-amor",
+  "title": "Maçã do Amor",
+  "description": "Clássica e irresistível, a Maçã do Amor ganha uma versão mais leve e equilibrada, sem perder seu brilho e crocância.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 maçãs pequenas e firmes (tipo gala ou fuji)",
+        "1 xícara (chá) de adoçante culinário adequado para preparo (ex.: eritritol ou xilitol culinário)",
+        "1/2 xícara (chá) de água",
+        "1 colher (sopa) de suco de limão",
+        "1/2 colher (chá) de corante alimentício vermelho (opcional)",
+        "1 envelope de gelatina sem sabor incolor (12 g) OU 2 colheres (sopa) de mix para calda leve (sem açúcar)",
+        "6 palitos de madeira",
+        "Canela em pó a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave bem as maçãs, seque e espete um palito de madeira no centro de cada uma. Reserve.",
+        "Em uma panela, misture a água, o adoçante e o suco de limão.",
+        "Leve ao fogo médio, mexendo até dissolver e começar a ferver.",
+        "Acrescente o corante (se for usar) e cozinhe até atingir o ponto de calda fina (aprox. 105 °C) ou até formar fios leves ao pingar da colher.",
+        "Desligue o fogo e adicione a gelatina sem sabor hidratada conforme as instruções da embalagem ou o mix para calda leve, mexendo bem.",
+        "Banhe as maçãs na calda, girando para cobrir toda a superfície. Deixe escorrer e secar sobre papel-manteiga até a calda ficar firme e brilhante."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 unidades",
+  "servingSize": "1 unidade",
+  "nutrition": {
+    "calories": null,
+    "carbs": 14,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por unidade",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Usar adoçante culinário apropriado para preparo."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de mais leve, ainda é uma sobremesa. Consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "maca-do-amor.jpg",
+    "alt": "Foto de Maçã do Amor",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": true,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 53,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

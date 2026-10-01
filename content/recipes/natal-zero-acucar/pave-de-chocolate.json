@@ -1,0 +1,58 @@
+{
+  "id": "e3-n26",
+  "slug": "pave-de-chocolate",
+  "title": "Pavê de Chocolate",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 receita de mousse de chocolate (receita 21)",
+        "200g biscoitos zero açúcar triturados",
+        "1/2 xícara de café forte frio",
+        "Cacau para polvilhar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Umedeça biscoitos no café.",
+        "Monte camadas alternadas de biscoito e mousse em refratário.",
+        "Finalize com mousse e polvilhe cacau.",
+        "Refrigere por 4 horas."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 4,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

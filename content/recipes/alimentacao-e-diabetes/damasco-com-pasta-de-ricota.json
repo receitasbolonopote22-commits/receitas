@@ -1,0 +1,84 @@
+{
+  "id": "p2-p74",
+  "slug": "damasco-com-pasta-de-ricota",
+  "title": "Damasco com Pasta de Ricota",
+  "description": "Leve, cremoso e naturalmente doce, este lanche une a suavidade da ricota com o sabor delicado do damasco. Textura macia, toque cítrico e crocância que faz toda a diferença. Uma opção prática e elegante para o dia a dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "lanches",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "12 damascos secos macios",
+        "150 g de ricota fresca",
+        "2 colheres (sopa) de iogurte natural sem açúcar",
+        "1 colher (chá) de melado zero ou adoçante culinário opcional",
+        "Raspas de limão a gosto",
+        "1 colher (sopa) de nozes picadas",
+        "Canela em pó ou ervas suaves a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Se os damascos estiverem muito secos, deixe-os de molho em água morna por 10 minutos e escorra.",
+        "Em uma tigela, amasse a ricota com um garfo até obter um creme homogêneo.",
+        "Acrescente o iogurte, o melado (ou adoçante), as raspas de limão e misture bem até ficar cremoso.",
+        "Recheie cada damasco com uma porção da pasta de ricota.",
+        "Finalize com as nozes picadas e, se desejar, polvilhe com canela ou ervas suaves para um toque especial.",
+        "Sirva imediatamente ou mantenha refrigerado até o momento de consumir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "12 unidades",
+  "servingSize": "2 unidades",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "damasco-com-pasta-de-ricota.jpg",
+    "alt": "Foto de Damasco com Pasta de Ricota",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 74,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

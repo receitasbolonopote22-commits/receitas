@@ -1,0 +1,77 @@
+{
+  "id": "b2-p48",
+  "slug": "quindim-zero-acucar",
+  "title": "Quindim Zero Açúcar",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "12 gemas",
+        "4 ovos inteiros",
+        "2 colh. (sopa) óleo de coco",
+        "¾ de xíc. de xilitol",
+        "¼ xíc. (chá) de coco ralado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata as gemas na batedeira em velocidade baixa, acrescente os ovos, o xilitol, o óleo de coco e bata por uns 5 minutos para incorporar bem.",
+        "Adicione o coco ralado.",
+        "Unte as formas com xilitol.",
+        "Só ele deixa brilhante.",
+        "Acrescente a mistura e deixe descansar por 5 minutos para o coco subir.",
+        "Coloque as forminhas dentro da assadeira.",
+        "Ferva a água e coloque na assadeira para banho- maria.",
+        "Leve ao forno a 180°C preaquecido.",
+        "Asse em média por 20 minutos ou até soltar na lateral."
+      ]
+    }
+  ],
+  "prepTime": 35,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "13 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 237,
+    "carbs": 2,
+    "protein": 10,
+    "fat": 22,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "quindim-zero-acucar.jpg",
+    "alt": "Foto de Quindim Zero Açúcar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 48,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

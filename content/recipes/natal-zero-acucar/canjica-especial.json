@@ -1,0 +1,60 @@
+{
+  "id": "e3-n77",
+  "slug": "canjica-especial",
+  "title": "Canjica Especial",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500g milho para canjica",
+        "2 latas leite de coco",
+        "1/2 xícara xilitol",
+        "Canela",
+        "Coco ralado",
+        "Amendoim torrado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe milho até macio.",
+        "Adicione leite de coco, xilitol e canela.",
+        "Cozinhe 20min.",
+        "Sirva com coco ralado e amendoim."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

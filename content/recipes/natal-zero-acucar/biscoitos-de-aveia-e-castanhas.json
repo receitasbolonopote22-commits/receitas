@@ -1,0 +1,59 @@
+{
+  "id": "e3-n37",
+  "slug": "biscoitos-de-aveia-e-castanhas",
+  "title": "Biscoitos de Aveia e Castanhas",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas",
+    "lanches"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara aveia sem glúten",
+        "1/2 xícara castanhas picadas",
+        "1/3 xícara xilitol",
+        "1/4 xícara óleo coco",
+        "1 ovo"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture tudo.",
+        "Faça bolinhas, achate.",
+        "Asse 180°C por 15min."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 5,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

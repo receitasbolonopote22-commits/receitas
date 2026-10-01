@@ -1,0 +1,66 @@
+{
+  "id": "card-p13",
+  "slug": "panqueca-de-aveia-e-banana-2",
+  "title": "Panqueca de Aveia e Banana",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 bananas",
+        "2 ovos",
+        "½ xícara de aveia em flocos",
+        "1 colher sopa de extrato de baunilha",
+        "1 colher sopa de canela (alternativas: 1 colher de chocolate em pó ou 2 colheres de manteiga de amendoim)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma travessa funda amasse as bananas.",
+        "Adicione os ovos inteiros e misture bem.",
+        "Adicione a baunilha, a aveia e a canela ou o chocolate em pó ou a manteiga de amendoim).",
+        "Unte uma frigideira com um pouco de óleo de coco ou manteiga ghee e leve ao fogo até aquecer.",
+        "Coloque uma colherada grande (ou uma concha) da massa na frigideira.",
+        "Cozinhe de 2 a 3 minutos.",
+        "Quando a massa começar a soltar umas bolhinhas, vire e deixe mais 1 a 2 minutos.",
+        "Repita o processo de cozimento para as demais porções."
+      ]
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "panqueca-de-aveia-e-banana-2.jpg",
+    "alt": "Foto de Panqueca de Aveia e Banana",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 13,
+    "originalTitle": "PANQUECA DE AVEIA E BANANA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

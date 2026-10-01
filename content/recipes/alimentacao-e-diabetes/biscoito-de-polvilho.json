@@ -1,0 +1,74 @@
+{
+  "id": "card-p3",
+  "slug": "biscoito-de-polvilho",
+  "title": "Biscoito de Polvilho",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "cafe-da-manha",
+    "lanches",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 colheres de servir cheias (250g) de Polvilho doce",
+        "7 colheres de sopa cheias (200g) de Manteiga",
+        "2 Ovos",
+        "4 colheres de sopa (9g) de Adoçante p/ forno e fogão",
+        "1 colher de chá (2,75g) de Fermento em pó",
+        "Canela em pó 2 colheres de chá + 1 colher de sopa 10g"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Derreter a Manteiga e misturar ao polvilho. Deixar esfriar.",
+        "Acrescentar o adoçante, o ovo, as duas colheres de chá de canela e por último o fermento químico. Misturar bem.",
+        "Moldar a massa em pequenos quadrados e assar em forno médio (200°C).",
+        "Se desejar, passar na canela ainda morno."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "40 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 66,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "biscoito-de-polvilho.jpg",
+    "alt": "Foto de Biscoito de Polvilho",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 3,
+    "originalTitle": "BISCOITO DE POLVILHO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

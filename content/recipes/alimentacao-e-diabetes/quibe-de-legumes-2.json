@@ -1,0 +1,82 @@
+{
+  "id": "card-p89",
+  "slug": "quibe-de-legumes-2",
+  "title": "Quibe de Legumes",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200 g de trigo para quibe",
+        "200 g de abobrinhas verdes",
+        "200 g de cenouras",
+        "200 g de brócolis",
+        "200 g de palmito",
+        "200 g de champignon",
+        "3 colheres (sopa) de hortelã",
+        "3 colheres de (sopa) de cebola",
+        "Molho de soja light para pincelar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Deixar o trigo de molho em água e sal por duas horas, escorrendo a seguir.",
+        "Descasque as abobrinhas e corte, aproveitando também o miolo.",
+        "Cortar em quadradinho s e refogar com alho e azeite rapidamente, em fogo alto.",
+        "Acrescentar sal, deixando as abobrinhas \"al dente\" ou em sua consistência preferida, e reservar.",
+        "Cozinhar as cenouras, também cortadas em quadradinhos, com sal e alho.",
+        "Logo após, ferver água e acrescentar os brócolis (não colocar sal, pois ele muda a cor dos legumes verdes).",
+        "A seguir, ferver os palmitos em água e sal por, pelo menos, cinco minutos e cortá-los em pedaços pequenos.",
+        "Cortar os champignons e misturar muito bem todos os ingredientes com o trigo, acrescentando a cebola e o hortelã.",
+        "Reservar algumas folhinhas para decorar.",
+        "Pincelar com molho de soja e levar ao forno por alguns minutos para corar.",
+        "Retirar e decorar a gosto."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 35,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "quibe-de-legumes-2.jpg",
+    "alt": "Foto de Quibe de Legumes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 89,
+    "originalTitle": "QUIBE DE LEGUMES"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

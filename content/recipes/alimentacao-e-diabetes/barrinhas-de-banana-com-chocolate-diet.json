@@ -1,0 +1,81 @@
+{
+  "id": "card-p50",
+  "slug": "barrinhas-de-banana-com-chocolate-diet",
+  "title": "Barrinhas de Banana com Chocolate Diet",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1/2 xícara (chá) de aveia em flocos finos",
+        "1/2 xícara (chá) de farelo de trigo",
+        "1/2 xícara (chá) de farinha de trigo 100% integral",
+        "1/2 xícara (chá) de adoçante p/ forno e fogão",
+        "1/2 xícara (chá) de suco de laranja concentrado",
+        "2 colheres (sopa) de manteiga",
+        "2 claras",
+        "3 bananas nanicas",
+        "2 colheres (chá) de fermento em pó"
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "items": [
+        "200 g de chocolate escuro ao leite dietético"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ingredientes em uma batedeira e coloque a mistura em uma assadeira retangular (26 cm x 20 cm), untada com manteiga e polvilhada com farinha de trigo.",
+        "Asse em forno médio (180 °C), pré aquecido, por cerca de 30 minutos, ou até ficar firme.",
+        "Ao retirar do forno, coloque o chocolate cortado em pequenos pedaços sobre o bolo, alisando e espalhando até que derreta e cubra toda a superfície do bolo.",
+        "Deixe esfriar e corte em 12 barrinhas retangulares."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "12 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 175,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "barrinhas-de-banana-com-chocolate-diet.jpg",
+    "alt": "Foto de Barrinhas de Banana com Chocolate Diet",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 50,
+    "originalTitle": "BARRINHAS DE BANANA COM CHOCOLATE DIET"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

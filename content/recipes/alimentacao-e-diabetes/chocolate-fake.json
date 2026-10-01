@@ -1,0 +1,64 @@
+{
+  "id": "card-p53",
+  "slug": "chocolate-fake",
+  "title": "Chocolate Fake",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 colheres de cacau em pó (sem açúcar)",
+        "1 colher de leite desnatado",
+        "Adoçante liquido a gosto",
+        "1 colher de Rum (opcional, mas faz muita diferença.)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture todos os ingredientes com um pouco de água morna até ficar cremoso, textura parecida com o chocolate derretido.",
+        "Misture forte com um garfo, para que não sobre nenhuma bolota de leite ou cacau em pó.",
+        "A textura ficará de acordo com a quantidade de água que você colocar, logo, você pode fazer um ganache, um creme para cobertura, recheio de bolo, crepioca, ou até mesmo brigadeiro."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Recomendamos o consumo moderado."
+    }
+  ],
+  "image": {
+    "file": "chocolate-fake.jpg",
+    "alt": "Foto de Chocolate Fake",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 53,
+    "originalTitle": "CHOCOLATE FAKE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

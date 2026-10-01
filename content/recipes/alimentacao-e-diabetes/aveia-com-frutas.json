@@ -1,0 +1,76 @@
+{
+  "id": "p2-p18",
+  "slug": "aveia-com-frutas",
+  "title": "Aveia com Frutas",
+  "description": "Uma opção prática, nutritiva e saborosa para um café da manhã leve e equilibrado.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 morangos picados (ou fruta a seu gosto)",
+        "1 colher de sopa de aveia",
+        "1 colher de chá de canela"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Pique os morangos ou qualquer outra fruta do seu gosto.",
+        "Em uma tigela, coloque os morangos picados e jogue por cima a aveia e a canela.",
+        "Pronto, é só servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 tigela pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 14,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de saudável, as frutas contêm carboidratos naturais; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "aveia-com-frutas.jpg",
+    "alt": "Foto de Aveia com Frutas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 18,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

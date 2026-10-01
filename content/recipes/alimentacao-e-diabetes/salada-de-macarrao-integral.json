@@ -1,0 +1,90 @@
+{
+  "id": "p1-p37",
+  "slug": "salada-de-macarrao-integral",
+  "title": "Salada de Macarrão Integral",
+  "description": "Colorida e completa, perfeita para uma refeição leve e mais nutritiva.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "150 g de macarrão integral",
+        "2 ovos",
+        "1 cebola picada",
+        "1 dente de alho picado",
+        "3 tomates pequenos picados",
+        "1 xícara de chá de ervilha",
+        "1 ramo de brócolis",
+        "Folhas de espinafre fresco",
+        "Folhas de manjericão",
+        "Azeite",
+        "Um pouco de vinho branco",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe os ovos.",
+        "Em outra panela, refogue a cebola e o alho com azeite.",
+        "Junte os tomates, um pouco de vinho branco e água.",
+        "Quando ferver, adicione o macarrão.",
+        "Após 10 minutos, acrescente as ervilhas, o brócolis e o manjericão.",
+        "Tempere com sal e pimenta.",
+        "Quando estiver tudo cozido, espere esfriar e sirva com os ovos cortados ao meio e folhas de espinafre; finalize com azeite se desejar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato de sobremesa",
+  "nutrition": {
+    "calories": null,
+    "carbs": 22,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O macarrão integral e a ervilha elevam o teor de carboidratos; mantenha a porção planejada."
+    }
+  ],
+  "image": {
+    "file": "salada-de-macarrao-integral.jpg",
+    "alt": "Foto de Salada de Macarrão Integral",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 37,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

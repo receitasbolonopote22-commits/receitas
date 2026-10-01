@@ -1,0 +1,89 @@
+{
+  "id": "p1-p27",
+  "slug": "empadao-de-salmao-e-espinafre",
+  "title": "Empadão de Salmão e Espinafre",
+  "description": "Preparação cremosa e reconfortante, com salmão e espinafre sob cobertura de batata-doce.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "750 g de batata-doce descascada e cortada em cubos",
+        "75 ml de leite desnatado",
+        "25 g de manteiga ghee",
+        "Noz-moscada e pimenta a gosto",
+        "2 postas de salmão",
+        "1 molho de espinafre ou 1 embalagem de espinafre congelado",
+        "1 cebola",
+        "2 dentes de alho",
+        "1 gema de ovo",
+        "Azeite a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe a batata-doce em água e sal até ficar macia e amasse ou processe.",
+        "Misture o purê com a manteiga ghee, o leite, a noz-moscada e a pimenta; reserve.",
+        "Grelhe o salmão, retire a pele e os espinhos e desfie.",
+        "Refogue a cebola e o alho no azeite, junte o espinafre e depois o salmão desfiado.",
+        "Em um refratário, faça uma camada de purê, uma de recheio e finalize com outra de purê.",
+        "Pincele a gema e leve ao forno preaquecido a 180 °C por cerca de 20 minutos, ou até dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 24,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A batata-doce aumenta o teor de carboidratos da preparação; mantenha a porção planejada."
+    }
+  ],
+  "image": {
+    "file": "empadao-de-salmao-e-espinafre.jpg",
+    "alt": "Foto de Empadão de Salmão e Espinafre",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 27,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Ingrediente \"1 molho de espinafre\" possivelmente quer dizer \"1 maço\"; mantido como no original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

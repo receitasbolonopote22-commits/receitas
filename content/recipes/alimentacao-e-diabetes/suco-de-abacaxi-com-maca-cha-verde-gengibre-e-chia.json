@@ -1,0 +1,79 @@
+{
+  "id": "p1-p76",
+  "slug": "suco-de-abacaxi-com-maca-cha-verde-gengibre-e-chia",
+  "title": "Suco de Abacaxi com Maçã, Chá Verde, Gengibre e Chia",
+  "description": "Uma combinação funcional e revigorante, com frutas, chá verde, gengibre e chia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 fatias de abacaxi",
+        "1 maçã com casca",
+        "1 xícara (chá) de chá verde",
+        "1 pequeno pedaço de gengibre",
+        "1 colher (sobremesa) de sementes de chia"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador.",
+        "Se desejar, coe levemente.",
+        "Sirva gelado.",
+        "O ideal é consumir sem coar para aproveitar melhor as fibras."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos pequenos",
+  "servingSize": "1 copo pequeno (180 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não adoçar é o ideal; se necessário, use pequena quantidade de adoçante culinário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Contém carboidratos naturais das frutas; respeite a porção planejada."
+    }
+  ],
+  "image": {
+    "file": "suco-de-abacaxi-com-maca-cha-verde-gengibre-e-chia.jpg",
+    "alt": "Foto de Suco de Abacaxi com Maçã, Chá Verde, Gengibre e Chia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 76,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

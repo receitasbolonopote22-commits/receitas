@@ -1,0 +1,62 @@
+{
+  "id": "e2-n13",
+  "slug": "bolo-de-pera-com-cardamomo",
+  "title": "Bolo de Pera com Cardamomo",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 peras maduras picadas",
+        "1 1/2 xícara de farinha de amêndoas",
+        "3 ovos",
+        "1/3 xícara de mel",
+        "1/2 xícara de óleo de coco",
+        "1 colher de chá de cardamomo",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ingredientes líquidos, adicione as farinhas, especiarias e fermento.",
+        "Incorpore as peras e asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "bolo-de-pera-com-cardamomo.jpg",
+    "alt": "Foto de Bolo de Pera com Cardamomo",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

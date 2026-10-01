@@ -1,0 +1,76 @@
+{
+  "id": "card-p43",
+  "slug": "rabanada-2",
+  "title": "Rabanada",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 unidades de pão francês integral amanhecido",
+        "300 ml de leite desnatado",
+        "2 colheres de sopa) de adoçante p/ forno e fogão",
+        "3 claras",
+        "2 gemas",
+        "1 colher (de sopa rasa) de farinha de trigo 100% integral",
+        "1 colher (de sopa) de manteiga sem sal",
+        "¼ xícara (de chá) (40 g) de xilitol",
+        "½ colher (de sobremesa) de leite em pó desnatado",
+        "½ colher (de sobremesa) de canela em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Molhe as fatias de pão no leite, misturando com 1 colher (de sopa) de adoçante.",
+        "Deixe descansar por 20 minutos.",
+        "Bata as claras em neve, acrescente as gemas uma a uma, depois adicione a farinha de trigo e 1 colher (de sopa) de adoçante.",
+        "Passe o pão molhado nas claras batidas e asse em uma forma untada com manteiga em forno alto 250°C.",
+        "Ainda quente, passe as rabanadas em uma mistura de xilitol, leite em pó desnatado e canela."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 155,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "rabanada-2.jpg",
+    "alt": "Foto de Rabanada",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 43,
+    "originalTitle": "RABANADA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

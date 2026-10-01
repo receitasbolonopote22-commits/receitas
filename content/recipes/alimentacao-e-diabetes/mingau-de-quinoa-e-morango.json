@@ -1,0 +1,79 @@
+{
+  "id": "p2-p19",
+  "slug": "mingau-de-quinoa-e-morango",
+  "title": "Mingau de Quinoa e Morango",
+  "description": "Cremoso, nutritivo e naturalmente doce, este mingau é uma excelente opção para um café da manhã equilibrado e cheio de sabor.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de chá de quinoa em flocos",
+        "2 xícaras de chá de bebida vegetal de soja",
+        "1 colher de sopa de adoçante culinário",
+        "1 colher de café de essência de baunilha",
+        "1 xícara de chá de morangos picados",
+        "Canela em pó a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela, coloque a bebida de soja com a quinoa em flocos, misture tudo e cozinhe por cerca de 10 minutos, mexendo de vez em quando.",
+        "Depois, adicione a canela, a essência de baunilha e o adoçante, deixando cozinhar por mais 5 minutos, sempre mexendo.",
+        "Para finalizar, coloque os morangos e jogue mais um pouco de canela."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1 tigela média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Utilize o adoçante culinário informado na receita."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A quinoa e o morango contêm carboidratos naturais; ajuste a porção."
+    }
+  ],
+  "image": {
+    "file": "mingau-de-quinoa-e-morango.jpg",
+    "alt": "Foto de Mingau de Quinoa e Morango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 19,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

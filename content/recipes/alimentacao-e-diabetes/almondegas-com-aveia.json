@@ -1,0 +1,79 @@
+{
+  "id": "p1-p24",
+  "slug": "almondegas-com-aveia",
+  "title": "Almôndegas com Aveia",
+  "description": "Versão prática e nutritiva, com textura macia e perfil mais equilibrado para o almoço.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g de carne moída magra",
+        "1/2 xícara de chá de cheiro-verde picado",
+        "2 colheres de sopa de cebola ralada",
+        "2 colheres de sopa de farinha de trigo integral",
+        "1 xícara de chá de aveia em flocos finos",
+        "1 ovo"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma vasilha, misture bem todos os ingredientes até formar uma massa homogênea.",
+        "Modele bolinhas de cerca de 3 cm de diâmetro.",
+        "Disponha em uma assadeira e asse em forno médio até dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "5 porções",
+  "servingSize": "4 a 5 almôndegas",
+  "nutrition": {
+    "calories": null,
+    "carbs": 11,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de mais equilibrada, a aveia e a farinha integral adicionam carboidratos; mantenha a porção planejada."
+    }
+  ],
+  "image": {
+    "file": "almondegas-com-aveia.jpg",
+    "alt": "Foto de Almôndegas com Aveia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 24,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

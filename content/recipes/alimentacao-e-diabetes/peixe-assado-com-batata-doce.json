@@ -1,0 +1,81 @@
+{
+  "id": "p2-p7",
+  "slug": "peixe-assado-com-batata-doce",
+  "title": "Peixe Assado com Batata-Doce",
+  "description": "Uma refeição equilibrada, com filés de peixe assados sobre batata-doce dourada e ervas.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 filés de peixe (tilápia, merluza ou outro de sua escolha)",
+        "2 batatas-doces médias fatiadas",
+        "2 dentes de alho picados",
+        "Suco de 1 limão",
+        "1 colher de sopa de azeite",
+        "Sal, pimenta e ervas a gosto (como alecrim ou orégano)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere os filés de peixe com sal, pimenta, limão e alho.",
+        "Coloque as fatias de batata-doce em uma assadeira, regue com azeite e tempere com sal e ervas.",
+        "Disponha os filés de peixe por cima das batatas e asse em forno pré-aquecido a 180 °C por 25 minutos ou até o peixe e as batatas estarem dourados.",
+        "Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 filé com 3 a 4 fatias de batata-doce",
+  "nutrition": {
+    "calories": null,
+    "carbs": 20,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A batata-doce contém carboidratos; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "peixe-assado-com-batata-doce.jpg",
+    "alt": "Foto de Peixe Assado com Batata-Doce",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

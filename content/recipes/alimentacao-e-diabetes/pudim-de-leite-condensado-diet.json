@@ -1,0 +1,81 @@
+{
+  "id": "p1-p51",
+  "slug": "pudim-de-leite-condensado-diet",
+  "title": "Pudim de Leite Condensado Diet",
+  "description": "Uma sobremesa cremosa e delicada, adaptada para quem busca controlar o açúcar.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bases-e-preparos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200 ml de leite desnatado",
+        "1 medida de leite condensado diet",
+        "2 ovos",
+        "1 fava de baunilha",
+        "20 ml de xilitol"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata no liquidificador o leite desnatado, o leite condensado diet, os ovos e a baunilha até obter uma mistura homogênea.",
+        "Caramelize uma forma de pudim com o xilitol.",
+        "Despeje a mistura na forma.",
+        "Leve ao forno em banho-maria, a 150 °C, por cerca de 30 minutos.",
+        "Deixe esfriar e leve à geladeira por cerca de 4 horas antes de desenformar e servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 fatias",
+  "servingSize": "1 fatia pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por fatia",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "A receita utiliza xilitol e leite condensado diet."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sem açúcar comum, continua sendo uma sobremesa; consuma com moderação."
+    }
+  ],
+  "image": {
+    "file": "pudim-de-leite-condensado-diet.jpg",
+    "alt": "Foto de Pudim de Leite Condensado Diet",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 51,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

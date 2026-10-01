@@ -1,0 +1,100 @@
+{
+  "id": "card-p81",
+  "slug": "charutinho-caipira",
+  "title": "Charutinho Caipira",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 folhas de couve-manteiga"
+      ]
+    },
+    {
+      "title": "Molho",
+      "items": [
+        "1 e 1/2 xícara chá de caldo de legumes \"0% de gordura\"",
+        "1/2 xícara (chá) de purê de tomate",
+        "Salsinha picada (opcional)"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "200 g de carne moída magra",
+        "1/2 cebola ralada",
+        "1/2 lata de milho verde",
+        "1 colher (sopa) de salsa picada",
+        "Colher (chá) de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte cada folha de couve ao meio e escalde-as em água fervente.",
+        "Reserve."
+      ]
+    },
+    {
+      "title": "Recheio",
+      "steps": [
+        "Misture todos os ingredientes. Coloque um pouco de recheio sobre cada metade das folhas de couve e enrole-as como um charuto."
+      ]
+    },
+    {
+      "title": "Molho",
+      "steps": [
+        "Misture os ingredientes.",
+        "Em uma panela, acomode os charutinhos, um ao lado do outro, e regue com o molho.",
+        "Tampe a panela e leve ao fogo baixo por cerca de 30 minutos.",
+        "Salpique a salsinha e sirva."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 70,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "charutinho-caipira.jpg",
+    "alt": "Foto de Charutinho Caipira",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 81,
+    "originalTitle": "CHARUTINHO CAIPIRA"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Ingrediente \"colher (chá) de sal\" sem quantidade no material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

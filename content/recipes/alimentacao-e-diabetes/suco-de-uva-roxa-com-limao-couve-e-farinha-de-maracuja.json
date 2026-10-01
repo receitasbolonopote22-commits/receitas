@@ -1,0 +1,79 @@
+{
+  "id": "p1-p77",
+  "slug": "suco-de-uva-roxa-com-limao-couve-e-farinha-de-maracuja",
+  "title": "Suco de Uva Roxa com Limão, Couve e Farinha de Maracujá",
+  "description": "Intenso e funcional, une uva roxa, limão, couve e farinha de maracujá em uma bebida nutritiva.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara (chá) de uvas roxas",
+        "Suco de 1/2 limão",
+        "1 colher (sopa) de couve picada",
+        "200 ml de água",
+        "1 colher (sopa) de farinha de maracujá"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador.",
+        "Não é necessário coar.",
+        "Consuma preferencialmente pela manhã.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 a 2 copos",
+  "servingSize": "1 copo pequeno (180 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 16,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "O ideal é não adoçar; se precisar, use pequena quantidade de adoçante culinário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A bebida contém açúcares naturais da uva; mantenha a porção equilibrada."
+    }
+  ],
+  "image": {
+    "file": "suco-de-uva-roxa-com-limao-couve-e-farinha-de-maracuja.jpg",
+    "alt": "Foto de Suco de Uva Roxa com Limão, Couve e Farinha de Maracujá",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 77,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

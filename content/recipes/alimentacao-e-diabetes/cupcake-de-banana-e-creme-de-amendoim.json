@@ -1,0 +1,76 @@
+{
+  "id": "card-p56",
+  "slug": "cupcake-de-banana-e-creme-de-amendoim",
+  "title": "Cupcake de Banana e Creme de Amendoim",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 bananas maduras amassadas",
+        "1 ovo",
+        "1 clara",
+        "1 colher sopa adoçante xylitol",
+        "1 colher sopa de creme de amendoim",
+        "1 colher sopa de farinha de trigo 100% integral",
+        "1/2 colher de café de goma guar",
+        "1 colher de café de canela em pó",
+        "Essência de baunilha",
+        "2 colher café de fermento em pó",
+        "1 colher sobremesa de Nibs de cacau"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em um recipiente amasse as bananas e acrescente o ovo, a clara, o adoçante e o creme de amendoim.",
+        "Misture até ficar tudo homogêneo e vá acrescentando a farinha, canela, essência de baunilha, nibs de cacau e, por último, o fermento.",
+        "Coloque em forminhas de cupcake untadas com manteiga/ghee e asse em forno pré aquecido médio (200°) por 20 minutos."
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "04 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 103,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "cupcake-de-banana-e-creme-de-amendoim.jpg",
+    "alt": "Foto de Cupcake de Banana e Creme de Amendoim",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 56,
+    "originalTitle": "CUPCAKE DE BANANA E CREME DE AMENDOIM"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "e2-n30",
+  "slug": "bolo-de-espinafre-com-limao",
+  "title": "Bolo de Espinafre com Limão",
+  "description": "Sim, espinafre no bolo! E fica delicioso!",
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de espinafre fresco",
+        "Suco de 2 limões",
+        "1/2 xícara de leite de coco",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "1/4 xícara de mel",
+        "2 xícaras de farinha de amêndoas",
+        "Raspas de limão",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Preparar espinafre",
+      "steps": [
+        "Bata 2 xícaras de espinafre fresco com suco de 2 limões e 1/2 xícara de leite de coco até ficar bem liso e verde."
+      ]
+    },
+    {
+      "title": "Misturar base",
+      "steps": [
+        "Adicione 3 ovos, 1/2 xícara de óleo de coco, 1/4 xícara de mel e bata mais um pouco."
+      ]
+    },
+    {
+      "title": "Finalizar",
+      "steps": [
+        "Transfira para tigela, adicione 2 xícaras de farinha de amêndoas, raspas de limão e 1 colher de sopa de fermento. Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O material original não traz lista de ingredientes separada; a lista foi montada a partir do texto do preparo."
+    ],
+    "healthClaims": [
+      "O texto original diz: \"E fica delicioso e super nutritivo!\"."
+    ]
+  },
+  "relatedRecipes": []
+}

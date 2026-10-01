@@ -1,0 +1,86 @@
+{
+  "id": "p1-p41",
+  "slug": "salada-de-salmao-com-folhas",
+  "title": "Salada de Salmão com Folhas",
+  "description": "Refinada e nutritiva, combina salmão, miniagrião e abacate em uma salada especial.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 e 1/2 xícara de chá de filé de salmão em cubos",
+        "1 colher de sopa de molho de soja",
+        "1/2 abacate médio cortado em cubos",
+        "1 colher de sopa de suco de limão",
+        "6 colheres de sopa de azeite de oliva",
+        "1/2 xícara de chá de ervas frescas picadas",
+        "1 maço pequeno de miniagrião",
+        "1/2 xícara de chá de coalhada seca",
+        "Sal a gosto",
+        "Pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere o salmão com molho de soja e reserve.",
+        "Regue o abacate com o suco de limão e metade do azeite.",
+        "Aqueça o restante do azeite em uma frigideira e refogue rapidamente as ervas por 1 minuto; sele os cubos de salmão até ficarem no ponto desejado.",
+        "Em uma saladeira, coloque as folhas de miniagrião e cubra com o salmão, o abacate e as ervas.",
+        "Finalize com a coalhada seca, ajustando sal e pimenta, e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": "1 prato raso pequeno",
+  "nutrition": {
+    "calories": null,
+    "carbs": 7,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Abacate e azeite são saudáveis, mas calóricos; mantenha a porção equilibrada."
+    }
+  ],
+  "image": {
+    "file": "salada-de-salmao-com-folhas.jpg",
+    "alt": "Foto de Salada de Salmão com Folhas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": true,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 41,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

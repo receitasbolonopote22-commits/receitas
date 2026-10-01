@@ -1,0 +1,98 @@
+{
+  "id": "p2-p79",
+  "slug": "lasanha-de-peixe",
+  "title": "Lasanha de Peixe",
+  "description": "Leve e cheia de sabor, esta lasanha de peixe é feita com ingredientes selecionados para uma refeição equilibrada e reconfortante. Perfeita para o dia a dia ou para ocasiões especiais.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g de filé de peixe branco (como tilápia, pescada ou merluza) cozido e desfiado",
+        "1 colher (sopa) de azeite de oliva extravirgem",
+        "1 cebola média picada",
+        "2 dentes de alho picados",
+        "1 tomate grande picado sem sementes",
+        "1/2 pimentão vermelho picado",
+        "1/2 xícara (chá) de azeitonas verdes picadas",
+        "1/2 xícara (chá) de cheiro-verde picado",
+        "1 colher (chá) de sal moderado",
+        "Pimenta-do-reino a gosto",
+        "Suco de 1/2 limão",
+        "9 folhas de massa para lasanha integral",
+        "1 xícara (chá) de creme de ricota ou requeijão light",
+        "1 xícara (chá) de ricota fresca amassada",
+        "1/2 xícara (chá) de queijo parmesão ralado light"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela, aqueça o azeite e refogue a cebola e o alho até ficarem transparentes.",
+        "Acrescente o tomate e o pimentão e refogue por mais 3 minutos.",
+        "Adicione o peixe desfiado, as azeitonas, o cheiro-verde, o sal, a pimenta e o suco de limão. Misture bem e refogue por mais 2 minutos. Reserve.",
+        "Em um recipiente, misture o creme de ricota com a ricota amassada até obter um creme homogêneo.",
+        "Em um refratário médio, faça uma camada fina do creme de ricota.",
+        "Cubra com 3 folhas de massa, espalhe metade do recheio de peixe e regue com mais um pouco do creme.",
+        "Repita as camadas, finalizando com massa e o restante do creme. Polvilhe o queijo parmesão por cima.",
+        "Leve ao forno preaquecido a 180 °C por cerca de 30 minutos, ou até dourar levemente. Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 22,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; usar apenas pequena quantidade para ativar o fermento."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "lasanha-de-peixe.jpg",
+    "alt": "Foto de Lasanha de Peixe",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 79,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "A observação sobre adoçante do material original fala em \"ativar o fermento\", mas esta receita não leva fermento; texto mantido como no original."
+    ],
+    "healthClaims": [
+      "A descrição original diz: \"Ideal para quem busca uma opção saudável, com baixo teor de gordura e rica em proteínas\"."
+    ]
+  },
+  "relatedRecipes": []
+}

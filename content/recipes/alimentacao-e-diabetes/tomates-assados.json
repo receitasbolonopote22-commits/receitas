@@ -1,0 +1,80 @@
+{
+  "id": "p1-p49",
+  "slug": "tomates-assados",
+  "title": "Tomates Assados",
+  "description": "Tomates aromáticos e suculentos, ótimos como acompanhamento ou cobertura saudável.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "acompanhamentos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 tomates",
+        "2 dentes de alho",
+        "1 colher de sopa de azeite",
+        "Orégano a gosto",
+        "Manjericão a gosto",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte os tomates em quatro partes.",
+        "Coloque em uma assadeira ou frigideira própria para forno.",
+        "Regue com o azeite e adicione o alho, o orégano, o manjericão, o sal e a pimenta.",
+        "Leve ao forno preaquecido a 180 °C por cerca de 15 minutos, ou até os tomates ficarem assados e macios."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1 tomate",
+  "nutrition": {
+    "calories": null,
+    "carbs": 6,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Utilize como acompanhamento para compor a refeição, observando a quantidade de azeite."
+    }
+  ],
+  "image": {
+    "file": "tomates-assados.jpg",
+    "alt": "Foto de Tomates Assados",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 49,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

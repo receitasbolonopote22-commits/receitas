@@ -1,0 +1,59 @@
+{
+  "id": "sucos-p6",
+  "slug": "suco-detox-de-maracuja",
+  "title": "Suco Detox de Maracujá",
+  "description": null,
+  "collections": [
+    "sucos-naturais"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 folhas de couve mineira (picado)",
+        "Suco de 1 laranja",
+        "1 maracujá",
+        "1 colher (sobremesa) de linhaça",
+        "Adoçante (opcional)",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ingredientes e tome sem coar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "suco-detox-de-maracuja.jpg",
+    "alt": "Foto de Suco Detox de Maracujá",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Sucos.pdf",
+    "page": 6,
+    "originalTitle": "SUCO DETOX MARACUJÁ"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

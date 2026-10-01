@@ -1,0 +1,75 @@
+{
+  "id": "b2-p40",
+  "slug": "creme-de-chocolate-caseiro",
+  "title": "Creme de Chocolate Caseiro",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 gema grande",
+        "2 medidas whey protein",
+        "50 ml leite desnatado",
+        "8 gotas adoçante",
+        "1 colh. (sopa) castanha de caju",
+        "125 g tablete 70% cacau"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Derreta o chocolate (no microondas ou em banho-maria).",
+        "Esmague com um garfo a gema de ovo cozida.",
+        "Pique as castanhas de caju.",
+        "Junte todos os ingredientes e esta pronto."
+      ]
+    }
+  ],
+  "prepTime": 5,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 106,
+    "carbs": 12,
+    "protein": 1,
+    "fat": 5.9,
+    "fiber": null,
+    "basis": "por 20 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "creme-de-chocolate-caseiro.jpg",
+    "alt": "Foto de Creme de Chocolate Caseiro",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 40,
+    "originalTitle": "Nutella Caseira"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Título original cita marca registrada (\"Nutella\"); exibido como \"Creme de Chocolate Caseiro\"."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

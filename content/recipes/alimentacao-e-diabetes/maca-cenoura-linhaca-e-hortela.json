@@ -1,0 +1,80 @@
+{
+  "id": "p2-p44",
+  "slug": "maca-cenoura-linhaca-e-hortela",
+  "title": "Maçã, Cenoura, Linhaça e Hortelã",
+  "description": "Refrescante e nutritiva, esta bebida combina o sabor adocicado da maçã e da cenoura com o toque herbal da hortelã e a linhaça.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 maçã média com casca",
+        "1 cenoura média picada",
+        "1 colher de sopa de linhaça",
+        "Folhas de hortelã a gosto",
+        "200 ml de água gelada",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador até ficar homogêneo. Se desejar, coe levemente.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Geralmente não é necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Consumir com moderação por conter carboidratos naturais das frutas."
+    }
+  ],
+  "image": {
+    "file": "maca-cenoura-linhaca-e-hortela.jpg",
+    "alt": "Foto de Maçã, Cenoura, Linhaça e Hortelã",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 44,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"os benefícios da linhaça. Ideal para hidratar, ajudar na saciedade e apoiar o bom funcionamento do intestino\"."
+    ]
+  },
+  "relatedRecipes": []
+}

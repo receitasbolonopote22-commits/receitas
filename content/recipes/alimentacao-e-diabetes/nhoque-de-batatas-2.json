@@ -1,0 +1,84 @@
+{
+  "id": "card-p67",
+  "slug": "nhoque-de-batatas-2",
+  "title": "Nhoque de Batatas",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "5 Batatas pequenas",
+        "2 colheres de sopa de manteiga",
+        "2 e ½ xícaras de chá de Ricota",
+        "2 colheres de sopa de Farinha de Aveia",
+        "2 colheres de sopa de Fibra de trigo",
+        "1 Ovo",
+        "3 xícaras de chá de Folhas de Espinafre",
+        "1 colher de sopa de Azeite de oliva",
+        "2 colheres de chá de Sal",
+        "½ colher de chá de Pimenta do reino",
+        "½ colher de chá de Noz moscada",
+        "12 copos de requeijão de Água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Descascar e cortar as batatas. Submetê-las à cocção úmida em panela com água (6 copos) em ebulição por 15 minutos em fogo alto.",
+        "Passá-las no espremedor de batatas e reservar.",
+        "Amassar a ricota com o garfo até que se obtenha um farelo. Reservar.",
+        "Retirar as folhas dos talos de espinafre e lavá-las.",
+        "Colocá-las no liquidificador com a manteiga, o ovo e o azeite.",
+        "Triturar a mistura por 1 minuto. Em uma tigela, juntar à mistura triturada, a farinha de aveia, a fibra de trigo, as batatas e a ricota.",
+        "Amassar com as mãos até que se obtenha uma massa homogênea.",
+        "Acrescentar o sal, a pimenta do reino e a noz moscada e misturar novamente.",
+        "Enrolar a massa sobre uma superfície e cortá-la em pequenos pedaços.",
+        "Submetê-los ao calor úmido em panela com água (6 copos) em ebulição em fogo baixo."
+      ]
+    }
+  ],
+  "prepTime": 100,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 171,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "nhoque-de-batatas-2.jpg",
+    "alt": "Foto de Nhoque de Batatas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 67,
+    "originalTitle": "NHOQUE DE BATATAS"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

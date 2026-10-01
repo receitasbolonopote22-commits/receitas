@@ -1,0 +1,81 @@
+{
+  "id": "p1-p19",
+  "slug": "almondegas-light",
+  "title": "Almôndegas Light",
+  "description": "Versão assada e mais leve, perfeita para variar o cardápio com praticidade.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g de carne moída magra",
+        "1 clara",
+        "1/2 cebola",
+        "1 dente de alho",
+        "2 colheres de sopa de farelo de aveia",
+        "1 xícara de chá de salsinha",
+        "1 colher de chá de sal",
+        "Pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte a cebola em pedaços grandes e bata no processador ou liquidificador com a clara, o alho, o sal, a pimenta, a salsinha e o farelo de aveia.",
+        "Misture esse creme à carne moída e molde bolinhas.",
+        "Asse em forno médio por cerca de 20 minutos, até dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "4 a 5 almôndegas",
+  "nutrition": {
+    "calories": null,
+    "carbs": 4,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Prefira acompanhar com saladas ou legumes para manter a refeição equilibrada."
+    }
+  ],
+  "image": {
+    "file": "almondegas-light.jpg",
+    "alt": "Foto de Almôndegas Light",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 19,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

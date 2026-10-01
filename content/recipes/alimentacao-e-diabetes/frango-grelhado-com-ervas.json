@@ -1,0 +1,80 @@
+{
+  "id": "card-p91",
+  "slug": "frango-grelhado-com-ervas",
+  "title": "Frango Grelhado com Ervas",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 filés de frango (média de 750 g)",
+        "2 colheres (sopa) de óleo de coco ou azeite de oliva",
+        "¼ de xícara (chá) de suco de limão",
+        "Sal e pimenta do reino a gosto",
+        "1 colher (chá) de alho picadinho",
+        "½ colher (chá) de coentro seco",
+        "1/8 de colher (chá) de pimenta calabresa em floco",
+        "1 colher (chá) de orégano",
+        "1 colher (sopa) de manteiga"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Prepare a churrasqueira com fogo médio.",
+        "Limpe bem os filés, retirando qualquer gordura.",
+        "Num pirex retangular, coloque o óleo, o suco de limão, o sal e a pimenta, o alho, o coentro, a pimenta calabresa e o orégano, misture bem.",
+        "Arrume os filés no pirex, virando-os várias vezes e regando-os com o tempero.",
+        "Cubra o pirex com papel alumínio e deixe descansar por cerca de 1 hora.",
+        "Arrume os filés sobre a grelha e deixe cozinhar por cerca de 3 minutos.",
+        "Vire-os e cozinhe por mais 3 minutos.",
+        "Continue virando os filés por 10 minutos, transfira-os para uma travessa e pincele-os com a manteiga derretida.",
+        "Sirva-os acompanhados de legumes ou milho cozido."
+      ]
+    }
+  ],
+  "prepTime": 90,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 468.1,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "frango-grelhado-com-ervas.jpg",
+    "alt": "Foto de Frango Grelhado com Ervas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 91,
+    "originalTitle": "FRANGO GRELHADO COM ERVAS"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

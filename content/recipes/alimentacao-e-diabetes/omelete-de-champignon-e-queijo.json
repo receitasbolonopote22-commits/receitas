@@ -1,0 +1,81 @@
+{
+  "id": "p2-p17",
+  "slug": "omelete-de-champignon-e-queijo",
+  "title": "Omelete de Champignon e Queijo",
+  "description": "Saborosa e nutritiva, essa omelete combina champignon e queijo branco em uma refeição leve, rica em proteínas e perfeita para qualquer momento do dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "100 g de champignon fresco ou em conserva",
+        "4 ovos",
+        "Cheiro-verde",
+        "Pimenta e sal a gosto",
+        "1 cebola picada",
+        "Queijo branco em cubos"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere o champignon com um pouco de manteiga (ghee de preferência), sal e pimenta.",
+        "Bata os ovos com sal, cheiro-verde e cebola, e acrescente o champignon já temperado.",
+        "Em uma frigideira com um fio de azeite, deixe o omelete dourar dos dois lados, acrescente o queijo branco e sirva quando estiver derretido."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1/2 omelete grande",
+  "nutrition": {
+    "calories": null,
+    "carbs": 6,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Atenção ao tamanho da porção e aos acompanhamentos escolhidos."
+    }
+  ],
+  "image": {
+    "file": "omelete-de-champignon-e-queijo.jpg",
+    "alt": "Foto de Omelete de Champignon e Queijo",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 17,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O modo de preparo cita manteiga (ghee) e azeite, que não constam na lista de ingredientes do material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

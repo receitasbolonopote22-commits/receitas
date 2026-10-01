@@ -1,0 +1,66 @@
+{
+  "id": "e3-n62",
+  "slug": "cupcakes-red-velvet",
+  "title": "Cupcakes Red Velvet",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "1 1/2 xícara farinha amêndoas",
+        "1/4 xícara cacau",
+        "3 ovos",
+        "1/2 xícara xilitol",
+        "1/4 xícara óleo coco",
+        "Corante natural beterraba",
+        "1 colher fermento"
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "items": [
+        "Cream cheese com xilitol"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Prepare massa adicionando corante até cor vermelha.",
+        "Asse em forminhas 180°C por 18min.",
+        "Decore com cream cheese batido."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 8,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

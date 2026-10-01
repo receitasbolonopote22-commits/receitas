@@ -1,0 +1,14 @@
+{
+  "id": "doces-sem-acucar",
+  "slug": "doces-sem-acucar",
+  "name": "Doces sem açúcar",
+  "shortDescription": "Bolos, mousses, brigadeiros, caldas e coberturas adoçados de outro jeito.",
+  "description": "Uma seleção de doces preparados com adoçantes culinários, xilitol, eritritol e outras alternativas ao açúcar refinado — de brigadeiro de colher a calda de caramelo. Algumas receitas do material original incluem ingredientes como mel ou açúcar mascavo; elas estão sinalizadas para revisão.",
+  "coverRecipe": "bolo-de-chocolow-carb",
+  "coverImage": null,
+  "heroImage": null,
+  "disclaimer": "Adoçantes e ingredientes com carboidratos devem ser consumidos com moderação. Em caso de diabetes ou outra condição de saúde, siga a orientação do seu profissional de saúde.",
+  "featured": true,
+  "order": 2,
+  "accent": "#C98A5B"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "b2-p27",
+  "slug": "gelatina-de-hibisco",
+  "title": "Gelatina de Hibisco",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 ml de água",
+        "2 fatias de melancia",
+        "5 colh. (sopa) de hibisco seco",
+        "1 sachê de gelatina incolor",
+        "2 colh. (sopa) de açúcar demerara"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Dilua a gelatina conforme instruções da embalagem, reserve.",
+        "Aqueça a água em uma panela até ferver e adicione o hibisco, tampe e deixe por 10 minutos.",
+        "Coe.",
+        "Depois bata o chá de hibisco no liquidificador com os outros ingredientes.",
+        "Disponha em um recipiente e leve à geladeira para ganhar firmeza.",
+        "Sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 10,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 forma média",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 13,
+    "carbs": 0,
+    "protein": 1.5,
+    "fat": 0,
+    "fiber": null,
+    "basis": "por 1/4 colher de sopa (2g)",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "gelatina-de-hibisco.jpg",
+    "alt": "Foto de Gelatina de Hibisco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 27,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Ingrediente com açúcar natural ou adicionado (açúcar) em coleção focada em baixo açúcar; revisar a forma de apresentação."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

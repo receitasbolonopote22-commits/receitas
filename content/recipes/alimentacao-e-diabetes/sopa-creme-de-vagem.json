@@ -1,0 +1,82 @@
+{
+  "id": "card-p87",
+  "slug": "sopa-creme-de-vagem",
+  "title": "Sopa Creme de Vagem",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sopas-e-cremes",
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "400 gramas: Feijão verde natural (vagem)",
+        "100 gramas: Filé de frango",
+        "3 unidades: Alho dente",
+        "1 unidade: Cebola picada",
+        "2 colheres de chá: Orégano desidratado",
+        "1 colher de sopa: Azeite de oliva",
+        "2 1/2 colheres de sopa: Amido de milho",
+        "240 mililitros: Leite desnatado",
+        "2 colheres de sopa: Molho de tomate caseiro",
+        "2 1/2 gramas: Pimenta caiena (dedo de moça)",
+        "1 1/2 litros: Água quente"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Higienize as vagens, a cebola, a pimenta e os dentes de alho, tire o fio lateral das vagens se tiver e corte em 3 partes, descasque, pique a cebola e a pimenta (sem as sementes), descasque e esprema os alhos.",
+        "Reserve.",
+        "Tempere o frango da forma habitual, grelhe e depois desfie-o.",
+        "Reserve.",
+        "Refogue por 1 minuto no azeite a cebola, os alhos e o orégano.",
+        "Junte a água quente e as vagens.",
+        "Acrescente o amido dissolvidos no leite, coloque o frango, uma pitada de sal, o molho de tomate, a pimenta e deixe em fogo médio durante 25 minutos (caso queira a sopa creme mais cremosa aumento um pouco o amido).",
+        "Sirva a Sopa Creme de Vagem em seguida."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "120 g (medida caseira)",
+  "nutrition": {
+    "calories": 44.3,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "sopa-creme-de-vagem.jpg",
+    "alt": "Foto de Sopa Creme de Vagem",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 87,
+    "originalTitle": "SOPA CREME DE VAGEM"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

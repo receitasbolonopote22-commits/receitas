@@ -1,0 +1,72 @@
+{
+  "id": "b2-p22",
+  "slug": "copota-de-abacaxi",
+  "title": "Copota de Abacaxi",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 abacaxis pequenos",
+        "8 colh. (sopa) rasa de adoçante em pó",
+        "12 cravos",
+        "2 pedaços de canela em rama",
+        "4 xic. (chá) de água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte os abacaxis em fatias e retire os miolos.",
+        "Coloque numa panela, cubra com o adoçante e adicione o restante dos ingredientes.",
+        "Deixe no fogo por aproximadamente 20 minutos ou até que as fatias estejam macias.",
+        "Retire do fogo, deixe esfriar e coloque em uma compoteira."
+      ]
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "12 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 58.6,
+    "carbs": 8.2,
+    "protein": 1.2,
+    "fat": 3,
+    "fiber": null,
+    "basis": "por 20 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "copota-de-abacaxi.jpg",
+    "alt": "Foto de Copota de Abacaxi",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 22,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

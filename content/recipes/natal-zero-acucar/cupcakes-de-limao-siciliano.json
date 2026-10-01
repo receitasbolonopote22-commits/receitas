@@ -1,0 +1,66 @@
+{
+  "id": "e3-n66",
+  "slug": "cupcakes-de-limao-siciliano",
+  "title": "Cupcakes de Limão Siciliano",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "2 xícaras farinha amêndoas",
+        "3 ovos",
+        "1/2 xícara xilitol",
+        "Suco e raspas de 2 limões",
+        "1/4 xícara óleo coco",
+        "1 colher fermento"
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "items": [
+        "Buttercream de limão"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture massa com suco e raspas.",
+        "Asse 180°C por 18min.",
+        "Para cobertura, bata ghee com xilitol e raspas de limão.",
+        "Decore."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 8,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

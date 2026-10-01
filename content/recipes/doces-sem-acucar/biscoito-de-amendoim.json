@@ -1,0 +1,71 @@
+{
+  "id": "b2-p2",
+  "slug": "biscoito-de-amendoim",
+  "title": "Biscoito de Amendoim",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200 ml leite de soja zero",
+        "2 colh. (sopa) cacau em pó",
+        "4 colh. (sopa) farinha de coco",
+        "2 colh. (sopa) adoçante culinário",
+        "40 g coco ralado",
+        "5 colh. (sopa) pasta de amendoim"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture todos os ingredientes e molde em formato de cookie.",
+        "Coloque no forno em temperatura baixa até endurecer."
+      ]
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 228,
+    "carbs": 10,
+    "protein": 12,
+    "fat": 7,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "biscoito-de-amendoim.jpg",
+    "alt": "Foto de Biscoito de Amendoim",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 2,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

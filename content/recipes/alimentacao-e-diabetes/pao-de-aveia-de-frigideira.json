@@ -1,0 +1,68 @@
+{
+  "id": "card-p15",
+  "slug": "pao-de-aveia-de-frigideira",
+  "title": "Pão de Aveia de Frigideira",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "cafe-da-manha",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "60g de farelo de aveia",
+        "80ml de água filtrada",
+        "40g de polvilho doce",
+        "1 colher de uvas passas",
+        "1 colher de chá canela em pó",
+        "½ colher de chá de fermento em pó",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque todos os ingredientes secos em uma recipiente e misture para combina-los.",
+        "Vá adicionando a água aos poucos, misturando bem e deixando a aveia absorver antes colocar mais.",
+        "Coloque a massa em uma frigideira antiaderente ainda fria, regada com um pouco de azeite ou manteiga ghee.",
+        "Leve ao fogo baixo e tampe a frigideira.",
+        "Deixe cozinhar por 3 minutos e vire para dourar o outro lado.",
+        "Cozinhe por mais 3 minutos com a frigideira tampada.",
+        "O seu pão de frigideira estará pronto quando os dois lados estiverem dourados e levemente crocante."
+      ]
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "pao-de-aveia-de-frigideira.jpg",
+    "alt": "Foto de Pão de Aveia de Frigideira",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 15,
+    "originalTitle": "PÃO DE AVEIA DE FRIGIDEIRA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "p1-p32",
+  "slug": "pizza-de-berinjela",
+  "title": "Pizza de Berinjela",
+  "description": "Alternativa leve e saborosa à pizza tradicional, com legumes e queijo em equilíbrio.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 berinjelas grandes cortadas ao meio no sentido do comprimento",
+        "4 colheres de sopa de azeite extra virgem",
+        "4 tomates cortados em fatias finas",
+        "150 g de mussarela de búfala em fatias",
+        "1/2 xícara de folhas de manjericão",
+        "1 colher de chá de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Unte uma forma e disponha as berinjelas sem sobrepor.",
+        "Regue com 3 colheres de azeite e asse em forno preaquecido por cerca de 25 minutos, ou até ficarem macias.",
+        "Retire do forno, cubra com tomate e a mussarela de búfala e volte ao forno por 5 minutos, até o queijo derreter.",
+        "Finalize com manjericão e o restante do azeite antes de servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "2 metades pequenas",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Atenção ao uso do azeite e à quantidade de queijo para manter o equilíbrio calórico."
+    }
+  ],
+  "image": {
+    "file": "pizza-de-berinjela.jpg",
+    "alt": "Foto de Pizza de Berinjela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 32,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

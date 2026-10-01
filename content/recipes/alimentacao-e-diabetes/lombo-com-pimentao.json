@@ -1,0 +1,80 @@
+{
+  "id": "card-p63",
+  "slug": "lombo-com-pimentao",
+  "title": "Lombo com Pimentão",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 pimentões vermelhos e 2 amarelos",
+        "1 kg de cebola",
+        "2 dentes grandes de alho",
+        "3 colheres (sopa) de óleo de coco ou azeite de oliva",
+        "1 colher (chá) de alecrim seco",
+        "Pimenta do reino a gosto",
+        "4 colheres (sopa) mais 2 colheres (chá) de vinagre de maçã",
+        "4 bifes de lombo"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte os pimentões e a cebola em rodelas finas.",
+        "Desmanche as rodelas de cebola e amasse o alho.",
+        "Coloque o óleo de canola numa frigideira grande e leve-a ao fogo.",
+        "Quando o óleo aquecer, junte o pimentão, a cebola, o alho e o alecrim.",
+        "Misture bem, abaixe o fogo ao mínimo e deixe cozinhar por cerca de 15 minutos ou até que o pimentão esteja tenro; tempere com pimenta.",
+        "Acrescente as colheres (sopa) de vinagre, tampe a frigideira e continue cozinhando por mais 15 minutos.",
+        "Enquanto isso, aqueça bem uma grelha, coloque os bifes e deixe por cerca de 7 minutos de cada lado.",
+        "Regue cada um com ½ colher (chá) de vinagre e sirva-as acompanhadas do molho de pimentão com cebola."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 512.6,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "lombo-com-pimentao.jpg",
+    "alt": "Foto de Lombo com Pimentão",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 63,
+    "originalTitle": "LOMBO COM PIMENTÃO"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Os ingredientes pedem óleo de coco ou azeite, mas o modo de preparo cita óleo de canola."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

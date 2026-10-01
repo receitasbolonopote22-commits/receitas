@@ -1,0 +1,62 @@
+{
+  "id": "e2-n8",
+  "slug": "bolo-de-banana-e-nozes",
+  "title": "Bolo de Banana e Nozes",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 bananas maduras amassadas",
+        "1 1/2 xícara de farinha de aveia",
+        "1/2 xícara de nozes picadas",
+        "3 ovos",
+        "1/4 xícara de óleo de coco",
+        "1 colher de chá de canela",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture tudo, reserve algumas nozes para decorar o topo.",
+        "Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "bolo-de-banana-e-nozes.jpg",
+    "alt": "Foto de Bolo de Banana e Nozes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

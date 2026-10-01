@@ -1,0 +1,81 @@
+{
+  "id": "p2-p22",
+  "slug": "granola-caseira",
+  "title": "Granola Caseira",
+  "description": "Crocante, nutritiva e cheia de sabor. Perfeita para deixar seu café da manhã mais saudável e equilibrado.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bases-e-preparos",
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de aveia em flocos",
+        "1/2 xícara de castanhas picadas",
+        "1/4 de xícara de sementes de girassol",
+        "1/4 de xícara de sementes de chia ou linhaça",
+        "1 colher de sopa de óleo de coco",
+        "1 colher de sopa de adoçante culinário ou pequena quantidade de xilitol",
+        "Canela a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture todos os ingredientes.",
+        "Espalhe em uma assadeira e leve ao forno baixo, mexendo de vez em quando, até dourar levemente.",
+        "Espere esfriar antes de guardar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "2 colheres de sopa",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Use uma pequena quantidade de adoçante ou xilitol apenas se desejar leve dulçor."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Sementes e castanhas são nutritivas, mas concentram calorias; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "granola-caseira.jpg",
+    "alt": "Foto de Granola Caseira",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 22,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

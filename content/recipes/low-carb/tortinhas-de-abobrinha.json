@@ -1,0 +1,70 @@
+{
+  "id": "b3-p7",
+  "slug": "tortinhas-de-abobrinha",
+  "title": "Tortinhas de abobrinha",
+  "description": null,
+  "collections": [
+    "low-carb"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "lanches"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 abobrinha inteira",
+        "2 colh. (sopa) de cottage sem gordura",
+        "1 punhado de folhas de manjericão",
+        "1 ovo",
+        "1 colh. (sobremesa) de alho"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça o forno a 250°C.",
+        "Refogue o alho e acrescente a abobrinha.",
+        "Adicione o manjericão e mexa bem.",
+        "Retire do fogo direto para uma peneira e escorra a água da abobrinha.",
+        "Em outro recipiente misture a abobrinha com o ovo e o cottage.",
+        "Coloque em forminhas de empada ou outra de sua preferência.",
+        "Eu não untei, mas você pode colocar papel manteiga nas formas para facilitar e não grudar.",
+        "Preencha as formas e retire o excesso de caldo.",
+        "Leve ao forno por cerca de 15 minutos.",
+        "Desenforme e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "tortinhas-de-abobrinha.jpg",
+    "alt": "Foto de Tortinhas de abobrinha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 3 - Receitas Low Carb.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

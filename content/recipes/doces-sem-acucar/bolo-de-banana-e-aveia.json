@@ -1,0 +1,81 @@
+{
+  "id": "b2-p6",
+  "slug": "bolo-de-banana-e-aveia",
+  "title": "Bolo de Banana e Aveia",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200 ml leite desnatado",
+        "2 ovos",
+        "300 g banana madura",
+        "120 g açúcar mascavo",
+        "100 g aveia",
+        "15 g germen",
+        "2 colh. (sopa) farinha de linhaça",
+        "4 colh. (sopa) óleo de coco",
+        "1 colh. (sopa) fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata a banana, leite, ovos e óleo.",
+        "Acrescente o açúcar e bata novamente.",
+        "Insira o germen e a linhaça, deixando a aveia por último.",
+        "Pré aqueça o forno.",
+        "Unte a forma como de costume e acrescente na massa o fermento.",
+        "Coloque para assar (em forma quadrada ou redonda de sua preferência) 200°C ou até que doure."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "12 fatias (90g)",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 135,
+    "carbs": 24.3,
+    "protein": 4.33,
+    "fat": 2.74,
+    "fiber": null,
+    "basis": "por 90 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "bolo-de-banana-e-aveia.jpg",
+    "alt": "Foto de Bolo de Banana e Aveia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Ingrediente com açúcar natural ou adicionado (açúcar) em coleção focada em baixo açúcar; revisar a forma de apresentação."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

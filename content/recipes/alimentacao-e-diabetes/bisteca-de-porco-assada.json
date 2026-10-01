@@ -1,0 +1,64 @@
+{
+  "id": "card-p112",
+  "slug": "bisteca-de-porco-assada",
+  "title": "Bisteca de Porco Assada",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "8 Bistecas de Porco",
+        "1 Colheres (sopa) de manteiga sem sal",
+        "2 Dentes de Alho",
+        "Suco de 1 Limão",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Retire um pouco da gordura da bisteca.",
+        "Em um recipiente, coloque as bistecas e tempere com o limão e o sal e deixe descansando.",
+        "Amasse os alhos e em uma tigela e misture com a manteiga.",
+        "Retire as bistecas do recipiente e passe a pasta de manteiga com alho em cada bisteca, nos dois lados.",
+        "Acomode as bistecas em um refratário e leve ao forno preaquecido a 180°C por 25 minutos.",
+        "Vire as bistecas e coloque novamente no forno por mais 25 minutos."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "bisteca-de-porco-assada.jpg",
+    "alt": "Foto de Bisteca de Porco Assada",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 112,
+    "originalTitle": "BISTECA DE PORCO ASSADA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

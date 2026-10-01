@@ -1,0 +1,93 @@
+{
+  "id": "p2-p82",
+  "slug": "robalo-ao-molho-de-manga",
+  "title": "Robalo ao Molho de Manga",
+  "description": "Leve, sofisticado e cheio de sabor, o robalo ao molho de manga combina a delicadeza do peixe com o toque adocicado e tropical da fruta, sem abrir mão do prazer à mesa.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 filés de robalo (cerca de 150 g cada)",
+        "Suco de 1 limão",
+        "1 colher (sopa) de azeite de oliva extravirgem",
+        "2 dentes de alho picados",
+        "Sal com moderação",
+        "Pimenta-do-reino a gosto",
+        "1 manga madura picada em cubos",
+        "1/2 cebola pequena picada",
+        "1/2 pimentão vermelho pequeno picado",
+        "1/4 xícara (chá) de água",
+        "1 colher (sopa) de vinagre de maçã",
+        "Salsinha fresca picada a gosto",
+        "Folhas de manjericão a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere os filés de robalo com o suco de limão, o alho, sal e pimenta-do-reino. Deixe marinar por 15 minutos.",
+        "Aqueça o azeite em uma frigideira antiaderente e grelhe os filés em fogo médio por 3 a 4 minutos de cada lado, até ficarem dourados e cozidos. Reserve aquecido.",
+        "Na mesma frigideira, refogue a cebola e o pimentão por 2 minutos, até ficarem macios.",
+        "Acrescente a manga picada e refogue por mais 1 minuto com cuidado para não desmanchar.",
+        "Adicione a água e o vinagre, mexa e cozinhe por 3 minutos em fogo baixo, até formar um molho leve.",
+        "Ajuste o sal e finalize com salsinha e manjericão picados.",
+        "Sirva os filés de robalo com o molho de manga por cima e acompanhe com legumes no vapor ou salada verde."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 filé com molho",
+  "nutrition": {
+    "calories": null,
+    "carbs": 10,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; esta receita não contém adoçantes."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "robalo-ao-molho-de-manga.jpg",
+    "alt": "Foto de Robalo ao Molho de Manga",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": true,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 82,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"Uma receita rica em proteínas, ômega 3 e antioxidantes, perfeita para quem busca uma alimentação equilibrada\"."
+    ]
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,87 @@
+{
+  "id": "card-p31",
+  "slug": "canjica-2",
+  "title": "Canjica",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500g de milho para canjica",
+        "1 ½ litro de Água",
+        "2 xícaras de chá (250ml) de Leite desnatado",
+        "½ vidro (80g) de Leite de coco",
+        "½ xícara de chá (46g) de adoçante p/ forno e fogão",
+        "2 unidades de Canela em pau",
+        "2 unidades de Cravo",
+        "1 colher de sopa (27,68g) de Manteiga",
+        "1 lata (164g) de leite condensado diet*",
+        "1 xícara de chá (250ml) de Água fervente",
+        "2 colheres de sopa (12,9g) de Manteiga",
+        "5 xícaras de chá (11g) de Adoçante de sua escolha",
+        "2 xícaras de chá (140g) de Leite em pó desnatado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Leite condensado diet",
+      "steps": [
+        "Coloque no liquidificador os ingredientes pela ordem: Água fervente, Manteiga, adoçante e o leite em pó.",
+        "Bater por 5 minutos, deixar esfriar e utilizar."
+      ]
+    },
+    {
+      "title": "Canjica",
+      "steps": [
+        "Bater os ingredientes a serem acrescentados (leite, leite de coco, adoçante, e a manteiga no liquidificador.",
+        "Quando os grãos estiverem macios, juntar a batida de leite e a Manteiga e deixar ferver.",
+        "Acrescentar essência de baunilha se desejar."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "7 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 1090.6,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "canjica-2.jpg",
+    "alt": "Foto de Canjica",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 31,
+    "originalTitle": "CANJICA"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Valor calórico por porção (1090,60 kcal) parece alto para esta receita; conferir no material original.",
+      "O modo de preparo não descreve o cozimento do milho (apenas \"quando os grãos estiverem macios\"); conferir no material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "e3-n75",
+  "slug": "creme-de-papaya",
+  "title": "Creme de Papaya",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 papaya médio maduro",
+        "1 lata creme de leite de coco",
+        "1/4 xícara xilitol",
+        "Suco de 1 limão",
+        "Hortelã para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata papaya com creme, xilitol e limão até ficar cremoso.",
+        "Distribua em taças.",
+        "Refrigere por 2h.",
+        "Decore com hortelã ao servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

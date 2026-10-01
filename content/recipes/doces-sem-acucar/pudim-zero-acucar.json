@@ -1,0 +1,73 @@
+{
+  "id": "b2-p42",
+  "slug": "pudim-zero-acucar",
+  "title": "Pudim Zero Açúcar",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 ovos",
+        "300 ml leite desnatado",
+        "2 colh. (sopa) requeijão zero",
+        "55 g leite em pó desnatado",
+        "1/2 xíc. adoçante"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque 1/2 xícara de adoçante na fôrma para pudim e coloque em cima da chama do fogão no mínimo e vá virando até derreter e virar uma caldinha (precisei colocar umas 2 colheres de sopa de água para ajudar a derreter sem queimar). reserve.",
+        "Bata no liquidificador o leite em pó e o líquido, os ovos, a essência, o requeijão e o adoçante.",
+        "Coloque na fôrma de pudim e leve para assar em banho-maria a 180 graus por 50 minutos ou até passar no teste do palito.",
+        "Espere esfriar completamente para desenformar.",
+        "Leve para a geladeira por uma hora e sirva."
+      ]
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "18 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 60,
+    "carbs": 10,
+    "protein": 4,
+    "fat": 0,
+    "fiber": null,
+    "basis": "por 160 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "pudim-zero-acucar.jpg",
+    "alt": "Foto de Pudim Zero Açúcar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 42,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

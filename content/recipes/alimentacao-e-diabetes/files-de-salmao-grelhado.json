@@ -1,0 +1,89 @@
+{
+  "id": "p2-p78",
+  "slug": "files-de-salmao-grelhado",
+  "title": "Filés de Salmão Grelhado",
+  "description": "Leve, nutritivo e cheio de sabor. Com temperos naturais e preparo simples, o salmão grelhado é uma ótima escolha para uma refeição equilibrada.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 filés de salmão (cerca de 150 g cada)",
+        "Suco de 1 limão",
+        "2 colheres (sopa) de azeite de oliva extravirgem",
+        "2 dentes de alho picados",
+        "1 colher (chá) de mostarda Dijon (opcional)",
+        "1 colher (chá) de ervas finas",
+        "Sal rosa ou sal marinho a gosto",
+        "Pimenta-do-reino moída na hora a gosto",
+        "Ramos de alecrim ou tomilho (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma tigela, misture o suco de limão, o azeite, o alho, a mostarda, as ervas, o sal e a pimenta.",
+        "Tempere os filés de salmão com essa mistura, cobrindo bem todos os lados. Deixe marinar por 20 a 30 minutos na geladeira.",
+        "Aqueça uma frigideira antiaderente ou grelha em fogo médio-alto.",
+        "Grelhe os filés com a pele para baixo por cerca de 4 a 5 minutos.",
+        "Vire com cuidado e grelhe por mais 3 a 4 minutos, ou até que o salmão esteja cozido e levemente dourado por fora.",
+        "Retire do fogo e deixe descansar por 2 minutos.",
+        "Sirva com legumes grelhados ou salada verde."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 unidades",
+  "servingSize": "1 filé de salmão com 1/2 xícara de legumes grelhados",
+  "nutrition": {
+    "calories": null,
+    "carbs": 6,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; receita sem adição de adoçantes."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "files-de-salmao-grelhado.jpg",
+    "alt": "Foto de Filés de Salmão Grelhado",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 78,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"o salmão grelhado é uma excelente fonte de ômega-3, proteínas de alta qualidade e vitaminas essenciais ... a escolha ideal para uma refeição equilibrada que ajuda a controlar a glicemia e promove a saúde do coração\"."
+    ]
+  },
+  "relatedRecipes": []
+}

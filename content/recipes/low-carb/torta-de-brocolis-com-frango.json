@@ -1,0 +1,73 @@
+{
+  "id": "b3-p4",
+  "slug": "torta-de-brocolis-com-frango",
+  "title": "Torta de Brócolis com Frango",
+  "description": null,
+  "collections": [
+    "low-carb"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 brócolis inteiro",
+        "1 xic. (chá) cenoura picada e cozida",
+        "3 xic. (chá) frango desfiado",
+        "1/2 xic. (chá) salsinha picada",
+        "1/2 pequena cebola",
+        "1 clara de ovo",
+        "2 colh. (sopa) requeijão light",
+        "Sal a gosto",
+        "Pimenta do reino",
+        "Óleo vegetal para untar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Pique o brócolis em pedaços grandes e cozinhe na água até ficar macio.",
+        "Seque com papel toalha.",
+        "Bata no liquidificador ou mixer, adicione metade do frango desfiado e a cebola. bata mais.",
+        "Adicione a clara, sal e a pimenta do reino e misture.",
+        "Unte a travessa, coloque a massa no fundo e nas laterais.",
+        "Faça camadas, coloque o resto do frango, requeijão e a cenoura picada.",
+        "Cubra com a outra metade do recheio.",
+        "Leve ao forno por cerca de 30 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "torta-de-brocolis-com-frango.jpg",
+    "alt": "Foto de Torta de Brócolis com Frango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 3 - Receitas Low Carb.pdf",
+    "page": 4,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

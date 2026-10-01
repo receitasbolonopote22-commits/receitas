@@ -1,0 +1,71 @@
+{
+  "id": "e2-n32",
+  "slug": "bolo-de-curcuma-com-gengibre",
+  "title": "Bolo de Cúrcuma com Gengibre",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Especiarias douradas",
+      "items": [
+        "2 colheres de chá de cúrcuma em pó",
+        "1 colher de chá de gengibre fresco ralado",
+        "1/2 colher de chá de pimenta-do-reino"
+      ]
+    },
+    {
+      "title": "Base do bolo",
+      "items": [
+        "2 xícaras de farinha de arroz integral",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "1/3 xícara de mel",
+        "1 xícara de leite de coco"
+      ]
+    },
+    {
+      "title": "Finalização",
+      "items": [
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture tudo e asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "O texto original diz: \"Um bolo anti-inflamatório!\"."
+    ]
+  },
+  "relatedRecipes": []
+}

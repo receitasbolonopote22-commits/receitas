@@ -1,0 +1,76 @@
+{
+  "id": "b2-p46",
+  "slug": "panqueca-de-banana",
+  "title": "Panqueca de Banana",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas",
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 clara",
+        "1 colh. (sobremesa) de farinha de amora",
+        "1 colh. (sobremesa) de aveia em flocos",
+        "1/2 banana nanica amassada",
+        "1 colh. (sopa) de amoras frescas",
+        "1 colh. (chá) de óleo de coco",
+        "Canela a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "No liquidificador bata a clara, aveia e a farinha de amora.",
+        "Então acrescente a banana, as amoras, salpique canela e bata mais um pouco.",
+        "Despeje essa massa na frigideira com um fio de óleo de coco e deixa assar de um lado.",
+        "Quando estiver soltando da panela vire e deixe mais alguns segundos do outro lado.",
+        "Sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 unidades",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 119,
+    "carbs": 15.23,
+    "protein": 3.04,
+    "fat": 5.21,
+    "fiber": null,
+    "basis": "por 1 unidade",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "panqueca-de-banana.jpg",
+    "alt": "Foto de Panqueca de Banana",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 46,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

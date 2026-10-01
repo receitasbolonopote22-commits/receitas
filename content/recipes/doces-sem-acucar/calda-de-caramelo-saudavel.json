@@ -1,0 +1,77 @@
+{
+  "id": "e1-p8",
+  "slug": "calda-de-caramelo-saudavel",
+  "title": "Calda de Caramelo Saudável",
+  "description": "Sim, é possível fazer caramelo sem açúcar! Esta versão utiliza eritritol dourado e técnicas especiais para criar aquela cor e sabor característicos que todos amam.",
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "caldas-e-coberturas",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "½ xícara de eritritol dourado",
+        "3 colheres de sopa de água",
+        "½ xícara de creme de leite fresco",
+        "2 colheres de sopa de manteiga",
+        "1 pitada de sal marinho",
+        "½ colher de chá de essência de baunilha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Caramelizar o eritritol",
+      "steps": [
+        "Em uma panela de fundo grosso, misture o eritritol com a água. Leve ao fogo médio-alto sem mexer até começar a dourar (cerca de 5 minutos). Cuidado para não queimar."
+      ]
+    },
+    {
+      "title": "Adicionar o creme",
+      "steps": [
+        "Quando estiver dourado, retire do fogo e adicione o creme de leite CUIDADOSAMENTE (vai espirrar!). Volte ao fogo baixo e mexa até dissolver completamente."
+      ]
+    },
+    {
+      "title": "Finalizar",
+      "steps": [
+        "Adicione a manteiga, o sal e a baunilha. Cozinhe por mais 2 minutos mexendo sempre. Deixe esfriar antes de usar. A calda engrossa ao esfriar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Atenção: O eritritol pode cristalizar ao esfriar. Se isso acontecer, basta reaquecer em banho-maria. Perfeito para bolos de maçã, brownies, sorvetes e cheesecakes."
+    }
+  ],
+  "image": {
+    "file": "calda-de-caramelo-saudavel.jpg",
+    "alt": "Foto de Calda de Caramelo Saudável",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 1.pdf",
+    "page": 8,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

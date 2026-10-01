@@ -1,0 +1,84 @@
+{
+  "id": "p2-p57",
+  "slug": "curau-de-milho",
+  "title": "Curau de Milho",
+  "description": "Tradicional, cremoso e reconfortante, este curau de milho é feito com ingredientes leves e sem açúcar adicionado.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 espigas de milho verde (cerca de 500 g de grãos)",
+        "2 xícaras (chá) de leite desnatado ou bebida vegetal sem açúcar",
+        "1/2 xícara (chá) de leite de coco light",
+        "2 colheres (sopa) de amido de milho (opcional, para mais cremosidade)",
+        "4 colheres (sopa) de adoçante culinário forno e fogão",
+        "1/2 colher (chá) de essência de baunilha (opcional)",
+        "1/2 colher (chá) de canela em pó",
+        "1 colher (sopa) de coco ralado sem açúcar (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Retire os grãos de milho das espigas. Lave e reserve.",
+        "No liquidificador, bata o milho com o leite desnatado ou bebida vegetal até obter um creme homogêneo.",
+        "Coe o creme com uma peneira fina, pressionando bem para extrair o máximo do milho.",
+        "Em uma panela, coloque o creme coado, o leite de coco, o adoçante, a canela e a baunilha. Misture bem.",
+        "Dissolva o amido de milho em 2 colheres (sopa) de água e adicione à panela. Leve ao fogo baixo, mexendo sempre, até engrossar e ficar cremoso.",
+        "Desligue o fogo, polvilhe coco ralado (se usar) e despeje em taças ou tigelas. Deixe amornar e leve à geladeira por pelo menos 2 horas. Sirva gelado, polvilhado com canela."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 taça pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 17,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "curau-de-milho.jpg",
+    "alt": "Foto de Curau de Milho",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 57,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

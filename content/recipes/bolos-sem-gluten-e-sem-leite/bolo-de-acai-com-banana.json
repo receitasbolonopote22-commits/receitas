@@ -1,0 +1,75 @@
+{
+  "id": "e2-n34",
+  "slug": "bolo-de-acai-com-banana",
+  "title": "Bolo de Açaí com Banana",
+  "description": "Um bolo super brasileiro!",
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Açaí",
+      "items": [
+        "1 xícara de polpa de açaí (sem adição de açúcar)"
+      ]
+    },
+    {
+      "title": "Banana",
+      "items": [
+        "3 bananas maduras amassadas"
+      ]
+    },
+    {
+      "title": "Base",
+      "items": [
+        "2 xícaras de farinha de aveia",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata o açaí com bananas, ovos e óleo.",
+        "Adicione farinha e fermento.",
+        "Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "As bananas dão doçura natural e umidade."
+    }
+  ],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "O texto original diz: \"Um bolo super brasileiro e cheio de antioxidantes!\" e descreve o açaí como \"fonte de energia e antioxidantes\"."
+    ]
+  },
+  "relatedRecipes": []
+}

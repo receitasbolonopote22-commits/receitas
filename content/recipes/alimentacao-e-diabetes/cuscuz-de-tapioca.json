@@ -1,0 +1,82 @@
+{
+  "id": "p2-p56",
+  "slug": "cuscuz-de-tapioca",
+  "title": "Cuscuz de Tapioca",
+  "description": "Leve, cremoso e com sabor delicado de coco, este cuscuz de tapioca é uma sobremesa prática, ideal para quem busca equilíbrio no dia a dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de tapioca granulada",
+        "1 xícara de leite desnatado ou leite de coco light",
+        "1/2 xícara de coco ralado sem açúcar",
+        "1/4 xícara de adoçante culinário (siga a medida do fabricante)",
+        "1 pitada de sal",
+        "Canela em pó a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma tigela, misture a tapioca granulada com o coco ralado e a pitada de sal.",
+        "Aqueça o leite (ou leite de coco) com o adoçante até quase ferver.",
+        "Despeje o líquido quente sobre a mistura de tapioca e coco. Mexa bem.",
+        "Cubra e deixe descansar por 10 minutos, mexendo uma vez na metade do tempo.",
+        "Transfira para uma forma ou potinhos levemente umedecidos e pressione levemente para nivelar.",
+        "Deixe descansar até firmar. Sirva frio ou em temperatura ambiente, polvilhado com canela, se desejar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa mais leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "cuscuz-de-tapioca.jpg",
+    "alt": "Foto de Cuscuz de Tapioca",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 56,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

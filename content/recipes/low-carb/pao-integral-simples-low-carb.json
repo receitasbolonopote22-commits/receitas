@@ -1,0 +1,61 @@
+{
+  "id": "b3-p9",
+  "slug": "pao-integral-simples-low-carb",
+  "title": "Pão integral simples Low carb",
+  "description": null,
+  "collections": [
+    "low-carb"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "cafe-da-manha"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 ovo",
+        "1 colh. (sopa) farelo de aveia",
+        "1 colh. (sopa) iogurte natural ou água",
+        "1 colh. (sopa) fermento químico em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture os ingredientes com um garfo ou mixer.",
+        "Leve ao micro-ondas por 2 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "pao-integral-simples-low-carb.jpg",
+    "alt": "Foto de Pão integral simples Low carb",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 3 - Receitas Low Carb.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

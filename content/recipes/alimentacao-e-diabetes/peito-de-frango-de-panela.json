@@ -1,0 +1,79 @@
+{
+  "id": "card-p77",
+  "slug": "peito-de-frango-de-panela",
+  "title": "Peito de Frango de Panela",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "5 filés de frango",
+        "1 xícara (chá) de caldo de galinha",
+        "½ xícara (chá) de aipo picadinho",
+        "1 cebola grande",
+        "½ colher (chá) de tomilho seco",
+        "1 folha de louro",
+        "Sal a gosto",
+        "6 grãos de pimenta do reino",
+        "1 ramo de salsinha",
+        "½ xícara (chá) de cenoura picada",
+        "1 pimentão vermelho e 1 verde picadinhos"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Arrume os filés em uma só camada no fundo de uma panela.",
+        "Junte o caldo de galinha e água o suficiente para cobri-los.",
+        "Adicione os demais ingredientes e tampe.",
+        "Leve-os ao fogo para ferver. Diminua a chama ao mínimo e cozinhe por 10 minutos, até o caldo reduzir e o frango ficar douradinho.",
+        "Retire do fogo e mantenha a panela tampada até o momento de servir.",
+        "Sirva acompanhado de salada de repolho."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 310.1,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "peito-de-frango-de-panela.jpg",
+    "alt": "Foto de Peito de Frango de Panela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 77,
+    "originalTitle": "PEITO DE FRANGO DE PANELA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

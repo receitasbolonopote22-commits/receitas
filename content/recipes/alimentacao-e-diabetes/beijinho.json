@@ -1,0 +1,72 @@
+{
+  "id": "card-p36",
+  "slug": "beijinho",
+  "title": "Beijinho",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "¾ xícara de (chá) de coco ralado sem açúcar",
+        "1 e ½ xícara de (chá) de leite em pó desnatado",
+        "½ xícara de (chá) de água",
+        "2 colheres de (sopa) de manteiga",
+        "½ xícara de (chá) de leite desnatado",
+        "1 colher (sobremesa) de amido de milho",
+        "1 xícara de (chá) de adoçante p/ forno e fogão",
+        "Cravos da índia para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque todos os ingredientes em uma panela e leve ao fogo, mexendo sempre por 15 minutos ou até que a mistura desgrude do fundo da panela.",
+        "Transfira a massa para um prato, deixe esfriar e faça bolinhas com as mãos.",
+        "Decore com cravos da índia e coloque em forminhas de papel."
+      ]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "20 g (medida caseira)",
+  "nutrition": {
+    "calories": 68,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "beijinho.jpg",
+    "alt": "Foto de Beijinho",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 36,
+    "originalTitle": "BEIJINHO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

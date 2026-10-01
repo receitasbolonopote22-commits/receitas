@@ -1,0 +1,93 @@
+{
+  "id": "p2-p85",
+  "slug": "sufle-de-milho-verde",
+  "title": "Suflê de Milho Verde",
+  "description": "Leve, aerado e cheio de sabor, este suflê de milho verde é feito com ingredientes simples e combina cremosidade e leveza, perfeito para acompanhar saladas ou refeições principais.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras (chá) de milho verde (fresco ou congelado)",
+        "1/2 xícara (chá) de leite desnatado",
+        "3 ovos",
+        "1 colher (sopa) de azeite de oliva extravirgem",
+        "1/2 cebola picada",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de farinha de aveia",
+        "1/4 xícara (chá) de queijo minas frescal ralado",
+        "1 colher (chá) de fermento em pó",
+        "Sal com moderação",
+        "Pimenta-do-reino a gosto",
+        "Salsinha picada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Preaqueça o forno a 180 °C e unte um refratário médio com azeite de oliva.",
+        "No liquidificador, bata o milho verde com o leite até obter um creme homogêneo. Reserve.",
+        "Em uma panela, aqueça o azeite e refogue a cebola e o alho até ficarem macios e levemente dourados.",
+        "Adicione o creme de milho à panela e cozinhe por cerca de 5 minutos, mexendo sempre. Tempere com sal e pimenta.",
+        "Transfira para uma tigela e deixe amornar.",
+        "Acrescente as gemas, uma a uma, mexendo bem. Junte a farinha de aveia, o queijo minas e a salsinha, misturando até incorporar.",
+        "Bata as claras em neve até formarem picos firmes e incorpore delicadamente à mistura, junto com o fermento em pó.",
+        "Despeje no refratário e leve ao forno por cerca de 30 a 35 minutos, ou até dourar e firmar. Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 19,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; esta receita não contém adoçantes."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "sufle-de-milho-verde.jpg",
+    "alt": "Foto de Suflê de Milho Verde",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 85,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"uma excelente opção para quem busca uma refeição nutritiva e equilibrada. Rico em fibras, com baixo teor de gordura\"."
+    ]
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "e2-n5",
+  "slug": "bolo-de-abobrinha-com-limao",
+  "title": "Bolo de Abobrinha com Limão",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 1/2 xícara de abobrinha ralada",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "Suco e raspas de 1 limão",
+        "2 xícaras de farinha de amêndoas",
+        "1 colher de sopa de fermento",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Preparar os ingredientes",
+      "steps": [
+        "Rale 1 1/2 xícara de abobrinha e esprema o excesso de água. Separe 3 ovos, 1/2 xícara de óleo de coco, suco e raspas de 1 limão."
+      ]
+    },
+    {
+      "title": "Misturar ingredientes secos",
+      "steps": [
+        "Combine 2 xícaras de farinha de amêndoas, 1 colher de sopa de fermento e uma pitada de sal."
+      ]
+    },
+    {
+      "title": "Unir e assar",
+      "steps": [
+        "Bata os ingredientes líquidos, adicione a abobrinha, misture com os secos e asse a 180°C por 40-45 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O material original não traz lista de ingredientes separada; a lista foi montada a partir do texto do preparo."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "p1-p9",
+  "slug": "pao-de-aveia-de-caneca",
+  "title": "Pão de Aveia de Caneca",
+  "description": "Prático, fofinho e excelente para uma rotina corrida.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 colheres de sopa de farelo de aveia (20 g)",
+        "1 colher de sopa de iogurte natural desnatado (30 g)",
+        "1 ovo",
+        "1 colher de chá de fermento em pó (5 g)",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture todos os ingredientes em.",
+        "Leve ao micro-ondas por cerca de 2 minutos.",
+        "Retire, desenforme e sirva com requeijão light ou pasta de abacate."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 unidade",
+  "nutrition": {
+    "calories": null,
+    "carbs": 17,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Controle os acompanhamentos para manter a refeição equilibrada."
+    }
+  ],
+  "image": {
+    "file": "pao-de-aveia-de-caneca.jpg",
+    "alt": "Foto de Pão de Aveia de Caneca",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Passo 1 termina incompleto no material original (\"Misture todos os ingredientes em\")."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

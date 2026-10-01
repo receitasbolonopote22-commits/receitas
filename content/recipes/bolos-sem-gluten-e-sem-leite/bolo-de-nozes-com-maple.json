@@ -1,0 +1,70 @@
+{
+  "id": "e2-n38",
+  "slug": "bolo-de-nozes-com-maple",
+  "title": "Bolo de Nozes com Maple",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 1/2 xícara de nozes",
+        "1 xícara de farinha de arroz",
+        "3 ovos",
+        "1/2 xícara de maple puro",
+        "1/2 xícara de óleo de coco",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Nozes tostadas",
+      "steps": [
+        "Toste 1 1/2 xícara de nozes em forno baixo por 8 minutos. Pique grosseiramente metade e triture a outra metade até virar farinha."
+      ]
+    },
+    {
+      "title": "Base com maple",
+      "steps": [
+        "Misture 1 xícara de farinha de arroz com a farinha de nozes. Bata 3 ovos com 1/2 xícara de maple puro, 1/2 xícara de óleo de coco."
+      ]
+    },
+    {
+      "title": "Finalizar",
+      "steps": [
+        "Una tudo, adicione nozes picadas e 1 colher de sopa de fermento. Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O material original não traz lista de ingredientes separada; a lista foi montada a partir do texto do preparo."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

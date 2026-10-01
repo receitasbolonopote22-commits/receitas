@@ -1,0 +1,14 @@
+{
+  "id": "bolos-sem-gluten-e-sem-leite",
+  "slug": "bolos-sem-gluten-e-sem-leite",
+  "name": "Bolos sem glúten e sem leite",
+  "shortDescription": "50 bolos caseiros com farinhas alternativas, frutas e leite de coco.",
+  "description": "Bolos de frutas, especiarias, chocolate e castanhas feitos com farinhas de arroz, aveia, amêndoas e coco e com leite de coco no lugar do leite. A maioria é adoçada com frutas, tâmaras ou mel — por isso não são receitas sem açúcar.",
+  "coverRecipe": "bolo-de-maca-e-canela",
+  "coverImage": null,
+  "heroImage": null,
+  "disclaimer": "Quem tem doença celíaca deve conferir se cada ingrediente (como aveia e fermento) é certificado sem glúten.",
+  "featured": false,
+  "order": 4,
+  "accent": "#D9A441"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "b3-p12",
+  "slug": "pure-de-couve-flor",
+  "title": "Purê de Couve-Flor",
+  "description": null,
+  "collections": [
+    "low-carb"
+  ],
+  "categories": [
+    "acompanhamentos"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 maço de couve flor",
+        "1 colh. (chá) de sal",
+        "1 colh. (sopa) de tomilho fresco"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe o maço de couve na água até amolecer.",
+        "Escorra a água.",
+        "Acrescente o sal e o tomilho.",
+        "Processe tudo com o mixer ou no processador."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "pure-de-couve-flor.jpg",
+    "alt": "Foto de Purê de Couve-Flor",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 3 - Receitas Low Carb.pdf",
+    "page": 12,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "b2-p49",
+  "slug": "queijadinha",
+  "title": "Queijadinha",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 ovos grandes",
+        "10 g fermento",
+        "20 gotas adoçante",
+        "5 colh. (sopa) queijo ralado",
+        "240 g creme de leite light",
+        "1 colh. (sopa) óleo de coco",
+        "200 ml leite de coco",
+        "5 colh. (sopa) coco ralado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes (exceto o fermento) no liquidificador.",
+        "Acrescente o fermento.",
+        "Leve ao forno (200°C) por 30-35min.",
+        "Faça o teste do palito."
+      ]
+    }
+  ],
+  "prepTime": 35,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "12 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 108,
+    "carbs": 2.4,
+    "protein": 3.62,
+    "fat": 9.76,
+    "fiber": null,
+    "basis": "por 1 porção (40 g)",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "queijadinha.jpg",
+    "alt": "Foto de Queijadinha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 49,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

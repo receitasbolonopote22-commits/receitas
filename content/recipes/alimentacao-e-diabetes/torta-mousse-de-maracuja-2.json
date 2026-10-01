@@ -1,0 +1,92 @@
+{
+  "id": "card-p49",
+  "slug": "torta-mousse-de-maracuja-2",
+  "title": "Torta Mousse de Maracujá",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "4 colheres de servir cheias (180g) de Farinha de trigo 100% integral",
+        "5 colheres de sobremesa (75g) de Manteiga sem sal",
+        "1 unidade (15g) Gema",
+        "¼ de xícara de chá (50ml) de Água",
+        "1 colher de sopa rasa (1g) de xilitol",
+        "1 colher de café (1,24g) de Sal"
+      ]
+    },
+    {
+      "title": "Leite condensado dietético",
+      "items": [
+        "1 copo requeijão cheio (120g) de leite em pó desnatado",
+        "½ copo de requeijão (150ml) de Água",
+        "1 colher de sopa rasa (20g) Adoçante p/ forno e fogão",
+        "1 colher de sopa cheia (28g) Manteiga sem sal"
+      ]
+    },
+    {
+      "title": "Mousse",
+      "items": [
+        "1 ½ xícara de chá (350ml) de Suco de maracujá",
+        "1 lata sem soro (236g) Creme de leite light",
+        "½ pacote (6g) Gelatina em pó incolor e sem sabor",
+        "1 receita de Leite condensado dietético"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes do leite condensado por 5 minutos e reservar.",
+        "Preparar a massa misturando a farinha, o sal e o edulcorante com a manteiga até formar uma farofa.",
+        "Acrescentar a gema e depois colocar aos poucos a água.",
+        "Forrar a assadeira com a massa e assar em forno médio (200°C) até dourar.",
+        "Bater os ingredientes da mousse rapidamente no liquidificador.",
+        "Rechear a massa pronta e levar à geladeira por 3 horas.",
+        "Enfeitar com semente de maracujá."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 366,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "torta-mousse-de-maracuja-2.jpg",
+    "alt": "Foto de Torta Mousse de Maracujá",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 49,
+    "originalTitle": "TORTA MOUSSE DE MARACUJÁ"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

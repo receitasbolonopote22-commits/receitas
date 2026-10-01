@@ -4,9 +4,14 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "predev": "node scripts/images.mjs && node scripts/validate.mjs",
     "build": "next build",
+    "prebuild": "node scripts/images.mjs && node scripts/validate.mjs",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "images": "node scripts/images.mjs",
+    "validate": "node scripts/validate.mjs",
+    "import": "node scripts/import/import-dsl.mjs"
   },
   "dependencies": {
     "next": "16.3.8",
@@ -20,7 +25,11 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.3.8",
+    "sharp": "^0.35.5",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }

@@ -1,0 +1,80 @@
+{
+  "id": "p1-p55",
+  "slug": "leite-condensado-diet-2",
+  "title": "Leite Condensado Diet",
+  "description": "Uma versão caseira e prática para usar em sobremesas sem açúcar.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bases-e-preparos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "400 ml de leite quente",
+        "300 g de leite em pó desnatado",
+        "1 colher de sopa de adoçante em pó",
+        "20 g de manteiga ghee"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador até ficar homogêneo.",
+        "Leve à geladeira por cerca de 2 horas.",
+        "Utilize em receitas como pudins, mousses e outras sobremesas adaptadas."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "cerca de 2 xícaras",
+  "servingSize": "1 colher de sopa",
+  "nutrition": {
+    "calories": null,
+    "carbs": 3,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por colher de sopa",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "A receita utiliza adoçante em pó."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de diet, contém lactose e calorias; use em pequenas quantidades."
+    }
+  ],
+  "image": {
+    "file": "leite-condensado-diet-2.jpg",
+    "alt": "Foto de Leite Condensado Diet",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 55,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Cópia idêntica de \"Leite Condensado Diet\" (leite-condensado-diet); oculta das listagens."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": [],
+  "duplicateOf": "leite-condensado-diet"
+}

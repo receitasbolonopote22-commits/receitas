@@ -1,0 +1,79 @@
+{
+  "id": "p1-p64",
+  "slug": "suco-de-melancia-com-aipo",
+  "title": "Suco de Melancia com Aipo",
+  "description": "Refrescante e leve, combina melancia com aipo em uma bebida simples para dias quentes.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 fatias de melancia",
+        "Cerca de 5 centímetros de talo de aipo",
+        "100 ml de água, se necessário",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Retire a casca da melancia e corte em cubos.",
+        "Pique o aipo em pedaços menores.",
+        "Bata tudo no liquidificador ou processador.",
+        "Se necessário, adicione um pouco de água para facilitar.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 copo grande",
+  "servingSize": "200 ml",
+  "nutrition": {
+    "calories": null,
+    "carbs": 14,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Por conter fruta, possui açúcares naturais; mantenha a porção adequada."
+    }
+  ],
+  "image": {
+    "file": "suco-de-melancia-com-aipo.jpg",
+    "alt": "Foto de Suco de Melancia com Aipo",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 64,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# imagens geradas a partir de content/images (recriadas no build)
+/public/images/recipes/
+/content/_generated/
+# imagens brutas extraídas dos PDFs (fonte das fotos já copiadas para content/images)
+/content/_import/images-raw/
+/content/_import/trabalho/

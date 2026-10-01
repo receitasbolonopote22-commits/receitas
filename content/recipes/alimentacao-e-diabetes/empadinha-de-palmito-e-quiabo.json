@@ -1,0 +1,78 @@
+{
+  "id": "card-p17",
+  "slug": "empadinha-de-palmito-e-quiabo",
+  "title": "Empadinha de Palmito e Quiabo",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 xícaras de chá de farinha de trigo 100% integral",
+        "½ xícara de chá de manteiga sem sal",
+        "1 ovo",
+        "1 xícara de café de leite desnatado",
+        "1 pitada de sal",
+        "1 gema para pincelar"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "1 xícara de chá de palmito picado",
+        "1 xícara de chá de quiabos sem semente picados",
+        "1 colher de sopa de azeite de oliva",
+        "½ cebola ralada",
+        "1 colher de sopa de salsinha picada",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma vasilha grande adicione as farinhas, manteiga, ovos, sal e o leite e misture bem até incorporar e ficar uma massa homogênea.",
+        "Para o recheio aqueça o azeite em uma frigideira e refogue a cebola, depois adicione os outros ingredientes e salpique os temperos.",
+        "Desligue o fogo e reserve.",
+        "Abra a massa nas formas individuais para empada forrando as laterais e o fundo.",
+        "Disponha o recheio e tampe com o restante da massa.",
+        "Repita o processo até acabar a massa e recheio.",
+        "Pincele com a gema por cima e leve para assar em forno médio pré-aquecido até dourar.",
+        "Espere amornar, desenforme e sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 65,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "Vai variar de tamanho de forma ou opção pessoal de tamanho.",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "empadinha-de-palmito-e-quiabo.jpg",
+    "alt": "Foto de Empadinha de Palmito e Quiabo",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 17,
+    "originalTitle": "EMPADINHA DE PALMITO E QUIABO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

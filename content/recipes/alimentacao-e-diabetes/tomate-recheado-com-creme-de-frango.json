@@ -1,0 +1,66 @@
+{
+  "id": "card-p90",
+  "slug": "tomate-recheado-com-creme-de-frango",
+  "title": "Tomate Recheado com Creme de Frango",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 tomates grandes maduros e firmes",
+        "1 cebola picada",
+        "350g de peito de frango cozido e desfiado",
+        "2 colheres chá de azeite de oliva ou leite de coco",
+        "3 colheres sopa creme de leite light",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela aquecida com o azeite de oliva refogue o alho, cuidando para não queimar.",
+        "Acrescente os cubos de frango e o caldo zero de frango e deixe refogar até que o frango fique bem dourado.",
+        "Acrescente os demais ingredientes picados na panela e cubra com água.",
+        "Tempere com o sal e a pimenta-do-reino a gosto e cozinhe na pressão por cerca de 5 minutos.",
+        "Retire do fogo e sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "tomate-recheado-com-creme-de-frango.jpg",
+    "alt": "Foto de Tomate Recheado com Creme de Frango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 90,
+    "originalTitle": "TOMATE RECHEADO COM CREME DE FRANGO"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O modo de preparo parece copiado da \"Sopa de Legumes Divina\" (cita cubos de frango, caldo zero e panela de pressão) e não explica como rechear os tomates; conferir no material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

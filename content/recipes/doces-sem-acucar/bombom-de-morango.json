@@ -1,0 +1,74 @@
+{
+  "id": "b2-p18",
+  "slug": "bombom-de-morango",
+  "title": "Bombom de Morango",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xic. (chá) de leite em pó desnatado (240g)",
+        "1 xic. (chá) de água (200ml)",
+        "1/2 xic. (chá) de adoçante em pó (12g)",
+        "20 morangos (aprox. 200g)",
+        "250 g de chocolate de cobertura dietético"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata o leite em pó, a água, o adoçante no liquidificador.",
+        "Coloque em uma panela e leve para engrossar. até soltar da panela.",
+        "Deixe esfriar.Pegue porções de massa e envolva os morangos.",
+        "Deixe na geladeira para firmar.",
+        "Derreta o chocolate em banho-maria ou por 2 a 3 minutos no microondas, na potência Média, ou 50% de potência do forno.Passe os doces, um a um. escorra e coloque para secar sobre papel alumínio.",
+        "Coloque em forminhas de papel."
+      ]
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "20 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 228,
+    "carbs": 29.24,
+    "protein": 3.89,
+    "fat": 10.87,
+    "fiber": null,
+    "basis": "por 70 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "bombom-de-morango.jpg",
+    "alt": "Foto de Bombom de Morango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 18,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

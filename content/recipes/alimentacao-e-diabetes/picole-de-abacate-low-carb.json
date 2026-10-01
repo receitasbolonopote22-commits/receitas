@@ -1,0 +1,81 @@
+{
+  "id": "p1-p60",
+  "slug": "picole-de-abacate-low-carb",
+  "title": "Picolé de Abacate Low Carb",
+  "description": "Cremoso e refrescante, combina abacate com leite de coco em uma opção simples e low carb.",
+  "collections": [
+    "alimentacao-e-diabetes",
+    "low-carb"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 abacate médio maduro",
+        "3 colheres de sopa de adoçante xilitol",
+        "1/2 xícara de chá de leite de coco"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Pique o abacate e coloque no liquidificador junto com o leite de coco.",
+        "Bata até ficar cremoso, mas não líquido demais.",
+        "Adoce a gosto com xilitol.",
+        "Despeje em forminhas de picolé.",
+        "Leve ao freezer por algumas horas ou de um dia para o outro."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 picolés pequenos",
+  "servingSize": "1 unidade",
+  "nutrition": {
+    "calories": null,
+    "carbs": 4,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por unidade",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "A receita utiliza xilitol."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O abacate é saudável, mas calórico; mantenha a porção equilibrada."
+    }
+  ],
+  "image": {
+    "file": "picole-de-abacate-low-carb.jpg",
+    "alt": "Foto de Picolé de Abacate Low Carb",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 60,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

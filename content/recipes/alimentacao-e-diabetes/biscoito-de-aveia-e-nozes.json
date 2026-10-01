@@ -1,0 +1,76 @@
+{
+  "id": "card-p24",
+  "slug": "biscoito-de-aveia-e-nozes",
+  "title": "Biscoito de Aveia e Nozes",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 ½ xícara de chá de farinha de 100% trigo integral",
+        "1 colher de chá de farinha de linhaça",
+        "3 colheres de sopa de nozes picadas",
+        "1 colher de café de essência de baunilha",
+        "½ colher de chá de fermento em pó",
+        "1 xícara de chá de aveia em flocos",
+        "½ xícara de chá de adoçante para forno e fogão",
+        "½ de xícara de chá de manteiga sem sal",
+        "1 ovo",
+        "Manteiga ghee para untar a forma"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma vasilha misture os ingredientes até virar uma massa homogênea.",
+        "Para moldar os biscoitos com uma colher e colocá-los numa forma untada.",
+        "Assar em forno médio, preaquecido, por cerca de 20 minutos ou até dourar."
+      ]
+    }
+  ],
+  "prepTime": 120,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "12 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 132,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "biscoito-de-aveia-e-nozes.jpg",
+    "alt": "Foto de Biscoito de Aveia e Nozes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 24,
+    "originalTitle": "BISCOITO DE AVEIA E NOZES"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

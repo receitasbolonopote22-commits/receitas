@@ -1,0 +1,78 @@
+{
+  "id": "card-p8",
+  "slug": "wrap-de-carne-com-abobrinha",
+  "title": "Wrap de Carne com Abobrinha",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 wraps integrais",
+        "1 dente de alho picado",
+        "Pimenta a gosto",
+        "Salsinha a gosto",
+        "2 colheres de ricota picada",
+        "1/2 abobrinha picada em cubinhos",
+        "200 gramas de carne moída",
+        "Sal a gosto",
+        "1 colher azeite de oliva ou óleo de"
+      ]
+    },
+    {
+      "title": "Coco",
+      "items": []
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Pique o alho e leve para dourar em frigideira com azeite ou óleo de coco.",
+        "Em seguida, adicione a carne moída para refogar.",
+        "Depois de 2 minutos adicione abobrinha e deixe refogar mais um pouco.",
+        "Tempere com sal e pimenta.",
+        "Após 5 minutos, adicione salsinha e ricota picada.",
+        "Incorpore tudo e reserve.",
+        "Doure os wraps dos dois lados, recheie com o preparado, enrole e sirva cortado ao meio."
+      ]
+    }
+  ],
+  "prepTime": 35,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Consumir com moderação"
+    }
+  ],
+  "image": {
+    "file": "wrap-de-carne-com-abobrinha.jpg",
+    "alt": "Foto de Wrap de Carne com Abobrinha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 8,
+    "originalTitle": "WRAP DE CARNE COM ABOBRINHA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

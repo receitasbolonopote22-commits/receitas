@@ -1,0 +1,80 @@
+{
+  "id": "p1-p34",
+  "slug": "pizza-com-massa-de-couve-flor",
+  "title": "Pizza com Massa de Couve-flor",
+  "description": "Uma alternativa leve à pizza tradicional, com base de couve-flor e cobertura simples.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de chá de couve-flor cozida e escorrida, usando só os floretes",
+        "1 ovo",
+        "1 xícara de chá de queijo parmesão ralado",
+        "Sal a gosto",
+        "6 colheres de sopa de molho de tomate",
+        "1/2 xícara de chá de queijo meia cura ralado",
+        "1 punhado de folhas de rúcula"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Amasse bem a couve-flor, junte o ovo, o parmesão e o sal. Misture até formar uma massa e modele 2 discos pequenos.",
+        "Asse em forno preaquecido a 200 °C até dourar, cerca de 10 minutos.",
+        "Cubra com o molho de tomate e o queijo meia cura e volte ao forno por mais 10 minutos. Finalize com rúcula."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 pizzas pequenas",
+  "servingSize": "1 pizza pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Atenção à quantidade de queijo para manter o equilíbrio calórico e de sódio."
+    }
+  ],
+  "image": {
+    "file": "pizza-com-massa-de-couve-flor.jpg",
+    "alt": "Foto de Pizza com Massa de Couve-flor",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 34,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

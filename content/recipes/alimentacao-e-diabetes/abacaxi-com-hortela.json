@@ -1,0 +1,76 @@
+{
+  "id": "p2-p37",
+  "slug": "abacaxi-com-hortela",
+  "title": "Abacaxi com Hortelã",
+  "description": "Refrescante, aromático e naturalmente doce, este suco de abacaxi com hortelã é perfeito para qualquer hora do dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de abacaxi picado",
+        "Folhas de hortelã a gosto",
+        "200 ml de água gelada ou água de coco",
+        "Gelo a gosto",
+        "Adoçante culinário opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador e sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 10,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Frutas também contêm açúcares naturais; consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "abacaxi-com-hortela.jpg",
+    "alt": "Foto de Abacaxi com Hortelã",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 37,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

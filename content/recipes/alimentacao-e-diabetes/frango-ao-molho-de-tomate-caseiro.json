@@ -1,0 +1,83 @@
+{
+  "id": "p1-p86",
+  "slug": "frango-ao-molho-de-tomate-caseiro",
+  "title": "Frango ao Molho de Tomate Caseiro",
+  "description": "Uma opção leve e cheia de sabor, com cubos de frango envolvidos em molho de tomate caseiro.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g de peito de frango em cubos",
+        "4 tomates maduros picados",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "Sal e pimenta a gosto",
+        "Salsa picada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela, refogue a cebola e o alho no azeite.",
+        "Adicione os cubos de frango e deixe dourar.",
+        "Acrescente os tomates picados e cozinhe até formar um molho espesso.",
+        "Tempere com sal e pimenta.",
+        "Finalize com salsa e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 7,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Se acompanhar com arroz ou massas, some os carboidratos do acompanhamento."
+    }
+  ],
+  "image": {
+    "file": "frango-ao-molho-de-tomate-caseiro.jpg",
+    "alt": "Foto de Frango ao Molho de Tomate Caseiro",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 86,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "card-p54",
+  "slug": "barrinha-de-cereal-aveia-e-banana",
+  "title": "Barrinha de Cereal: Aveia e Banana",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xíc. chá de aveia em flocos",
+        "2 claras",
+        "2 bananas passas (secas) picadinhas (pode ser uva passa também)",
+        "1 banana amassada",
+        "Adoçante a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque todos os ingredientes em um recipiente e misture.",
+        "Unte uma forma e coloque a massa delicadamente sobre ela, espalhando com uma colher.",
+        "Corte as barrinhas antes de levar ao forno.",
+        "Coloque para assar em forno pré aquecido (180 - 200 graus) por cerca de 15 a 20 minutos.",
+        "Retire as barrinhas da forma somente quando estiverem frias.",
+        "Como elas são bem naturais, por precaução, aconselho a armazenar na geladeira em um recipiente fechado.",
+        "Mas podem tranquilamente ser mantidas na temperatura ambiente por um dia."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "12 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 72,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "barrinha-de-cereal-aveia-e-banana.jpg",
+    "alt": "Foto de Barrinha de Cereal: Aveia e Banana",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 54,
+    "originalTitle": "BARRINHA DE CEREAL: AVEIA E BANANA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

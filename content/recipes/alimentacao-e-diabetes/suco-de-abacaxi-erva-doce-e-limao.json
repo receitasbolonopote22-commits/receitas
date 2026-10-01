@@ -1,0 +1,78 @@
+{
+  "id": "p1-p73",
+  "slug": "suco-de-abacaxi-erva-doce-e-limao",
+  "title": "Suco de Abacaxi, Erva-Doce e Limão",
+  "description": "Cítrico e aromático, une abacaxi, erva-doce e limão em uma bebida refrescante.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "Cubos de abacaxi a gosto",
+        "Talos de erva-doce a gosto",
+        "1 xícara (chá) de suco de limão",
+        "Raspas da casca de limão"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador.",
+        "Se desejar, coe levemente.",
+        "O ideal é consumir sem coar para preservar mais fibras.",
+        "Sirva bem gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos pequenos",
+  "servingSize": "1 copo pequeno (180 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Prefira não adoçar; se desejar, utilize pequena quantidade de sucralose."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Contém carboidratos naturais do abacaxi; mantenha a porção equilibrada."
+    }
+  ],
+  "image": {
+    "file": "suco-de-abacaxi-erva-doce-e-limao.jpg",
+    "alt": "Foto de Suco de Abacaxi, Erva-Doce e Limão",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 73,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

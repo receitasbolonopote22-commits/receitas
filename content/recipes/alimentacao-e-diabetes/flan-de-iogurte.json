@@ -1,0 +1,70 @@
+{
+  "id": "card-p46",
+  "slug": "flan-de-iogurte",
+  "title": "Flan de Iogurte",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bases-e-preparos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 envelope de gelatina em pó sem sabor e incolor",
+        "1 lata de leite condensado dietético",
+        "1 lata de creme de leite light",
+        "2 copos de iogurte desnatado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Dissolva a gelatina em 5 colheres (sopa) de água e leve ao fogo em banho-maria.",
+        "Bata no liquidificador, a gelatina, o leite condensado, o creme de leite e o iogurte.",
+        "Colocar em taças e levar a geladeira por 4 horas.",
+        "A cobertura pode ser a que desejar, como opção pode-se colocar 1 colher de sopa de geleia light ou goiabada light derretida em banho-maria."
+      ]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "40 g (medida caseira)",
+  "nutrition": {
+    "calories": 55,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "flan-de-iogurte.jpg",
+    "alt": "Foto de Flan de Iogurte",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 46,
+    "originalTitle": "FLAN DE IOGURTE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

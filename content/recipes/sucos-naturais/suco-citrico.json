@@ -1,0 +1,61 @@
+{
+  "id": "sucos-p5",
+  "slug": "suco-citrico",
+  "title": "Suco Cítrico",
+  "description": null,
+  "collections": [
+    "sucos-naturais"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de melão em cubos",
+        "1 e 1/2 xícara de abacaxi em cubos",
+        "1 maçã verde em cubos sem sementes",
+        "Suco de 1/2 limão",
+        "1 colher sopa gengibre ralado",
+        "6 folhas de couve com o talo",
+        "1 xícara água de coco ou água filtrada",
+        "Pedras de gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ingredientes e tome sem coar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "suco-citrico.jpg",
+    "alt": "Foto de Suco Cítrico",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Sucos.pdf",
+    "page": 5,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

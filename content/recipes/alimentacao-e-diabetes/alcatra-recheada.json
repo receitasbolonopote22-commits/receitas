@@ -1,0 +1,92 @@
+{
+  "id": "card-p82",
+  "slug": "alcatra-recheada",
+  "title": "Alcatra Recheada",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1kg de miolo de alcatra cortado em um bife grande",
+        "750ml de caldo de carne"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "50g de carne magra moída",
+        "4 biscoitos de aveia",
+        "4 colheres (sopa) de leite desnatado",
+        "1 cebola média picada",
+        "1 cenoura sem casca ralada",
+        "1 dente de alho picado",
+        "2 colheres (sopa) de salsinha picada",
+        "1 clara em neve",
+        "2 talos de aipo picados",
+        "Sal e pimenta a gosto",
+        "Óleo de coco ou azeite de oliva para dourar e untar",
+        "Raminhos de salsa e tomates cortados em quatro para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Retire toda a gordura da carne, tempere e reserve.",
+        "Processe a carne moída com os biscoitos e o leite.",
+        "Despeje em um recipiente e adicione a cenoura ralada, o alho, a salsinha e o aipo.",
+        "Unte uma frigideira com óleo, refogue a cebola e junte à preparação anterior.",
+        "Adicione a clara em neve, tempere e mexa bem.",
+        "Recheie o bife com a preparação anterior, enrole bem e feche com um barbante culinário.",
+        "Em uma panela, aqueça 4 colheres (sopa) de óleo e doure a carne de todos os lados.",
+        "Baixe o fogo e coloque o caldo de carne fervendo.",
+        "Cozinhe por 55 minutos aproximadamente, banhando a carne no próprio líquido do cozimento, de vez em quando.",
+        "Deixe descansar por 5 minutos.",
+        "Corte a carne em fatias e sirva decorada com os raminhos de salsa e os tomates."
+      ]
+    }
+  ],
+  "prepTime": 90,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 305,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "alcatra-recheada.jpg",
+    "alt": "Foto de Alcatra Recheada",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 82,
+    "originalTitle": "ALCATRA RECHEADA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

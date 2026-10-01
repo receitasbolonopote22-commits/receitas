@@ -1,0 +1,71 @@
+{
+  "id": "e2-n26",
+  "slug": "bolo-de-chia-com-limao",
+  "title": "Bolo de Chia com Limão",
+  "description": "Um bolo refrescante!",
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Chia hidratada",
+      "items": [
+        "4 colheres de sopa de chia + 8 colheres de água (deixe hidratar por 15 minutos)"
+      ]
+    },
+    {
+      "title": "Base cítrica",
+      "items": [
+        "Suco e raspas de 3 limões",
+        "1 1/2 xícara de farinha de amêndoas",
+        "3 ovos",
+        "1/2 xícara de óleo"
+      ]
+    },
+    {
+      "title": "Doçura natural",
+      "items": [
+        "1/3 xícara de mel",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture a chia hidratada com todos os ingredientes líquidos.",
+        "Adicione farinha e fermento.",
+        "Asse a 180°C por 35-40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "O texto original diz: \"Um bolo refrescante repleto de ômega-3!\"."
+    ]
+  },
+  "relatedRecipes": []
+}

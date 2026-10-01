@@ -1,0 +1,72 @@
+{
+  "id": "card-p12",
+  "slug": "panqueca-de-couve",
+  "title": "Panqueca de Couve",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 ovo",
+        "1 xícara de farinha de aveia (ou outra de sua preferência)",
+        "1/2 maço de couve picado",
+        "Salsinha opcional",
+        "Alho a gosto",
+        "Sal a gosto",
+        "1 xícara de leite desnatado ou vegetal",
+        "1 colher (sopa) de óleo coco ou manteiga"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque todos os ingredientes dentro de um liquidificador.",
+        "Bata por alguns minutos até que vire uma massa homogênea.",
+        "Preaqueça uma frigideira, unte se for necessário.",
+        "Despeje a massa, espalhe por todo o fundo da frigideira.",
+        "Doure dos dois lados.",
+        "Recheie, leve ao forno por uns 5 minutos. E já pode servir."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "DICA: Se for congelar, doure os discos de panqueca e embrulhe com plástico filme, depois é só congelar. Para descongelar, retire no dia anterior ou algumas horas antes e leve ao microondas por 1 minuto."
+    }
+  ],
+  "image": {
+    "file": "panqueca-de-couve.jpg",
+    "alt": "Foto de Panqueca de Couve",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 12,
+    "originalTitle": "PANQUECA DE COUVE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

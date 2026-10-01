@@ -1,0 +1,77 @@
+{
+  "id": "p2-p27",
+  "slug": "chips-de-berinjela",
+  "title": "Chips de Berinjela",
+  "description": "Crocantes, leves e saborosos, esses chips são uma alternativa saudável para matar a vontade de beliscar sem sair da rotina alimentar.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "lanches",
+    "acompanhamentos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 berinjela média fatiada bem fina",
+        "1 colher de sopa de azeite de oliva",
+        "Sal a gosto",
+        "Orégano ou ervas secas a gosto",
+        "Páprica a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture as fatias de berinjela com o azeite e os temperos. Distribua em assadeira antiaderente ou papel-manteiga e leve ao forno até dourar e ficar crocante, virando na metade do tempo."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": "1 porção pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 7,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo saudáveis, consuma com moderação e prefira como acompanhamento ou lanche."
+    }
+  ],
+  "image": {
+    "file": "chips-de-berinjela.jpg",
+    "alt": "Foto de Chips de Berinjela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 27,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

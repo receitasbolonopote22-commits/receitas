@@ -1,0 +1,56 @@
+{
+  "id": "sucos-p6b",
+  "slug": "suco-detox-de-tomate",
+  "title": "Suco Detox de Tomate",
+  "description": null,
+  "collections": [
+    "sucos-naturais"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "150 ml de suco de tomate pronto",
+        "25 ml de suco de limão",
+        "Água com gás"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misturar em um copo os ingredientes e adicionar gelo na hora de beber."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "suco-detox-de-tomate.jpg",
+    "alt": "Foto de Suco Detox de Tomate",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Sucos.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "card-p107",
+  "slug": "bolinhos-de-arroz-integral-assados",
+  "title": "Bolinhos de Arroz Integral Assados",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar",
+    "acompanhamentos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "600 gramas: Arroz integral cozido",
+        "4 colheres de sopa: Aveia em flocos",
+        "1 Ovo",
+        "2 colheres de sopa: Queijo parmesão ralado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Preaqueça o forno a 210°C.",
+        "Numa tigela misture bem todos os ingredientes com as mãos.",
+        "Molde bolinhas do tamanho que quiser.",
+        "Unte uma assadeira antiaderente com azeite.",
+        "Leve ao forno por cerca de 25 minutos, desligue o forno e deixe mais 10 minutos."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "120 g (medida caseira)",
+  "nutrition": {
+    "calories": 150.32,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "bolinhos-de-arroz-integral-assados.jpg",
+    "alt": "Foto de Bolinhos de Arroz Integral Assados",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 107,
+    "originalTitle": "BOLINHOS DE ARROZ INTEGRAL ASSADOS"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

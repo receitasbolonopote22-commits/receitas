@@ -1,0 +1,70 @@
+{
+  "id": "b2-p8",
+  "slug": "bolo-sem-farinha",
+  "title": "Bolo sem Farinha",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "7 ovos grandes",
+        "12 colh. (sopa) óleo de coco",
+        "16 colh. (sopa) coco ralado",
+        "1/2 colh. (sopa) fermento em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Levar ao liquidificador os ovos e bater bem, acrescentar os demais ingredientes.",
+        "Untar uma forma, colocar a massa e levar para assar. em forno pré-aquecido.Comer."
+      ]
+    }
+  ],
+  "prepTime": 10,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "16 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 151,
+    "carbs": 1.4,
+    "protein": 3.25,
+    "fat": 14.77,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "bolo-sem-farinha.jpg",
+    "alt": "Foto de Bolo sem Farinha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 8,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "p2-p14",
+  "slug": "hamburguer-caseiro-de-grao-de-bico-2",
+  "title": "Hambúrguer Caseiro de Grão-de-Bico",
+  "description": "Uma opção nutritiva e saborosa, com grão-de-bico e aveia, ideal para refeições leves e equilibradas.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de chá de grão-de-bico cozido e amassado",
+        "1 cenoura pequena ralada",
+        "1/2 cebola ralada",
+        "1 ovo",
+        "2 colheres de sopa de farinha de aveia",
+        "Sal e pimenta a gosto",
+        "1 colher de chá de azeite"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture o grão-de-bico, a cenoura, a cebola, o ovo e a farinha de aveia até formar uma massa.",
+        "Tempere com sal e pimenta.",
+        "Modele em formato de hambúrgueres.",
+        "Grelhe em uma frigideira com azeite até dourar dos dois lados.",
+        "Sirva acompanhado de salada ou legumes."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 hambúrguer médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O grão-de-bico e a aveia contêm carboidratos naturais; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "hamburguer-caseiro-de-grao-de-bico-2.jpg",
+    "alt": "Foto de Hambúrguer Caseiro de Grão-de-Bico",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 14,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Cópia idêntica de \"Hambúrguer Caseiro de Grão-de-Bico\" (hamburguer-caseiro-de-grao-de-bico); oculta das listagens."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": [],
+  "duplicateOf": "hamburguer-caseiro-de-grao-de-bico"
+}

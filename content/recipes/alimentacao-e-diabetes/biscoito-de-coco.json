@@ -1,0 +1,66 @@
+{
+  "id": "card-p26",
+  "slug": "biscoito-de-coco",
+  "title": "Biscoito de Coco",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 gema",
+        "4 colheres de (sopa) de coco ralado sem açúcar",
+        "1 xícara de amido de milho",
+        "1/2 xícara de farinha de amêndoas",
+        "2 colheres de (sopa) de leite de coco caseiro",
+        "3 colheres de (sopa) de adoçante xilitol",
+        "2 colheres de (sopa) de manteiga"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture os ingredientes um a um, misture com as mãos até obter uma massa que não grude na mão.",
+        "Se for preciso, adicione mais farinha.",
+        "Abra a massa sobre uma superfície limpa e lisa, com um cortador, com um copo ou com uma faca mesmo, corte como preferir.",
+        "Coloque os biscoitinhos em uma forma untada, pincele com uma gema.",
+        "Leve para assar em forno preaquecido, por 20 minutos ou até firmarem e ficarem douradinhos."
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "Vai depender do formato escolhido.",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "biscoito-de-coco.jpg",
+    "alt": "Foto de Biscoito de Coco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 26,
+    "originalTitle": "BISCOITO DE coco"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

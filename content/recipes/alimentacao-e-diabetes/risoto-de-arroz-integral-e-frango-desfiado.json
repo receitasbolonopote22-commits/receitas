@@ -1,0 +1,73 @@
+{
+  "id": "card-p93",
+  "slug": "risoto-de-arroz-integral-e-frango-desfiado",
+  "title": "Risoto de Arroz Integral e Frango Desfiado",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar",
+    "acompanhamentos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200 g de peito de frango desfiado",
+        "280 g de arroz integral",
+        "4 colheres (sopa) de requeijão light",
+        "50 ml de água",
+        "1/2 cebola picada",
+        "1/2 colher (chá) de caldo de galinha",
+        "1 colher (sopa) de azeite de oliva",
+        "1 dente de alho picado",
+        "1/2 pimentão vermelho picado",
+        "1/2 cenoura ralada",
+        "Cheiro verde a gosto",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela, adicione azeite e refogue a cebola e o alho, em seguida adicione o pimentão, a cenoura, o frango e o caldo de galinha.",
+        "Deixe refogar mais um pouco e coloque a água.",
+        "Para o arroz integral, faça alguns furos no pacote com um garfo e comprima suavemente os grãos até que fiquem soltos.",
+        "Aqueça no micro-ondas por dois minutos.",
+        "Cuidado, a embalagem estará quente.",
+        "Abra o pacote e despeje o conteúdo junto ao refogado e em seguida adicione o requeijão e mexa bem.",
+        "Finalize com o cheiro verde e sirva."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "risoto-de-arroz-integral-e-frango-desfiado.jpg",
+    "alt": "Foto de Risoto de Arroz Integral e Frango Desfiado",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 93,
+    "originalTitle": "RISOTO DE ARROZ INTEGRAL E FRANGO DESFIADO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

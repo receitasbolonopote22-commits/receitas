@@ -1,0 +1,59 @@
+{
+  "id": "e3-n73",
+  "slug": "pudim-de-tapioca",
+  "title": "Pudim de Tapioca",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara tapioca hidratada",
+        "2 latas leite de coco",
+        "4 ovos",
+        "1/2 xícara xilitol",
+        "Coco ralado",
+        "Essência baunilha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture tapioca com leite de coco, ovos, xilitol, coco e baunilha.",
+        "Despeje em forma caramelizada.",
+        "Asse em banho-maria 180°C por 50min."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

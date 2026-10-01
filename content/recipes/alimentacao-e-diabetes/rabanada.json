@@ -1,0 +1,84 @@
+{
+  "id": "p2-p50",
+  "slug": "rabanada",
+  "title": "Rabanada",
+  "description": "Clássica, acolhedora e em versão leve! Esta rabanada é assada, leva menos açúcar e mais fibras.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 fatias de pão integral ou low carb (amanhecido)",
+        "2 ovos",
+        "1/2 xícara de leite desnatado ou bebida vegetal sem açúcar (120 ml)",
+        "1 colher de chá de essência de baunilha",
+        "1 colher de sopa de adoçante culinário",
+        "1 colher de café de canela em pó",
+        "1/2 colher de café de noz-moscada (opcional)",
+        "Adoçante culinário e canela para polvilhar",
+        "1 colher de chá de azeite ou óleo de coco (para untar)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em um prato fundo, bata os ovos com o leite, a baunilha, o adoçante, a canela e a noz-moscada.",
+        "Mergulhe as fatias de pão na mistura, virando para umedecer bem dos dois lados.",
+        "Disponha as fatias em uma assadeira untada com azeite ou óleo de coco.",
+        "Leve ao forno preaquecido a 200 °C por cerca de 20 minutos, virando na metade do tempo, até dourar.",
+        "Polvilhe adoçante e canela antes de servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": "2 fatias",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma opção mais saudável, deve ser consumida com moderação."
+    }
+  ],
+  "image": {
+    "file": "rabanada.jpg",
+    "alt": "Foto de Rabanada",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 50,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

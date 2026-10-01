@@ -1,0 +1,85 @@
+{
+  "id": "p1-p29",
+  "slug": "creme-de-brocolis-e-manjericao",
+  "title": "Creme de Brócolis e Manjericão",
+  "description": "Sopa cremosa e reconfortante, ideal para uma refeição leve e cheia de aroma.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sopas-e-cremes",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200 g de abóbora",
+        "300 g de brócolis",
+        "150 g de batata",
+        "1 cebola",
+        "2 dentes de alho",
+        "8 folhas frescas de manjericão",
+        "1 pitada de sal",
+        "2 colheres de sopa de azeite extra virgem",
+        "1 colher de chá de gengibre ralado",
+        "Água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte todos os legumes em pequenos pedaços e coloque em uma panela.",
+        "Adicione água até cobrir e cozinhe até os legumes ficarem macios.",
+        "Junte o gengibre ralado e bata tudo até formar um creme liso.",
+        "Finalize com o azeite e as folhas de manjericão, mexendo bem antes de servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 tigela média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 12,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A batata e a abóbora aumentam o teor de carboidratos; respeite o tamanho da porção."
+    }
+  ],
+  "image": {
+    "file": "creme-de-brocolis-e-manjericao.jpg",
+    "alt": "Foto de Creme de Brócolis e Manjericão",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 29,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

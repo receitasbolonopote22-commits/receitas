@@ -1,0 +1,70 @@
+{
+  "id": "card-p73",
+  "slug": "lombo-de-porco-ao-molho-de-laranja",
+  "title": "Lombo de Porco ao Molho de Laranja",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 peça de lombo magro (aproximadamente 900g)",
+        "1 dente de alho picado",
+        "Suco de 2 laranjas",
+        "1 colher (sopa) de alecrim",
+        "1 cebola pequena picada",
+        "1 colher (sopa) de azeite de oliva",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere o lombo de porco com o sal e a pimenta-do-reino a gosto.",
+        "Em uma frigideira aquecida com o azeite de oliva e o alecrim, coloque o lombo para selar dos quatros lados, mais ou menos 5 minutos de cada lado.",
+        "Retire o lombo da frigideira e corte-o em 4 medalhões.",
+        "Coloque o lombo novamente na frigideira para selar o centro. Desligue o fogo.",
+        "Acomode os medalhões em uma assadeira e leve ao forno preaquecido por aproximadamente 20 minutos.",
+        "Na mesma frigideira, refogue a cebola e o alho por dois minutos.",
+        "Acrescente o suco de laranja e deixe cozinhar por 5 minutos ou até que reduza pela metade.",
+        "Tempere com o sal e a pimenta-do-reino a gosto e mexa bem.",
+        "Retire o lombo do forno e coloque em um prato.",
+        "Adicione o molho de laranja por cima e sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 65,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "lombo-de-porco-ao-molho-de-laranja.jpg",
+    "alt": "Foto de Lombo de Porco ao Molho de Laranja",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 73,
+    "originalTitle": "LOMBO DE PORCO AO MOLHO DE LARANJA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

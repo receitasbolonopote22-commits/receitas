@@ -1,0 +1,72 @@
+{
+  "id": "card-p47",
+  "slug": "mousse-de-limao",
+  "title": "Mousse de Limão",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 lata de leite condensado dietético",
+        "1 lata de creme de leite light",
+        "250 ml de suco de limão",
+        "1 colher (café) de essência de baunilha",
+        "3 envelopes de gelatina em pó sem sabor e incolor",
+        "Adoçante p/ forno e fogão a gosto",
+        "Raspas da casca de limão"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Dissolver a gelatina conforme as instruções da embalagem.",
+        "Bater no liquidificador o creme de leite, o leite condensado, o suco de limão, a essência de baunilha, as raspas de limão e o adoçante, se for necessário.",
+        "Acrescentar a gelatina e bater por mais 2 minutos ou até o creme ficar bem homogêneo.",
+        "Distribuir em taças e enfeitar com raspas de limão."
+      ]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "40 g (medida caseira)",
+  "nutrition": {
+    "calories": 113,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "mousse-de-limao.jpg",
+    "alt": "Foto de Mousse de Limão",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 47,
+    "originalTitle": "MOUSSE DE LIMÃO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

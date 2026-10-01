@@ -1,0 +1,77 @@
+{
+  "id": "b2-p53",
+  "slug": "sorvete-de-abacate",
+  "title": "Sorvete de Abacate",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 abacate médio",
+        "100 ml leite desnatado",
+        "2 colh. (sopa) creme de leite light",
+        "Suco de 1/2 limão",
+        "Raspas da casca de 1/2 limão",
+        "4 colh. (sopa) adoçante forno e fogão"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Abra o abacate e retire a polpa, Leve ao liquidificador e bata junto com leite desnatado, creme de leite, suco de 1/2 limão e adoçante.",
+        "Bata até a mistura ficar homogênea.",
+        "Coloque em um pote e leve ao refrigerador por cerca de 30 minutos ou até firmar."
+      ]
+    }
+  ],
+  "prepTime": 55,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 97,
+    "carbs": 7,
+    "protein": 2,
+    "fat": 9,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [
+    {
+      "label": null,
+      "text": "Dica, por cima, sirva com raspas de limão ou farelo de aveia ou sementes de chia / linhaça."
+    }
+  ],
+  "image": {
+    "file": "sorvete-de-abacate.jpg",
+    "alt": "Foto de Sorvete de Abacate",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 53,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "b2-p35",
+  "slug": "mousse-de-amora",
+  "title": "Mousse de Amora",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 embalagem de gelatina de amora diet (Dr.Oetker)",
+        "1/2 xic. (chá) iogurte natural desnatado",
+        "1 xíc. (chá) água fria",
+        "1 xic. (chá) água fervente",
+        "170 g polpa de amora congelada"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela, dissolva a gelatina em água fervente.",
+        "Em seguida, adicione a água fria e misture bem.",
+        "Transfira a gelatina para o liquidificador e acrescente a polpa de amora congelada e o iogurte natural desnatado.",
+        "Bata por cerca de 5 minutos.",
+        "Distribua o mousse em um recipiente de vidro e leve para a geladeira até firmar.",
+        "Sirva."
+      ]
+    }
+  ],
+  "prepTime": 35,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 89,
+    "carbs": 15,
+    "protein": 7,
+    "fat": 1,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "mousse-de-amora.jpg",
+    "alt": "Foto de Mousse de Amora",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 35,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

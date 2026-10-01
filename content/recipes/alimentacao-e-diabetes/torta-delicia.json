@@ -1,0 +1,87 @@
+{
+  "id": "p2-p46",
+  "slug": "torta-delicia",
+  "title": "Torta Delícia",
+  "description": "Leve, cremosa e irresistível, esta torta combina texturas e sabores de forma equilibrada. Ideal para qualquer ocasião!",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de aveia em flocos finos",
+        "1/2 xícara de farinha de amêndoas",
+        "2 colheres (sopa) de óleo de coco",
+        "2 colheres (sopa) de adoçante culinário",
+        "300 g de iogurte natural desnatado",
+        "200 g de cream cheese light ou ricota cremosa",
+        "1/2 xícara de leite desnatado",
+        "1 envelope de gelatina incolor sem sabor",
+        "1 colher (chá) de essência de baunilha",
+        "Frutas vermelhas para decorar (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Triture a aveia em flocos no liquidificador até virar uma farinha.",
+        "Misture com a farinha de amêndoas, o óleo de coco e o adoçante até formar uma farofa úmida.",
+        "Forre o fundo de uma forma de fundo removível (20 cm) e leve à geladeira enquanto prepara o recheio.",
+        "Hidrate a gelatina conforme as instruções da embalagem e dissolva em banho-maria ou no micro-ondas.",
+        "No liquidificador, bata o iogurte, o cream cheese, o leite desnatado, o adoçante, a baunilha e a gelatina dissolvida até obter um creme.",
+        "Despeje o creme sobre a base e leve à geladeira por pelo menos 4 horas ou até firmar.",
+        "Decore com frutas vermelhas e sirva gelada."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 fatias",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 12,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de saudável, contém gorduras boas e calorias; consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "torta-delicia.jpg",
+    "alt": "Foto de Torta Delícia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 46,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

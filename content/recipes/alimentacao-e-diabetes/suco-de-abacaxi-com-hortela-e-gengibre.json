@@ -1,0 +1,78 @@
+{
+  "id": "p1-p74",
+  "slug": "suco-de-abacaxi-com-hortela-e-gengibre",
+  "title": "Suco de Abacaxi com Hortelã e Gengibre",
+  "description": "Refrescante e levemente picante, combina abacaxi, hortelã e gengibre em uma bebida vibrante.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 litro de água de coco",
+        "1 xícara (chá) de abacaxi em cubos",
+        "1 xícara (chá) de hortelã fresca",
+        "1 pequeno pedaço de gengibre"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador.",
+        "Se necessário, ajuste a textura com mais água de coco.",
+        "O ideal é adoçar apenas no copo, se realmente necessário.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 copos pequenos",
+  "servingSize": "1 copo pequeno (180 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 13,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "O ideal é não adoçar; se necessário, use adoçante culinário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Contém carboidratos naturais do abacaxi e da água de coco; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "suco-de-abacaxi-com-hortela-e-gengibre.jpg",
+    "alt": "Foto de Suco de Abacaxi com Hortelã e Gengibre",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 74,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

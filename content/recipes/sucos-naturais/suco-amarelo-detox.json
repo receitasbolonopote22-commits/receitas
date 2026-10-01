@@ -1,0 +1,58 @@
+{
+  "id": "sucos-p5b",
+  "slug": "suco-amarelo-detox",
+  "title": "Suco Amarelo Detox",
+  "description": null,
+  "collections": [
+    "sucos-naturais"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "250 ml água gelada",
+        "1 pêssego pequeno",
+        "1/2 pera",
+        "Suco de meio limão",
+        "Lascas de gengibre"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ingredientes e tome sem coar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "suco-amarelo-detox.jpg",
+    "alt": "Foto de Suco Amarelo Detox",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Sucos.pdf",
+    "page": 5,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

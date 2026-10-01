@@ -1,0 +1,69 @@
+{
+  "id": "card-p44",
+  "slug": "curau-de-milho-2",
+  "title": "Curau de Milho",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 unidades (431g) de Espigas de milho",
+        "3 ½ xícaras de chá (500ml) de Leite desnatado",
+        "2 colheres de sopa cheias (11,5g) de adoçante p/ forno e fogão",
+        "1 colher de sopa (50g) de manteiga",
+        "3 colheres de sopa (46,76g) de Aveia",
+        "1 colher de sobremesa (4 g) de Canela em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Debulhar o milho, bater o milho com o leite e peneirar.",
+        "Acrescentar os demais ingredientes e levar ao fogo médio, mexer até que fique um creme grosso."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "13 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 160.6,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "curau-de-milho-2.jpg",
+    "alt": "Foto de Curau de Milho",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 44,
+    "originalTitle": "CURAU DE MILHO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

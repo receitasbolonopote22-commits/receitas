@@ -1,0 +1,59 @@
+{
+  "id": "sucos-p3",
+  "slug": "suco-laranjinha",
+  "title": "Suco Laranjinha",
+  "description": null,
+  "collections": [
+    "sucos-naturais"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 folha de couve",
+        "½ limão espremido",
+        "3 fatias de abacaxi",
+        "150 ml de água de coco (ou água, se preferir)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes no liquidificador. Beber a seguir, de preferência sem açúcar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "suco-laranjinha.jpg",
+    "alt": "Foto de Suco Laranjinha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Sucos.pdf",
+    "page": 3,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "No material original, os ingredientes do \"Suco Laranjinha\" são idênticos aos do \"Suco Verde\" (pág. 2) e não incluem laranja; provável erro de cópia na fonte."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "p2-p20",
+  "slug": "ovos-com-vegetais",
+  "title": "Ovos com Vegetais",
+  "description": "Uma opção leve e nutritiva, cheia de cores e sabores, ideal para começar o dia bem.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 ovos médios",
+        "1/2 xícara de cenoura ralada",
+        "1/2 xícara de brócolis cozido",
+        "1 colher de sopa de óleo de coco extra virgem orgânico",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ovos em uma tigela.",
+        "Adicione os outros ingredientes e misture tudo.",
+        "Pré-aqueça uma frigideira antiaderente e despeje a mistura na quantidade que você quiser.",
+        "Deixe em fogo baixo e cozinhe até dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1 porção média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 4,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza açúcar."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Acompanhe com legumes ou salada para compor a refeição."
+    }
+  ],
+  "image": {
+    "file": "ovos-com-vegetais.jpg",
+    "alt": "Foto de Ovos com Vegetais",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 20,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

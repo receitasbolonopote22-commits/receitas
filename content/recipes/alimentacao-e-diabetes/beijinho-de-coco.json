@@ -1,0 +1,74 @@
+{
+  "id": "card-p51",
+  "slug": "beijinho-de-coco",
+  "title": "Beijinho de Coco",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes",
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 envelopes de pudim diet sabor coco",
+        "½ litro de leite desnatado",
+        "1 gema",
+        "8 colheres (sopa) de coco ralado seco",
+        "Cravo para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Desmanche a gema em um pouco do leite e reserve.",
+        "Dissolva os três envelopes de pudim no leite e acrescente a gema previamente desmanchada.",
+        "Leve ao fogo até engrossar e deixe esfriar.",
+        "Enquanto isso, coloque o coco ralado em um prato.",
+        "Quando o creme estiver completamente frio, amasse-o como se fosse massa de pão.",
+        "Molhe as mãos com água e enrole os beijinhos.",
+        "Passe-os no coco ralado e enfeite cada um com um cravo."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "30 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 37.78,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "beijinho-de-coco.jpg",
+    "alt": "Foto de Beijinho de Coco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 51,
+    "originalTitle": "BEIJINHO DE coco"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

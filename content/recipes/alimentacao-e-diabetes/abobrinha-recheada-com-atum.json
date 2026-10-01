@@ -1,0 +1,66 @@
+{
+  "id": "card-p105",
+  "slug": "abobrinha-recheada-com-atum",
+  "title": "Abobrinha Recheada com Atum",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 abobrinhas",
+        "2 colheres (sopa) de azeite de oliva",
+        "2 colheres (sopa) de cebolinha verde picada",
+        "1 e ½ xícara de atum light enlatado e escorrido",
+        "1 cebola picada",
+        "Sal e pimenta-do-reino a gosto",
+        "Queijo ralado a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte as abobrinhas em rodelas com mais ou menos 3cm a 4 cm de espessura.",
+        "Com uma colher, retire a polpa, deixando uma borda de mais ou menos 0.5cm e reserve a polpa.",
+        "Em um frigideira, refogue com azeite de oliva a cebola, o atum e a polpa que foi retirada das abobrinhas e tempere a gosto com sal e pimenta do reino.",
+        "Recheie as abobrinhas e polvilhe o queijo ralado e a cebolinha picada a gosto.",
+        "Leve ao forno médio à 180°C, preaquecido, por cerca de 30 minutos, ou até gratinar e a abobrinha ficar macia.",
+        "Retire do forno e sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "abobrinha-recheada-com-atum.jpg",
+    "alt": "Foto de Abobrinha Recheada com Atum",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 105,
+    "originalTitle": "ABOBRINHA RECHEADA COM ATUM"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

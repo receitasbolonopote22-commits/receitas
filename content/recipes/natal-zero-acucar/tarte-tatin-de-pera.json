@@ -1,0 +1,59 @@
+{
+  "id": "e3-n56",
+  "slug": "tarte-tatin-de-pera",
+  "title": "Tarte Tatin de Pera",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 peras firmes fatiadas",
+        "1/4 xícara xilitol",
+        "2 colheres ghee",
+        "1 receita massa (receita 51)",
+        "Canela"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Caramelize peras com xilitol e ghee em frigideira.",
+        "Cubra com massa.",
+        "Asse 180°C por 30min.",
+        "Vire em prato ao sair do forno."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

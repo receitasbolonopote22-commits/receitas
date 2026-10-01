@@ -1,0 +1,72 @@
+{
+  "id": "card-p48",
+  "slug": "torta-de-ricota-cheesecake",
+  "title": "Torta de Ricota (Cheesecake)",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "300g de ricota",
+        "1 lata de leite condensado dietético",
+        "1 lata de creme de leite light",
+        "4 gemas",
+        "4 claras em neve"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater no liquidificador, o queijo, o leite condensado, o creme de leite e as gemas.",
+        "Misturar delicadamente, às claras em neve com o creme, sem bater.",
+        "Untar a fôrma com manteiga e polvilhar com adoçante.",
+        "Cobertura de sua preferência, como sugestão pode-se usar geleia light, achocolatado light ou polpa de maracujá."
+      ]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "120 g (medida caseira)",
+  "nutrition": {
+    "calories": 176.58,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "torta-de-ricota-cheesecake.jpg",
+    "alt": "Foto de Torta de Ricota (Cheesecake)",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 48,
+    "originalTitle": "TORTA DE RICOTA (CHEESECAKE)"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O modo de preparo não informa tempo/temperatura de forno nem se a torta vai ao forno; conferir no material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

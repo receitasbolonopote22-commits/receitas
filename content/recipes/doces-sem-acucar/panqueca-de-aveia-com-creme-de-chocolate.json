@@ -1,0 +1,80 @@
+{
+  "id": "b2-p47",
+  "slug": "panqueca-de-aveia-com-creme-de-chocolate",
+  "title": "Panqueca de Aveia com Creme de Chocolate",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas",
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 colh. (sopa) de farelo de aveia",
+        "4 colh. (sopa) de água",
+        "1 ovo",
+        "1 pitada de Sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata o farelo de aveia, a água, o ovo o sal no liquidificador.",
+        "Despeje a massa em uma frigideira antiaderente.",
+        "O ponto ideal da panqueca é quando ela se soltar por completo da panela.",
+        "O recheio é a seu gosto.",
+        "Você encontra a receita aqui nesse livro."
+      ]
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 unidades",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 122,
+    "carbs": 22,
+    "protein": 5,
+    "fat": 3,
+    "fiber": null,
+    "basis": "por 1 porção (80g)",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [
+    {
+      "label": null,
+      "text": "Dica, é a Nutella Caseira."
+    }
+  ],
+  "image": {
+    "file": "panqueca-de-aveia-com-creme-de-chocolate.jpg",
+    "alt": "Foto de Panqueca de Aveia com Creme de Chocolate",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 47,
+    "originalTitle": "Panqueca de Aveia com Nutella Caseira"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Título original cita marca registrada (\"Nutella\"); exibido sem a marca."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

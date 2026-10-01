@@ -1,0 +1,78 @@
+{
+  "id": "p2-p30",
+  "slug": "muffin-de-atum-com-creme-de-ricota-de-bufala",
+  "title": "Muffin de Atum com Creme de Ricota de Búfala",
+  "description": "Prático, proteico e muito saboroso, esse muffin salgado é ideal para um lanche nutritivo ou refeição leve.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 lata de atum escorrido",
+        "2 ovos",
+        "3 colheres de sopa de farelo de aveia",
+        "3 colheres de sopa de creme de ricota de búfala",
+        "1 colher de sopa de cebola picada",
+        "1 colher de chá de fermento em pó",
+        "Sal, pimenta e ervas a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture todos os ingredientes até formar uma massa homogênea. Distribua em forminhas de muffin e leve ao forno até assar e dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 unidades",
+  "servingSize": "1 a 2 unidades",
+  "nutrition": {
+    "calories": null,
+    "carbs": 5,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por unidade",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Acompanhe com salada ou legumes para uma refeição mais equilibrada."
+    }
+  ],
+  "image": {
+    "file": "muffin-de-atum-com-creme-de-ricota-de-bufala.jpg",
+    "alt": "Foto de Muffin de Atum com Creme de Ricota de Búfala",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 30,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

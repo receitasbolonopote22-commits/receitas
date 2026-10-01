@@ -1,0 +1,70 @@
+{
+  "id": "e2-n36",
+  "slug": "bolo-de-abacaxi-com-hortela",
+  "title": "Bolo de Abacaxi com Hortelã",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Abacaxi fresco",
+      "items": [
+        "1 1/2 xícara de abacaxi picado, bem escorrido"
+      ]
+    },
+    {
+      "title": "Toque de hortelã",
+      "items": [
+        "3 colheres de sopa de hortelã fresca picada"
+      ]
+    },
+    {
+      "title": "Base leve",
+      "items": [
+        "2 xícaras de farinha de arroz",
+        "3 ovos",
+        "Óleo",
+        "Mel",
+        "Fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata ingredientes líquidos, adicione farinha e fermento.",
+        "Incorpore o abacaxi bem escorrido e a hortelã picada.",
+        "Asse a 180°C por 45 minutos.",
+        "A combinação é refrescante e surpreendente!"
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

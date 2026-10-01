@@ -1,0 +1,78 @@
+{
+  "id": "p1-p69",
+  "slug": "cha-de-pata-de-vaca",
+  "title": "Chá de Pata-de-Vaca",
+  "description": "Um chá herbal tradicional, ideal para consumo ocasional dentro de uma rotina equilibrada.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [
+    "cha"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 folhas de pata-de-vaca",
+        "1 xícara de água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque a água em uma panela e adicione as folhas.",
+        "Deixe ferver por alguns minutos.",
+        "Desligue o fogo e deixe repousar.",
+        "Coe e sirva ainda morno."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 xícara",
+  "servingSize": "1 xícara (200 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 0,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não é necessário adoçar; use adoçante apenas se desejar."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Chás e ervas devem ser consumidos com moderação e não substituem orientações médicas."
+    }
+  ],
+  "image": {
+    "file": "cha-de-pata-de-vaca.jpg",
+    "alt": "Foto de Chá de Pata-de-Vaca",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 69,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

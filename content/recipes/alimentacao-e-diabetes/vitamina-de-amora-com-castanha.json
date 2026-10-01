@@ -1,0 +1,77 @@
+{
+  "id": "p1-p13",
+  "slug": "vitamina-de-amora-com-castanha",
+  "title": "Vitamina de Amora com Castanha",
+  "description": "Bebida cremosa, antioxidante e com gorduras boas para dar saciedade.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas",
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "150 ml de leite vegetal",
+        "10 castanhas de caju torradas, deixadas de molho por no mínimo 3 horas",
+        "5 amoras congeladas",
+        "1 colher de chá de xilitol",
+        "1 pitada de canela"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador por cerca de 3 minutos, até obter uma bebida cremosa. Sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 11,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Prefira xilitol, eritritol ou estévia e ajuste ao paladar."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de saudável, contém castanhas e deve ser consumida com moderação por ser mais calórica."
+    }
+  ],
+  "image": {
+    "file": "vitamina-de-amora-com-castanha.jpg",
+    "alt": "Foto de Vitamina de Amora com Castanha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 13,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

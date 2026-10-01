@@ -1,0 +1,80 @@
+{
+  "id": "card-p57",
+  "slug": "pudim-tentacao",
+  "title": "Pudim Tentação",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de chá de leite em pó desnatado",
+        "2 xícaras de chá de leite desnatado",
+        "4 ovos",
+        "1 colher de sobremesa de manteiga sem sal",
+        "1 colher de chá de essência de baunilha",
+        "1 colher de sobremesa rasa de amido de milho",
+        "½ xícara de chá de água fervente",
+        "½ xícara de chá de adoçante culinário em pó"
+      ]
+    },
+    {
+      "title": "Ingredientes para a calda",
+      "items": [
+        "1/2 xícara de chá de adoçante de sua escolha",
+        "3 colheres de sopa de água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Separe uma forma própria para pudim.",
+        "Em seguida coloque o adoçante da calda e leve ao fogo baixo para caramelizar.",
+        "Depois que estiver derretendo e ganhando uma coloração amarela, acrescente a água, misture bem e deixe ferver até adquirir consistência de caramelo, cuidado para não queimar.",
+        "Reserve.",
+        "Agora vamos preparar o pudim, bata no liquidificador o leite em pó, água, manteiga e adoçante por uns 5 minutos ou até misturar bem.",
+        "Em seguida acrescente os outros ingredientes e bata novamente.",
+        "Despeje sobre a forma caramelizada e leve para assar em forno médio em banho maria por uma hora e meia.",
+        "Leve a geladeira e deixe esfriar e criar a consistência desejada."
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "pudim-tentacao.jpg",
+    "alt": "Foto de Pudim Tentação",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 57,
+    "originalTitle": "PUDIM TENTAÇÃO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

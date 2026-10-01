@@ -1,0 +1,71 @@
+{
+  "id": "card-p86",
+  "slug": "sopa-de-legumes-divina",
+  "title": "Sopa de Legumes Divina",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sopas-e-cremes",
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "400g de peito de frango cortado em cubos",
+        "2 chuchus picados",
+        "2 cenouras picadas",
+        "3 xícaras (chá) de repolho picado em tiras",
+        "1 maço de agrião picado",
+        "2 tomates médios picados",
+        "2 dentes de alho picados",
+        "½ abobrinha picada",
+        "1 litro de água",
+        "Caldo zero de frango",
+        "1 colher sopa de azeite de oliva",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela aquecida com o azeite de oliva refogue o alho, cuidando para não queimar.",
+        "Acrescente os cubos de frango e o caldo zero de frango e deixe refogar até que o frango fique bem dourado.",
+        "Acrescente os demais ingredientes picados na panela e cubra com água.",
+        "Tempere com o sal e a pimenta-do-reino a gosto e cozinhe na pressão por cerca de 5 minutos.",
+        "Retire do fogo e sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "sopa-de-legumes-divina.jpg",
+    "alt": "Foto de Sopa de Legumes Divina",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 86,
+    "originalTitle": "SOPA DE LEGUMES DIVINA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

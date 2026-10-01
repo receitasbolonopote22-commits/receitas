@@ -1,0 +1,69 @@
+{
+  "id": "b2-p29",
+  "slug": "iogurte-natural-caseiro",
+  "title": "Iogurte Natural Caseiro",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bases-e-preparos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 copo de iogurte natural desnatado",
+        "1 litro de leite desnatado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Ferva o leite.",
+        "Deixe amornar até a temperatura de 37°C (temperatura que não queime a pele).",
+        "Adicione o iogurte em temperatura ambiente. mexendo lentamente, cubra e deixe descansar no mínimo por quatro horas em ambiente aquecido (exemplo, em cima da geladeira)."
+      ]
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "7 taças",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 143,
+    "carbs": 15.98,
+    "protein": 11.92,
+    "fat": 3.52,
+    "fiber": null,
+    "basis": "por 230 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "iogurte-natural-caseiro.jpg",
+    "alt": "Foto de Iogurte Natural Caseiro",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 29,
+    "originalTitle": "Iogurte"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

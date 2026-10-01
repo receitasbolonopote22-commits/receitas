@@ -1,0 +1,72 @@
+{
+  "id": "card-p9",
+  "slug": "wrap-de-frango",
+  "title": "Wrap de Frango",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 wraps integrais",
+        "300g de peito de frango cozido e desfiado",
+        "150g de cream cheese light",
+        "2 xícaras (chá) de rúcula picada",
+        "1 xícara (chá) de tomate seco",
+        "1 colheres (sopa) de azeite de oliva",
+        "Suco de ½ limão",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Comece temperando o frango com o sal e a pimenta-do-reino e refogue em uma frigideira aquecida com azeite de oliva por cerca de 5 minutos.",
+        "Reserve.",
+        "Em um recipiente, misture o cream cheese com o suco de limão e tempere com sal e pimenta-do-reino a gosto.",
+        "Abra a massa de Wrap e espalhe a mistura de cream cheese sobre ele.",
+        "Adicione a rúcula, o tomate seco e o peito de frango desfiado e enrole a massa como se fosse uma \"panqueca\".",
+        "Faça o mesmo no restante das massas e sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 35,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Consumir com moderação"
+    }
+  ],
+  "image": {
+    "file": "wrap-de-frango.jpg",
+    "alt": "Foto de Wrap de Frango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 9,
+    "originalTitle": "WRAP DE FRANGO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

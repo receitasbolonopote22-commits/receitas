@@ -1,0 +1,75 @@
+{
+  "id": "card-p74",
+  "slug": "picadinho-sofisticado",
+  "title": "Picadinho Sofisticado",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 kg de filé mignon",
+        "1 colher (sopa) de óleo de coco",
+        "1 cebola grande ralada",
+        "5 dentes de alho amassados",
+        "1 colher (chá) de tomilho",
+        "2 colheres (chá) de orégano",
+        "Sal a gosto",
+        "1 xícara (chá) de vinho branco light",
+        "1 colher (sobremesa) de molho inglês"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte o filé em cubinhos.",
+        "Coloque o óleo em uma panela, leve ao fogo e frite a cebola e o alho.",
+        "Junte a carne, o tomilho, o orégano e refogue até a carne dourar ligeiramente.",
+        "Tempere-a com sal, adicione o vinho e o molho inglês e cozinhe até que fique macia e com o caldo totalmente reduzido."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 307.24,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "picadinho-sofisticado.jpg",
+    "alt": "Foto de Picadinho Sofisticado",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 74,
+    "originalTitle": "PICADINHO SOFISTICADO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

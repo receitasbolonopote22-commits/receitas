@@ -1,0 +1,80 @@
+{
+  "id": "card-p34",
+  "slug": "cookie-2",
+  "title": "Cookie",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 ½ xícara de chá (160g) de Farinha de trigo 100% integral",
+        "½ colher de chá (2g) de Bicarbonato de sódio",
+        "½ xícara de chá (45g) Amido de milho",
+        "4 colheres de sopa niveladas (80g) de Manteiga",
+        "4 colheres de chá (15g) de Adoçante Stévia",
+        "2 Claras",
+        "2 tabletes (60g) de Chocolate diet pelo menos 70% cacau",
+        "2 colheres de sopa (22g) de Farinha de aveia",
+        "1 colher de chá (5 ml) de Essência de baunilha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Fazer uma coroa com a farinha e, no centro, coloque o bicarbonato de sódio.",
+        "Despejar o amido de milho sobre a coroa.",
+        "Abrir o centro da coroa e colocar a manteiga, o adoçante, a farinha de aveia e a essência de baunilha.",
+        "Misturar todos os ingredientes do centro até obter uma pasta cremosa.",
+        "Em seguida, adicionar as claras.",
+        "Antes de integrar todos os ingredientes por completo, adicionar o chocolate picado e amassar bem.",
+        "Fazer cilindros e coloca-los na assadeira e deixar descansar na geladeira por 30 minutos.",
+        "Cortar fatias e coloca-las na assadeira, deixando um espaço entre elas.",
+        "Abrir ligeiramente as fatias e assar em forno pré aquecido por cerca de 15 minutos.",
+        "Deixar esfriar e retirar os cookies."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "35 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 47,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "cookie-2.jpg",
+    "alt": "Foto de Cookie",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 34,
+    "originalTitle": "COOKIE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

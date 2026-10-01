@@ -1,0 +1,71 @@
+{
+  "id": "b2-p20",
+  "slug": "chocolate-cremoso",
+  "title": "Chocolate Cremoso",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "11/2 xic. de leite de coco",
+        "100 g de chocolate amargo >70%",
+        "3 colh. (chá) de gelatina chocolate diet",
+        "Adoçante ao gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça o leite de coco até ferver e derreta o chocolate amargo junto.",
+        "Derreta a gelatina na mistura e misture tudo.",
+        "Despeje essa mistura em copos e leve para a geladeira por 4 horas ou até ficar bem cremoso e consistente.",
+        "Prontinho."
+      ]
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 239,
+    "carbs": 18,
+    "protein": 3,
+    "fat": 21,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "chocolate-cremoso.jpg",
+    "alt": "Foto de Chocolate Cremoso",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 20,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

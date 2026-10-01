@@ -1,0 +1,72 @@
+{
+  "id": "card-p98",
+  "slug": "picanha-assada-ao-alho-com-tangerina",
+  "title": "Picanha Assada ao Alho com Tangerina",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 picanha de aproximadamente 1kg sem gordura",
+        "1 colher (sopa) de sal",
+        "6 dentes de alho amassados",
+        "Sal e pimenta do reino a gosto",
+        "2 xícaras (chá) de suco de tangerina"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere a picanha com sal, alho, e pimenta.",
+        "Leve ao forno preaquecido a 220° C por 1 hora e 30 minutos.",
+        "Despeje o suco de tangerina aos poucos sobre a picanha e asse por mais 15 minutos.",
+        "Vire a picanha e regue com mais suco até que fique dourada.",
+        "Sirva bem quente."
+      ]
+    }
+  ],
+  "prepTime": 120,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 165,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "picanha-assada-ao-alho-com-tangerina.jpg",
+    "alt": "Foto de Picanha Assada ao Alho com Tangerina",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 98,
+    "originalTitle": "PICANHA ASSADA AO ALHO COM TANGERINA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

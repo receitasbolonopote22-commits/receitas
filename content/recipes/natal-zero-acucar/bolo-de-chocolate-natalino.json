@@ -1,0 +1,63 @@
+{
+  "id": "e3-n1",
+  "slug": "bolo-de-chocolate-natalino",
+  "title": "Bolo de Chocolate Natalino",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 ovos",
+        "1 xícara de farinha de amêndoas",
+        "1/2 xícara de cacau em pó",
+        "1/4 xícara de óleo de coco",
+        "1/2 xícara de eritritol",
+        "1 colher de chá de fermento",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Preaqueça o forno a 180°C.",
+        "Bata os ovos com eritritol até cremoso.",
+        "Adicione óleo de coco.",
+        "Peneire farinha de amêndoas, cacau, fermento e sal, misture delicadamente.",
+        "Asse por 25-30 minutos em forma untada."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 2,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

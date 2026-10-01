@@ -1,0 +1,80 @@
+{
+  "id": "p2-p34",
+  "slug": "suco-de-melao-com-maracuja",
+  "title": "Suco de Melão com Maracujá",
+  "description": "Leve, refrescante e tropical, esse suco combina o dulçor natural do melão com o toque cítrico do maracujá.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de melão picado (cubos)",
+        "1/2 xícara de polpa de maracujá",
+        "200 ml de água gelada",
+        "1 colher de chá de chia (opcional)",
+        "Gelo a gosto",
+        "Adoçante culinário a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "No liquidificador, bata o melão, a polpa de maracujá e a água até obter um suco liso.",
+        "Coe se preferir uma textura mais leve.",
+        "Adicione a chia, o gelo e o adoçante (se desejar) e misture bem.",
+        "Sirva imediatamente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 10,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Utilize adoçante culinário adequado para dietas com restrição de açúcar."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo saudáveis, os sucos contêm açúcares naturais; consuma com moderação."
+    }
+  ],
+  "image": {
+    "file": "suco-de-melao-com-maracuja.jpg",
+    "alt": "Foto de Suco de Melão com Maracujá",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 34,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

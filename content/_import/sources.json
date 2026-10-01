@@ -1,0 +1,14 @@
+{
+  "_comment": "Configuração de cada documento de origem. 'key' prefixa o id das receitas e o nome das imagens extraídas (images-raw/<KEY>-p<pagina>.jpg). A ordem define a prioridade dos slugs.",
+  "documents": [
+    { "file": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf", "key": "P1", "collections": ["alimentacao-e-diabetes"], "imageKey": "P1" },
+    { "file": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf", "key": "P2", "collections": ["alimentacao-e-diabetes"], "imageKey": "P2" },
+    { "file": "Cardápio para diabéticos.pdf", "key": "CARD", "collections": ["alimentacao-e-diabetes"], "imageKey": "CARD", "titleCase": true },
+    { "file": "Bônus 2 - Doces sem Açúcar.pdf", "key": "B2", "collections": ["doces-sem-acucar"], "imageKey": "B2", "nutritionApproximate": true },
+    { "file": "Bônus 3 - Receitas Low Carb.pdf", "key": "B3", "collections": ["low-carb"], "imageKey": "B3" },
+    { "file": "Entregável 1.pdf", "key": "E1", "collections": ["doces-sem-acucar"], "imageKey": "E1", "categories": ["caldas-e-coberturas", "doces-e-sobremesas"] },
+    { "file": "Sucos.pdf", "key": "SUCOS", "collections": ["sucos-naturais"], "imageKey": "SUCOS", "categories": ["sucos-e-bebidas"] },
+    { "file": "Entregável 2.pdf", "key": "E2", "collections": ["bolos-sem-gluten-e-sem-leite"], "imageKey": "E2", "categories": ["bolos"] },
+    { "file": "Entregável 3.pdf", "key": "E3", "collections": ["natal-zero-acucar"], "imageKey": "E3" }
+  ]
+}

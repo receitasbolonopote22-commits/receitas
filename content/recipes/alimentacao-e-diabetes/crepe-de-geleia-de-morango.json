@@ -1,0 +1,83 @@
+{
+  "id": "p2-p58",
+  "slug": "crepe-de-geleia-de-morango",
+  "title": "Crepe de Geleia de Morango",
+  "description": "Leve, macio e naturalmente doce, este crepe com geleia de morango sem açúcar é perfeito para saciar a vontade de doce com equilíbrio e sabor. Ideal para um café da manhã especial ou lanche saudável.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 ovo grande",
+        "1/2 xícara (chá) de leite desnatado",
+        "2 colheres (sopa) de aveia em flocos finos ou farinha de aveia",
+        "1 colher (chá) de óleo de coco ou azeite de oliva",
+        "1 colher (chá) de adoçante culinário (opcional)",
+        "1/2 colher (chá) de essência de baunilha (opcional)",
+        "1/2 xícara (chá) de geleia de morango sem açúcar para rechear",
+        "Morangos frescos fatiados para decorar (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em um liquidificador, bata o ovo, o leite, a aveia, o óleo, o adoçante e a baunilha até obter uma mistura homogênea.",
+        "Aqueça uma frigideira antiaderente untada levemente e despeje uma concha pequena da massa, espalhando para formar o crepe.",
+        "Cozinhe em fogo baixo por cerca de 1 a 2 minutos de cada lado, até dourar levemente. Repita com o restante da massa.",
+        "Recheie cada crepe com a geleia de morango sem açúcar e dobre ao meio ou enrole.",
+        "Sirva com morangos frescos por cima, se desejar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1 crepe recheado",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "crepe-de-geleia-de-morango.jpg",
+    "alt": "Foto de Crepe de Geleia de Morango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 58,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

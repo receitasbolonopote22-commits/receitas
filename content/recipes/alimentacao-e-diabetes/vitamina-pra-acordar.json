@@ -1,0 +1,63 @@
+{
+  "id": "card-p22",
+  "slug": "vitamina-pra-acordar",
+  "title": "Vitamina Pra Acordar",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas",
+    "cafe-da-manha",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1/2 xícara de espinafre",
+        "1/2 xícara de framboesas congeladas",
+        "2 colheres de sopa de linhaça moída",
+        "1 colher de chá de canela em pó",
+        "1/2 xícara de iogurte natural",
+        "1/2 xícara de leite de amêndoas"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Adicione o espinafre lavado no liquidificador com os outros ingredientes.",
+        "Bata bem até obter uma mistura homogênea.",
+        "Caso queira substituir a framboesa por outra fruta também fica uma delicia."
+      ]
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "vitamina-pra-acordar.jpg",
+    "alt": "Foto de Vitamina Pra Acordar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 22,
+    "originalTitle": "VITAMINA PRA ACORDAR"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

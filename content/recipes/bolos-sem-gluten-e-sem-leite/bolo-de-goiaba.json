@@ -1,0 +1,60 @@
+{
+  "id": "e2-n25",
+  "slug": "bolo-de-goiaba",
+  "title": "Bolo de Goiaba",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de goiabada sem açúcar derretida",
+        "2 xícaras de farinha de arroz",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "1/2 xícara de leite de coco",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Derreta a goiabada em banho-maria.",
+        "Bata com ovos, óleo e leite de coco.",
+        "Adicione a farinha de arroz.",
+        "Misture o fermento.",
+        "Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

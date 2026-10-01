@@ -1,0 +1,84 @@
+{
+  "id": "p1-p39",
+  "slug": "salada-de-atum",
+  "title": "Salada de Atum",
+  "description": "Refrescante, simples e rica em proteína, ótima para um almoço leve.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1/4 xícara de chá de suco de limão",
+        "3 colheres de sopa de azeite de oliva",
+        "1/2 colher de chá de alho",
+        "1/2 colher de chá de sal",
+        "Pimenta moída na hora a gosto",
+        "Folhas de alface romana",
+        "2 tomates médios cortados em cubos",
+        "1/2 xícara de chá de azeitonas verdes",
+        "2 latas de atum light em pedaços"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture o suco de limão, o sal, o alho, o azeite e a pimenta.",
+        "Em um prato ou saladeira, disponha as folhas de alface, os tomates e as azeitonas.",
+        "Adicione o atum e despeje o molho por cima.",
+        "Sirva fresca."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato de sobremesa",
+  "nutrition": {
+    "calories": null,
+    "carbs": 4,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Observe a quantidade de azeite e o teor de sódio do atum e das azeitonas."
+    }
+  ],
+  "image": {
+    "file": "salada-de-atum.jpg",
+    "alt": "Foto de Salada de Atum",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 39,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

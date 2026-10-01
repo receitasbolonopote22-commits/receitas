@@ -1,0 +1,79 @@
+{
+  "id": "card-p4",
+  "slug": "biscoito-de-aveia-e-canela-2",
+  "title": "Biscoito de Aveia e Canela",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de chá (168g) de Manteiga",
+        "24g Adoçante p/ forno e fogão",
+        "1 Gema",
+        "2 Claras",
+        "1 ¾ xícara de chá (270ml) de Leite desnatado",
+        "2 xícaras de chá (222g) de Farinha de trigo 100% integral",
+        "4 colheres de chá (16g) de Bicarbonato de sódio",
+        "5 colheres de chá (21g) Canela em pó",
+        "3 ¼ xícaras de chá (254g) de Aveia em flocos",
+        "¾ xícara de chá (76g) de Castanha de caju torrada e moída"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misturar todos os ingredientes secos (com exceção da aveia e da castanha).",
+        "Acrescentar 120ml de leite (3/4 xícara de chá), a manteiga, a gema, as claras e misturar.",
+        "Acrescentar a aveia e a canela e 150ml de leite (1 xícara de chá) e misturar.",
+        "Em uma assadeira untada, colocar a massa abrindo e deixando-a em espessura fina (0,5cm).",
+        "Em seguida, cortar a mesma em quadrados tomando o cuidado para deixar um pequeno espaço entre os mesmos (0,5cm).",
+        "Levar ao forno pré aquecido a 200°C por 25 minutos."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "65 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 230.1,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "biscoito-de-aveia-e-canela-2.jpg",
+    "alt": "Foto de Biscoito de Aveia e Canela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 4,
+    "originalTitle": "BISCOITO DE AVEIA E CANELA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

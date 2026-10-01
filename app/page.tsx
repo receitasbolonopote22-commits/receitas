@@ -1,69 +1,94 @@
-import Image from "next/image";
+import Hero from "@/components/Hero";
+import RecipeRow from "@/components/RecipeRow";
+import CollectionCard from "@/components/CollectionCard";
+import ContinueExploring from "@/components/ContinueExploring";
+import Scroller from "@/components/Scroller";
+import { RowHeader } from "@/components/RecipeRow";
+import {
+  getCategory,
+  getCollection,
+  getCollectionCover,
+  getCollections,
+  getFeatured,
+  getQuickRecipes,
+  getRecipeCount,
+  getRecipesByCategory,
+  getRecipesByCollection,
+  mix,
+  toCard,
+  withPhotosFirst,
+} from "@/lib/content";
+import type { Recipe } from "@/lib/types";
+
+/**
+ * Fileiras da página inicial. Para mudar a ordem ou incluir uma nova fileira,
+ * edite esta lista: { tipo: "categoria" | "colecao", slug }.
+ */
+const ROWS: ({ type: "category" | "collection"; slug: string; title?: string; emoji?: string } | { type: "quick" } | { type: "collections" })[] = [
+  { type: "category", slug: "cafe-da-manha" },
+  { type: "category", slug: "almoco" },
+  { type: "category", slug: "jantar" },
+  { type: "collections" },
+  { type: "category", slug: "bolos" },
+  { type: "collection", slug: "doces-sem-acucar", title: "Doces sem açúcar", emoji: "🍫" },
+  { type: "category", slug: "sucos-e-bebidas" },
+  { type: "collection", slug: "low-carb", title: "Low carb", emoji: "🥑" },
+  { type: "quick" },
+  { type: "category", slug: "lanches" },
+  { type: "category", slug: "saladas" },
+  { type: "category", slug: "sopas-e-cremes" },
+  { type: "collection", slug: "natal-zero-acucar", title: "Natal zero açúcar", emoji: "🎄" },
+  { type: "category", slug: "paes-e-salgados" },
+];
+
+const LIMIT = 18;
+const cards = (list: Recipe[], seed: string) => withPhotosFirst(mix(list, seed)).slice(0, LIMIT).map(toCard);
 
 export default function Home() {
+  const featured = getFeatured();
+  const heroMain = featured.find((r) => r.slug === "torta-mousse-de-maracuja") ?? featured[0];
+  const posters = featured.filter((r) => r.image && r.slug !== heroMain.slug);
+  const collections = getCollections();
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+    <>
+      <Hero main={toCard(heroMain)} posters={[posters[1], heroMain, posters[4]].filter(Boolean).map(toCard)} count={getRecipeCount()} />
+
+      <div className="relative z-10 -mt-6 space-y-9 sm:space-y-12">
+        <RecipeRow title="Em destaque" emoji="✨" recipes={featured.map(toCard)} eager />
+        <ContinueExploring />
+
+        {ROWS.map((row, i) => {
+          if (row.type === "collections")
+            return (
+              <section key="cols" aria-label="Coleções">
+                <RowHeader title="Coleções" emoji="📚" href="/colecoes" />
+                <Scroller label="Coleções" cardWidth="clamp(17rem, 82vw, 26rem)">
+                  {collections.map((c) => (
+                    <div role="listitem" key={c.slug}>
+                      <CollectionCard c={c} cover={getCollectionCover(c)} count={getRecipesByCollection(c.slug).length} />
+                    </div>
+                  ))}
+                </Scroller>
+              </section>
+            );
+          if (row.type === "quick") {
+            const quick = getQuickRecipes(20);
+            if (quick.length < 6) return null;
+            return <RecipeRow key="quick" title="Receitas rápidas (até 20 min)" emoji="⚡" href="/explorar?tempo=20" recipes={cards(quick, "quick")} count={quick.length} />;
+          }
+          if (row.type === "category") {
+            const cat = getCategory(row.slug);
+            const list = getRecipesByCategory(row.slug);
+            if (!cat) return null;
+            return <RecipeRow key={i} title={row.title ?? cat.name} emoji={row.emoji ?? cat.emoji} href={`/explorar?categoria=${cat.slug}`} recipes={cards(list, cat.slug)} count={list.length} />;
+          }
+          const col = getCollection(row.slug);
+          const list = getRecipesByCollection(row.slug);
+          if (!col) return null;
+          return <RecipeRow key={i} title={row.title ?? col.name} emoji={row.emoji} href={`/colecoes/${col.slug}`} recipes={cards(list, col.slug)} count={list.length} />;
+        })}
+      </div>
+    </>
   );
 }

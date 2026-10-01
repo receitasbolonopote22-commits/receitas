@@ -1,0 +1,85 @@
+{
+  "id": "p1-p82",
+  "slug": "tilapia-ao-forno-com-legumes",
+  "title": "Tilápia ao Forno com Legumes",
+  "description": "Leve e saborosa, combina filés de tilápia assados com legumes coloridos e tempero simples.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 filés de tilápia (400 g)",
+        "1 cenoura em rodelas",
+        "1 abobrinha em rodelas",
+        "1 pimentão vermelho fatiado",
+        "2 colheres de sopa de azeite (30 ml)",
+        "1 dente de alho picado",
+        "Suco de 1 limão",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere os filés de tilápia com alho, sal, pimenta e suco de limão.",
+        "Em uma assadeira, disponha os filés e os legumes.",
+        "Regue com azeite e cubra com papel-alumínio.",
+        "Leve ao forno a 180 °C por 25 minutos.",
+        "Retire o papel nos últimos 5 minutos para dourar.",
+        "Sirva com legumes assados."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 filé com uma porção de legumes",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de leve, o consumo de acompanhamentos deve ser planejado."
+    }
+  ],
+  "image": {
+    "file": "tilapia-ao-forno-com-legumes.jpg",
+    "alt": "Foto de Tilápia ao Forno com Legumes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 82,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

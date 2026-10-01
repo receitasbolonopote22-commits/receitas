@@ -1,0 +1,87 @@
+{
+  "id": "p1-p38",
+  "slug": "salada-caesar",
+  "title": "Salada Caesar",
+  "description": "Versão equilibrada e saborosa, com frango, alface e molho cremoso mais leve.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 pé de alface americana picada",
+        "400 g de peito de frango cozido em tirinhas",
+        "100 g de queijo parmesão ralado",
+        "120 ml de iogurte natural desnatado",
+        "2 colheres de sopa de suco de limão",
+        "2 colheres de chá de azeite",
+        "1 colher de chá de mostarda",
+        "2 dentes de alho picados",
+        "50 g de cubinhos de pão amanhecido",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça uma frigideira pequena com 1 colher de sopa de azeite, adicione os cubinhos de pão e deixe dourar; tempere com pimenta e orégano.",
+        "Em um bowl, coloque a alface lavada e picada, junte as tirinhas de frango e polvilhe o parmesão.",
+        "Molho: bata o iogurte, o suco de limão, o alho e a mostarda até ficar homogêneo, acrescentando o azeite aos poucos.",
+        "Ajuste sal e pimenta e despeje sobre a salada. Finalize com os croutons."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato de sobremesa",
+  "nutrition": {
+    "calories": null,
+    "carbs": 10,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Croutons e parmesão aumentam calorias e carboidratos; use porções moderadas."
+    }
+  ],
+  "image": {
+    "file": "salada-caesar.jpg",
+    "alt": "Foto de Salada Caesar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 38,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O modo de preparo cita orégano, que não consta na lista de ingredientes do material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

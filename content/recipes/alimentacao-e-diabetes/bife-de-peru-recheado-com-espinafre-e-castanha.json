@@ -1,0 +1,85 @@
+{
+  "id": "p1-p28",
+  "slug": "bife-de-peru-recheado-com-espinafre-e-castanha",
+  "title": "Bife de Peru Recheado com Espinafre e Castanha",
+  "description": "Receita especial, rica em sabor e com recheio marcante para variar o cardápio.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 bifes de peru grandes",
+        "800 g de folhas de espinafre",
+        "2 dentes de alho",
+        "4 colheres de sopa de aveia",
+        "300 g de miolo de castanha",
+        "Sal, pimenta e ervas aromáticas a gosto",
+        "Azeite de oliva"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere os bifes com sal e reserve.",
+        "Em uma frigideira, aqueça 2 colheres de azeite e doure o alho.",
+        "Adicione o espinafre e mexa por 3 a 4 minutos; reserve.",
+        "Distribua uma porção do espinafre sobre cada bife, enrole e prenda se necessário.",
+        "Disponha os bifes em um refratário, junte as castanhas e tempere com sal, pimenta, ervas aromáticas e mais 2 colheres de azeite.",
+        "Leve ao forno preaquecido a 180 °C por cerca de 30 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 bife recheado",
+  "nutrition": {
+    "calories": null,
+    "carbs": 11,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A castanha e a aveia agregam calorias e carboidratos; mantenha o equilíbrio da refeição."
+    }
+  ],
+  "image": {
+    "file": "bife-de-peru-recheado-com-espinafre-e-castanha.jpg",
+    "alt": "Foto de Bife de Peru Recheado com Espinafre e Castanha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 28,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "A aveia aparece na lista de ingredientes, mas não é citada no modo de preparo do material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

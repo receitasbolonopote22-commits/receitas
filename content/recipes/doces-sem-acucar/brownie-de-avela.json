@@ -1,0 +1,80 @@
+{
+  "id": "b2-p14",
+  "slug": "brownie-de-avela",
+  "title": "Brownie de Avelã",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "120 g de chocolate amargo",
+        "2 colh. (sopa) de açúcar de coco",
+        "2 colh. (sopa) de cacau em pó",
+        "12 avelãs",
+        "1 colh. (café) em pó",
+        "1 colh. (sopa) de biomassa de banana verde",
+        "2 ovos caipiras inteiros",
+        "1 colh. (sopa) de óleo de coco"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Na batedeira adicione os ovos. açúcar e óleo de coco.",
+        "Derreta o chocolate em banho maria e despeje na mistura junto das avelãs. cacau, café e biomassa.",
+        "Misture tudo muito bem.",
+        "Despeje em uma forma retangular untada e leve ao forno médio por 20 minutos.",
+        "Espere esfriar e corte em quadrados.",
+        "Sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 fatias",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 138,
+    "carbs": 14,
+    "protein": 2.2,
+    "fat": 7.8,
+    "fiber": null,
+    "basis": "por 1 unidade (30g)",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "brownie-de-avela.jpg",
+    "alt": "Foto de Brownie de Avelã",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 14,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Ingrediente com açúcar natural ou adicionado (açúcar) em coleção focada em baixo açúcar; revisar a forma de apresentação."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

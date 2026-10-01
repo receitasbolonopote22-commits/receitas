@@ -1,0 +1,64 @@
+{
+  "id": "e3-n6",
+  "slug": "bolo-red-velvet-natalino",
+  "title": "Bolo Red Velvet Natalino",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 ovos",
+        "1 xícara de farinha de amêndoas",
+        "1/2 xícara de farinha de coco",
+        "1/3 xícara de cacau",
+        "1/2 xícara de eritritol",
+        "1/4 xícara de óleo de coco",
+        "Corante natural de beterraba",
+        "1 colher de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture ingredientes secos.",
+        "Bata ovos com eritritol e óleo.",
+        "Combine tudo adicionando corante até cor desejada.",
+        "Asse a 170°C por 30 minutos.",
+        "Decore com creme de queijo zero açúcar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 2,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

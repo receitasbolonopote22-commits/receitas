@@ -1,0 +1,80 @@
+{
+  "id": "p1-p14",
+  "slug": "gelatina-de-hibisco-com-melancia",
+  "title": "Gelatina de Hibisco com Melancia",
+  "description": "Refrescante, leve e adaptada para uma versão mais amigável ao controle glicêmico.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 ml de água",
+        "2 fatias de melancia",
+        "5 colheres de sopa de hibisco seco",
+        "1 sachê de gelatina incolor",
+        "2 colheres de sopa de xilitol ou adoçante culinário",
+        "2 colheres de sopa de semente de chia"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Prepare a gelatina conforme indicado na embalagem e reserve. Ferva a água, adicione o hibisco, tampe e deixe em infusão por 10 minutos. Coe.",
+        "No liquidificador, bata a melancia, o adoçante e a chia com o chá de hibisco.",
+        "Misture com a gelatina reservada, distribua em taças e leve à geladeira até firmar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 taça pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Substitua o açúcar da versão original por xilitol, eritritol ou adoçante culinário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sem açúcar, a melancia contém carboidratos naturais e a porção deve ser respeitada."
+    }
+  ],
+  "image": {
+    "file": "gelatina-de-hibisco-com-melancia.jpg",
+    "alt": "Foto de Gelatina de Hibisco com Melancia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 14,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

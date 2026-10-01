@@ -1,0 +1,58 @@
+{
+  "id": "e3-n80",
+  "slug": "salada-de-frutas-especial",
+  "title": "Salada de Frutas Especial",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras frutas variadas picadas (morango, kiwi, manga, uva)",
+        "Suco de 2 laranjas",
+        "1/4 xícara xilitol",
+        "Hortelã picada",
+        "Raspas de limão"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture frutas em tigela.",
+        "Adicione suco de laranja, xilitol, hortelã e raspas.",
+        "Refrigere 1h antes de servir para os sabores se integrarem."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

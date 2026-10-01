@@ -1,0 +1,62 @@
+{
+  "id": "e2-n37",
+  "slug": "bolo-de-kiwi",
+  "title": "Bolo de Kiwi",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 kiwis maduros picados",
+        "2 xícaras de farinha de arroz",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "1/3 xícara de mel",
+        "Suco de 1 limão",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Reserve algumas fatias de kiwi para decorar.",
+        "Amasse o kiwi restante com garfo.",
+        "Bata com ovos, óleo, mel e limão.",
+        "Adicione farinha e fermento.",
+        "Decore o topo com fatias de kiwi.",
+        "Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

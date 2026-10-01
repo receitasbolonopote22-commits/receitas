@@ -1,0 +1,66 @@
+{
+  "id": "b3-p6",
+  "slug": "pizza-de-berinjela-2",
+  "title": "Pizza De Berinjela",
+  "description": null,
+  "collections": [
+    "low-carb"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 berinjelas grandes cortadas ao meio no sentido do comprimento",
+        "4 colh. (sopa) de azeite extra virgem",
+        "4 tomates cortados em fatias finas",
+        "150 g de mussarela de búfala em bolas (cortadas em fatias médias)",
+        "½ xic. de folhas de manjericão",
+        "1 colh. (chá) de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Unte uma forma e coloque as berinjelas cortadas, arrumando de maneira que não se sobreponham umas às outras.",
+        "Regue as berinjelas com 3 colheres de azeite e leve para assar em forno pré-aquecido.",
+        "Deixe por 25 minutos ou até que as berinjelas estejam macias.",
+        "Retire as berinjelas do forno e cubra com o tomate e a mussarela e volte ao forno por cinco minutos ou até o queijo derreter.",
+        "Desligue e cubra as berinjelas prontas com as folhas de manjericão Regue com o restante do azeite e sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "pizza-de-berinjela-2.jpg",
+    "alt": "Foto de Pizza De Berinjela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 3 - Receitas Low Carb.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

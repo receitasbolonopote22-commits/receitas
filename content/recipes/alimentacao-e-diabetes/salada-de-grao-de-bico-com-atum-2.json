@@ -1,0 +1,81 @@
+{
+  "id": "p2-p8",
+  "slug": "salada-de-grao-de-bico-com-atum-2",
+  "title": "Salada de Grão-de-Bico com Atum",
+  "description": "Uma salada completa e refrescante, rica em proteínas e fibras, ideal para refeições equilibradas.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de chá de grão-de-bico cozido",
+        "1 lata de atum conservado em água, escorrido",
+        "1 tomate picado",
+        "1/2 cebola roxa fatiada",
+        "1 colher de sopa de azeite",
+        "Suco de 1 limão",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma tigela, misture o grão-de-bico cozido, o atum, o tomate e a cebola.",
+        "Tempere com azeite, limão, sal e pimenta.",
+        "Misture bem e sirva gelada ou em temperatura ambiente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 tigela pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O grão-de-bico contém carboidratos naturais; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "salada-de-grao-de-bico-com-atum-2.jpg",
+    "alt": "Foto de Salada de Grão-de-Bico com Atum",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 8,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

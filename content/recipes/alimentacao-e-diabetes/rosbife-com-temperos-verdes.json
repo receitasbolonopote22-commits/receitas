@@ -1,0 +1,81 @@
+{
+  "id": "card-p68",
+  "slug": "rosbife-com-temperos-verdes",
+  "title": "Rosbife com Temperos Verdes",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 kg de filé mignon ou contrafilé",
+        "1 dente de alho amassado",
+        "2 cebolas em rodelas",
+        "2 pimentões verdes em cubinhos",
+        "1 colher (sopa) de salsinha picada",
+        "1 colher (sopa) de manjericão picado",
+        "1 colher (sopa) de hortelã picada",
+        "3 colheres (sopa) de vinho branco light",
+        "Sal e pimenta do reino a gosto",
+        "4 colheres (sopa) de manteiga",
+        "3 galhos de brócolis"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave e enxugue o filé. Coloque-o numa vasilha e tempere-o com o alho, a cebola, os pimentões e os temperos verdes, o vinho, o sal e a pimenta.",
+        "Deixe-o marinar por cerca de 1 hora ou mais.",
+        "Tire o filé do tempero e amarre-o com um barbante para manter o formato.",
+        "Derreta a manteiga e junte o filé; quando começar a dourar, vá virando-o para que asse por igual.",
+        "Quando estiver corado, acrescente, aos poucos, a vinha d'alhos.",
+        "Quando a superfície ficar mais ou menos dourada (30 minutos), estará no ponto.",
+        "Retire-o do fogo, elimine o barbante e corte o rosbife em fatias finas.",
+        "Arrume-as numa travessa, regue-as com o molho formado na panela e decore com os brócolis cozidos em água e sal ou com cebolinha, pimentão vermelho e alecrim."
+      ]
+    }
+  ],
+  "prepTime": 120,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 145.7,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "rosbife-com-temperos-verdes.jpg",
+    "alt": "Foto de Rosbife com Temperos Verdes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 68,
+    "originalTitle": "ROSBIFE COM TEMPEROS VERDES"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

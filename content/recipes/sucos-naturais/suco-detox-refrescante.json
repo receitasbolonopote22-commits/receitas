@@ -1,0 +1,59 @@
+{
+  "id": "sucos-p4b",
+  "slug": "suco-detox-refrescante",
+  "title": "Suco Detox Refrescante",
+  "description": null,
+  "collections": [
+    "sucos-naturais"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "Suco de 1 limão",
+        "Suco de 2 laranjas-lima",
+        "6 folhas de alface",
+        "½ copo de água",
+        "1 colher de chá de gengibre ralado",
+        "Cubos de gelo"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes no liquidificador. Beber a seguir, de preferência sem açúcar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "suco-detox-refrescante.jpg",
+    "alt": "Foto de Suco Detox Refrescante",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Sucos.pdf",
+    "page": 4,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

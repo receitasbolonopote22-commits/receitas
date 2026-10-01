@@ -1,0 +1,82 @@
+{
+  "id": "card-p75",
+  "slug": "carne-ao-forno-para-a-familia-toda",
+  "title": "Carne ao Forno para a Família Toda",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 colheres (sopa) de manteiga",
+        "2 colheres (sopa) de óleo de coco ou azeite de oliva",
+        "3 kg de carne em cubos",
+        "1 xícara (chá) de vinho branco light",
+        "3 xícaras (chá) de caldo de carne",
+        "1 xícara (chá) de purê de tomate",
+        "1 colher (chá) de sal",
+        "½ colher (chá) de pimenta do reino",
+        "1,500 g de cenoura em rodelas de 0,5 cm",
+        "750 g de cebola miúda",
+        "12 batatas grandes em rodelas de 0,5 cm"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Numa frigideira grande, aqueça metade da manteiga e do óleo em fogo alto.",
+        "Doure um pouco da carne por vez, adicionando mais manteiga e óleo quando necessário.",
+        "Vá transferindo a carne para uma panela grande.",
+        "Despeje o vinho na frigideira e mexa para soltar os sedimentos.",
+        "Cozinhe por 3 minutos em fogo alto. Adicione o caldo de carne, o purê, o sal e a pimenta; deixe ferver.",
+        "Arrume a cenoura sobre a carne, adicione a cebola e cubra com a batata.",
+        "Despeje a mistura de vinho por cima.",
+        "Tampe e asse em forno preaquecido por 2 horas.",
+        "Destampe e deixe por mais 1h30 a 2 horas, sem mexer."
+      ]
+    }
+  ],
+  "prepTime": 240,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "18 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 385,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "carne-ao-forno-para-a-familia-toda.jpg",
+    "alt": "Foto de Carne ao Forno para a Família Toda",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 75,
+    "originalTitle": "CARNE AO FORNO PARA A FAMÍLIA TODA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

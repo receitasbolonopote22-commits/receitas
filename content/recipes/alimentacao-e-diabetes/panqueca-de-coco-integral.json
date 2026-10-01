@@ -1,0 +1,81 @@
+{
+  "id": "p1-p15",
+  "slug": "panqueca-de-coco-integral",
+  "title": "Panqueca de Coco Integral",
+  "description": "Panquecas leves e macias, com perfil mais equilibrado para o café da manhã.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 colheres de sopa de farinha de aveia integral",
+        "3 colheres de sopa de farinha de coco",
+        "2 ovos",
+        "1 colher de chá de estévia",
+        "50 ml de leite desnatado ou bebida vegetal",
+        "Canela a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture as farinhas com a canela e a estévia.",
+        "Adicione os demais ingredientes e mexa até obter uma massa homogênea.",
+        "Aqueça uma frigideira antiaderente, despeje pequenas porções da massa e cozinhe até surgirem bolhas.",
+        "Vire e deixe por mais 30 segundos.",
+        "Repita com o restante da massa."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "2 panquecas pequenas",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "A estévia pode ser substituída por eritritol ou xilitol em pequena quantidade."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sem açúcar, controle a porção por conter farinha de aveia e farinha de coco."
+    }
+  ],
+  "image": {
+    "file": "panqueca-de-coco-integral.jpg",
+    "alt": "Foto de Panqueca de Coco Integral",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 15,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

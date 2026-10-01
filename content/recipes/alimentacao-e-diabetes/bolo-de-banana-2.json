@@ -1,0 +1,92 @@
+{
+  "id": "p2-p66",
+  "slug": "bolo-de-banana-2",
+  "title": "Bolo de Banana 2",
+  "description": "Uma versão ainda mais nutritiva e aromática, com aveia, castanhas e canela, que deixa o bolo de banana fofinho e cheio de sabor. Perfeito para o lanche da tarde ou café da manhã!",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 bananas maduras amassadas (cerca de 400 g)",
+        "3 ovos",
+        "1/4 xícara (chá) de óleo de coco ou azeite de oliva",
+        "1/2 xícara (chá) de adoçante culinário (siga a medida do fabricante)",
+        "1 xícara (chá) de farinha de aveia",
+        "1/2 xícara (chá) de aveia em flocos finos",
+        "1/4 xícara (chá) de farinha de amêndoas",
+        "1 colher (sopa) de semente de linhaça dourada moída",
+        "1 colher (sopa) de fermento em pó",
+        "1 colher (chá) de canela em pó",
+        "1/2 colher (chá) de noz-moscada (opcional)",
+        "1/2 xícara (chá) de nozes picadas",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Preaqueça o forno a 180 °C e unte uma forma média (com furo ou redonda) com óleo de coco.",
+        "Em uma tigela, bata os ovos com o adoçante até obter uma mistura cremosa.",
+        "Acrescente o óleo (ou azeite) e as bananas amassadas. Misture bem.",
+        "Em outra tigela, misture as farinhas, a aveia, a linhaça, a canela, a noz-moscada, o sal e o fermento.",
+        "Adicione os ingredientes secos à mistura úmida aos poucos, mexendo delicadamente.",
+        "Incorpore as nozes picadas.",
+        "Despeje na forma e asse por cerca de 35 a 40 minutos, ou até dourar e passar no teste do palito.",
+        "Deixe esfriar antes de desenformar. Sirva e aproveite!"
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "12 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "bolo-de-banana-2.jpg",
+    "alt": "Foto de Bolo de Banana 2",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 66,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

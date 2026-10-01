@@ -1,0 +1,66 @@
+{
+  "id": "e2-n27",
+  "slug": "bolo-de-tapioca-com-coco",
+  "title": "Bolo de Tapioca com Coco",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 1/2 xícara de tapioca hidratada",
+        "1 xícara de coco ralado",
+        "3 ovos",
+        "1 xícara de leite de coco",
+        "1/3 xícara de óleo de coco",
+        "1/4 xícara de mel",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Hidrate a tapioca no leite de coco por 20 minutos.",
+        "Bata com ovos, óleo e mel.",
+        "Adicione o coco ralado.",
+        "Misture o fermento.",
+        "Asse a 180°C por 40-45 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Dica: Fica com textura única e sabor tropical!"
+    }
+  ],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "e3-n57",
+  "slug": "torta-de-morango-fresh",
+  "title": "Torta de Morango Fresh",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": "Base",
+      "items": [
+        "Mesma receita 51 assada"
+      ]
+    },
+    {
+      "title": "Creme",
+      "items": [
+        "300g cream cheese",
+        "1/3 xícara xilitol",
+        "1 colher essência baunilha"
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "items": [
+        "Morangos frescos fatiados"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata creme até ficar leve.",
+        "Espalhe sobre base fria.",
+        "Decore com morangos em círculos.",
+        "Pincele com geleia zero açúcar diluída.",
+        "Refrigere 2 horas."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

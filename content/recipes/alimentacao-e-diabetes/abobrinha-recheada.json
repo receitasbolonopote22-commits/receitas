@@ -1,0 +1,83 @@
+{
+  "id": "p1-p18",
+  "slug": "abobrinha-recheada",
+  "title": "Abobrinha Recheada",
+  "description": "Colorida, leve e saborosa, ideal para um almoço nutritivo e equilibrado.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 abobrinhas",
+        "2 dentes de alho picados",
+        "1 colher de sobremesa de azeite de oliva",
+        "2 tomates picados",
+        "1 xícara de chá de frango desfiado",
+        "1/2 cenoura ralada",
+        "1 colher de café de sal",
+        "Orégano a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe as abobrinhas até ficarem macias. Corte ao meio, retire parte da polpa e reserve.",
+        "Doure o alho no azeite e refogue os tomates.",
+        "Acrescente a polpa reservada da abobrinha, o frango, a cenoura e o sal.",
+        "Pingue algumas gotas de água e cozinhe rapidamente.",
+        "Recheie as abobrinhas, salpique orégano e leve ao forno para dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1 abobrinha recheada",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "É uma opção leve, mas o equilíbrio da refeição depende também dos acompanhamentos."
+    }
+  ],
+  "image": {
+    "file": "abobrinha-recheada.jpg",
+    "alt": "Foto de Abobrinha Recheada",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 18,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

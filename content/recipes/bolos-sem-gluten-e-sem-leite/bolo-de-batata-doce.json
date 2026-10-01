@@ -1,0 +1,67 @@
+{
+  "id": "e2-n9",
+  "slug": "bolo-de-batata-doce",
+  "title": "Bolo de Batata-Doce",
+  "description": "Um bolo naturalmente doce e úmido, perfeito para qualquer hora do dia!",
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de batata-doce cozida e amassada",
+        "1 xícara de farinha de arroz",
+        "1/2 xícara de farinha de coco",
+        "3 ovos",
+        "1/3 xícara de óleo de coco",
+        "1/4 xícara de mel",
+        "1 colher de chá de canela",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe e amasse a batata-doce.",
+        "Bata com os ovos, óleo e mel.",
+        "Adicione as farinhas, canela e fermento.",
+        "Misture bem até ficar homogêneo.",
+        "Asse em forma untada a 180°C por 45 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Dica: Fica delicioso com pasta de amendoim!"
+    }
+  ],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

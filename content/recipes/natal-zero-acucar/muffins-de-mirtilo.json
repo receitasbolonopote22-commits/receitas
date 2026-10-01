@@ -1,0 +1,61 @@
+{
+  "id": "e3-n64",
+  "slug": "muffins-de-mirtilo",
+  "title": "Muffins de Mirtilo",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras farinha amêndoas",
+        "3 ovos",
+        "1/2 xícara xilitol",
+        "1/4 xícara óleo coco",
+        "1 xícara mirtilos frescos",
+        "1 colher fermento",
+        "Raspas limão"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture ingredientes secos.",
+        "Adicione ovos, óleo e raspas.",
+        "Incorpore mirtilos delicadamente.",
+        "Asse em forminhas 180°C por 20- 22min."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 8,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

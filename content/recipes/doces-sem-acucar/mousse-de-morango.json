@@ -1,0 +1,70 @@
+{
+  "id": "b2-p33",
+  "slug": "mousse-de-morango",
+  "title": "Mousse de Morango",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "9 morangos",
+        "1/2 xic. água",
+        "100 ml leite desnatado",
+        "1 colh. medida whey (opcional)",
+        "1/2 colh. (chá) gelatina diet de morango",
+        "300 g queijo tipo cottage"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Dissolver a gelatina na água quente.O Whey é opcional, não interfere na consistência final.Colocar todos ingredientes no liquidificador, bater até ficar bem cremoso (uns 5 min) e colocar para gelar até ficar na consistência de mousse.Colocar na geladeira por 6 horas."
+      ]
+    }
+  ],
+  "prepTime": 10,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "5 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 186,
+    "carbs": 13.04,
+    "protein": 1.14,
+    "fat": 14.99,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "mousse-de-morango.jpg",
+    "alt": "Foto de Mousse de Morango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 33,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

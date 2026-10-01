@@ -1,0 +1,76 @@
+{
+  "id": "b2-p3",
+  "slug": "biscoito-com-goiabada",
+  "title": "Biscoito com Goiabada",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "7 colh. (sopa) de adoçante culinário",
+        "3 ½ xic. (chá) de amido de milho",
+        "1 xic. (chá) de manteiga ghee",
+        "2 ovos"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "100g de goiabada sem açúcar cortada em cubinhos"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque todos os ingredientes em um recipiente e misture até formar uma massa homogênea.",
+        "Faça bolinhas, achate com os dedos, em seguida adicione um pedacinho de goiabada no centro de cada biscoito.",
+        "Coloque em uma fôrma untada e leve para assar em forno pré-aquecido (180°c) por proximadamente 25 minutos."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "60 unidades",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 365,
+    "carbs": 81,
+    "protein": 4,
+    "fat": 3,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "biscoito-com-goiabada.jpg",
+    "alt": "Foto de Biscoito com Goiabada",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 3,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

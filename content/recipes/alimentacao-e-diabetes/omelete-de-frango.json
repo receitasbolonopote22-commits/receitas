@@ -1,0 +1,66 @@
+{
+  "id": "card-p20",
+  "slug": "omelete-de-frango",
+  "title": "Omelete de Frango",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "150 g de peito de frango",
+        "2 ovos",
+        "1/2 cebola picada",
+        "1/2 tomate picado",
+        "1/2 colher de manteiga sem sal",
+        "Orégano, pimenta do reino e sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere os filés de frango como preferir e grelhe em uma frigideira.",
+        "Após grelhar, desfie o frango.",
+        "Acrescente o tomate picado, a cebola picada e sal a gosto.",
+        "Misture tudo e reserve este recheio.",
+        "Bata com um garfo os ovos com sal, pimenta e orégano a gosto.",
+        "Coloque os ovos batidos na frigideira quente, por cima o recheio de frango.",
+        "Espere o ovo firmar e enrole no formato de omelete."
+      ]
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "omelete-de-frango.jpg",
+    "alt": "Foto de Omelete de Frango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 20,
+    "originalTitle": "OMELETE DE FRANGO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

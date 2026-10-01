@@ -1,0 +1,91 @@
+{
+  "id": "p2-p76",
+  "slug": "espaguete-com-funghi-e-repolho",
+  "title": "Espaguete com Funghi e Repolho",
+  "description": "Leve, aromático e cheio de sabor, este espaguete combina a rusticidade dos cogumelos com a crocância suave do repolho. Uma refeição prática e saborosa.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200 g de espaguete integral",
+        "1 xícara (chá) de repolho verde fatiado em tiras finas",
+        "1 xícara (chá) de funghi fresco fatiado",
+        "2 dentes de alho picados",
+        "1/2 cebola pequena picada",
+        "1 colher (sopa) de azeite de oliva extravirgem",
+        "1 colher (sopa) de shoyu com baixo teor de sódio",
+        "1/2 colher (chá) de orégano seco",
+        "Pimenta-do-reino a gosto",
+        "Salsinha picada a gosto",
+        "Sal com moderação"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe o espaguete integral em água fervente com sal moderado, seguindo as instruções da embalagem. Escorra e reserve, reservando 1/2 xícara da água do cozimento.",
+        "Aqueça o azeite em uma panela grande em fogo médio.",
+        "Refogue a cebola até ficar transparente e acrescente o alho, mexendo por mais 1 minuto.",
+        "Adicione os funghi fatiados e refogue até dourarem levemente e soltarem água.",
+        "Junte o repolho fatiado, tempere com orégano, pimenta-do-reino e uma pitada de sal. Refogue por cerca de 5 minutos, até o repolho murchar levemente, mantendo a crocância.",
+        "Acrescente o espaguete cozido, o shoyu e um pouco da água do cozimento reservada. Misture bem para envolver todos os ingredientes.",
+        "Ajuste os temperos, finalize com salsinha picada e sirva imediatamente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 unidades",
+  "servingSize": "1 prato raso",
+  "nutrition": {
+    "calories": null,
+    "carbs": 38,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; esta receita não contém adoçantes."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "espaguete-com-funghi-e-repolho.jpg",
+    "alt": "Foto de Espaguete com Funghi e Repolho",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 76,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"Uma refeição equilibrada, rica em fibras e com baixo índice glicêmico, perfeita para quem busca praticidade sem abrir mão da saúde e do prazer à mesa\"."
+    ]
+  },
+  "relatedRecipes": []
+}

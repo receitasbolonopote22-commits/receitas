@@ -1,0 +1,74 @@
+{
+  "id": "b2-p4",
+  "slug": "bolo-de-fuba-diet",
+  "title": "Bolo de Fuba Diet",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xic. (chá) de leite desnatado integral",
+        "4 ovos",
+        "2 colh. (sopa) de óleo de soja",
+        "10 colh. (sopa) de fubá",
+        "6 colh. (sopa) de farinha de trigo integral",
+        "2 colh. (sopa) de fermento em pó",
+        "6 colh. (sopa) de coco ralado sem açúcar",
+        "4 colh. (sopa) de adoçante culinário"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes no liquidificador.",
+        "Coloque numa assadeira de anel untada e enfarinhada e leve para assar em forno médio (180°C) por 20 a 30 minutos."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "12 fatias",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 72,
+    "carbs": 6,
+    "protein": 4,
+    "fat": 5,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "bolo-de-fuba-diet.jpg",
+    "alt": "Foto de Bolo de Fuba Diet",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 4,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

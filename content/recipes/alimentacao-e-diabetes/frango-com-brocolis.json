@@ -1,0 +1,81 @@
+{
+  "id": "p1-p47",
+  "slug": "frango-com-brocolis",
+  "title": "Frango com Brócolis",
+  "description": "Combinação simples e nutritiva, rica em proteína e vegetais.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 filé de peito de frango",
+        "1 dente de alho",
+        "1 cebola picada",
+        "1 colher de sopa de manteiga ghee",
+        "100 g de brócolis",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe o frango em pouca água, apenas o suficiente para permitir desfiar. Ajuste o sal.",
+        "Em uma panela, refogue a cebola e o alho na manteiga ghee.",
+        "Adicione o brócolis picado e refogue por alguns minutos.",
+        "Por fim, acrescente o frango desfiado e deixe cozinhar junto com o brócolis."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1/2 prato raso",
+  "nutrition": {
+    "calories": null,
+    "carbs": 4,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Controle a quantidade de ghee dentro do contexto da refeição."
+    }
+  ],
+  "image": {
+    "file": "frango-com-brocolis.jpg",
+    "alt": "Foto de Frango com Brócolis",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 47,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "e2-n12",
+  "slug": "bolo-de-abobora-com-gengibre",
+  "title": "Bolo de Abóbora com Gengibre",
+  "description": "Perfeito para dias mais frios, este bolo combina a doçura da abóbora com o toque picante do gengibre!",
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Ingredientes secos",
+      "items": [
+        "2 xícaras de farinha de aveia",
+        "1 colher de chá de gengibre em pó",
+        "1 colher de chá de canela",
+        "1 colher de sopa de fermento"
+      ]
+    },
+    {
+      "title": "Ingredientes úmidos",
+      "items": [
+        "2 xícaras de purê de abóbora",
+        "3 ovos",
+        "1/2 xícara de mel",
+        "1/2 xícara de óleo de coco"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture todos os ingredientes, despeje em forma untada e asse a 180°C por 45-50 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "p2-p31",
+  "slug": "cha-de-melao-de-sao-caetano",
+  "title": "Chá de Melão de São Caetano",
+  "description": "Leve, aromático e reconfortante.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [
+    "cha"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 melão de São Caetano pequeno",
+        "1 litro de água filtrada",
+        "1 pedaço pequeno de gengibre (opcional)",
+        "Suco de 1/2 limão (opcional)",
+        "Folhas de hortelã a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave bem o melão, corte ao meio e retire as sementes. Corte a casca (com a polpa) em pedaços finos.",
+        "Em uma panela, coloque a água, o melão e o gengibre. Leve ao fogo e deixe ferver por 15 minutos.",
+        "Desligue o fogo, tampe e deixe descansar por mais 10 minutos.",
+        "Coe, acrescente o suco de limão e, se desejar, folhas de hortelã.",
+        "Sirva morno ou gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 xícaras",
+  "servingSize": "1 xícara (200 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 2,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não necessita de adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Consuma com moderação devido ao uso tradicional do melão de São Caetano."
+    }
+  ],
+  "image": {
+    "file": "cha-de-melao-de-sao-caetano.jpg",
+    "alt": "Foto de Chá de Melão de São Caetano",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 31,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"este chá é conhecido pelo uso tradicional associado ao equilíbrio do organismo e ao bem-estar diário\"."
+    ]
+  },
+  "relatedRecipes": []
+}

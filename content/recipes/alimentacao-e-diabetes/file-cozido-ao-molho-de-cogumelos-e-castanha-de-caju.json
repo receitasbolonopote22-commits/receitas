@@ -1,0 +1,93 @@
+{
+  "id": "p2-p77",
+  "slug": "file-cozido-ao-molho-de-cogumelos-e-castanha-de-caju",
+  "title": "Filé Cozido ao Molho de Cogumelos e Castanha de Caju",
+  "description": "Uma combinação sofisticada para quem busca sabor e equilíbrio. O filé cozido lentamente fica macio e suculento, envolto em um molho cremoso de cogumelos e castanha de caju.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g de filé mignon (ou patinho) em peça",
+        "1 colher (sopa) de azeite de oliva extravirgem",
+        "1 dente de alho picado",
+        "1/2 cebola picada",
+        "200 g de cogumelos frescos fatiados (shiitake, shimeji ou paris)",
+        "1/2 xícara (chá) de castanha de caju crua",
+        "1/2 xícara (chá) de água quente",
+        "1/4 xícara (chá) de creme de leite light ou iogurte natural integral",
+        "1 colher (chá) de mostarda dijon",
+        "Sal marinho e pimenta-do-reino moída na hora a gosto",
+        "Salsinha picada a gosto",
+        "1 folha de louro"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere o filé com sal, pimenta e o alho. Em uma panela de pressão, aqueça o azeite e sele a carne de todos os lados.",
+        "Adicione a cebola e a folha de louro. Cubra com água quente, feche a panela e cozinhe por 25 minutos após pegar pressão, ou até a carne ficar macia.",
+        "Desligue o fogo, espere a pressão sair naturalmente e retire a carne. Reserve-a coberta para manter a suculência.",
+        "No liquidificador, bata a castanha de caju com a água quente até obter um creme liso.",
+        "Em uma panela, refogue os cogumelos no azeite até ficarem levemente dourados.",
+        "Acrescente o creme de castanha, a mostarda e o creme de leite (ou iogurte). Misture bem e cozinhe em fogo baixo por 3 a 5 minutos, mexendo sempre.",
+        "Tempere com sal e pimenta a gosto.",
+        "Fatie o filé e disponha em uma travessa. Cubra com o molho de cogumelos e castanha. Finalize com salsinha picada."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 fatia média com molho (aprox. 150 g)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 6,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; esta receita não contém adoçantes."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "file-cozido-ao-molho-de-cogumelos-e-castanha-de-caju.jpg",
+    "alt": "Foto de Filé Cozido ao Molho de Cogumelos e Castanha de Caju",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 77,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"com baixo teor de carboidratos e rico em gorduras boas e proteínas de alta qualidade\"."
+    ]
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "p1-p68",
+  "slug": "suco-de-tangerina-com-mamao",
+  "title": "Suco de Tangerina com Mamão",
+  "description": "Suave e frutado, mistura tangerina e mamão em uma bebida naturalmente cremosa.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 tangerinas descascadas",
+        "1 mamão papaia",
+        "Um pouco de água, se necessário",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte o mamão em cubos e retire as sementes.",
+        "Bata o mamão com os gomos de tangerina no liquidificador.",
+        "Se necessário, adicione um pouco de água para ajustar a consistência.",
+        "Sirva em seguida, sem coar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos pequenos",
+  "servingSize": "1 copo pequeno (180 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 17,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não precisa de adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Por conter frutas, oferece açúcares naturais; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "suco-de-tangerina-com-mamao.jpg",
+    "alt": "Foto de Suco de Tangerina com Mamão",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 68,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

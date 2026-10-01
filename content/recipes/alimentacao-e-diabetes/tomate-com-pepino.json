@@ -1,0 +1,83 @@
+{
+  "id": "p2-p38",
+  "slug": "tomate-com-pepino",
+  "title": "Tomate com Pepino",
+  "description": "Leve, refrescante e cheia de sabor, esta bebida combina o tomate e o pepino.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 tomates maduros",
+        "1/2 pepino",
+        "Suco de 1/2 limão",
+        "150 ml de água gelada",
+        "Gelo a gosto",
+        "Folhas de hortelã ou salsinha opcionais"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave bem os tomates e o pepino.",
+        "Corte os tomates em pedaços e o pepino em rodelas.",
+        "Bata todos os ingredientes no liquidificador até obter uma mistura homogênea.",
+        "Se desejar, coe antes de servir para uma textura mais leve.",
+        "Sirva gelado com gelo e decore com folhas de hortelã ou salsinha."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 6,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Ideal como bebida leve, respeitando a porção."
+    }
+  ],
+  "image": {
+    "file": "tomate-com-pepino.jpg",
+    "alt": "Foto de Tomate com Pepino",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 38,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"combina o melhor do tomate e do pepino para hidratar e renovar seu dia\"."
+    ]
+  },
+  "relatedRecipes": []
+}

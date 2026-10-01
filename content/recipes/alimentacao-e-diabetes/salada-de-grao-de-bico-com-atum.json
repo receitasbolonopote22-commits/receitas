@@ -1,0 +1,83 @@
+{
+  "id": "p1-p84",
+  "slug": "salada-de-grao-de-bico-com-atum",
+  "title": "Salada de Grão-de-Bico com Atum",
+  "description": "Uma salada completa e refrescante, rica em proteínas e fibras, ideal para refeições leves e equilibradas.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de grão-de-bico cozido (150 g)",
+        "1 lata de atum em água (170 g)",
+        "1 tomate picado",
+        "1/2 cebola roxa fatiada",
+        "1 colher de sopa de azeite (15 ml)",
+        "Suco de 1 limão",
+        "Sal e pimenta a gosto",
+        "Cheiro-verde a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma tigela, misture o grão-de-bico cozido, o atum, o tomate e a cebola.",
+        "Tempere com azeite, suco de limão, sal e pimenta.",
+        "Finalize com cheiro-verde.",
+        "Sirva frio ou em temperatura ambiente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 tigela pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 18,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O grão-de-bico contém carboidratos naturais; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "salada-de-grao-de-bico-com-atum.jpg",
+    "alt": "Foto de Salada de Grão-de-Bico com Atum",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 84,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

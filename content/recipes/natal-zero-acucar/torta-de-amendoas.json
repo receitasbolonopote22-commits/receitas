@@ -1,0 +1,66 @@
+{
+  "id": "e3-n58",
+  "slug": "torta-de-amendoas",
+  "title": "Torta de Amêndoas",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "Receita 51"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "2 xícaras amêndoas moídas",
+        "3 ovos",
+        "1/2 xícara xilitol",
+        "1/4 xícara ghee",
+        "Essência amêndoas",
+        "Amêndoas laminadas"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Forre forma com massa.",
+        "Misture recheio, despeje.",
+        "Cubra com amêndoas laminadas.",
+        "Asse 180°C por 35min até dourar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

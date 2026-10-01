@@ -1,0 +1,63 @@
+{
+  "id": "e3-n43",
+  "slug": "chocotone-de-coco",
+  "title": "Chocotone de Coco",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas",
+    "paes-e-salgados"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras farinha amêndoas",
+        "1 xícara coco ralado",
+        "1/2 xícara cacau",
+        "4 ovos",
+        "1/2 xícara eritritol",
+        "1/3 xícara leite coco",
+        "1/2 xícara gotas chocolate",
+        "1 colher fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture secos.",
+        "Bata ovos com eritritol e leite de coco.",
+        "Combine tudo, adicione gotas chocolate.",
+        "Asse em forma alta a 170°C por 50 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

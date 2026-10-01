@@ -1,0 +1,87 @@
+{
+  "id": "p2-p64",
+  "slug": "bolo-de-cenoura",
+  "title": "Bolo de Cenoura",
+  "description": "Fofinho, úmido e cheio de sabor, este bolo de cenoura é feito com ingredientes mais leves e sem açúcar adicionado, sem abrir mão de um doce clássico e irresistível.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras (chá) de cenoura picada",
+        "3 ovos",
+        "1/2 xícara de óleo de coco ou óleo vegetal",
+        "1/2 xícara de leite desnatado ou bebida vegetal sem açúcar",
+        "1 xícara de farinha de aveia",
+        "1 xícara de farinha de amêndoas ou farelo de aveia",
+        "1/2 xícara de adoçante culinário (siga a medida do fabricante)",
+        "1 colher (sopa) de fermento químico em pó",
+        "1 colher (chá) de canela em pó (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "No liquidificador, bata a cenoura, os ovos, o óleo e o leite até obter um creme liso.",
+        "Em uma tigela, misture as farinhas, o adoçante e a canela.",
+        "Despeje o creme do liquidificador sobre os ingredientes secos e misture bem.",
+        "Acrescente o fermento e mexa delicadamente.",
+        "Despeje em forma untada com óleo de coco e polvilhada com farinha de aveia.",
+        "Leve ao forno preaquecido a 180 °C por aproximadamente 35 a 40 minutos ou até dourar e, ao espetar um palito, ele sair limpo.",
+        "Deixe esfriar antes de desenformar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa mais leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "bolo-de-cenoura.jpg",
+    "alt": "Foto de Bolo de Cenoura",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": true,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 64,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

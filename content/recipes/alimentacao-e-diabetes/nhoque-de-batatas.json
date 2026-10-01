@@ -1,0 +1,97 @@
+{
+  "id": "p2-p80",
+  "slug": "nhoque-de-batatas",
+  "title": "Nhoque de Batatas",
+  "description": "Leve, macio e reconfortante, este nhoque de batatas é feito com ingredientes simples e acompanhado de um molho de tomate caseiro leve, sem abrir mão do prazer à mesa.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g de batatas inglesas (cozidas e amassadas)",
+        "1 xícara (chá) de farinha de aveia ou farinha de trigo integral",
+        "1 ovo grande",
+        "1 colher (sopa) de azeite de oliva",
+        "1 pitada de sal marinho",
+        "1 pitada de noz-moscada"
+      ]
+    },
+    {
+      "title": "Molho de tomate leve",
+      "items": [
+        "2 tomates maduros picados",
+        "1 dente de alho picado",
+        "1 colher (chá) de azeite de oliva",
+        "1 colher (chá) de orégano seco",
+        "Folhas de manjericão fresco a gosto",
+        "Sal e pimenta-do-reino a gosto",
+        "1 colher (sopa) de queijo parmesão ralado (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe as batatas com casca até ficarem macias. Escorra, descasque e amasse ainda mornas até formar um purê liso.",
+        "Deixe esfriar um pouco e adicione o ovo, o azeite, o sal e a noz-moscada. Misture bem.",
+        "Acrescente a farinha aos poucos, mexendo até formar uma massa macia e que não grude nas mãos. Não trabalhe demais a massa para o nhoque ficar leve.",
+        "Polvilhe uma superfície com farinha e modele rolinhos com a massa. Corte em pedaços de cerca de 2 cm.",
+        "Cozinhe os nhoques em água fervente com uma pitada de sal. Quando subirem à superfície, retire com uma escumadeira.",
+        "Enquanto isso, aqueça o azeite e refogue o alho. Adicione os tomates, o orégano, sal e pimenta. Cozinhe por 8 a 10 minutos em fogo baixo, até formar um molho leve e encorpado.",
+        "Junte os nhoques ao molho, misture delicadamente e deixe no fogo por 1 a 2 minutos para incorporar os sabores.",
+        "Finalize com folhas de manjericão fresco e, se desejar, salpique queijo parmesão ralado. Sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato raso",
+  "nutrition": {
+    "calories": null,
+    "carbs": 32,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; esta receita não contém adoçantes."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "nhoque-de-batatas.jpg",
+    "alt": "Foto de Nhoque de Batatas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 80,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

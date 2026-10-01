@@ -1,0 +1,84 @@
+{
+  "id": "p1-p81",
+  "slug": "arroz-integral-com-legumes",
+  "title": "Arroz Integral com Legumes",
+  "description": "Uma opção nutritiva e colorida, com arroz integral, cenoura e ervilhas para acompanhar refeições do dia a dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "acompanhamentos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de arroz integral (150 g)",
+        "2 xícaras de água (500 ml)",
+        "1 cenoura pequena picada",
+        "1/2 xícara de ervilhas frescas (100 g)",
+        "1/2 cebola picada",
+        "1 dente de alho picado",
+        "1 colher de sopa de azeite de oliva",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Refogue a cebola e o alho no azeite.",
+        "Acrescente o arroz e refogue por mais 2 minutos.",
+        "Adicione a água, o sal e a cenoura.",
+        "Cozinhe em fogo baixo até o arroz ficar macio.",
+        "Nos últimos 5 minutos, acrescente as ervilhas e finalize o cozimento.",
+        "Sirva como acompanhamento ou prato principal."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "3/4 de xícara por refeição",
+  "nutrition": {
+    "calories": null,
+    "carbs": 26,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O arroz integral e as ervilhas fornecem carboidratos; controle a porção."
+    }
+  ],
+  "image": {
+    "file": "arroz-integral-com-legumes.jpg",
+    "alt": "Foto de Arroz Integral com Legumes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 81,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

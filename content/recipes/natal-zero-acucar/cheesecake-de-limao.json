@@ -1,0 +1,66 @@
+{
+  "id": "e3-n27",
+  "slug": "cheesecake-de-limao",
+  "title": "Cheesecake de Limão",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": "Base",
+      "items": [
+        "1 xícara de amêndoas",
+        "3 colheres de xilitol"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "400g cream cheese",
+        "1/2 xícara xilitol",
+        "Suco de 3 limões",
+        "Raspas",
+        "1 envelope gelatina"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Processe amêndoas com xilitol, forre forma.",
+        "Bata cream cheese, xilitol, limão.",
+        "Adicione gelatina dissolvida.",
+        "Despeje sobre base e refrigere 6 horas."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 4,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

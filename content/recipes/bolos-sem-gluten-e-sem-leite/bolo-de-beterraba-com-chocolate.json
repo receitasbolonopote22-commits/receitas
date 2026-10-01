@@ -1,0 +1,75 @@
+{
+  "id": "e2-n14",
+  "slug": "bolo-de-beterraba-com-chocolate",
+  "title": "Bolo de Beterraba com Chocolate",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Base de beterraba",
+      "items": [
+        "1 1/2 xícara de beterraba cozida e triturada"
+      ]
+    },
+    {
+      "title": "Chocolate intenso",
+      "items": [
+        "1/2 xícara de cacau em pó 100%",
+        "1/4 xícara de tâmaras para adoçar naturalmente"
+      ]
+    },
+    {
+      "title": "Estrutura",
+      "items": [
+        "1 xícara de farinha de arroz",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "Fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata a beterraba com ovos, tâmaras e óleo.",
+        "Adicione cacau, farinha e fermento.",
+        "Asse a 180°C por 40 minutos.",
+        "O bolo fica super úmido e ninguém vai adivinhar que tem beterraba!"
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "A beterraba dá cor e umidade incríveis!"
+    }
+  ],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

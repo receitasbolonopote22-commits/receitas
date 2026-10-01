@@ -1,0 +1,82 @@
+{
+  "id": "p1-p5",
+  "slug": "pao-de-micro-ondas-com-farinha-de-coco",
+  "title": "Pão de Micro-ondas com Farinha de Coco",
+  "description": "Uma opção rápida, macia e com perfil mais equilibrado para o dia a dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bases-e-preparos",
+    "paes-e-salgados",
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 ovo",
+        "2 colheres de sopa de farinha de coco",
+        "1 colher de sopa de iogurte natural sem açúcar",
+        "1/2 colher de chá de fermento em pó",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma tigela, misture o ovo, a farinha de coco, o iogurte e o sal.",
+        "Adicione o fermento e misture delicadamente.",
+        "Coloque a mistura em uma xícara ou tigela própria para micro-ondas.",
+        "Cozinhe no micro-ondas por cerca de 2 minutos em potência alta.",
+        "Retire, desenforme e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 unidade",
+  "nutrition": {
+    "calories": null,
+    "carbs": 10,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de ser uma alternativa prática, mantenha o controle dos acompanhamentos e recheios."
+    }
+  ],
+  "image": {
+    "file": "pao-de-micro-ondas-com-farinha-de-coco.jpg",
+    "alt": "Foto de Pão de Micro-ondas com Farinha de Coco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 5,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

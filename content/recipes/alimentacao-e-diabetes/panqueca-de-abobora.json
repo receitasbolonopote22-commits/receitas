@@ -1,0 +1,81 @@
+{
+  "id": "p1-p26",
+  "slug": "panqueca-de-abobora",
+  "title": "Panqueca de Abóbora",
+  "description": "Panquecas macias e aromáticas, ideais para um café da manhã mais equilibrado.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "150 g de purê de abóbora",
+        "120 g de farinha de aveia integral",
+        "200 ml de leite desnatado ou bebida vegetal sem açúcar",
+        "1 colher de sopa de semente de linhaça triturada",
+        "2 ovos",
+        "1 colher de chá de canela em pó",
+        "1 colher de chá de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture todos os ingredientes e bata no liquidificador até obter uma massa homogênea.",
+        "Aqueça uma frigideira antiaderente e coloque uma porção da massa até cobrir o fundo.",
+        "Quando começarem a surgir bolhas, vire a panqueca e deixe por mais 30 segundos.",
+        "Repita o processo com o restante da massa."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "2 panquecas pequenas",
+  "nutrition": {
+    "calories": null,
+    "carbs": 17,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Se desejar, use pequenas quantidades de estévia, xilitol ou eritritol."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sem açúcar, a farinha de aveia e a abóbora contribuem com carboidratos; mantenha o controle da porção."
+    }
+  ],
+  "image": {
+    "file": "panqueca-de-abobora.jpg",
+    "alt": "Foto de Panqueca de Abóbora",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 26,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

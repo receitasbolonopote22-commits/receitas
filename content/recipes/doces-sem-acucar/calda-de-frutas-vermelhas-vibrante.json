@@ -1,0 +1,72 @@
+{
+  "id": "e1-p6",
+  "slug": "calda-de-frutas-vermelhas-vibrante",
+  "title": "Calda de Frutas Vermelhas Vibrante",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "caldas-e-coberturas",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "300g de frutas vermelhas congeladas (morango, framboesa, mirtilo)",
+        "4 colheres de sopa de eritritol",
+        "Suco de ½ limão",
+        "1 colher de chá de essência de baunilha",
+        "½ colher de chá de goma xantana (para engrossar)",
+        "3 colheres de sopa de água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Cozinhar",
+      "steps": [
+        "Em uma panela média, coloque as frutas vermelhas, o eritritol, o suco de limão e a água. Leve ao fogo médio e cozinhe por 8-10 minutos, mexendo ocasionalmente, até as frutas amolecerem."
+      ]
+    },
+    {
+      "title": "Engrossar",
+      "steps": [
+        "Reduza o fogo e polvilhe a goma xantana aos poucos, mexendo vigorosamente para evitar grumos. Continue cozinhando por 2 minutos até engrossar."
+      ]
+    },
+    {
+      "title": "Finalizar",
+      "steps": [
+        "Retire do fogo, adicione a baunilha e deixe esfriar. Para textura mais lisa, passe por uma peneira. Use morna ou fria sobre cheesecakes, panquecas ou bolos brancos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "calda-de-frutas-vermelhas-vibrante.jpg",
+    "alt": "Foto de Calda de Frutas Vermelhas Vibrante",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 1.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

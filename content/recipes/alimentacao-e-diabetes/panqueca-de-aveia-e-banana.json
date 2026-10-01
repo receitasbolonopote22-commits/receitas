@@ -1,0 +1,83 @@
+{
+  "id": "p1-p3",
+  "slug": "panqueca-de-aveia-e-banana",
+  "title": "Panqueca de Aveia e Banana",
+  "description": "Panquecas macias, práticas e naturalmente adocicadas pela banana.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 banana média madura amassada",
+        "2 colheres de sopa de aveia em flocos",
+        "1 ovo",
+        "1 colher de chá de canela em pó",
+        "1 colher de chá de essência de baunilha (opcional)",
+        "1 pitada de sal",
+        "1 colher de chá de fermento em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma tigela, amasse a banana e misture com o ovo até formar uma massa homogênea.",
+        "Adicione a aveia, a canela, a baunilha e o sal, mexendo bem.",
+        "Acrescente o fermento e misture levemente.",
+        "Aqueça uma frigideira antiaderente em fogo médio e despeje pequenas porções da massa.",
+        "Cozinhe por cerca de 2 minutos de cada lado, até dourar.",
+        "Sirva com frutas frescas ou iogurte natural sem açúcar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1 porção (metade da receita)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 22,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "A receita dispensa adoçante, pois a banana madura já confere doçura natural. Se desejar, use estévia ou xilitol com moderação."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma opção mais saudável, controle a porção por conter banana e aveia."
+    }
+  ],
+  "image": {
+    "file": "panqueca-de-aveia-e-banana.jpg",
+    "alt": "Foto de Panqueca de Aveia e Banana",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": true,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 3,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

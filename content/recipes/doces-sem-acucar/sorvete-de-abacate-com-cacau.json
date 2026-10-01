@@ -1,0 +1,70 @@
+{
+  "id": "b2-p54",
+  "slug": "sorvete-de-abacate-com-cacau",
+  "title": "Sorvete de Abacate com Cacau",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "10 tâmaras",
+        "1 abacate médio",
+        "1 colh. (sopa) cacau em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Deixar as tâmaras de molho em água por 24 horas.",
+        "Drenar e bater com um abacate médio e o cacau em um processador até formar um creme.",
+        "Leve ao congelador por 2 horas.",
+        "Retire. bata novamente e volte ao freezer por mais 2 horas."
+      ]
+    }
+  ],
+  "prepTime": 5,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 124,
+    "carbs": 18,
+    "protein": 6,
+    "fat": 7,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "sorvete-de-abacate-com-cacau.jpg",
+    "alt": "Foto de Sorvete de Abacate com Cacau",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 54,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

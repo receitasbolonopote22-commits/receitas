@@ -1,0 +1,76 @@
+{
+  "id": "p2-p21",
+  "slug": "abacate-cremoso",
+  "title": "Abacate Cremoso",
+  "description": "Uma sobremesa leve, cremosa e nutritiva, perfeita para matar a vontade de doce sem sair da dieta.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 abacate maduro",
+        "1 pote de iogurte natural desnatado",
+        "1 colher de sopa de suco de limão",
+        "1 colher de sopa de adoçante culinário ou a gosto",
+        "Canela em pó a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata no liquidificador a polpa do abacate com o iogurte, o suco de limão e o adoçante até obter um creme homogêneo. Sirva em tigelas individuais e finalize com canela por cima."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1 tigela pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Utilize adoçante culinário próprio para preparações frias."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de saudável, o abacate é calórico; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "abacate-cremoso.jpg",
+    "alt": "Foto de Abacate Cremoso",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 21,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

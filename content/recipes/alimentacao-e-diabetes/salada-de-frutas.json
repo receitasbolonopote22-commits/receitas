@@ -1,0 +1,79 @@
+{
+  "id": "p1-p61",
+  "slug": "salada-de-frutas",
+  "title": "Salada de Frutas",
+  "description": "Simples, fresca e nutritiva, ideal para um lanche leve com boa saciedade.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "5 morangos picados",
+        "1 kiwi picado",
+        "1 colher de sopa de aveia",
+        "1 colher de sopa de nozes picadas",
+        "Iogurte desnatado para acompanhar (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Pique as frutas em uma tigela.",
+        "Polvilhe com a aveia.",
+        "Adicione as nozes picadas.",
+        "Sirva em seguida, se desejar com um copo de iogurte desnatado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 tigela pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 13,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A fruta possui açúcar natural, respeite a porção e evite exageros."
+    }
+  ],
+  "image": {
+    "file": "salada-de-frutas.jpg",
+    "alt": "Foto de Salada de Frutas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 61,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

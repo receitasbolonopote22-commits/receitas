@@ -1,0 +1,62 @@
+{
+  "id": "e2-n19",
+  "slug": "bolo-de-cranberry-com-laranja",
+  "title": "Bolo de Cranberry com Laranja",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de cranberries frescas ou secas",
+        "Suco e raspas de 2 laranjas",
+        "2 xícaras de farinha de amêndoas",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "1/3 xícara de mel",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ingredientes líquidos com as raspas, adicione farinha e fermento, incorpore as cranberries.",
+        "Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "bolo-de-cranberry-com-laranja.jpg",
+    "alt": "Foto de Bolo de Cranberry com Laranja",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

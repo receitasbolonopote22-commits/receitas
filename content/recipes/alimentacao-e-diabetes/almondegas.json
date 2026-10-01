@@ -1,0 +1,91 @@
+{
+  "id": "card-p64",
+  "slug": "almondegas",
+  "title": "Almôndegas",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "400g de carne magra moída",
+        "100g de carne de porco magra moída",
+        "1/2 xícara (chá) de arroz integral cozido",
+        "1 cebola picada finamente",
+        "4 biscoitos integral de água e sal moídos",
+        "1 clara de ovo",
+        "½ colher (chá) de páprica",
+        "Sal e pimenta a gosto"
+      ]
+    },
+    {
+      "title": "Molho",
+      "items": [
+        "1 lata de tomates sem pele",
+        "3 colheres (sopa) de catchup sem açúcar",
+        "Algumas gotas de molho inglês",
+        "Óleo de coco para untar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em um recipiente, coloque as carnes, a cebola, o arroz e os biscoitos.",
+        "Amasse bem com as mãos até obter uma massa homogênea.",
+        "Acrescente a clara e tempere com sal e pimenta. Modele as almôndegas em bolinhas do tamanho de um limão.",
+        "Disponha-as em um refratário previamente untado com óleo de coco e reserve."
+      ]
+    },
+    {
+      "title": "Molho",
+      "steps": [
+        "Misture os tomates com o catchup, acrescente algumas gotas de molho inglês e tempere com sal e pimenta.",
+        "Regue as almôndegas com o molho e asse em forno pré aquecido (180°C) por 40 minutos aproximadamente.",
+        "Sirva as almôndegas acompanhadas de uma salada."
+      ]
+    }
+  ],
+  "prepTime": 65,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 140,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "almondegas.jpg",
+    "alt": "Foto de Almôndegas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 64,
+    "originalTitle": "ALMÔNDEGAS"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "p2-p2",
+  "slug": "macarrao-integral-com-brocolis",
+  "title": "Macarrão Integral com Brócolis",
+  "description": "Prático e saboroso, combina macarrão integral com brócolis e alho em uma refeição leve.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200 g de macarrão integral",
+        "1 xícara de chá de brócolis picado",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe o macarrão integral conforme as instruções da embalagem.",
+        "Em uma frigideira, aqueça o azeite e refogue o alho até dourar.",
+        "Acrescente os brócolis e refogue até ficarem macios.",
+        "Misture o macarrão cozido, tempere com sal e pimenta e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato pequeno",
+  "nutrition": {
+    "calories": null,
+    "carbs": 24,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "O macarrão integral contém carboidratos; mantenha a porção planejada."
+    }
+  ],
+  "image": {
+    "file": "macarrao-integral-com-brocolis.jpg",
+    "alt": "Foto de Macarrão Integral com Brócolis",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 2,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

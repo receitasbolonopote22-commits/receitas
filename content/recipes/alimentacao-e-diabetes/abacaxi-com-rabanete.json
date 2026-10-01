@@ -1,0 +1,76 @@
+{
+  "id": "p2-p39",
+  "slug": "abacaxi-com-rabanete",
+  "title": "Abacaxi com Rabanete",
+  "description": "Refrescante e levemente picante, esta bebida combina o doce do abacaxi com o toque crocante do rabanete.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de abacaxi picado",
+        "2 rabanetes pequenos",
+        "200 ml de água gelada",
+        "Gelo a gosto",
+        "Adoçante culinário opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes até ficar homogêneo e servir em seguida."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, conforme necessidade."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Manter consumo moderado dentro de uma alimentação equilibrada."
+    }
+  ],
+  "image": {
+    "file": "abacaxi-com-rabanete.jpg",
+    "alt": "Foto de Abacaxi com Rabanete",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 39,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

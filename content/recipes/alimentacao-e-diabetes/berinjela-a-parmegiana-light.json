@@ -1,0 +1,81 @@
+{
+  "id": "p2-p10",
+  "slug": "berinjela-a-parmegiana-light",
+  "title": "Berinjela à Parmegiana Light",
+  "description": "Camadas leves e saborosas de berinjela, molho de tomate e queijo, douradas no forno.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 berinjelas fatiadas",
+        "200 g de molho de tomate sem açúcar",
+        "100 g de queijo muçarela light ralado",
+        "1 colher de sopa de azeite",
+        "Sal, pimenta e orégano a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Grelhe as fatias de berinjela em uma frigideira com um pouco de azeite até dourarem.",
+        "Em uma assadeira, faça camadas de berinjela, molho de tomate e queijo muçarela.",
+        "Finalize com o queijo e o orégano.",
+        "Leve ao forno a 180 °C por 20 minutos ou até o queijo derreter.",
+        "Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 fatia ou 1 porção pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 10,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Atenção à quantidade de queijo e aos acompanhamentos."
+    }
+  ],
+  "image": {
+    "file": "berinjela-a-parmegiana-light.jpg",
+    "alt": "Foto de Berinjela à Parmegiana Light",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 10,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

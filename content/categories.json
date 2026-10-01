@@ -1,0 +1,15 @@
+[
+  { "slug": "cafe-da-manha", "name": "Café da manhã", "emoji": "☀️", "order": 1, "homeRow": true },
+  { "slug": "almoco", "name": "Almoço", "emoji": "🍽️", "order": 2, "homeRow": true },
+  { "slug": "jantar", "name": "Jantar", "emoji": "🌙", "order": 3, "homeRow": true },
+  { "slug": "lanches", "name": "Lanches", "emoji": "🥪", "order": 4, "homeRow": true },
+  { "slug": "bolos", "name": "Bolos", "emoji": "🍰", "order": 5, "homeRow": true },
+  { "slug": "doces-e-sobremesas", "name": "Doces e sobremesas", "emoji": "🍮", "order": 6, "homeRow": true },
+  { "slug": "sucos-e-bebidas", "name": "Sucos, chás e bebidas", "emoji": "🥤", "order": 7, "homeRow": true },
+  { "slug": "saladas", "name": "Saladas", "emoji": "🥗", "order": 8, "homeRow": true },
+  { "slug": "sopas-e-cremes", "name": "Sopas e cremes", "emoji": "🥣", "order": 9, "homeRow": true },
+  { "slug": "paes-e-salgados", "name": "Pães e salgados", "emoji": "🥖", "order": 10, "homeRow": true },
+  { "slug": "acompanhamentos", "name": "Acompanhamentos", "emoji": "🥦", "order": 11, "homeRow": false },
+  { "slug": "caldas-e-coberturas", "name": "Caldas e coberturas", "emoji": "🍫", "order": 12, "homeRow": false },
+  { "slug": "bases-e-preparos", "name": "Bases e preparos", "emoji": "🫙", "order": 13, "homeRow": false }
+]

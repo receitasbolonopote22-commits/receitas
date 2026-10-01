@@ -1,0 +1,67 @@
+{
+  "id": "card-p14",
+  "slug": "pao-de-aveia-com-polvilho-doce",
+  "title": "Pão de Aveia com Polvilho Doce",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "cafe-da-manha",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "150g de polvilho doce",
+        "180g de farelo de aveia",
+        "320ml de água morna",
+        "1 colher de fermento biológico seco",
+        "2 colheres de adoçante para forno e fogão",
+        "1 colher de óleo de coco",
+        "1 ½ colher de chá de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture o polvilho doce, a aveia, o fermento biológico, o sal, o azeite e o adoçante.",
+        "Misture tudo e então adicione 1 xícara (240ml) da água morna.",
+        "Deixe descansar por aproximadamente 10 minutos e então adicione o restante da água.",
+        "Transfira a massa para uma fôrma retangular de pão e deixe descansar por 15 minutos, ou até ele crescer (se a sua fôrma for muito grande, multiplique a quantidade dos ingredientes por 2).",
+        "Quando massa chegar no topo do fôrma, leve ao forno preaquecido a 180C.",
+        "Asse por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "pao-de-aveia-com-polvilho-doce.jpg",
+    "alt": "Foto de Pão de Aveia com Polvilho Doce",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 14,
+    "originalTitle": "PÃO DE AVEIA COM POLVILHO DOCE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

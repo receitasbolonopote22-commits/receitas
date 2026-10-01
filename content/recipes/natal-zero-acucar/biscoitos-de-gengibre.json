@@ -1,0 +1,62 @@
+{
+  "id": "e3-n31",
+  "slug": "biscoitos-de-gengibre",
+  "title": "Biscoitos de Gengibre",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas",
+    "lanches"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras farinha de amêndoas",
+        "1/4 xícara xilitol",
+        "2 colheres gengibre em pó",
+        "1 colher canela",
+        "1/4 xícara ghee",
+        "1 ovo",
+        "1/2 colher fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture secos.",
+        "Adicione ghee e ovo até formar massa.",
+        "Abra com rolo, corte formatos natalinos.",
+        "Asse 180°C por 12min."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 5,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

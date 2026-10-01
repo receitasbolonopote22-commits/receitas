@@ -1,0 +1,78 @@
+{
+  "id": "card-p96",
+  "slug": "frango-assado-com-maca-e-batata",
+  "title": "Frango Assado com Maçã e Batata",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 frango de 1,500 g",
+        "1 maçã média em quatro",
+        "1 cebola média em quatro",
+        "2 dentes de alho grandes em quatro",
+        "8 batatas médias com casca",
+        "½ xícara (chá) de manteiga derretida",
+        "1 colher (chá) de tomilho seco",
+        "1 colher (chá) de páprica",
+        "½ colher (chá) de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave bem o frango, enxugue-o e dobre as asas para trás.",
+        "Misture a maçã, a cebola e o alho e recheie a cavidade da ave.",
+        "Amarre as coxas e coloque o frango numa assadeira com o peito para cima.",
+        "Corte as batatas em rodelas de 1.2 cm sem desgrudá-las e disponha-as ao redor do frango.",
+        "Misture os ingredientes restantes e pincele-os sobre o frango e as batatas.",
+        "Asse em forno moderado a 190°C, até que o frango fique cozido e as batatas macias (cerca de 1h45).",
+        "A cada 30 minutos, pincele o frango e as batatas com a mistura de manteiga."
+      ]
+    }
+  ],
+  "prepTime": 160,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "7 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 465.3,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "frango-assado-com-maca-e-batata.jpg",
+    "alt": "Foto de Frango Assado com Maçã e Batata",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 96,
+    "originalTitle": "FRANGO ASSADO COM MAÇÃ E BATATA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

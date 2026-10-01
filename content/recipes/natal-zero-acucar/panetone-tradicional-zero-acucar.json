@@ -1,0 +1,65 @@
+{
+  "id": "e3-n41",
+  "slug": "panetone-tradicional-zero-acucar",
+  "title": "Panetone Tradicional Zero Açúcar",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas",
+    "paes-e-salgados"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 xícaras farinha amêndoas",
+        "1/2 xícara farinha coco",
+        "4 ovos",
+        "1/2 xícara xilitol",
+        "1/4 xícara óleo coco",
+        "1 xícara uvas passas sem açúcar",
+        "1/2 xícara frutas cristalizadas zero açúcar",
+        "1 colher fermento",
+        "Raspas laranja"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture farinhas, fermento e raspas. À parte, bata ovos com xilitol e óleo até cremoso.",
+        "Una as misturas, adicione frutas.",
+        "Coloque em forma de panetone untada.",
+        "Asse a 170°C por 45-50 minutos até dourar e passar no teste do palito. 2 3 4 5 6 7."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

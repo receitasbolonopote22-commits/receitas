@@ -1,0 +1,68 @@
+{
+  "id": "e3-n61",
+  "slug": "cupcakes-de-baunilha-com-buttercream",
+  "title": "Cupcakes de Baunilha com Buttercream",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "2 xícaras farinha amêndoas",
+        "3 ovos",
+        "1/2 xícara xilitol",
+        "1/4 xícara óleo coco",
+        "1 colher essência baunilha",
+        "1 colher fermento"
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "items": [
+        "200g manteiga ghee",
+        "1/2 xícara xilitol",
+        "Essência baunilha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture ingredientes da massa.",
+        "Distribua em forminhas de cupcake até 2/3.",
+        "Asse 180°C por 18-20min.",
+        "Bata cobertura até fofa e decore cupcakes frios."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 8,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "p1-p79",
+  "slug": "cha-de-feno-grego",
+  "title": "Chá de Feno-grego",
+  "description": "Um chá herbal tradicional, de preparo simples, para consumo ocasional dentro de uma rotina equilibrada.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [
+    "cha"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de água",
+        "2 colheres (chá) de feno-grego"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque a água e o feno-grego em uma xícara ou recipiente.",
+        "Deixe em repouso por 3 horas.",
+        "Em seguida, ferva os ingredientes.",
+        "Coe e beba ainda morno.",
+        "Pode ser consumido até 3 vezes ao dia, com moderação."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 xícara",
+  "servingSize": "1 xícara (200 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 1,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não é necessário adoçar; se desejar, use adoçante culinário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Chás e ervas devem ser consumidos com moderação e não substituem orientação profissional."
+    }
+  ],
+  "image": {
+    "file": "cha-de-feno-grego.jpg",
+    "alt": "Foto de Chá de Feno-grego",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 79,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

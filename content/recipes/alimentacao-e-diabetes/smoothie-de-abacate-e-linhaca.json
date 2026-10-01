@@ -1,0 +1,78 @@
+{
+  "id": "p1-p7",
+  "slug": "smoothie-de-abacate-e-linhaca",
+  "title": "Smoothie de Abacate e Linhaça",
+  "description": "Cremoso, nutritivo e com boas gorduras para ajudar na saciedade.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas",
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1/4 de abacate médio",
+        "1 colher de sopa de linhaça",
+        "1/2 xícara de leite desnatado ou vegetal sem açúcar",
+        "1 colher de chá de adoçante em pó",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "No liquidificador, bata o abacate, o leite, a linhaça, o adoçante e o gelo até obter uma textura cremosa.",
+        "Sirva imediatamente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 12,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Prefira estévia, eritritol ou xilitol em pequena quantidade, apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de saudável, a receita é mais calórica por conter abacate; ajuste à sua rotina alimentar."
+    }
+  ],
+  "image": {
+    "file": "smoothie-de-abacate-e-linhaca.jpg",
+    "alt": "Foto de Smoothie de Abacate e Linhaça",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

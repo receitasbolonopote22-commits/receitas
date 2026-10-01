@@ -1,0 +1,76 @@
+{
+  "id": "card-p111",
+  "slug": "berinjela-recheada-com-frango",
+  "title": "Berinjela Recheada com Frango",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 berinjela grande",
+        "150g de peito de frango",
+        "1 tomate picado",
+        "1/3 de pimentão amarelo picado",
+        "1 cebola pequena picada",
+        "Salsinha, sal e pimenta à gosto",
+        "1 colher de sopa de molho de tomate"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte a berinjela ao meio, retire o miolo com ajuda de uma faca e pique-o.",
+        "Grelhe o frango com a técnica sem óleo e depois de pronto, desfie com auxílio de um garfo.",
+        "Refogue a cebola, pimentão e o frango desfiado.",
+        "Acrescente o miolo da berinjela cortado, o tomate, o molho e os temperos.",
+        "Deixe cozinhar rapidamente.",
+        "Recheie as berinjelas.",
+        "Coloque as metades em uma forma com um dedinho de água e asse-as no forno por cerca de 20 minutos ou até estarem macias."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 285,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "berinjela-recheada-com-frango.jpg",
+    "alt": "Foto de Berinjela Recheada com Frango",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 111,
+    "originalTitle": "BERINJELA RECHEADA COM FRANGO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

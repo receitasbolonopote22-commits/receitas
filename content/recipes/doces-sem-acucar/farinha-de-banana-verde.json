@@ -1,0 +1,61 @@
+{
+  "id": "b2-p12",
+  "slug": "farinha-de-banana-verde",
+  "title": "Farinha de Banana Verde",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bases-e-preparos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 bananas verdes"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cortar as bananas em rodelas médias, colocar lado a lado em uma forma e levar ao forno em temperatura baixa, para não queimá-la.",
+        "Deixar até elas ficarem bem secas, praticamente esfarinhando na mão.",
+        "Retirar do forno e deixar esfriar na temperatura ambiente.",
+        "Depois de totalmente frias, colocar as rodelas no liquidificador e bater bem até virar uma farinha.",
+        "Peneirar até a farinha ficar na espessura desejada e guarde num recipiente bem seco e tampe."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "farinha-de-banana-verde.jpg",
+    "alt": "Foto de Farinha de Banana Verde",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 12,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "O texto original diz: \"Usar a farinha de banana verde é uma ótima estratégia para emagrecer porque ela ajuda a controlar a fome, diminui os picos de glicemia, solta o intestino e ainda diminui o colesterol e os triglicerídios.\""
+    ]
+  },
+  "relatedRecipes": []
+}

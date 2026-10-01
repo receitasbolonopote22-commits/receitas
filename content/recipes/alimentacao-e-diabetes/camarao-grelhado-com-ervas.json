@@ -1,0 +1,68 @@
+{
+  "id": "card-p83",
+  "slug": "camarao-grelhado-com-ervas",
+  "title": "Camarão Grelhado com Ervas",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "12 camarões grandes",
+        "1 dente de alho picado",
+        "3 colheres (sopa) de azeite de oliva",
+        "1 colher (chá) de manjericão",
+        "1 colher (chá) de tomilho",
+        "1 colher (chá) de manteiga ou óleo de coco",
+        "1 colher (chá) de sálvia",
+        "1 colher (sopa) de salsinha",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Limpe os camarões e tempere com o sal e pimenta-do-reino a gosto.",
+        "Coloque os camarões em uma vasilha e coloque um pouco do azeite de oliva e deixe marinar por aproximadamente 10 minutos.",
+        "Em uma frigideira aquecida com o restante do azeite de oliva, grelhe os camarões dos dois lados até que fiquem bem dourados.",
+        "Retire os camarões e reserve.",
+        "Na mesma frigideira, refogue o alho com a manteiga e adicione as ervas.",
+        "Coloque os camarões em um prato e coloque o molho com as ervas por cima."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "camarao-grelhado-com-ervas.jpg",
+    "alt": "Foto de Camarão Grelhado com Ervas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 83,
+    "originalTitle": "CAMARÃO GRELHADO COM ERVAS"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "card-p59",
+  "slug": "frango-cozido",
+  "title": "Frango Cozido",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 frango com cerca de 1,750g",
+        "1 xícara (chá) de aipo picado",
+        "1 xícara (chá) de cebola picada",
+        "¾ de xícara (chá) de cenoura picada",
+        "1 dente de alho",
+        "1 folha de louro",
+        "½ colher (chá) de tomilho seco",
+        "Sal a gosto",
+        "12 grãos de pimenta do reino",
+        "3 ramos de salsinha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque o frango numa panela, com o peito virado para baixo.",
+        "Junte os demais ingredientes.",
+        "Ponha água até o frango ficar quase totalmente coberto.",
+        "Tampe e leve ao fogo alto.",
+        "Quando ferver, diminua para fogo baixo e deixe cozinhar por 45 minutos.",
+        "Apague o fogo e deixe-o na panela até o momento de usar.",
+        "Coe o caldo e use-o como consome ou em qualquer outra receita que leve caldo."
+      ]
+    }
+  ],
+  "prepTime": 90,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "5 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 508.6,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "frango-cozido.jpg",
+    "alt": "Foto de Frango Cozido",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 59,
+    "originalTitle": "FRANGO COZIDO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

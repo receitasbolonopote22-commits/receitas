@@ -1,0 +1,71 @@
+{
+  "id": "card-p97",
+  "slug": "salada-california-2",
+  "title": "Salada Califórnia",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 filés de frango",
+        "3 ovos cozidos",
+        "3 colheres (chá) de milho",
+        "½ xícara (chá) de palmito",
+        "6 folhas de alface americana",
+        "2 xícaras (chá) de agrião sem o talo",
+        "½ xícara (chá) de abacate",
+        "2 colheres (sopa) de azeite de oliva",
+        "Sal, vinagre de maçã e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere os filés de frango com o sal e a pimenta-do-reino a gosto e leve para grelhar em uma frigideira aquecida com o azeite de oliva.",
+        "Corte os filés em iscas e reserve.",
+        "Lave e rasgue as folhas de alface com as mãos e coloque-as em um prato, adicione o agrião.",
+        "Corte o abacate e o palmito e acomode junto no prato.",
+        "Adicione o milho.",
+        "Cozinhe os ovos por cerca de 15 minutos, descasque e corte em rodelas e arrume no prato.",
+        "Depois que o frango estiver esfriado, coloque junto aos outros ingredientes.",
+        "Tempere com o azeite de oliva, o vinagre de maçã e o sal a gosto."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "salada-california-2.jpg",
+    "alt": "Foto de Salada Califórnia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 97,
+    "originalTitle": "SALADA CALIFÓRNIA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "card-p80",
+  "slug": "frango-com-alecrim",
+  "title": "Frango com Alecrim",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 sobrecoxas",
+        "Sal e pimenta do reino a gosto",
+        "3 colheres (sopa) de manteiga",
+        "2 colheres (chá) de folhas de alecrim picadas",
+        "2 colheres (sopa) de cebolinha verde picada",
+        "¼ de xícara (chá) de vinho branco light",
+        "1 xícara (chá) de caldo de galinha"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Salpique as sobrecoxas com sal e pimenta.",
+        "Coloque 2 colheres de manteiga em uma frigideira e leve ao fogo para derreter.",
+        "Junte as sobrecoxas, com a pele virada para baixo, e deixe fritar por cerca de 15 minutos ou até que dourem.",
+        "Vire-as e junte o alecrim.",
+        "Cozinhe por mais 10 a 15 minutos, virando às vezes.",
+        "Adicione a cebolinha e deixe cozinhar por mais alguns segundos.",
+        "Transfira as sobrecoxas para uma travessa e mantenha-as aquecidas.",
+        "Enquanto isso, retire e descarte a gordura que se formou na frigideira.",
+        "Junte o vinho e misture bem. Quando o vinho tiver evaporado quase totalmente, adicione o caldo de galinha e misture novamente.",
+        "Deixe cozinhar até que o molho tenha se reduzido a ¾ de xícara.",
+        "Acrescente o restante da manteiga e misture até incorporá-la bem.",
+        "Espalhe o molho sobre as sobrecoxas e sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 90,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 179.04,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "frango-com-alecrim.jpg",
+    "alt": "Foto de Frango com Alecrim",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 80,
+    "originalTitle": "FRANGO COM ALECRIM"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

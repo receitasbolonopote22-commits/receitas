@@ -1,0 +1,84 @@
+{
+  "id": "p2-p55",
+  "slug": "gelado-de-frutas",
+  "title": "Gelado de Frutas",
+  "description": "Refrescante, leve e naturalmente doce! Esta sobremesa gelada combina frutas congeladas com iogurte, resultando em uma textura cremosa. Perfeita para os dias quentes.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de morangos congelados",
+        "1 xícara de manga congelada em cubos",
+        "1 banana congelada em rodelas",
+        "1/2 xícara de frutas vermelhas congeladas (amora, framboesa, mirtilo)",
+        "1 xícara de iogurte natural desnatado",
+        "1 colher (sopa) de suco de limão",
+        "Adoçante culinário a gosto (opcional)",
+        "Folhas de hortelã para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "No liquidificador ou processador, adicione as frutas congeladas, o iogurte e o suco de limão.",
+        "Bata até obter uma mistura cremosa e homogênea.",
+        "Prove e, se desejar, adoce com adoçante culinário a gosto.",
+        "Distribua o gelado em taças individuais.",
+        "Decore com folhas de hortelã e sirva imediatamente.",
+        "Se preferir mais firme, leve ao freezer por 30 minutos antes de servir."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 taça pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 13,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, dependendo da doçura das frutas."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Contém carboidratos naturais das frutas; consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "gelado-de-frutas.jpg",
+    "alt": "Foto de Gelado de Frutas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 55,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

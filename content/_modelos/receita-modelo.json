@@ -1,0 +1,38 @@
+{
+  "id": "minha-receita-001",
+  "slug": "bolo-de-laranja-da-vovo",
+  "title": "Bolo de Laranja da Vovó",
+  "description": "Uma frase curta que apresenta a receita.",
+  "collections": ["doces-sem-acucar"],
+  "categories": ["bolos", "cafe-da-manha"],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": ["3 ovos", "1 xícara de farinha de amêndoas", "Suco de 1 laranja"]
+    },
+    {
+      "title": "Cobertura",
+      "items": ["2 colheres de sopa de cacau em pó"]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": ["Preaqueça o forno a 180 °C.", "Bata os ovos com o suco de laranja.", "Asse por 35 minutos."]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 fatias",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [{ "label": "Dica", "text": "Sirva gelado." }],
+  "image": { "file": "bolo-de-laranja-da-vovo.jpg", "alt": "Foto do bolo de laranja da vovó", "origin": "manual" },
+  "video": null,
+  "featured": false,
+  "source": { "document": "Nome do PDF ou 'manual'", "page": null, "originalTitle": null },
+  "review": { "status": "ok", "flags": [], "healthClaims": [] },
+  "relatedRecipes": []
+}

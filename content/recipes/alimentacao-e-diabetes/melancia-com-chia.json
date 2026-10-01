@@ -1,0 +1,80 @@
+{
+  "id": "p2-p41",
+  "slug": "melancia-com-chia",
+  "title": "Melancia com Chia",
+  "description": "Refrescante, leve e naturalmente doce, esta bebida combina a suculência da melancia com a chia. Perfeita para os dias quentes!",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de melancia picada sem sementes",
+        "1 colher de sopa de chia",
+        "200 ml de água gelada",
+        "Gelo a gosto",
+        "Adoçante culinário opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata a melancia com a água e o gelo até ficar homogêneo.",
+        "Adicione a chia, misture bem e deixe descansar por 2 a 3 minutos.",
+        "Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de natural, contém açúcares próprios da fruta; consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "melancia-com-chia.jpg",
+    "alt": "Foto de Melancia com Chia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 41,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"a chia, que ajuda na saciedade e no equilíbrio intestinal\"."
+    ]
+  },
+  "relatedRecipes": []
+}

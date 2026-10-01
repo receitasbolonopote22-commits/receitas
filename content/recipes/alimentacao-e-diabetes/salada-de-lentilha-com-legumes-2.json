@@ -1,0 +1,85 @@
+{
+  "id": "p2-p15",
+  "slug": "salada-de-lentilha-com-legumes-2",
+  "title": "Salada de Lentilha com Legumes",
+  "description": "Refrescante e nutritiva, combina lentilha e legumes em uma salada leve, rica em fibras e prática para o dia a dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de chá de lentilha cozida",
+        "1 cenoura ralada",
+        "1 pepino fatiado",
+        "1 tomate picado",
+        "1/2 cebola roxa fatiada",
+        "1 colher de sopa de azeite",
+        "Suco de 1 limão",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture a lentilha cozida com os legumes: cenoura, pepino, tomate e cebola.",
+        "Tempere com azeite, limão, sal e pimenta.",
+        "Sirva a salada gelada ou em temperatura ambiente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 tigela pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 14,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A lentilha contém carboidratos naturais; respeite a porção e ajuste os acompanhamentos."
+    }
+  ],
+  "image": {
+    "file": "salada-de-lentilha-com-legumes-2.jpg",
+    "alt": "Foto de Salada de Lentilha com Legumes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 15,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Cópia idêntica de \"Salada de Lentilha com Legumes\" (salada-de-lentilha-com-legumes); oculta das listagens."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": [],
+  "duplicateOf": "salada-de-lentilha-com-legumes"
+}

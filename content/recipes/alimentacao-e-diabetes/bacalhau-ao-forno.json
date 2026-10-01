@@ -1,0 +1,69 @@
+{
+  "id": "card-p69",
+  "slug": "bacalhau-ao-forno",
+  "title": "Bacalhau ao Forno",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "450g de bacalhau dessalgado",
+        "1 pimentão vermelho em rodelas",
+        "½ xícara (chá) de azeite de oliva",
+        "2 colheres (sopa) de salsinha",
+        "3 cebolas em rodelas",
+        "3 tomates sem pele cortado em fatias",
+        "Azeitonas a gosto",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte as cebolas, os tomates e o pimentão em rodelas.",
+        "Leve o bacalhau já dessalgado para uma panela e cubra com água.",
+        "Deixe ferver, cuidando para não amolecer muito.",
+        "Depois de pronto, retire o bacalhau da panela.",
+        "Em um refratário, coloque uma camada de cebolas, uma de pimentão, uma de bacalhau e uma de tomates.",
+        "Acrescente azeitonas a gosto e polvilhe com a salsinha.",
+        "Tempere com o sal e a pimenta-do-reino a gosto, sempre cuidando para não salgar demais.",
+        "Regue com o azeite de oliva e leve ao forno pré-aquecido por cerca de 30 minutos."
+      ]
+    }
+  ],
+  "prepTime": 65,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "bacalhau-ao-forno.jpg",
+    "alt": "Foto de Bacalhau ao Forno",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 69,
+    "originalTitle": "BACALHAU AO FORNO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "p2-p75",
+  "slug": "esfirra-de-queijo",
+  "title": "Esfirra de Queijo",
+  "description": "Leve e saborosa, esta esfirra de queijo é perfeita para lanches ou refeições leves. Feita com ingredientes integrais e recheio cremoso, é uma opção prática para o dia a dia.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara (chá) de farinha integral",
+        "1 xícara (chá) de farinha de aveia",
+        "1 colher (sopa) de fermento biológico seco",
+        "1 colher (chá) de açúcar demerara ou adoçante culinário para ativar",
+        "3/4 xícara (chá) de água morna",
+        "2 colheres (sopa) de azeite",
+        "200 g de ricota ou queijo minas light amassado",
+        "1/2 xícara (chá) de muçarela light ralada",
+        "Orégano a gosto",
+        "Salsinha picada a gosto",
+        "Sal moderado a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma tigela, misture o fermento, o açúcar ou adoçante e a água morna. Deixe descansar por 5 a 10 minutos até espumar.",
+        "Acrescente as farinhas e o azeite. Misture e sove até formar uma massa macia e homogênea.",
+        "Cubra com um pano e deixe descansar por cerca de 40 minutos, ou até dobrar de volume.",
+        "Em uma tigela, misture a ricota, a muçarela, o orégano, a salsinha e o sal. Reserve.",
+        "Divida a massa em 10 porções iguais e abra cada uma em discos médios.",
+        "Coloque o recheio no centro, dobre as bordas formando um barquinho (deixando o recheio aparente) ou feche com cuidado, formando os tradicionais fechados.",
+        "Disponha as esfirras em uma assadeira untada ou forrada com papel-manteiga. Leve ao forno preaquecido a 180 °C por cerca de 20 a 25 minutos, ou até dourar.",
+        "Sirva morna e aproveite!"
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 unidades",
+  "servingSize": "2 unidades",
+  "nutrition": {
+    "calories": null,
+    "carbs": 17,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; usar apenas pequena quantidade para ativar o fermento."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "esfirra-de-queijo.jpg",
+    "alt": "Foto de Esfirra de Queijo",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 75,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Ingrediente com açúcar natural ou adicionado (açúcar) em coleção focada em baixo açúcar; revisar a forma de apresentação."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

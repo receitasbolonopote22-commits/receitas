@@ -1,0 +1,57 @@
+{
+  "id": "e3-n20",
+  "slug": "pe-de-moleque-fit",
+  "title": "Pé de Moleque Fit",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de amendoim torrado",
+        "1/2 xícara de xilitol",
+        "3 colheres de água",
+        "1 colher de ghee"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Faça calda com xilitol e água.",
+        "Adicione amendoim e ghee.",
+        "Espalhe em forma untada e corte em quadrados."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 3,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

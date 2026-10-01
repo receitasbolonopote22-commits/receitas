@@ -1,0 +1,79 @@
+{
+  "id": "p1-p35",
+  "slug": "arroz-de-couve-flor-com-ghee",
+  "title": "Arroz de Couve-flor com Ghee",
+  "description": "Leve, rápido e versátil, ótimo para substituir o arroz tradicional.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "acompanhamentos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 couve-flor pequena",
+        "1/4 de cebola picada",
+        "Sal a gosto",
+        "1/2 colher de sobremesa de manteiga ghee",
+        "Água fervente"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Mergulhe rapidamente a couve-flor inteira na água fervente e escorra bem.",
+        "Pique em pedaços e pulse no processador ou liquidificador até ficar com textura de arroz.",
+        "Refogue a cebola na manteiga ghee, junte a couve-flor processada, misture rapidamente, ajuste o sal e desligue o fogo.",
+        "Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "3 porções",
+  "servingSize": "1/2 xícara",
+  "nutrition": {
+    "calories": null,
+    "carbs": 5,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo leve, controle a gordura adicionada pela ghee dentro da refeição."
+    }
+  ],
+  "image": {
+    "file": "arroz-de-couve-flor-com-ghee.jpg",
+    "alt": "Foto de Arroz de Couve-flor com Ghee",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 35,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "e3-n88",
+  "slug": "alfajor-argentino",
+  "title": "Alfajor Argentino",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": "Biscoitos",
+      "items": [
+        "2 xícaras farinha amêndoas",
+        "1/3 xícara xilitol",
+        "1/4 xícara ghee",
+        "1 ovo"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "Doce de leite zero açúcar"
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "items": [
+        "Chocolate"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Faça biscoitos redondos, asse 180°C 12min.",
+        "Una pares com doce de leite.",
+        "Cubra laterais com coco ralado ou mergulhe em chocolate derretido."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 10,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

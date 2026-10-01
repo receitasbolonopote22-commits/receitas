@@ -1,0 +1,79 @@
+{
+  "id": "p1-p6",
+  "slug": "crepioca-de-frango-desfiado",
+  "title": "Crepioca de Frango Desfiado",
+  "description": "Uma combinação prática de proteína e energia para uma refeição equilibrada.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 ovo",
+        "2 colheres de sopa de goma de tapioca",
+        "2 colheres de sopa de frango cozido e desfiado",
+        "1 colher de sopa de requeijão light",
+        "Sal e orégano a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata o ovo com a goma de tapioca e uma pitada de sal.",
+        "Aqueça uma frigideira antiaderente e despeje a mistura.",
+        "Quando começar a firmar, espalhe o frango e o requeijão por cima.",
+        "Dobre a crepioca ao meio, polvilhe orégano e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 unidade",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A tapioca pode elevar a glicemia mais rapidamente; prefira porções equilibradas e recheios proteicos."
+    }
+  ],
+  "image": {
+    "file": "crepioca-de-frango-desfiado.jpg",
+    "alt": "Foto de Crepioca de Frango Desfiado",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

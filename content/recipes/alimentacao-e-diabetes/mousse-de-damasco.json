@@ -1,0 +1,83 @@
+{
+  "id": "p2-p52",
+  "slug": "mousse-de-damasco",
+  "title": "Mousse de Damasco",
+  "description": "Delicada, leve e naturalmente frutada, esta mousse de damasco é uma sobremesa irresistível e mais saudável.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "150 g de damasco seco sem açúcar (cerca de 1 xícara)",
+        "1 xícara de iogurte natural desnatado ou 1 xícara de creme de ricota light",
+        "1 envelope de gelatina incolor sem sabor (12 g)",
+        "5 colheres (sopa) de água para hidratar a gelatina",
+        "3 a 4 colheres (sopa) de adoçante culinário (opcional)",
+        "1/2 xícara de água filtrada",
+        "Raspas de limão (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Hidrate a gelatina incolor na água e reserve por 5 minutos. Leve ao micro-ondas por 15 segundos ou dissolva em banho-maria até ficar transparente. Deixe amornar.",
+        "Coloque os damascos de molho em água quente por 20 minutos. Escorra e bata no liquidificador com 1/2 xícara de água até obter um creme liso.",
+        "Acrescente o iogurte (ou creme de ricota) e o adoçante. Bata novamente até ficar homogêneo.",
+        "Com o liquidificador ainda ligado, adicione a gelatina incolor dissolvida e bata por mais 30 segundos.",
+        "Transfira para taças individuais ou para um refratário e leve à geladeira por no mínimo 3 horas ou até firmar.",
+        "Decore com pedacinhos de damasco e raspas de limão, se desejar. Sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": "1 taça pequena",
+  "nutrition": {
+    "calories": null,
+    "carbs": 11,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, ajuste ao sabor."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Contém carboidratos naturais do damasco; consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "mousse-de-damasco.jpg",
+    "alt": "Foto de Mousse de Damasco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 52,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

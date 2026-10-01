@@ -1,0 +1,84 @@
+{
+  "id": "p2-p6",
+  "slug": "sopa-de-abobora-com-frango-desfiado",
+  "title": "Sopa de Abóbora com Frango Desfiado",
+  "description": "Cremosa e reconfortante, une a suavidade da abóbora ao frango desfiado em uma sopa leve.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sopas-e-cremes"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g de abóbora picada",
+        "200 g de peito de frango desfiado",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "1 litro de água",
+        "Sal e pimenta a gosto",
+        "Salsa a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Refogue a cebola e o alho no azeite.",
+        "Acrescente a abóbora e refogue por alguns minutos.",
+        "Adicione a água e cozinhe até a abóbora ficar macia.",
+        "Bata a abóbora no liquidificador, volte à panela e acrescente o frango desfiado.",
+        "Tempere com sal, pimenta e salsa.",
+        "Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 tigela média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 14,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A abóbora fornece carboidratos naturais; ajuste a porção."
+    }
+  ],
+  "image": {
+    "file": "sopa-de-abobora-com-frango-desfiado.jpg",
+    "alt": "Foto de Sopa de Abóbora com Frango Desfiado",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

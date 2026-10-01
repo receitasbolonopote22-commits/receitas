@@ -1,0 +1,79 @@
+{
+  "id": "p2-p24",
+  "slug": "vitamina-de-framboesa-com-espinafre",
+  "title": "Vitamina de Framboesa com Espinafre",
+  "description": "Refrescante, nutritiva e cheia de cor, essa vitamina combina o sabor adocicado da framboesa com o espinafre.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de framboesas",
+        "1 xícara de folhas de espinafre",
+        "200 ml de água gelada ou leite vegetal sem açúcar",
+        "1 colher de sopa de chia",
+        "1 colher de sopa de adoçante culinário ou a gosto",
+        "Gelo a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata tudo no liquidificador até ficar homogêneo e sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 copos",
+  "servingSize": "1 copo médio",
+  "nutrition": {
+    "calories": null,
+    "carbs": 10,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Ajuste a quantidade conforme o paladar."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A fruta contém carboidratos naturais; mantenha a porção adequada."
+    }
+  ],
+  "image": {
+    "file": "vitamina-de-framboesa-com-espinafre.jpg",
+    "alt": "Foto de Vitamina de Framboesa com Espinafre",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 24,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"combina o sabor adocicado da framboesa com o poder do espinafre para uma dose de saúde e energia\"."
+    ]
+  },
+  "relatedRecipes": []
+}

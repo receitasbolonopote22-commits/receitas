@@ -1,0 +1,68 @@
+{
+  "id": "card-p108",
+  "slug": "sardinha-na-panela-de-pressao-escabeche",
+  "title": "Sardinha na Panela de Pressão (Escabeche)",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "800g de sardinhas limpas (sem a cabeça e o rabo)",
+        "5 cebolas",
+        "1 dente de alho",
+        "1 xícara (chá) de azeite de oliva ou óleo de coco",
+        "6 folhas de manjericão",
+        "1 xícara (chá) de vinagre de maçã",
+        "½ xícara (chá) de água",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Corte as cebolas em rodelas grossas e acomode-as ao fundo da panela de pressão.",
+        "Coloque as sardinhas sobre as cebolas.",
+        "Adicione o vinagre, o azeite de oliva, o alho, as folhas de manjericão e um pouco de água.",
+        "Salpique com o sal e a pimenta-do-reino a gosto.",
+        "Tampe a panela e, assim que pegar pressão, cozinhe por cerca de 40 minutos.",
+        "Passado o tempo, desligue e espere esfriar sozinha.",
+        "Quando estiver bem fria, abra a panela retire as sardinhas e as cebolas e acomode-os em uma travessa."
+      ]
+    }
+  ],
+  "prepTime": 80,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "sardinha-na-panela-de-pressao-escabeche.jpg",
+    "alt": "Foto de Sardinha na Panela de Pressão (Escabeche)",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 108,
+    "originalTitle": "SARDINHA NA PANELA DE PRESSÃO (ESCABECHE)"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

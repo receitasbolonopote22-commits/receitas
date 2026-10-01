@@ -1,0 +1,79 @@
+{
+  "id": "p1-p56",
+  "slug": "suco-de-kiwi-com-melao",
+  "title": "Suco de Kiwi com Melão",
+  "description": "Refrescante e leve, combina fruta e água de coco em uma bebida agradável para dias quentes.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 kiwi descascado",
+        "1 fatia de melão sem sementes",
+        "1 xícara de chá de água de coco",
+        "1 folha de hortelã",
+        "Adoçante sucralose a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Retire a casca do kiwi e do melão e corte em cubos.",
+        "Bata todos os ingredientes no liquidificador por cerca de 2 minutos, até as frutas ficarem totalmente misturadas.",
+        "Se desejar, adicione adoçante.",
+        "Sirva com bastante gelo."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 copo grande",
+  "servingSize": "200 ml",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Pode ser adoçado com sucralose, mas é opcional."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Por conter frutas e água de coco, possui carboidratos naturais; respeite a porção."
+    }
+  ],
+  "image": {
+    "file": "suco-de-kiwi-com-melao.jpg",
+    "alt": "Foto de Suco de Kiwi com Melão",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 56,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

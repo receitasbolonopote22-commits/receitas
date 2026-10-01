@@ -1,0 +1,63 @@
+{
+  "id": "e2-n1",
+  "slug": "bolo-de-banana-com-aveia",
+  "title": "Bolo de Banana com Aveia",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 bananas maduras",
+        "2 xícaras de aveia sem glúten",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "1 colher de chá de fermento em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Preaqueça o forno a 180°C.",
+        "Bata as bananas, ovos e óleo de coco até ficar homogêneo.",
+        "Misture a aveia e o fermento.",
+        "Despeje em forma untada e asse por 35-40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Dica: Sirva com frutas frescas ou melado de cana."
+    }
+  ],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

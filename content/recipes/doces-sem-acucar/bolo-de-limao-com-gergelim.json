@@ -1,0 +1,80 @@
+{
+  "id": "b2-p9",
+  "slug": "bolo-de-limao-com-gergelim",
+  "title": "Bolo de Limão com Gergelim",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xic. (chá) de óleo de coco",
+        "4 colh. (sopa) de adoçante próprio para forno e fogão",
+        "2 ovos",
+        "2 xic. (chá) de farinha de trigo integral",
+        "2 colh. (sobremesa) de fermento em pó",
+        "1 copo de iogurte natural",
+        "2 colh. (sopa) de sementes de gergelim",
+        "Suco de 1 limão",
+        "Raspas de casca ralada de um limão"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata bem o óleo de coco com o adoçante.",
+        "Junte os ovos e bata mais.",
+        "Peneire a farinha com o fermento sobre o creme e ponha o iogurte.",
+        "Misture e acrescente o gergelim, a casca ralada e o suco de limão.",
+        "Mexa até ficar homogêneo e despeje em uma fôrma de bolo inglês untada e forrada com papel- manteiga.",
+        "Alise a superfície e asse em forno baixo pré-aquecido até que esteja crescido e firme ao ser tocado com os dedos.",
+        "Desenforme e sirva frio."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 297,
+    "carbs": 55.35,
+    "protein": 1.7,
+    "fat": 8.39,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "bolo-de-limao-com-gergelim.jpg",
+    "alt": "Foto de Bolo de Limão com Gergelim",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

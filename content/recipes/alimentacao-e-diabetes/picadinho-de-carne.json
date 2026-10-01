@@ -1,0 +1,77 @@
+{
+  "id": "card-p78",
+  "slug": "picadinho-de-carne",
+  "title": "Picadinho de Carne",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 colher (sopa) de óleo de coco ou azeite de oliva",
+        "1 cebola média ralada",
+        "4 dentes de alho amassados",
+        "1 kg de patinho moído",
+        "4 tomates sem pele e sem semente picados",
+        "1 pimentão verde e 1 vermelho em cubinhos",
+        "2 abobrinhas médias em cubinhos",
+        "Sal e pimenta do reino a gosto",
+        "2 colheres (sopa) de salsinha picada",
+        "1 colher (sopa) de cebolinha verde picada"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela, coloque o óleo, a cebola e o alho; frite até a cebola murchar.",
+        "Junte a carne, misture bem e refogue em fogo baixo até a carne ficar cozida.",
+        "Junte o tomate, os pimentões, a abobrinha e tempere com sal e pimenta.",
+        "Misture delicadamente e cozinhe em fogo baixo, mexendo algumas vezes durante o cozimento.",
+        "Quando os legumes estiverem cozidos, retire do fogo e polvilhe com a salsinha e a cebolinha."
+      ]
+    }
+  ],
+  "prepTime": 35,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 299.3,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "picadinho-de-carne.jpg",
+    "alt": "Foto de Picadinho de Carne",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 78,
+    "originalTitle": "PICADINHO DE CARNE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

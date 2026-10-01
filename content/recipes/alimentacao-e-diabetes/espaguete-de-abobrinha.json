@@ -1,0 +1,82 @@
+{
+  "id": "p1-p46",
+  "slug": "espaguete-de-abobrinha",
+  "title": "Espaguete de Abobrinha",
+  "description": "Leve, colorido e muito prático, substitui massas tradicionais com mais leveza.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 abobrinha pequena",
+        "1 colher de sopa de azeite",
+        "1 dente de alho",
+        "Molho de tomate a gosto",
+        "Tomate-cereja a gosto",
+        "Queijo branco a gosto",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Faça tiras finas na abobrinha, formando o espaguete.",
+        "Em uma frigideira, aqueça o azeite com o alho até dourar levemente.",
+        "Acrescente a abobrinha, tempere com sal e pimenta e mexa rapidamente.",
+        "Coloque em um prato e finalize com molho de tomate, tomate-cereja e queijo branco.",
+        "Sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 prato raso pequeno",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Observe a quantidade de molho e de queijo para manter a refeição equilibrada."
+    }
+  ],
+  "image": {
+    "file": "espaguete-de-abobrinha.jpg",
+    "alt": "Foto de Espaguete de Abobrinha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 46,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

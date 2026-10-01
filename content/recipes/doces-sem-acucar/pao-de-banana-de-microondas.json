@@ -1,0 +1,87 @@
+{
+  "id": "b2-p41",
+  "slug": "pao-de-banana-de-microondas",
+  "title": "Pão de Banana de microondas",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "doces-e-sobremesas",
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 ovos",
+        "1 banana",
+        "4 colh. (sopa) aveia em flocos finos",
+        "1 colh. (sobremesa) de fermento",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ovos, acrescente à banana amassada e bata levemente.",
+        "Adicione a aveia em flocos finos. o sal e o fermento e misture tudo.",
+        "Leve para o microondas por uns 3/4 minutos, depois deixe dourar na frigideira ou sanduicheira.",
+        "Recheei a seu gosto."
+      ]
+    }
+  ],
+  "prepTime": 5,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 unidade",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 146,
+    "carbs": 30,
+    "protein": 5,
+    "fat": 3,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [
+    {
+      "label": null,
+      "text": "Dica Nutella Caseira."
+    },
+    {
+      "label": null,
+      "text": "Dica; queijo minas e requeijão light."
+    },
+    {
+      "label": null,
+      "text": "Dica: acrescente uma pitada de essência de baunilha se ficar o cheiro do ovo."
+    }
+  ],
+  "image": {
+    "file": "pao-de-banana-de-microondas.jpg",
+    "alt": "Foto de Pão de Banana de microondas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 41,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "card-p79",
+  "slug": "arroz-colorido",
+  "title": "Arroz Colorido",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar",
+    "acompanhamentos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 colheres (sopa) manteiga",
+        "3 xícaras (chá) arroz integral cozido",
+        "3 cebolas raladas",
+        "2 cenouras cozidas",
+        "½ maço de espinafre cozido",
+        "Queijo parmesão ralado grosso para polvilhar",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Colocar em um refratário 1 colher da manteiga com uma cebola ralada e levar ao microondas por 2 minutos em potência alta.",
+        "Bater esse refogado no liquidificador com as cenouras e temperar com sal.",
+        "Misturar esse creme a uma xícara de arroz cozido e reservar.",
+        "Fazer a mesma coisa com a beterraba e o espinafre, reservando separadamente as porções de arroz."
+      ]
+    },
+    {
+      "title": "Montagem",
+      "steps": [
+        "Untar um refratário com a manteiga restante e alternar camadas de cada uma das 3 cores de arroz.",
+        "Polvilhar superfície com parmesão, tampar e levar ao microondas por 6 a 8 minutos.",
+        "Desenformar antes de servir."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "120 g (medida caseira)",
+  "nutrition": {
+    "calories": 145.54,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "arroz-colorido.jpg",
+    "alt": "Foto de Arroz Colorido",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 79,
+    "originalTitle": "ARROZ COLORIDO"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O modo de preparo cita beterraba (\"3 cores de arroz\"), que não consta na lista de ingredientes do material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

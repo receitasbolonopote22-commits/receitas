@@ -1,0 +1,14 @@
+{
+  "id": "alimentacao-e-diabetes",
+  "slug": "alimentacao-e-diabetes",
+  "name": "Alimentação e diabetes",
+  "shortDescription": "Receitas do dia a dia pensadas para quem cuida da glicemia.",
+  "description": "Café da manhã, almoço, jantar, lanches, sobremesas, sucos e chás reunidos para facilitar a rotina de quem precisa prestar atenção ao açúcar e aos carboidratos. Muitas receitas trazem rendimento, porção sugerida e carboidratos aproximados informados pelo material original.",
+  "coverRecipe": "salada-de-salmao-com-folhas",
+  "coverImage": null,
+  "heroImage": null,
+  "disclaimer": "Este conteúdo tem caráter informativo e não substitui a orientação individualizada de médicos e nutricionistas. Valores nutricionais são aproximados e vêm do material de origem.",
+  "featured": true,
+  "order": 1,
+  "accent": "#8FA36B"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "p2-p1",
+  "slug": "omelete-de-legumes",
+  "title": "Omelete de Legumes",
+  "description": "Colorido e nutritivo, combina ovos com cenoura, abobrinha e cebola em uma refeição prática.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 ovos",
+        "1/2 cenoura ralada",
+        "1/2 abobrinha ralada",
+        "1 colher de sopa de cebola picada",
+        "1 colher de chá de azeite",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ovos e misture a cenoura, a abobrinha, a cebola, o sal e a pimenta.",
+        "Aqueça o azeite em uma frigideira.",
+        "Despeje a mistura e cozinhe em fogo baixo até firmar.",
+        "Vire ou dobre com cuidado.",
+        "Sirva com salada."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1/2 omelete grande",
+  "nutrition": {
+    "calories": null,
+    "carbs": 5,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo leve, observe o uso de acompanhamentos."
+    }
+  ],
+  "image": {
+    "file": "omelete-de-legumes.jpg",
+    "alt": "Foto de Omelete de Legumes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

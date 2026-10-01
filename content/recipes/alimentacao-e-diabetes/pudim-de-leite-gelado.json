@@ -1,0 +1,68 @@
+{
+  "id": "card-p39",
+  "slug": "pudim-de-leite-gelado",
+  "title": "Pudim de Leite Gelado",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 lata de creme de leite light",
+        "1 lata de leite condensado dietético",
+        "1 lata de leite desnatado",
+        "1 ½ envelope de gelatina em pó sem sabor e incolor"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Dissolva a gelatina conforme as instruções da embalagem.",
+        "Bata no liquidificador o creme de leite, o leite condensado, o leite desnatado e a gelatina dissolvida.",
+        "Coloque em taças e leve para gelar por 4 horas."
+      ]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "40 g (medida caseira)",
+  "nutrition": {
+    "calories": 95,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "pudim-de-leite-gelado.jpg",
+    "alt": "Foto de Pudim de Leite Gelado",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 39,
+    "originalTitle": "PUDIM DE LEITE GELADO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,97 @@
+{
+  "id": "p2-p60",
+  "slug": "churros",
+  "title": "Churros",
+  "description": "Crocantes por fora, macios por dentro e perfumados com canela. Esta versão assada ou na air fryer é leve e perfeita para matar a vontade de doce.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de farinha de trigo integral ou farinha de aveia",
+        "1 xícara de água",
+        "1 colher (sopa) de manteiga ou óleo de coco",
+        "1 colher (sopa) de adoçante culinário próprio para forno e fogão",
+        "1/2 colher (chá) de sal",
+        "1 ovo (opcional, para textura mais macia)",
+        "1 colher (chá) de essência de baunilha (opcional)"
+      ]
+    },
+    {
+      "title": "Para polvilhar",
+      "items": [
+        "1 colher (sopa) de adoçante culinário (em pó ou xilitol)",
+        "1 colher (sopa) de canela em pó"
+      ]
+    },
+    {
+      "title": "Para acompanhar (opcional)",
+      "items": [
+        "Chocolate 70% cacau derretido ou chocolate sem açúcar para cobertura"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela, leve a água, a manteiga, o sal e o adoçante para ferver.",
+        "Desligue o fogo e adicione a farinha de uma vez, mexendo vigorosamente até formar uma massa homogênea que desgrude do fundo da panela.",
+        "Deixe a massa amornar e, se desejar, incorpore o ovo e a essência de baunilha, mexendo bem até ficar lisa e firme.",
+        "Transfira a massa para um saco de confeitar com bico estrela.",
+        "Modele os churros sobre uma assadeira forrada com papel-manteiga ou em uma cesta de air fryer untada levemente.",
+        "Asse em forno preaquecido a 200 °C por 18 a 22 minutos ou na air fryer a 180 °C por 12 a 15 minutos, até dourarem.",
+        "Misture o adoçante com a canela e polvilhe os churros ainda mornos. Sirva com chocolate derretido, se desejar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": "3 unidades",
+  "nutrition": {
+    "calories": null,
+    "carbs": 15,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Use o adoçante culinário que preferir, conforme tolerância."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa mais leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "churros.jpg",
+    "alt": "Foto de Churros",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": true,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 60,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "card-p42",
+  "slug": "leite-condensado-diet-3",
+  "title": "Leite Condensado Diet",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "bases-e-preparos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 copo (200 ml) de leite em pó, desnatado",
+        "150 ml (3/4 copo de 200 ml) de água fervente",
+        "1 colher (sopa) rasa de adoçante p/ forno e fogão",
+        "1 colher (chá) de manteiga"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Ferva a água.",
+        "Acrescente todos os ingredientes no liquidificador e bata aproximadamente 5 minutos.",
+        "Retire o creme do liquidificador e coloque num recipiente com tampa.",
+        "Coloque o recipiente na geladeira e deixe por no mínimo 12 horas."
+      ]
+    }
+  ],
+  "prepTime": 45,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "20 g (medida caseira)",
+  "nutrition": {
+    "calories": 49,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "leite-condensado-diet-3.jpg",
+    "alt": "Foto de Leite Condensado Diet",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 42,
+    "originalTitle": "LEITE CONDENSADO DIET"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

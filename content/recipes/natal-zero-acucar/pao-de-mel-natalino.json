@@ -1,0 +1,70 @@
+{
+  "id": "e3-n45",
+  "slug": "pao-de-mel-natalino",
+  "title": "Pão de Mel Natalino",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas",
+    "paes-e-salgados"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras farinha amêndoas",
+        "1/2 xícara cacau",
+        "3 ovos",
+        "1/2 xícara xilitol",
+        "1/4 xícara mel de abelhas sem açúcar",
+        "1 colher canela",
+        "1 colher gengibre",
+        "1 colher fermento"
+      ]
+    },
+    {
+      "title": "Cobertura",
+      "items": [
+        "150g chocolate zero açúcar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture secos.",
+        "Bata ovos, xilitol e mel.",
+        "Combine e faça bolinhas achatadas.",
+        "Asse 180°C por 15min.",
+        "Cubra com chocolate derretido."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

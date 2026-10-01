@@ -1,0 +1,91 @@
+{
+  "id": "p2-p72",
+  "slug": "cacarola-de-ervilha-com-linguica",
+  "title": "Caçarola de Ervilha com Linguiça",
+  "description": "Saborosa, nutritiva e reconfortante, esta caçarola combina ervilhas macias com linguiça de frango ou peru, em uma mistura cremosa e leve. Perfeita para refeições equilibradas no dia a dia, com muito sabor e praticidade.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de ervilhas cozidas",
+        "250 g de linguiça de frango ou peru em rodelas",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "2 ovos",
+        "1/2 xícara (chá) de creme de ricota light",
+        "1/4 xícara (chá) de leite",
+        "2 colheres (sopa) de queijo parmesão ralado",
+        "1 colher (sopa) de azeite",
+        "Cheiro-verde picado a gosto",
+        "Sal moderado a gosto",
+        "Pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Aqueça o azeite em uma frigideira e refogue a linguiça em rodelas até dourar levemente. Retire e reserve.",
+        "Na mesma frigideira, refogue a cebola até ficar transparente. Acrescente o alho e refogue por mais 1 minuto.",
+        "Em um processador, bata metade das ervilhas com o creme de ricota e o leite até obter um creme rústico. Reserve.",
+        "Em uma tigela, misture as ervilhas inteiras restantes, o creme de ervilha, os ovos, o queijo parmesão, o refogado de cebola e alho, sal e pimenta-do-reino.",
+        "Acrescente a linguiça refogada e o cheiro-verde, misturando suavemente.",
+        "Despeje a mistura em uma travessa untada com azeite.",
+        "Polvilhe um pouco mais de queijo parmesão por cima.",
+        "Leve ao forno preaquecido a 180 °C por cerca de 25 minutos, ou até gratinar e ficar levemente dourado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "5 porções",
+  "servingSize": "1 porção média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 16,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "cacarola-de-ervilha-com-linguica.jpg",
+    "alt": "Foto de Caçarola de Ervilha com Linguiça",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 72,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

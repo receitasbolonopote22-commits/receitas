@@ -1,0 +1,66 @@
+{
+  "id": "e2-n3",
+  "slug": "bolo-de-chocolate-com-cacau",
+  "title": "Bolo de Chocolate com Cacau",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Ingredientes base",
+      "items": [
+        "1 xícara de farinha de aveia",
+        "1/2 xícara de cacau em pó 100%",
+        "3 ovos",
+        "1/2 xícara de tâmaras trituradas"
+      ]
+    },
+    {
+      "title": "Ingredientes líquidos",
+      "items": [
+        "1/2 xícara de leite de coco",
+        "1/4 xícara de óleo de coco",
+        "1 colher de chá de essência de baunilha",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata todos os ingredientes líquidos com as tâmaras até formar um creme.",
+        "Adicione os ingredientes secos e misture delicadamente.",
+        "Asse em forma untada a 180°C por 35-40 minutos.",
+        "Deixe esfriar antes de desenformar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

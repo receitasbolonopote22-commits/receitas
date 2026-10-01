@@ -1,0 +1,62 @@
+{
+  "id": "e2-n11",
+  "slug": "bolo-de-cafe-com-especiarias",
+  "title": "Bolo de Café com Especiarias",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de café forte frio",
+        "2 xícaras de farinha de arroz integral",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "1/3 xícara de tâmaras trituradas",
+        "1 colher de chá de canela",
+        "1/2 colher de chá de noz-moscada",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Triture as tâmaras com o café até formar um creme.",
+        "Bata com ovos e óleo de coco.",
+        "Adicione farinha, especiarias e fermento.",
+        "Misture bem.",
+        "Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

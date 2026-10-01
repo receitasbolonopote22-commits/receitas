@@ -1,0 +1,89 @@
+{
+  "id": "card-p32",
+  "slug": "churros-2",
+  "title": "Churros",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Massa",
+      "items": [
+        "1 xícara de chá (100g) de Farinha de trigo 100% integral",
+        "1 colher de sopa (15g) de Manteiga",
+        "1 Ovo (60g)",
+        "1 xícara de chá (200ml) de Água",
+        "1 colher de sopa (2,5g) de adoçante p/ forno e fogão",
+        "1 pitada de Sal",
+        "500ml de Óleo de coco",
+        "4 colheres de sopa rasas (30g) xilitol",
+        "1 colher de chá (3g) de Canela em pó",
+        "1 receita de Leite condensado dietético"
+      ]
+    },
+    {
+      "title": "Leite condensado dietético",
+      "items": [
+        "1 copo requeijão cheio (120g) de Leite em pó desnatado",
+        "½ copo de requeijão (150ml) de Água",
+        "1 colher de sopa rasa (20g) de Adoçante p/ forno e fogão",
+        "1 colher de sopa cheia (28g) de Manteiga sem sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater todos os ingredientes do leite condensado por 5 minutos e reservar.",
+        "Colocar a água, a Manteiga ou a manteiga, o adoçante e o sal em uma panela e deixar ferver.",
+        "Quando levantar fervura, jogar a farinha de trigo de uma vez e bater com batedor ou com uma colher de pau.",
+        "Deixar a massa esfriar.",
+        "Quando estiver fria, acrescentar o ovo até obter uma massa.",
+        "Colocar no saco de confeiteiro com bico \"pitanga\" grande e modelar os churros.",
+        "Fritar em óleo não muito quente e deixar dourar.",
+        "Passar na mistura de canela e xilitol.",
+        "Perfurar com um palito de churrasco e colocar o leite condensado dietético com uma bisnaga."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 200,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "churros-2.jpg",
+    "alt": "Foto de Churros",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 32,
+    "originalTitle": "CHURROS"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

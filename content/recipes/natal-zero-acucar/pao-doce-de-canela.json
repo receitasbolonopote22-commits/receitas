@@ -1,0 +1,70 @@
+{
+  "id": "e3-n44",
+  "slug": "pao-doce-de-canela",
+  "title": "Pão Doce de Canela",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "paes-e-salgados",
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras farinha amêndoas",
+        "1/2 xícara farinha coco",
+        "3 ovos",
+        "1/3 xícara xilitol",
+        "1/4 xícara ghee",
+        "2 colheres canela",
+        "1 colher fermento",
+        "Pitada sal"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "3 colheres xilitol",
+        "2 colheres canela"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture ingredientes da massa.",
+        "Abra retângulo, espalhe recheio.",
+        "Enrole como rocambole, corte rodelas.",
+        "Disponha em forma, asse 180°C por 25-30min."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 6,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

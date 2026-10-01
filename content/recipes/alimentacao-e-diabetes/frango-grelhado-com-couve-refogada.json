@@ -1,0 +1,82 @@
+{
+  "id": "p2-p9",
+  "slug": "frango-grelhado-com-couve-refogada",
+  "title": "Frango Grelhado com Couve Refogada",
+  "description": "Combinação clássica e nutritiva, com frango grelhado e couve refogada com alho.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 filés de peito de frango",
+        "1 maço de couve fatiada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "Suco de 1 limão",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere os filés de frango com suco de limão, sal e pimenta.",
+        "Grelhe os filés em uma frigideira antiaderente até ficarem dourados.",
+        "Em outra panela, aqueça o azeite e refogue o alho.",
+        "Adicione a couve e refogue rapidamente.",
+        "Sirva o frango acompanhado da couve."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "2 porções",
+  "servingSize": "1 filé com 1 porção de couve",
+  "nutrition": {
+    "calories": null,
+    "carbs": 6,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A receita é leve, mas complemente com acompanhamentos planejados."
+    }
+  ],
+  "image": {
+    "file": "frango-grelhado-com-couve-refogada.jpg",
+    "alt": "Foto de Frango Grelhado com Couve Refogada",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

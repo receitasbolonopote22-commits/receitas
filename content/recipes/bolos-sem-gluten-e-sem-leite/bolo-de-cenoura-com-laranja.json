@@ -1,0 +1,67 @@
+{
+  "id": "e2-n2",
+  "slug": "bolo-de-cenoura-com-laranja",
+  "title": "Bolo de Cenoura com Laranja",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de cenoura ralada",
+        "1 xícara de farinha de arroz",
+        "1/2 xícara de farinha de amêndoas",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "Suco de 1 laranja",
+        "Raspas de laranja",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata a cenoura, ovos, óleo e suco de laranja no liquidificador.",
+        "Em uma tigela, misture as farinhas e o fermento.",
+        "Una os ingredientes secos aos líquidos.",
+        "Adicione as raspas de laranja.",
+        "Asse a 180°C por 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Observação: Perfeito para o café da manhã!"
+    }
+  ],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,94 @@
+{
+  "id": "card-p60",
+  "slug": "hamburgao",
+  "title": "Hamburgão",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500 g de carne moída",
+        "1 cebola grande ralada",
+        "2 dentes de alho amassados",
+        "2 colheres (sopa) de cheiro verde picado",
+        "Sal e pimenta do reino a gosto"
+      ]
+    },
+    {
+      "title": "Molho de tomate",
+      "items": [
+        "500 g de tomate maduro",
+        "2 cebolas médias",
+        "5 dentes de alho",
+        "2 folhas de louro",
+        "Sal e pimenta do reino a gosto",
+        "1 colher (sopa) de manjericão picado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere a carne com a cebola, o alho, o cheiro verde, o sal e a pimenta.",
+        "Divida a carne em 5 partes e de cada uma forme um hambúrguer grande.",
+        "Coloque-os um ao lado do outro em um pirex untado com manteiga, cubra com papel alumínio e leve ao forno preaquecido a 180°C para assar por 10 minutos, ou até que estejam no ponto.",
+        "Retire o papel alumínio e deixe no forno por mais 5 a 10 minutos para dourar.",
+        "Cubra com o molho de tomate, polvilhe com o orégano e leve ao forno por mais 5 minutos."
+      ]
+    },
+    {
+      "title": "Molho de tomate",
+      "steps": [
+        "Corte o tomate em pequenos pedaços e coloque-o em uma panela.",
+        "Junte a cebola, o alho e o louro, misture bem e cozinhe em fogo brando por 20 minutos; se necessário vá adicionando água aos poucos durante o cozimento.",
+        "Quando o tomate estiver cozido, retire o louro, coloque a mistura no liquidificador e bata por alguns minutos.",
+        "Passe por uma peneira e leve novamente ao fogo.",
+        "Tempere com sal e pimenta e junte o manjericão.",
+        "Leve ao fogo baixo para cozinhar por mais 15 a 20 minutos, ou até reduzir e ficar encorpado."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "5 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 206.4,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "hamburgao.jpg",
+    "alt": "Foto de Hamburgão",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 60,
+    "originalTitle": "HAMBURGÃO"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": "p2-p51",
+  "slug": "pudim-gelado-de-manga",
+  "title": "Pudim Gelado de Manga",
+  "description": "Refrescante, cremoso e naturalmente delicioso! Este pudim gelado de manga é preparado com ingredientes leves e nutritivos.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 mangas maduras (cerca de 500 g de polpa)",
+        "1 xícara (chá) de iogurte natural desnatado ou leite de coco light",
+        "1 envelope de gelatina incolor sem sabor (12 g)",
+        "5 colheres (sopa) de água para hidratar a gelatina",
+        "4 colheres (sopa) de adoçante culinário (opcional, use apenas se necessário)",
+        "1 colher (chá) de essência de baunilha (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Hidrate a gelatina na água e deixe descansar por 5 minutos.",
+        "Dissolva em banho-maria ou no micro-ondas por 15 segundos. Reserve.",
+        "Descasque as mangas e bata a polpa no liquidificador até obter um creme liso.",
+        "Adicione o iogurte (ou leite de coco), o adoçante e a baunilha. Bata novamente até incorporar.",
+        "Acrescente a gelatina dissolvida e bata por mais alguns segundos para misturar bem.",
+        "Despeje em uma forma de silicone ou levemente untada com óleo de coco. Leve à geladeira por pelo menos 4 horas, ou até firmar.",
+        "Desenforme e sirva gelado."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": "1 fatia média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 13,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional, usar apenas se necessário."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma sobremesa mais leve, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "pudim-gelado-de-manga.jpg",
+    "alt": "Foto de Pudim Gelado de Manga",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 51,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

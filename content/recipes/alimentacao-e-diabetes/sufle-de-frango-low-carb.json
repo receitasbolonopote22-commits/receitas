@@ -1,0 +1,86 @@
+{
+  "id": "p1-p63",
+  "slug": "sufle-de-frango-low-carb",
+  "title": "Suflê de Frango Low Carb",
+  "description": "Leve e nutritivo, com frango e aveia em uma opção prática para o dia a dia.",
+  "collections": [
+    "alimentacao-e-diabetes",
+    "low-carb"
+  ],
+  "categories": [
+    "lanches"
+  ],
+  "tags": [
+    "low-carb"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 filé de frango cozido e desfiado (cerca de 100 g)",
+        "1 ovo",
+        "1/2 dente de alho amassado",
+        "2 colheres de sopa de farelo de aveia",
+        "1 colher de chá de suco de limão",
+        "1 fio de azeite de oliva extra virgem",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Tempere o frango com alho, limão, sal, pimenta e um fio de azeite.",
+        "Cozinhe, desfie e deixe amornar.",
+        "Bata o frango com o ovo até formar uma mistura uniforme.",
+        "Misture o farelo de aveia.",
+        "Distribua em um ramequim ou pequena forma untada.",
+        "Asse em forno preaquecido a 180 °C por cerca de 20 minutos, até firmar e dourar levemente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 ramequim pequeno",
+  "nutrition": {
+    "calories": null,
+    "carbs": 8,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Apesar de equilibrado, contém aveia; respeite a porção planejada."
+    }
+  ],
+  "image": {
+    "file": "sufle-de-frango-low-carb.jpg",
+    "alt": "Foto de Suflê de Frango Low Carb",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 63,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

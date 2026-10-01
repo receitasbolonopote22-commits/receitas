@@ -1,0 +1,14 @@
+{
+  "id": "low-carb",
+  "slug": "low-carb",
+  "name": "Low carb",
+  "shortDescription": "Receitas com menos carboidratos: tortas, pães rápidos, bolinhos e sopas.",
+  "description": "Pratos e lanches com poucos ingredientes ricos em carboidratos, como pão de micro-ondas, purê de couve-flor, pizza de berinjela e bolinho de frango.",
+  "coverRecipe": "pizza-de-berinjela-2",
+  "coverImage": null,
+  "heroImage": null,
+  "disclaimer": "Dietas com restrição de carboidratos não são indicadas para todas as pessoas. Converse com seu médico ou nutricionista antes de mudar sua alimentação.",
+  "featured": false,
+  "order": 5,
+  "accent": "#5E8C6A"
+}

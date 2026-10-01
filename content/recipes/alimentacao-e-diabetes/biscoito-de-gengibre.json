@@ -1,0 +1,67 @@
+{
+  "id": "card-p25",
+  "slug": "biscoito-de-gengibre",
+  "title": "Biscoito de Gengibre",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "40 gramas de adoçante stevia",
+        "125 gramas de farinha de trigo 100% integral",
+        "1 ovo",
+        "½ colher de chá de gengibre em pó",
+        "50 gramas de manteiga sem sal amolecida",
+        "½ colher de chá de canela em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma tigela, misture a manteiga amolecida com o adoçante, até obter uma mistura suave.",
+        "Adicione o ovo e misture bem.",
+        "Aos poucos, adicione a farinha com a canela e o gengibre.",
+        "Misture até obter uma massa homogênea e compacta, depois enrole em plástico filme e leve à geladeira por 30 minutos.",
+        "Estenda a massa espessura de 1 cm e recorte os biscoitos de gengibre usando o cortador.",
+        "Coloque os biscoitos em um tapete de silicone, ou tabuleiro de forno forrado com papel manteiga.",
+        "Leve a assar no forno preaquecido a 180°C por 12 minutos."
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "Vai depender do formato escolhido.",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "biscoito-de-gengibre.jpg",
+    "alt": "Foto de Biscoito de Gengibre",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 25,
+    "originalTitle": "BISCOITO DE GENGIBRE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "b2-p15",
+  "slug": "brigadeiro-de-colher",
+  "title": "Brigadeiro de Colher",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1½ xic. (chá) de leite desnatado em pó",
+        "1 xic. (chá) de água fervente",
+        "1 colh. (sopa) de manteiga ghee",
+        "2 colh. (sopa) de adoçante dietético em pó",
+        "3 colh. (sopa) de achocolatado diet",
+        "½ xic. (chá) de leite desnatado",
+        "25 g de chocolate ao leite diet ralado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata no liquidificador o leite desnatado em pó, a água fervente, a manteiga, adoçante, achocolatado.",
+        "Bata até ficar homogênea.",
+        "Despeje toda a mistura em uma panela e mexa até a mistura comece a ferver.",
+        "Quando ferver, adicione o chocolate diet ralado e mexa sem parar, até que a massa desgrude da panela."
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "5 xícaras",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 79,
+    "carbs": 10.67,
+    "protein": 1.36,
+    "fat": 3.64,
+    "fiber": null,
+    "basis": "por 20 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "brigadeiro-de-colher.jpg",
+    "alt": "Foto de Brigadeiro de Colher",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 15,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

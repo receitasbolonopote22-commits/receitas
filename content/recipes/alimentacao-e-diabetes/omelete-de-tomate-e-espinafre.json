@@ -1,0 +1,77 @@
+{
+  "id": "p2-p28",
+  "slug": "omelete-de-tomate-e-espinafre",
+  "title": "Omelete de Tomate e Espinafre",
+  "description": "Leve, nutritiva e cheia de sabor, essa omelete une a suavidade do ovo ao frescor do tomate e do espinafre.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 ovos",
+        "1/2 tomate picado",
+        "1 xícara de folhas de espinafre",
+        "1 colher de sopa de cebola picada",
+        "1 colher de chá de azeite",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata os ovos e misture com os demais ingredientes. Despeje em frigideira antiaderente aquecida e cozinhe em fogo baixo até dourar dos dois lados."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": "1 omelete média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 4,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Combine com salada ou legumes para uma refeição mais equilibrada."
+    }
+  ],
+  "image": {
+    "file": "omelete-de-tomate-e-espinafre.jpg",
+    "alt": "Foto de Omelete de Tomate e Espinafre",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 28,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "card-p52",
+  "slug": "creme-de-avela-caseiro",
+  "title": "Creme de Avelã Caseiro",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de avelãs torradas sem pele",
+        "¼ xícara de leite de amêndoas",
+        "¼ xícara de cacau em pó",
+        "2 colheres de sopa de essência de baunilha",
+        "1½ colheres de sopa de stévia ou outro adoçante natural",
+        "1 colher de café de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Colocar todas as avelãs num processador de alimentos e obter até que virem um purê.",
+        "A transformação das avelãs em purê levará mais ou menos tempo consoante a potência do seu processador, por isso seja paciente: primeiro as avelãs ficarão moídas, depois viram uma farofa e finalmente um creme.",
+        "Acrescentar os restantes ingredientes e voltar a bater, até que todos fiquem perfeitamente incorporados.",
+        "Dependendo da consistência, poderá ser necessário acrescentar mais leite de amêndoas.",
+        "Está pronto para consumir, armazene o resto em um pote que tenha tampa."
+      ]
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Recomendamos o consumo moderado."
+    }
+  ],
+  "image": {
+    "file": "creme-de-avela-caseiro.jpg",
+    "alt": "Foto de Creme de Avelã Caseiro",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 52,
+    "originalTitle": "NUTELLA CASEIRA / CREME DE AVELÃ"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Título original cita marca registrada (\"Nutella\"); exibido como \"Creme de Avelã Caseiro\"."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

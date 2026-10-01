@@ -1,0 +1,90 @@
+{
+  "id": "p2-p84",
+  "slug": "salada-grega",
+  "title": "Salada Grega",
+  "description": "Leve, refrescante e cheia de sabor, a salada grega é um clássico da culinária mediterrânea. Perfeita como acompanhamento ou prato principal leve e equilibrado.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "saladas",
+    "almoco"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 pepino médio em rodelas ou meias-luas",
+        "2 tomates médios em cubos",
+        "1/2 cebola roxa fatiada em tiras finas",
+        "1/2 xícara (chá) de azeitonas pretas (tipo kalamata) sem caroço",
+        "150 g de queijo minas frescal ou feta em cubos",
+        "2 colheres (sopa) de azeite de oliva extravirgem",
+        "1 colher (sopa) de suco de limão",
+        "1 colher (chá) de orégano seco",
+        "Folhas de manjericão ou hortelã a gosto (opcional)",
+        "Sal com moderação",
+        "Pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Lave bem todos os legumes e seque-os.",
+        "Em uma tigela grande, adicione o pepino, os tomates e a cebola roxa.",
+        "Acrescente as azeitonas e os cubos de queijo.",
+        "Em um recipiente pequeno, misture o azeite, o suco de limão, o orégano, o sal e a pimenta-do-reino. Mexa bem para emulsionar.",
+        "Regue a salada com o molho preparado e misture delicadamente para envolver todos os ingredientes.",
+        "Finalize com folhas de manjericão ou hortelã, se desejar. Sirva imediatamente para manter a crocância e o frescor."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 prato de sobremesa",
+  "nutrition": {
+    "calories": null,
+    "carbs": 9,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não se aplica; esta receita não contém adoçantes."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo sendo uma receita saudável, consumir com moderação."
+    }
+  ],
+  "image": {
+    "file": "salada-grega.jpg",
+    "alt": "Foto de Salada Grega",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 84,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": [
+      "A descrição original diz: \"Rica em antioxidantes, fibras e gorduras boas, ela combina ingredientes frescos e nutritivos que favorecem o coração, o controle da glicemia e o bem-estar geral\"."
+    ]
+  },
+  "relatedRecipes": []
+}

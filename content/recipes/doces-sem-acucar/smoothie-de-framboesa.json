@@ -1,0 +1,69 @@
+{
+  "id": "b2-p51",
+  "slug": "smoothie-de-framboesa",
+  "title": "Smoothie de Framboesa",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xic. de framboesa",
+        "1 copo e leite de coco",
+        "Adoçante a gosto",
+        "Gelo a gosto",
+        "1 colh. (sopa) de óleo de coco,"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata tudo no liquidificador e sirva gelado em seguida."
+      ]
+    }
+  ],
+  "prepTime": 5,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 porção",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 388,
+    "carbs": 20,
+    "protein": 5,
+    "fat": 37,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "smoothie-de-framboesa.jpg",
+    "alt": "Foto de Smoothie de Framboesa",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 51,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

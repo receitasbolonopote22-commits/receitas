@@ -1,0 +1,57 @@
+{
+  "id": "e3-n30",
+  "slug": "gelatina-colorida-em-camadas",
+  "title": "Gelatina Colorida em Camadas",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 envelopes gelatina sem sabor",
+        "3 xícaras de sucos naturais diferentes (morango, laranja, uva)",
+        "6 colheres de xilitol",
+        "1 lata creme de leite de coco"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Prepare cada gelatina com suco e xilitol.",
+        "Alterne camadas coloridas com camadas de gelatina branca (misture 1 envelope com creme).",
+        "Refrigere cada camada antes de adicionar a próxima."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 4,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

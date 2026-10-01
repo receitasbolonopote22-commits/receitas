@@ -1,0 +1,79 @@
+{
+  "id": "p1-p65",
+  "slug": "cha-de-canela",
+  "title": "Chá de Canela",
+  "description": "Aromático e reconfortante, ideal para consumo ocasional em uma rotina equilibrada.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [
+    "cha"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 paus de canela",
+        "1 litro de água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque a água e os paus de canela em uma panela.",
+        "Deixe ferver por alguns minutos.",
+        "Desligue o fogo e tampe.",
+        "Aguarde amornar.",
+        "Coe, se desejar, e sirva."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "1 litro",
+  "servingSize": "1 xícara (200 ml)",
+  "nutrition": {
+    "calories": null,
+    "carbs": 0,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Não é necessário adoçar, mas pode ser usado adoçante culinário se desejar."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Bebidas com canela devem ser consumidas com moderação, especialmente por gestantes ou pessoas sensíveis."
+    }
+  ],
+  "image": {
+    "file": "cha-de-canela.jpg",
+    "alt": "Foto de Chá de Canela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 1 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 65,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

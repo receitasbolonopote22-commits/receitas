@@ -1,0 +1,72 @@
+{
+  "id": "b2-p13",
+  "slug": "bolinho-de-microondas-de-amendoim",
+  "title": "Bolinho de Microondas de Amendoim",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 ovos",
+        "5 colh. (sopa) coco ralado",
+        "6 colh. (sopa) creme de leite light",
+        "1 colh. (sopa) adoçante",
+        "6 colh. (sopa) amendoim torrado e moído",
+        "1 colh. (sopa) fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture os ingredientes, deixando o fermento por último.",
+        "Coloque em 7 forminhas e leve ao microondas por 30 segundos, uma de cada vez."
+      ]
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "7 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 144,
+    "carbs": 4.65,
+    "protein": 4.94,
+    "fat": 12.42,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "bolinho-de-microondas-de-amendoim.jpg",
+    "alt": "Foto de Bolinho de Microondas de Amendoim",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 13,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

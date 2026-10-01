@@ -1,0 +1,60 @@
+{
+  "id": "e3-n60",
+  "slug": "torta-de-frutas-vermelhas",
+  "title": "Torta de Frutas Vermelhas",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "Base receita 51",
+        "2 xícaras frutas vermelhas mistas",
+        "1/4 xícara xilitol",
+        "1 colher amido",
+        "Creme confeiteiro zero açúcar"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Asse base.",
+        "Espalhe creme.",
+        "Cozinhe frutas com xilitol e amido até engrossar.",
+        "Esfrie e distribua sobre creme.",
+        "Refrigere."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 7,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

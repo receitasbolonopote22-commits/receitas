@@ -1,0 +1,60 @@
+{
+  "id": "e3-n74",
+  "slug": "manjar-branco-fit",
+  "title": "Manjar Branco Fit",
+  "description": null,
+  "collections": [
+    "natal-zero-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [
+    "natal"
+  ],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 latas leite de coco",
+        "1/2 xícara xilitol",
+        "5 colheres amido de milho",
+        "Essência baunilha. Calda: 1 xícara ameixas cozidas",
+        "Xilitol a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture leite, xilitol, amido e baunilha.",
+        "Cozinhe mexendo até engrossar.",
+        "Despeje em forma molhada.",
+        "Refrigere 4h.",
+        "Bata calda e sirva por cima."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": null,
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 3.pdf",
+    "page": 9,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

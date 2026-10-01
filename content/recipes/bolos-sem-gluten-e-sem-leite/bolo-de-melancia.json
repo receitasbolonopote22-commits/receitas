@@ -1,0 +1,64 @@
+{
+  "id": "e2-n41",
+  "slug": "bolo-de-melancia",
+  "title": "Bolo de Melancia",
+  "description": null,
+  "collections": [
+    "bolos-sem-gluten-e-sem-leite"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de suco de melancia fresco",
+        "2 xícaras de farinha de arroz",
+        "3 ovos",
+        "1/2 xícara de óleo de coco",
+        "1/4 xícara de mel",
+        "Raspas de limão",
+        "1 colher de sopa de fermento"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata o suco com ovos, óleo e mel.",
+        "Adicione raspas, farinha e fermento.",
+        "Asse a 180°C por 35 minutos.",
+        "Fica com cor rosada linda!"
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "bolo-de-melancia.jpg",
+    "alt": "Foto de Bolo de Melancia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 2.pdf",
+    "page": 1,
+    "originalTitle": "Bolo de Melancia (sim, é possível!)"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

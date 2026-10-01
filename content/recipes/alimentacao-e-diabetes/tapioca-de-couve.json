@@ -1,0 +1,67 @@
+{
+  "id": "card-p11",
+  "slug": "tapioca-de-couve",
+  "title": "Tapioca de Couve",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "cafe-da-manha",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 e ½ xícara de polvilho",
+        "2 folhas grandes de couve",
+        "½ xícara de água"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em um liquidificador bata as folhas de couve com a água até triturar bem.",
+        "Coe o suco passando por uma peneira.",
+        "Dentro de um recipiente coloque o polvilho e aos poucos vá adicionando o suco de couve.",
+        "Adicione o suco e misture bem com as mãos até formar uma farofinha úmida.",
+        "Depois é só passar por uma peneira direto para uma frigideira preaquecida.",
+        "Salpique sal e deixe firmar."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "Até 3 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Dica: Pode ser que não seja necessário todo o suco, ou que precise de mais."
+    }
+  ],
+  "image": {
+    "file": "tapioca-de-couve.jpg",
+    "alt": "Foto de Tapioca de Couve",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 11,
+    "originalTitle": "TAPIOCA DE COUVE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

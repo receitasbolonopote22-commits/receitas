@@ -1,0 +1,79 @@
+{
+  "id": "card-p65",
+  "slug": "peito-de-frango-com-maca",
+  "title": "Peito de Frango com Maçã",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "4 peitos de frango sem pele ao meio",
+        "3 mandioquinhas em rodelas de 1 cm",
+        "1 cebola média em rodelas",
+        "½ xícara (chá) de caldo de galinha",
+        "1 colher (chá) de mostarda em pó",
+        "½ colher (chá) de sal",
+        "¼ de colher (chá) de noz moscada",
+        "1/8 de colher (chá) de pimenta do reino",
+        "1 maçã em fatias",
+        "2 colheres (sopa) de salsinha picada"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma frigideira larga untada com óleo, frite os peitos de frango de ambos os lados até dourarem.",
+        "Mantenha-os em fogo médio. Disponha sobre eles a mandioquinha e a cebola.",
+        "À parte, misture o caldo de galinha, a mostarda, o sal, a noz-moscada e a pimenta e despeje a mistura na frigideira.",
+        "Deixe ferver, reduza o fogo, tampe-a e cozinhe até que os peitos de frango estejam macios.",
+        "Destampe a frigideira e disponha a maçã por cima.",
+        "Tampe novamente e cozinhe por mais 3 minutos.",
+        "Retire do fogo, polvilhe com a salsinha e sirva."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 399.8,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "peito-de-frango-com-maca.jpg",
+    "alt": "Foto de Peito de Frango com Maçã",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 65,
+    "originalTitle": "PEITO DE FRANGO COM MAÇÃ"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

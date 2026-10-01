@@ -1,0 +1,75 @@
+{
+  "id": "b2-p17",
+  "slug": "brigadeiro-fake-de-banana",
+  "title": "Brigadeiro Fake de Banana",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 colh. (chá) de cacau em pó",
+        "1 colh. (sopa) de leite em pó",
+        "1 banana nanica madura"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Esquente a banana no micro-ondas por 1 minuto para amolecer bem.",
+        "Se quiser adicione 1 colher de sopa de água para deixar bem molinho.",
+        "Misture os outros dois ingredientes, mexa bem.",
+        "Agora é só comer na colher."
+      ]
+    }
+  ],
+  "prepTime": 5,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 unidades",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 71,
+    "carbs": 0.91,
+    "protein": 0.47,
+    "fat": 7.58,
+    "fiber": null,
+    "basis": "por 20 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [
+    {
+      "label": null,
+      "text": "Dica: acrescente semente de linhaça ou de chia."
+    }
+  ],
+  "image": {
+    "file": "brigadeiro-fake-de-banana.jpg",
+    "alt": "Foto de Brigadeiro Fake de Banana",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 17,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

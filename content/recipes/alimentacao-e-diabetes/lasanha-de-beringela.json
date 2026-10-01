@@ -1,0 +1,77 @@
+{
+  "id": "card-p99",
+  "slug": "lasanha-de-beringela",
+  "title": "Lasanha de Beringela",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 kg de beringela",
+        "250g de carne magra moída",
+        "1 cebola média cortada em cubinhos",
+        "520g polpa de tomate",
+        "1 copo água",
+        "Sal",
+        "200g queijo fresco cortado em cubinhos",
+        "1 colher (sopa) queijo parmesão ralado"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Descascar a beringela, cortar em fatias regulares e cozinhar em água com sal por aproximadamente 4 minutos.",
+        "Refogar a carne moída com cebola, acrescentar a polpa de tomate e a água.",
+        "Deixar no fogo até apurar.",
+        "Colocar sal a gosto e montar a lasanha em forma média.",
+        "Colocar um pouco de molho e arrumar camadas de beringela intercaladas com queijo fresco, regando sempre com molho.",
+        "Polvilhar queijo ralado e levar ao forno quente por aproximadamente 5 minutos.",
+        "Servir imediatamente."
+      ]
+    }
+  ],
+  "prepTime": 90,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 111,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "lasanha-de-beringela.jpg",
+    "alt": "Foto de Lasanha de Beringela",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 99,
+    "originalTitle": "LASANHA DE BERINGELA"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

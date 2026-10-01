@@ -1,0 +1,92 @@
+{
+  "id": "card-p72",
+  "slug": "panqueca-de-queijo-minas",
+  "title": "Panqueca de Queijo Minas",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar",
+    "cafe-da-manha"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 colher (sobremesa) de Azeite de oliva",
+        "2 uma xícara (chá) de leite desnatado",
+        "1 uma xícara (chá) de farinha de trigo 100% integral",
+        "3 ovos",
+        "Sal a gosto"
+      ]
+    },
+    {
+      "title": "Recheio",
+      "items": [
+        "400 gramas de queijo minas light",
+        "½ lata de Molho de tomate"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bater os ovos, com o leite, a farinha de trigo e o sal no liquidificador.",
+        "Esquentar o azeite de oliva em uma frigideira rasa.",
+        "Adicionar uma porção da massa (aproximadamente 5 colheres de sopa) para fritar.",
+        "Com uma escumadeira, virar a massa, para dourar dos dois lados.",
+        "Reservar as panquecas."
+      ]
+    },
+    {
+      "title": "Recheio",
+      "steps": [
+        "Cortar o queijo em fatias grossas.",
+        "Rechear cada panqueca com 1 colher (sopa) de molho de tomate e uma fatia de queijo e enrole-as.",
+        "Colocar em um refratário e cobrir com o molho de tomate.",
+        "Levar ao forno preaquecido por cerca de 20 minutos, para derreter o queijo.",
+        "Servir em seguida."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": "120 g (medida caseira)",
+  "nutrition": {
+    "calories": 104.18,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "panqueca-de-queijo-minas.jpg",
+    "alt": "Foto de Panqueca de Queijo Minas",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 72,
+    "originalTitle": "PANQUECA DE QUEIJO MINAS"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Quantidades \"2 uma xícara\" e \"1 uma xícara\" estão assim no material original; conferir."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

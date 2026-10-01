@@ -1,0 +1,77 @@
+{
+  "id": "b2-p31",
+  "slug": "muffin-de-farelo-de-aveia",
+  "title": "Muffin de Farelo de Aveia",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "6 colh. (sopa) de farelo de aveia",
+        "2 colh. (sopa) requeijão cremoso light",
+        "1/2 colh. (sopa) adoçante liquido sucralose",
+        "1/2 colh. (sopa) fermento em pó químico",
+        "1 colh. (chá) canela em pó",
+        "2 ovos"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Pré-aquecer o forno a 180 graus.",
+        "Separe as gemas das claras.",
+        "Bata as claras em neve.",
+        "Misture todos os ingredientes: as gemas. o farelo de aveia, o requeijão, a canela, o fermento e o adoçante.",
+        "Em seguida. adicione as claras batidas em neve.",
+        "Despeje o preparo em forminhas de silicone para muffins e leve ao forno por 20 minutos a 30.",
+        "Sempre verificando o cozimento."
+      ]
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "6 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 270,
+    "carbs": 48.3,
+    "protein": 7,
+    "fat": 7.4,
+    "fiber": null,
+    "basis": "por 100 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "muffin-de-farelo-de-aveia.jpg",
+    "alt": "Foto de Muffin de Farelo de Aveia",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 31,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

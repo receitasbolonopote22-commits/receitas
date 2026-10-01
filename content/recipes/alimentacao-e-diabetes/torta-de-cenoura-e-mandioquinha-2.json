@@ -1,0 +1,81 @@
+{
+  "id": "card-p104",
+  "slug": "torta-de-cenoura-e-mandioquinha-2",
+  "title": "Torta de Cenoura e Mandioquinha",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500g de mandioquinha",
+        "2 col. (sopa) manteiga",
+        "2 ovos",
+        "150g mussarela light ralada no ralo grosso",
+        "150g ricota amassada",
+        "3 col. (sopa) cheiro verde picado",
+        "2 col. (sopa) queijo parmesão light ralado",
+        "1 cenoura grande ralada no ralo grosso",
+        "1 cebola pequena ralada",
+        "Sal",
+        "Col. (sopa) farinha amêndoas"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Raspe as mandioquinhas para tirar a casca.",
+        "Cozinhe-as em água e passe-as pelo espremedor ainda quentes.",
+        "Acrescente os ingredientes restantes, com exceção da farinha.",
+        "Unte uma forma de bolo inglês de 22×10cm.",
+        "Polvilhe 1 col. (sopa) de farinha de amêndoas.",
+        "Despeje a mistura e leve ao forno pré aquecido por 30 minutos, ou até dourar."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "8 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 207,
+    "carbs": null,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": false,
+    "raw": []
+  },
+  "notes": [],
+  "image": {
+    "file": "torta-de-cenoura-e-mandioquinha-2.jpg",
+    "alt": "Foto de Torta de Cenoura e Mandioquinha",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 104,
+    "originalTitle": "TORTA DE CENOURA E MANDIOQUINHA"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Ingrediente \"col. (sopa) farinha amêndoas\" sem quantidade no material original (o preparo cita 1 col.)."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

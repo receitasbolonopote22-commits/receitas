@@ -1,0 +1,66 @@
+{
+  "id": "card-p61",
+  "slug": "nhoque-integral-de-batata-doce",
+  "title": "Nhoque Integral de Batata Doce",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "2 xícaras de batata doce amassada",
+        "1 ovo",
+        "2 colheres de sopa de farinha de trigo 100% integral",
+        "Azeite extra virgem (um fio, para não grudar)",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Cozinhe a batata doce embrulhada em papel alumínio, até ficar bem macia para conseguir retirar a polpa facilmente.",
+        "Misture a batata doce, o ovo, a farinha, sal e a pimenta do reino até formar uma massa homogênea.",
+        "Se for preciso, acrescente mais farinha (aos poucos!), até que seja possível moldar.",
+        "Com a massa você faz uma \"cobrinha\" numa superfície untada e corta os nhoques.",
+        "Em uma panela com água fervente, leve os nhoques para cozinhar até que eles subam à superfície.",
+        "Daí é só retirar com a escumadeira e jogar em uma tigela com água bem gelada (ou com cubos de gelo). Reserve 1/2 xícara da água do cozimento.",
+        "Uma vez que todos estejam cozidos, aqueça uma frigideira antiaderente, acrescente um fiozinho de óleo e grelhe os nhoques até ficarem dourados.",
+        "Acompanhe com um molho de sua preferência!"
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "nhoque-integral-de-batata-doce.jpg",
+    "alt": "Foto de Nhoque Integral de Batata Doce",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 61,
+    "originalTitle": "NHOQUE INTEGRAL DE BATATA DOCE"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

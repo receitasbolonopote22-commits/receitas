@@ -1,0 +1,88 @@
+{
+  "id": "card-p21",
+  "slug": "mix-de-chips-de-legumes",
+  "title": "Mix de Chips de Legumes",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "lanches",
+    "acompanhamentos"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": "Opções de legumes",
+      "items": [
+        "Batata doce",
+        "Rabanete",
+        "Cenoura",
+        "Abobrinha",
+        "Inhame",
+        "Berinjela",
+        "Beterraba",
+        "Abóbora"
+      ]
+    },
+    {
+      "title": "Opções de temperos",
+      "items": [
+        "Curry",
+        "Açafrão",
+        "Páprica",
+        "Alho em pó",
+        "Orégano",
+        "E outros de sua preferência"
+      ]
+    },
+    {
+      "title": "Todos devem utilizar",
+      "items": [
+        "Azeite de Oliva a gosto",
+        "Sal e pimenta do reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Deixe o forno pré aquecido a 180°C.",
+        "Descasque os legumes e corte-os em fatias finas e uniformes com cerca de 1mm por fatia.",
+        "Coloque os legumes em um recipiente e tempere com o azeite de oliva (o suficiente para passar uma fina camada nos legumes), sal e a pimenta-do-reino a gosto.",
+        "Leve ao forno e asse-os por 20 minutos. Depois deste tempo, vire as fatias e deixe terminar de assar por mais 20 minutos ou até que fiquem crocantes."
+      ]
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "As porções servirão como petiscos ou complementos",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Você pode fazer mais de um legume por vez, monte seu mix com seus preferidos."
+    }
+  ],
+  "image": {
+    "file": "mix-de-chips-de-legumes.jpg",
+    "alt": "Foto de Mix de Chips de Legumes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 21,
+    "originalTitle": "MIX DE CHIPS DE LEGUMES"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

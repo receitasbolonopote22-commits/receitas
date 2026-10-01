@@ -1,0 +1,67 @@
+{
+  "id": "e1-p5",
+  "slug": "cobertura-de-cream-cheese-classica",
+  "title": "Cobertura de Cream Cheese Clássica",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "caldas-e-coberturas",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "200g de cream cheese em temperatura ambiente",
+        "100g de manteiga sem sal amolecida",
+        "½ xícara de eritritol em pó (ou confeiteiro)",
+        "1 colher de chá de essência de baunilha",
+        "Raspas de 1 limão siciliano (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Bata a manteiga até ficar cremosa e esbranquiçada (cerca de 3 minutos).",
+        "Adicione o cream cheese e bata até incorporar completamente.",
+        "Acrescente o eritritol aos poucos, batendo sempre.",
+        "Finalize com baunilha e raspas de limão, batendo por 1 minuto."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "aproximadamente 400g, suficiente para cobrir um bolo de 20cm ou 12 cupcakes generosamente",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Esta cobertura é perfeita para cupcakes de cenoura, red velvet, bolos de limão e naked cakes."
+    }
+  ],
+  "image": {
+    "file": "cobertura-de-cream-cheese-classica.jpg",
+    "alt": "Foto de Cobertura de Cream Cheese Clássica",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Entregável 1.pdf",
+    "page": 5,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

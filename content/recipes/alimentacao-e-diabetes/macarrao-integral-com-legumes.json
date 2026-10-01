@@ -1,0 +1,68 @@
+{
+  "id": "card-p66",
+  "slug": "macarrao-integral-com-legumes",
+  "title": "Macarrão Integral com Legumes",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "almoco",
+    "jantar"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "500g de macarrão espiral integral",
+        "1 abobrinha média picada",
+        "2 tomates picados",
+        "1 colher (sopa) de manjericão",
+        "1 cenoura média picada",
+        "1 cebola média picada",
+        "1 colher (sopa) de cebolinha picada",
+        "Orégano a gosto",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela com água adicione sal e um pouco de azeite, cozinhe macarrão conforme recomendação da embalagem.",
+        "Escorra e reserve.",
+        "Em outra panela, coloque um pouco de água e junte a cebola, a abobrinha, a cenoura, os tomates, as ervas e deixe cozinhar.",
+        "Adicione a cebolinha e tempere com o sal e a pimenta-do-reino a gosto.",
+        "Acomode a massa em uma travessa e acrescente o molho por cima.",
+        "Polvilhe com o orégano a gosto e sirva em seguida."
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "macarrao-integral-com-legumes.jpg",
+    "alt": "Foto de Macarrão Integral com Legumes",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 66,
+    "originalTitle": "MACARRÃO INTEGRAL COM LEGUMES"
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

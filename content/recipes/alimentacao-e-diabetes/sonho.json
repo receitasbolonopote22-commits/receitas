@@ -1,0 +1,93 @@
+{
+  "id": "p2-p49",
+  "slug": "sonho",
+  "title": "Sonho",
+  "description": "Leve, assado e irresistível! Este sonho é preparado com ingredientes mais saudáveis e recheado com um creme leve de baunilha.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de farinha de aveia",
+        "1 xícara de farinha integral",
+        "1 colher de sopa de fermento biológico seco",
+        "2 ovos",
+        "1/2 xícara de leite desnatado ou vegetal",
+        "2 colheres de sopa de azeite de oliva",
+        "2 colheres de sopa de adoçante culinário",
+        "1 pitada de sal"
+      ]
+    },
+    {
+      "title": "Recheio (creme de baunilha leve)",
+      "items": [
+        "1 xícara de ricota fresca amassada",
+        "1/2 xícara de iogurte natural desnatado",
+        "1 colher de chá de essência de baunilha",
+        "2 colheres de sopa de adoçante culinário",
+        "1 colher de chá de raspas de limão (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma tigela, misture as farinhas, o fermento e o sal.",
+        "Adicione os ovos, o leite, o azeite e o adoçante. Misture bem até formar uma massa macia e levemente pegajosa.",
+        "Sove levemente, cubra e deixe descansar por 40 minutos ou até dobrar de volume.",
+        "Modele bolinhas, disponha em assadeira forrada com papel-manteiga e leve ao forno preaquecido a 180 °C por cerca de 20 a 25 minutos, ou até dourar.",
+        "Para o recheio, misture todos os ingredientes até obter um creme homogêneo. Após os sonhos esfriarem, corte ao meio e recheie."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "10 unidades",
+  "servingSize": "1 unidade",
+  "nutrition": {
+    "calories": null,
+    "carbs": 12,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por unidade",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Opcional."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "Mesmo saudáveis, doces devem ser consumidos com moderação."
+    }
+  ],
+  "image": {
+    "file": "sonho.jpg",
+    "alt": "Foto de Sonho",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 49,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

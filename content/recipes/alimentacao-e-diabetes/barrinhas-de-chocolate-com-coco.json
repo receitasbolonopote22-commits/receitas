@@ -1,0 +1,72 @@
+{
+  "id": "card-p55",
+  "slug": "barrinhas-de-chocolate-com-coco",
+  "title": "Barrinhas de Chocolate com Coco",
+  "description": null,
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "doces-e-sobremesas",
+    "lanches"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 Xícara (chá) de coco ralado sem açúcar",
+        "½ Xícara (chá) de adoçante forno e fogão",
+        "80ml de Leite de Coco Light",
+        "300g de chocolate 80% Cacau",
+        "80ml de Óleo de coco"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Coloque todos os ingredientes em um recipiente e misture.",
+        "Unte uma forma e coloque a massa delicadamente sobre ela, espalhando com uma colher.",
+        "Corte as barrinhas antes de levar ao forno.",
+        "Coloque para assar em forno pré aquecido (180° - 200°) por cerca de 15 a 20 minutos.",
+        "Retire as barrinhas da forma somente quando estiverem frias.",
+        "Como elas são bem naturais, por precaução, aconselho a armazenar na geladeira em um recipiente fechado.",
+        "Mas podem tranquilamente ser mantidas na temperatura ambiente por um dia."
+      ]
+    }
+  ],
+  "prepTime": 50,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "06 porções",
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [
+    {
+      "label": null,
+      "text": "Consumo moderado."
+    }
+  ],
+  "image": {
+    "file": "barrinhas-de-chocolate-com-coco.jpg",
+    "alt": "Foto de Barrinhas de Chocolate com Coco",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Cardápio para diabéticos.pdf",
+    "page": 55,
+    "originalTitle": "BARRINHAS DE CHOCOLATE COM coco"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "O modo de preparo é idêntico ao da \"Barrinha de Cereal: Aveia e Banana\" (pág. 54) e não menciona o chocolate nem o derretimento; possível erro de cópia no material original."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

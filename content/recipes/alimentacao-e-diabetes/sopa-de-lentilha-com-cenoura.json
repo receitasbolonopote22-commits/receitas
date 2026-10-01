@@ -1,0 +1,81 @@
+{
+  "id": "p2-p3",
+  "slug": "sopa-de-lentilha-com-cenoura",
+  "title": "Sopa de Lentilha com Cenoura",
+  "description": "Reconfortante e nutritiva, une lentilha e cenoura em uma sopa caseira ideal para dias mais leves.",
+  "collections": [
+    "alimentacao-e-diabetes"
+  ],
+  "categories": [
+    "sopas-e-cremes"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1 xícara de chá de lentilha",
+        "1 cenoura média picada",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "1 litro de água",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Em uma panela, refogue a cebola e o alho no azeite.",
+        "Adicione a cenoura e a lentilha e mexa bem.",
+        "Acrescente a água, tempere com sal e pimenta e cozinhe até a lentilha ficar macia.",
+        "Sirva quente."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "4 porções",
+  "servingSize": "1 tigela média",
+  "nutrition": {
+    "calories": null,
+    "carbs": 20,
+    "protein": null,
+    "fat": null,
+    "fiber": null,
+    "basis": "por porção",
+    "approximate": true,
+    "raw": []
+  },
+  "notes": [
+    {
+      "label": "Observação sobre adoçante",
+      "text": "Esta receita não utiliza adoçante."
+    },
+    {
+      "label": "Consumo moderado",
+      "text": "A lentilha contém carboidratos naturais; ajuste a quantidade conforme sua refeição."
+    }
+  ],
+  "image": {
+    "file": "sopa-de-lentilha-com-cenoura.jpg",
+    "alt": "Foto de Sopa de Lentilha com Cenoura",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "PARTE 2 - 168 RECEITAS PARA DIABÉTICOS.pdf",
+    "page": 3,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

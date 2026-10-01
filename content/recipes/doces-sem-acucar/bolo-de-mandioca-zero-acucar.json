@@ -1,0 +1,77 @@
+{
+  "id": "b2-p11",
+  "slug": "bolo-de-mandioca-zero-acucar",
+  "title": "Bolo de Mandioca Zero Açúcar",
+  "description": null,
+  "collections": [
+    "doces-sem-acucar"
+  ],
+  "categories": [
+    "bolos",
+    "doces-e-sobremesas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "1kg de mandioca ralada",
+        "1 embalagem de pó para preparo de sobremesa de Leite condensado lowçucar zero açúcar",
+        "2 xíc. (chá) adoçante forno e fogão",
+        "2 colh. (sopa) manteiga ghee",
+        "3 ovos",
+        "¾ xic. (chá) de coco ralado em flocos sem açúcar",
+        "1 embalagem de leite de coco light",
+        "1 pitada de sal",
+        "1 colh. (sopa) de fermento químico em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Misture todos os ingredientes, exceto o fermento, mexa bem até obter uma massa homogênea.",
+        "Acrescente o fermento e misture delicadamente.",
+        "Coloque em uma assadeira redonda, untada e enfarinhada.",
+        "Leve para assar em forno preaquecido à 180°C por aproximadamente 40 minutos."
+      ]
+    }
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": "25 porções",
+  "servingSize": null,
+  "nutrition": {
+    "calories": 161,
+    "carbs": 22,
+    "protein": null,
+    "fat": 4.6,
+    "fiber": null,
+    "basis": "por 60 g",
+    "approximate": true,
+    "raw": [
+      "Médias de cálculo informadas pelo material original."
+    ]
+  },
+  "notes": [],
+  "image": {
+    "file": "bolo-de-mandioca-zero-acucar.jpg",
+    "alt": "Foto de Bolo de Mandioca Zero Açúcar",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Bônus 2 - Doces sem Açúcar.pdf",
+    "page": 11,
+    "originalTitle": null
+  },
+  "review": {
+    "status": "ok",
+    "flags": [],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}

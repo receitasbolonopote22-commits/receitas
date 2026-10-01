@@ -1,0 +1,62 @@
+{
+  "id": "sucos-p4",
+  "slug": "suco-detox-com-desincha",
+  "title": "Suco Detox com Desinchá",
+  "description": null,
+  "collections": [
+    "sucos-naturais"
+  ],
+  "categories": [
+    "sucos-e-bebidas"
+  ],
+  "tags": [],
+  "ingredients": [
+    {
+      "title": null,
+      "items": [
+        "3 sachês de Desinchá (sabor da sua preferência)",
+        "1 pires de espinafre",
+        "Hortelã a gosto",
+        "3 fatias de abacaxi",
+        "150 ml de água de coco",
+        "Cubos de gelo"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "title": null,
+      "steps": [
+        "Preparar o Desinchá como instruído na caixinha e deixar esfriar.",
+        "Depois é só bater todos os ingredientes no liquidificador. Beba a seguir, de preferência sem açúcar."
+      ]
+    }
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "servings": null,
+  "servingSize": null,
+  "nutrition": null,
+  "notes": [],
+  "image": {
+    "file": "suco-detox-com-desincha.jpg",
+    "alt": "Foto de Suco Detox com Desinchá",
+    "origin": "pdf"
+  },
+  "video": null,
+  "featured": false,
+  "source": {
+    "document": "Sucos.pdf",
+    "page": 4,
+    "originalTitle": "SUCO DETOX DA DESINCHÁ"
+  },
+  "review": {
+    "status": "needs-review",
+    "flags": [
+      "Receita depende de produto de marca específica (Desinchá)."
+    ],
+    "healthClaims": []
+  },
+  "relatedRecipes": []
+}
