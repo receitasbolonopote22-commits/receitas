@@ -22,14 +22,16 @@ O conteúdo inicial foi extraído dos PDFs enviados e convertido em **505 receit
 11. [Atualizar o conteúdo e publicar de novo](#11-atualizar-o-conteúdo-e-publicar-de-novo)
 12. [Relatórios: inventário, duplicatas e revisão](#12-relatórios-inventário-duplicatas-e-revisão)
 13. [Conteúdo de saúde](#13-conteúdo-de-saúde)
-14. [Acesso pago, login e área administrativa (futuro)](#14-acesso-pago-login-e-área-administrativa-futuro)
-15. [Detalhes técnicos](#15-detalhes-técnicos)
+14. [Senha de acesso (como trocar)](#14-senha-de-acesso-como-trocar)
+15. [Login individual e área administrativa (futuro)](#15-login-individual-e-área-administrativa-futuro)
+16. [Detalhes técnicos](#16-detalhes-técnicos)
 
 ---
 
 ## 1. Como executar no computador
 
 Precisa do [Node.js](https://nodejs.org) versão 20 ou mais nova.
+Copie `.env.example` para `.env.local` e defina a senha (`SITE_PASSWORD`).
 
 ```bash
 npm install      # só na primeira vez
@@ -53,13 +55,14 @@ npm start
 1. Crie um repositório no GitHub e envie este projeto (`git push`).
 2. Em [vercel.com](https://vercel.com) → **Add New → Project** → escolha o repositório → **Deploy**. Não precisa mudar nenhuma configuração.
 3. Em **Settings → Environment Variables**, adicione:
+   - `SITE_PASSWORD` = a senha de acesso das clientes (**obrigatória** — sem ela o site fica fechado).
    - `NEXT_PUBLIC_SITE_URL` = endereço final do site (ex.: `https://receitas.seudominio.com.br`). Usado nos links de compartilhamento, sitemap e SEO.
    - (opcional) `NEXT_PUBLIC_ALLOW_INDEXING` = `true` se quiser que o Google indexe as receitas. **Padrão: não indexar**, já que é um produto pago.
 4. Para usar seu domínio: **Settings → Domains**.
 
 **Depois disso**, toda vez que você enviar alterações para o GitHub (`git push`), a Vercel publica sozinha em 1–2 minutos.
 
-Custo: o plano gratuito da Vercel atende. Não há banco de dados, CMS ou API paga. As imagens já saem otimizadas do build, então não consomem a cota de otimização de imagens da Vercel.
+Custo: atenção — pelos termos atuais, o plano gratuito da Vercel é para uso **não comercial**; para vender, confira os termos ou use Cloudflare Pages/Netlify, cujos planos gratuitos permitem uso comercial. Não há banco de dados, CMS ou API paga. As imagens já saem otimizadas do build, então não consomem a cota de otimização de imagens da Vercel.
 
 ## 3. Onde fica cada coisa
 
@@ -225,26 +228,40 @@ Se o conteúdo tiver erro estrutural, o build para e mostra exatamente qual arqu
 - Cada coleção pode ter um `disclaimer`, mostrado na página da coleção e nas receitas dela. O aviso geral fica no rodapé (`site.config.ts → healthNotice`).
 - Valores nutricionais só aparecem quando existem no material, sempre identificados como aproximados quando a fonte diz isso.
 
-## 14. Acesso pago, login e área administrativa (futuro)
+## 14. Senha de acesso (como trocar)
 
-**Importante:** hoje o site é aberto. Um link "secreto" **não protege** conteúdo pago — qualquer pessoa com o link entra e pode repassá-lo.
-Por isso o site já sai com `noindex` (não aparece no Google), mas controle real de acesso exige autenticação.
+O site inteiro é protegido por **uma senha única**, a mesma para todas as clientes. Sem ela, ninguém vê páginas, fotos nem a busca — nem copiando os links. Quem entra uma vez fica conectado naquele aparelho.
 
-A arquitetura foi preparada para isso sem reconstruir o front-end:
+- A senha fica **só** na variável `SITE_PASSWORD` (na hospedagem e no arquivo `.env.local` do computador). Ela nunca vai para o GitHub.
+- Maiúsculas/minúsculas e espaços antes/depois são ignorados, para facilitar.
 
-- **Login/assinatura:** adicionar autenticação (ex.: Auth.js, Clerk ou Supabase Auth) e um `proxy.ts` (o antigo *middleware* do Next.js 16) que bloqueia `/receitas`, `/colecoes`, `/explorar` e `/search-index.json` para quem não tem acesso ativo. O pagamento pode continuar no WhatsApp: ao confirmar, você libera o e-mail/telefone da cliente.
+**Para trocar a senha** (ex.: se alguém repassou):
+
+1. Na hospedagem (Vercel: **Settings → Environment Variables**), edite `SITE_PASSWORD` e salve.
+2. Faça um novo deploy (Vercel: **Deployments → … → Redeploy**).
+3. Envie a senha nova para as clientes no WhatsApp.
+
+Na hora em que a senha muda, **todo mundo é desconectado** automaticamente e só entra de novo com a senha nova. Dica: trocar a senha periodicamente (ex.: todo mês) reduz o efeito de compartilhamentos.
+
+Como funciona: `proxy.ts` confere, antes de qualquer resposta, um cookie com a "impressão digital" (HMAC) da senha atual; a tela fica em `app/entrar/`; o botão **Sair** fica no rodapé.
+
+## 15. Login individual e área administrativa (futuro)
+
+Se um dia quiser saber quem é cada cliente (e bloquear só quem repassou o acesso), dá para trocar a senha única por login individual sem reconstruir o front-end:
+
+- **Login por cliente:** códigos de acesso por cliente ou autenticação (ex.: Supabase Auth, Auth.js), usando o mesmo `proxy.ts`. O pagamento pode continuar no WhatsApp: ao confirmar, você libera o acesso da cliente.
 - **Favoritos na conta:** `lib/storage.ts` concentra favoritos e histórico; basta trocar a implementação para sincronizar com o servidor.
 - **Banco de dados / área `/admin`:** todas as páginas leem dados só por `lib/content.ts`. Para usar banco ou CMS, reimplemente essas funções (mesmas assinaturas) e crie `/admin` com formulários para adicionar/editar receita, vídeo, imagem, coleção e categoria. O schema já está pronto em `lib/types.ts`.
 
 Esses serviços têm planos gratuitos para começar, mas podem gerar custo conforme o uso — avalie antes de tornar obrigatório.
 
-## 15. Detalhes técnicos
+## 16. Detalhes técnicos
 
 - **Next.js 16 (App Router)**, React 19, TypeScript, Tailwind CSS 4. Todas as páginas são **estáticas** (geradas no build): carregam rápido e custam quase nada.
 - **Imagens:** `scripts/images.mjs` gera WebP 480 px / 1080 px + JPG de prévia; `next/image` com loader próprio escolhe o tamanho certo, com carregamento preguiçoso e cor média como fundo enquanto carrega.
 - **Busca:** índice compacto em `/search-index.json` (~290 KB, ~45 KB comprimido), baixado só quando a pessoa abre a busca, Explorar ou Favoritos; busca sem acentos por nome, ingredientes, categorias, coleções e tags.
 - **Página inicial:** só imagens e textos; cada fileira mostra até 18 cards; vídeos nunca são carregados na home.
 - **Favoritos e "Continue explorando":** `localStorage`, apenas IDs das receitas.
-- **SEO:** metadata, canonical, Open Graph, Twitter Cards, `sitemap.xml`, `robots.txt`, manifest e **Schema.org Recipe** apenas com campos reais. Indexação desligada por padrão (`site.config.ts`).
+- **SEO:** metadata, canonical, Open Graph, Twitter Cards, `sitemap.xml`, `robots.txt`, manifest e **Schema.org Recipe** apenas com campos reais. Indexação desligada por padrão (`site.config.ts`); com a senha ativa, buscadores também não entram.
 - **Acessibilidade:** fonte base de 17 px, alto contraste, botões de no mínimo 44 px, navegação inferior no celular, foco visível, suporte a "reduzir movimento".
 - Comandos: `npm run dev`, `npm run build`, `npm run lint`, `npm run images`, `npm run validate`, `npm run import`.

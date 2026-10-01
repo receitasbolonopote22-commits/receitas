@@ -20,6 +20,7 @@ export default function Footer() {
         <Link href="/explorar" className="py-1 hover:text-saffron">Explorar</Link>
         <Link href="/colecoes" className="py-1 hover:text-saffron">Coleções</Link>
         <Link href="/favoritos" className="py-1 hover:text-saffron">Favoritos</Link>
+        <a href="/api/sair" className="py-1 text-muted hover:text-saffron">Sair</a>
       </nav>
       <p className="mx-auto mt-6 max-w-6xl text-[0.9rem] text-muted/80">© {new Date().getFullYear()} {site.name}. Acesso pessoal e intransferível.</p>
     </footer>

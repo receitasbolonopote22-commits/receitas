@@ -46,3 +46,4 @@ next-env.d.ts
 # imagens brutas extraídas dos PDFs (fonte das fotos já copiadas para content/images)
 /content/_import/images-raw/
 /content/_import/trabalho/
+!.env.example

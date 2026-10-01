@@ -1,8 +1,11 @@
 import Link from "next/link";
 import { IconArrowRight } from "@/components/Icons";
+import Header from "@/components/Header";
 
 export default function NotFound() {
   return (
+    <>
+    <Header />
     <div className="mx-auto flex min-h-[70vh] max-w-2xl flex-col justify-center px-[var(--gutter)] pt-24">
       <p className="eyebrow">Página não encontrada</p>
       <h1 className="mt-3 font-display text-5xl font-semibold leading-tight">Essa receita saiu do forno antes da hora.</h1>
@@ -12,5 +15,6 @@ export default function NotFound() {
         <Link href="/" className="btn btn-ghost">Página inicial</Link>
       </div>
     </div>
+    </>
   );
 }

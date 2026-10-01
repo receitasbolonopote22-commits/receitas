@@ -1,8 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Figtree, Fraunces } from "next/font/google";
 import "./globals.css";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
 import { site } from "@/site.config";
 
 const fraunces = Fraunces({ variable: "--font-fraunces", subsets: ["latin"], axes: ["opsz", "SOFT"], display: "swap" });
@@ -30,13 +28,7 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="pt-BR" className={`${fraunces.variable} ${figtree.variable}`}>
-      <body className="min-h-dvh">
-        <Header />
-        <main id="conteudo" className="min-h-[70vh]">
-          {children}
-        </main>
-        <Footer />
-      </body>
+      <body className="min-h-dvh">{children}</body>
     </html>
   );
 }
