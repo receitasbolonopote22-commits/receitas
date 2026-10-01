@@ -41,14 +41,36 @@ export default function ExploreClient({ categories, collections, total }: { cate
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [q]);
 
-  const list = useMemo(() => {
+  // Base: busca + todos os filtros, exceto o que está sendo calculado (para contar as opções disponíveis)
+  const base = useMemo(() => {
     if (!data) return null;
-    let l = qParam.trim() ? searchRecipes(data, qParam) : [...data].sort((a, b) => Number(!!b.img) - Number(!!a.img) || a.title.localeCompare(b.title, "pt-BR"));
-    if (categoria) l = l.filter((r) => r.categories.includes(categoria));
-    if (colecao) l = l.filter((r) => r.collections.includes(colecao));
-    if (tempo) l = l.filter((r) => r.time != null && r.time <= tempo);
-    return l;
-  }, [data, qParam, categoria, colecao, tempo]);
+    return qParam.trim() ? searchRecipes(data, qParam) : [...data].sort((a, b) => Number(!!b.img) - Number(!!a.img) || a.title.localeCompare(b.title, "pt-BR"));
+  }, [data, qParam]);
+  type R = NonNullable<typeof base>[number];
+  const byCat = (r: R) => !categoria || r.categories.includes(categoria);
+  const byCol = (r: R) => !colecao || r.collections.includes(colecao);
+  const byTime = (r: R) => !tempo || (r.time != null && r.time <= tempo);
+
+  const list = useMemo(() => base?.filter((r) => byCat(r) && byCol(r) && byTime(r)) ?? null,
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [base, categoria, colecao, tempo]);
+
+  // Quantas receitas cada opção teria com os outros filtros aplicados — opções sem receitas somem
+  const counts = useMemo(() => {
+    const cat = new Map<string, number>(), col = new Map<string, number>();
+    let quick = 0;
+    for (const r of base ?? []) {
+      if (byCol(r) && byTime(r)) for (const c of r.categories) cat.set(c, (cat.get(c) ?? 0) + 1);
+      if (byCat(r) && byTime(r)) for (const c of r.collections) col.set(c, (col.get(c) ?? 0) + 1);
+      if (byCat(r) && byCol(r) && r.time != null && r.time <= 20) quick++;
+    }
+    return { cat, col, quick };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [base, categoria, colecao, tempo]);
+  const ready = !!base;
+  const catOpts = categories.filter((c) => !ready || (counts.cat.get(c.slug) ?? 0) > 0 || c.slug === categoria);
+  const colOpts = collections.filter((c) => !ready || (counts.col.get(c.slug) ?? 0) > 0 || c.slug === colecao);
+  const n = (v: number | undefined) => (ready ? <span className="opacity-60 font-medium">{v ?? 0}</span> : null);
 
   useEffect(() => {
     const el = sentinel.current;
@@ -83,19 +105,21 @@ export default function ExploreClient({ categories, collections, total }: { cate
         <button type="button" className="chip" aria-pressed={!categoria} onClick={() => setParam({ categoria: null })}>
           Todas
         </button>
-        {categories.map((c) => (
+        {catOpts.map((c) => (
           <button key={c.slug} type="button" className="chip" aria-pressed={categoria === c.slug} onClick={() => setParam({ categoria: categoria === c.slug ? null : c.slug })}>
-            <span aria-hidden>{c.emoji}</span> {c.name}
+            <span aria-hidden>{c.emoji}</span> {c.name} {n(counts.cat.get(c.slug))}
           </button>
         ))}
       </div>
       <div className="row-scroller mt-1 !gap-2 !py-1" style={{ gridAutoColumns: "max-content" }} role="group" aria-label="Mais filtros">
-        <button type="button" className="chip" aria-pressed={tempo === 20} onClick={() => setParam({ tempo: tempo === 20 ? null : 20 })}>
-          ⚡ Rápidas (até 20 min)
-        </button>
-        {collections.map((c) => (
+        {(!ready || counts.quick > 0 || tempo === 20) && (
+          <button type="button" className="chip" aria-pressed={tempo === 20} onClick={() => setParam({ tempo: tempo === 20 ? null : 20 })}>
+            ⚡ Rápidas (até 20 min) {n(counts.quick)}
+          </button>
+        )}
+        {colOpts.map((c) => (
           <button key={c.slug} type="button" className="chip" aria-pressed={colecao === c.slug} onClick={() => setParam({ colecao: colecao === c.slug ? null : c.slug })}>
-            {c.name}
+            {c.name} {n(counts.col.get(c.slug))}
           </button>
         ))}
       </div>
